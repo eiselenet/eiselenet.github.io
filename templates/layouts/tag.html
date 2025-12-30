@@ -1,0 +1,18 @@
+---
+layout: page
+paginate: true
+tagging: posts
+---
+
+{@io.quarkiverse.roq.frontmatter.runtime.model.NormalPage page}
+
+
+<div class="posts-wrapper">
+
+{#for post in site.collections.get(page.data.tagCollection).paginated(page.paginator)}
+{#postCard post site/}
+{/for}
+
+</div>
+
+{#include partials/posts-paginator/}

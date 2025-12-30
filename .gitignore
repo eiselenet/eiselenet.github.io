@@ -1,0 +1,9 @@
+.github/
+ROQSITE_INSTRUCTIONS.md
+migration_plan.md
+mvnw.cmd
+old_blog/
+.DS_Store
+.vscode/
+node_modules/
+target/
