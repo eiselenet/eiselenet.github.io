@@ -3,7 +3,8 @@ title: "The Heroes of Java"
 date: 2011-09-07 09:29:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes"]
-slug: "2011-09-07-heroes-of-java"
+slug: "heroes-of-java"
+link: "2011/09/heroes-of-java.html"
 url: /2011/09/heroes-of-java.html
 ---
 

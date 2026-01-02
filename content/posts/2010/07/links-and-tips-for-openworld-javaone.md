@@ -3,7 +3,8 @@ title: "Links and Tips for OpenWorld, JavaOne and OracleDevelop 2010"
 date: 2010-07-21 05:25:00 +0000
 layout: post
 tags: ["OOW10", "java one", "j1"]
-slug: "2010-07-21-links-and-tips-for-openworld-javaone"
+slug: "links-and-tips-for-openworld-javaone"
+link: "2010/07/links-and-tips-for-openworld-javaone.html"
 url: /2010/07/links-and-tips-for-openworld-javaone.html
 ---
 

@@ -3,7 +3,8 @@ title: "I'm speaking at Jfokus 2012, 13th-15th February 2012 in Stockholm"
 date: 2011-11-28 09:16:00 +0000
 layout: post
 tags: ["java7", "enterprise", "Jfokus"]
-slug: "2011-11-28-im-speaking-at-jfokus-2012-13th-15th"
+slug: "im-speaking-at-jfokus-2012-13th-15th"
+link: "2011/11/im-speaking-at-jfokus-2012-13th-15th.html"
 url: /2011/11/im-speaking-at-jfokus-2012-13th-15th.html
 ---
 

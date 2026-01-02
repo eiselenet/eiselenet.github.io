@@ -3,7 +3,8 @@ title: "Oracle Workshop's Support for Java EE 5 Web Standards"
 date: 2008-08-23 16:31:00 +0000
 layout: post
 tags: ["bea oracle", "weblogic workshop"]
-slug: "2008-08-23-oracle-workshops-support-for-java-ee-5"
+slug: "oracle-workshops-support-for-java-ee-5"
+link: "2008/08/oracle-workshops-support-for-java-ee-5.html"
 url: /2008/08/oracle-workshops-support-for-java-ee-5.html
 ---
 

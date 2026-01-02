@@ -3,7 +3,8 @@ title: "Blog redesign - and some thoughts."
 date: 2011-05-16 07:37:00 +0000
 layout: post
 tags: ["personal", "redesign", "blog"]
-slug: "2011-05-16-blog-redesign-and-some-thoughts"
+slug: "blog-redesign-and-some-thoughts"
+link: "2011/05/blog-redesign-and-some-thoughts.html"
 url: /2011/05/blog-redesign-and-some-thoughts.html
 ---
 

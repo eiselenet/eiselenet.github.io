@@ -3,7 +3,8 @@ title: "Updated Oracle WebLogic Server 12.1.1.0 distribution"
 date: 2012-03-19 10:22:00 +0000
 layout: post
 tags: ["weblogic", "update", "distribution"]
-slug: "2012-03-19-updated-oracle-weblogic-server-12110"
+slug: "updated-oracle-weblogic-server-12110"
+link: "2012/03/updated-oracle-weblogic-server-12110.html"
 url: /2012/03/updated-oracle-weblogic-server-12110.html
 ---
 

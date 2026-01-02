@@ -3,7 +3,8 @@ title: "msg systems und Whitestein Technologies vereinbaren strategische Partner
 date: 2008-02-19 16:04:00 +0000
 layout: post
 tags: ["msg systems ag", "arbeitgeber", "it architecture", "whitestein", "softwareentwicklung"]
-slug: "2008-02-19-msg-systems-und-whitestein-technologies"
+slug: "msg-systems-und-whitestein-technologies"
+link: "2008/02/msg-systems-und-whitestein-technologies.html"
 url: /2008/02/msg-systems-und-whitestein-technologies.html
 ---
 

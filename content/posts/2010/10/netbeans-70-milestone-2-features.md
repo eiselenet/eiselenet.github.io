@@ -3,7 +3,8 @@ title: "NetBeans 7.0 Milestone 2 features WebLogic Server Support"
 date: 2010-10-18 13:35:00 +0000
 layout: post
 tags: ["weblogic", "netbeans"]
-slug: "2010-10-18-netbeans-70-milestone-2-features"
+slug: "netbeans-70-milestone-2-features"
+link: "2010/10/netbeans-70-milestone-2-features.html"
 url: /2010/10/netbeans-70-milestone-2-features.html
 ---
 

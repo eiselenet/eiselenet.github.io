@@ -3,7 +3,8 @@ title: "I'm speaking at JDK.IO 2015, 19 - 20 January in Copenhagen, Denmark"
 date: 2014-12-22 11:00:00 +0000
 layout: post
 tags: ["JDK.IO", "conference"]
-slug: "2014-12-22-redhat-jboss-at-jdkio-2015"
+slug: "redhat-jboss-at-jdkio-2015"
+link: "2014/12/redhat-jboss-at-jdkio-2015.html"
 url: /2014/12/redhat-jboss-at-jdkio-2015.html
 ---
 

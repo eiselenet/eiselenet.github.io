@@ -3,7 +3,8 @@ title: "Grails with Glassfish v3 Prelude"
 date: 2009-01-19 08:00:00 +0000
 layout: post
 tags: ["glassfish", "prelude", "grails", "v3", "howto"]
-slug: "2009-01-19-grails-with-glassfish-v3-prelude"
+slug: "grails-with-glassfish-v3-prelude"
+link: "2009/01/grails-with-glassfish-v3-prelude.html"
 url: /2009/01/grails-with-glassfish-v3-prelude.html
 ---
 

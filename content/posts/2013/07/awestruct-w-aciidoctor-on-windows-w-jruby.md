@@ -3,7 +3,8 @@ title: "Running Awestruct with Asciidoc on Windows with JRuby"
 date: 2013-07-05 08:22:00 +0000
 layout: post
 tags: ["asciidoc", "Awestruct", "JRuby"]
-slug: "2013-07-05-awestruct-w-aciidoctor-on-windows-w-jruby"
+slug: "awestruct-w-aciidoctor-on-windows-w-jruby"
+link: "2013/07/awestruct-w-aciidoctor-on-windows-w-jruby.html"
 url: /2013/07/awestruct-w-aciidoctor-on-windows-w-jruby.html
 ---
 

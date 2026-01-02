@@ -3,7 +3,8 @@ title: "Article in german iX Magazin (03/2010)"
 date: 2010-02-23 10:28:00 +0000
 layout: post
 tags: ["article", "ix"]
-slug: "2010-02-23-article-in-german-ix-magazin-032010"
+slug: "article-in-german-ix-magazin-032010"
+link: "2010/02/article-in-german-ix-magazin-032010.html"
 url: /2010/02/article-in-german-ix-magazin-032010.html
 ---
 

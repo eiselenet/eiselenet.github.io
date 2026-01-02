@@ -3,7 +3,8 @@ title: "iPaaS Data Virtualization in Practice - What is it good for?"
 date: 2014-09-03 08:05:00 +0000
 layout: post
 tags: [""]
-slug: "2014-09-03-ipaas-data-virtualization-in-practice"
+slug: "ipaas-data-virtualization-in-practice"
+link: "2014/09/ipaas-data-virtualization-in-practice.html"
 url: /2014/09/ipaas-data-virtualization-in-practice.html
 ---
 

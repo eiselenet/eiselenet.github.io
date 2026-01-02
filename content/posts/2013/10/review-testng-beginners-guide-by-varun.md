@@ -3,7 +3,8 @@ title: "Review: \"TestNG Beginner's Guide\" by Varun Menon"
 date: 2013-10-23 09:18:00 +0000
 layout: post
 tags: ["packtpub", "testng", "review"]
-slug: "2013-10-23-review-testng-beginners-guide-by-varun"
+slug: "review-testng-beginners-guide-by-varun"
+link: "2013/10/review-testng-beginners-guide-by-varun.html"
 url: /2013/10/review-testng-beginners-guide-by-varun.html
 ---
 

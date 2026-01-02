@@ -3,7 +3,8 @@ title: "Kscope 11 - Day 4 to 6 and a wrap up."
 date: 2011-07-04 04:57:00 +0000
 layout: post
 tags: ["odtug", "Kscope"]
-slug: "2011-07-04-kscope-11-day-4-to-6-and-wrap-up"
+slug: "kscope-11-day-4-to-6-and-wrap-up"
+link: "2011/07/kscope-11-day-4-to-6-and-wrap-up.html"
 url: /2011/07/kscope-11-day-4-to-6-and-wrap-up.html
 ---
 

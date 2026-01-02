@@ -3,7 +3,8 @@ title: "Business requirements are bullshit!"
 date: 2008-08-15 06:27:00 +0000
 layout: post
 tags: ["anforderungsanalyse"]
-slug: "2008-08-15-business-requirements-are-bullshit"
+slug: "business-requirements-are-bullshit"
+link: "2008/08/business-requirements-are-bullshit.html"
 url: /2008/08/business-requirements-are-bullshit.html
 ---
 

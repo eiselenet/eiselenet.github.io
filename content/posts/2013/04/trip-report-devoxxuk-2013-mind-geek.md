@@ -3,7 +3,8 @@ title: "Trip-Report DevoxxUK 2013 - Mind the Geek"
 date: 2013-04-01 08:51:00 +0000
 layout: post
 tags: ["conference", "devoxxuk"]
-slug: "2013-04-01-trip-report-devoxxuk-2013-mind-geek"
+slug: "trip-report-devoxxuk-2013-mind-geek"
+link: "2013/04/trip-report-devoxxuk-2013-mind-geek.html"
 url: /2013/04/trip-report-devoxxuk-2013-mind-geek.html
 ---
 

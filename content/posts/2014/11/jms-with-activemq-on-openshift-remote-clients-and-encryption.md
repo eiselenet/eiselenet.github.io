@@ -3,7 +3,8 @@ title: "JMS with JBoss A-MQ on OpenShift. Lessons learned about remote Clients a
 date: 2014-11-25 12:00:00 +0000
 layout: post
 tags: ["JMS", "Openshift", "wildfly", "ActiveMQ", "Jboss"]
-slug: "2014-11-25-jms-with-activemq-on-openshift-remote-clients-and-encryption"
+slug: "jms-with-activemq-on-openshift-remote-clients-and-encryption"
+link: "2014/11/jms-with-activemq-on-openshift-remote-clients-and-encryption.html"
 url: /2014/11/jms-with-activemq-on-openshift-remote-clients-and-encryption.html
 ---
 

@@ -3,7 +3,8 @@ title: "I am nominated for the 2012 JBoss Community Recognition Award"
 date: 2012-04-05 05:00:00 +0000
 layout: post
 tags: ["jbcra", "Arquillian", "Jboss", "documentation"]
-slug: "2012-04-05-i-am-nominated-for-2012-jboss-community"
+slug: "i-am-nominated-for-2012-jboss-community"
+link: "2012/04/i-am-nominated-for-2012-jboss-community.html"
 url: /2012/04/i-am-nominated-for-2012-jboss-community.html
 ---
 

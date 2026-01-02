@@ -3,7 +3,8 @@ title: "#Maven: The Definitive Guide"
 date: 2009-09-08 10:05:00 +0000
 layout: post
 tags: ["books", "sonartype", "guide", "maven"]
-slug: "2009-09-08-maven-definitive-guide"
+slug: "maven-definitive-guide"
+link: "2009/09/maven-definitive-guide.html"
 url: /2009/09/maven-definitive-guide.html
 ---
 

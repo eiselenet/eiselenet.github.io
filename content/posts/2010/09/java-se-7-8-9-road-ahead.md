@@ -3,7 +3,8 @@ title: "Java SE 7, 8, 9 - The Road Ahead"
 date: 2010-09-30 04:57:00 +0000
 layout: post
 tags: ["java SE 7", "Java SE 8", "javaone10"]
-slug: "2010-09-30-java-se-7-8-9-road-ahead"
+slug: "java-se-7-8-9-road-ahead"
+link: "2010/09/java-se-7-8-9-road-ahead.html"
 url: /2010/09/java-se-7-8-9-road-ahead.html
 ---
 

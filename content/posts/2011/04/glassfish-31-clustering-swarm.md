@@ -3,7 +3,8 @@ title: "GlassFish 3.1 clustering - Swarm intelligence - New Article in German iX
 date: 2011-04-28 09:40:00 +0000
 layout: post
 tags: ["glassfish", "article"]
-slug: "2011-04-28-glassfish-31-clustering-swarm"
+slug: "glassfish-31-clustering-swarm"
+link: "2011/04/glassfish-31-clustering-swarm.html"
 url: /2011/04/glassfish-31-clustering-swarm.html
 ---
 

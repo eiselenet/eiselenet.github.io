@@ -3,7 +3,8 @@ title: "My Doag 2011 Slides"
 date: 2011-11-16 12:13:00 +0000
 layout: post
 tags: ["jpa", "slides", "javaee7", "doag2011", "Coherence"]
-slug: "2011-11-16-my-doag-2011-slides"
+slug: "my-doag-2011-slides"
+link: "2011/11/my-doag-2011-slides.html"
 url: /2011/11/my-doag-2011-slides.html
 ---
 

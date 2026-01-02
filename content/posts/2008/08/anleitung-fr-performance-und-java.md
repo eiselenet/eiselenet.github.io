@@ -3,7 +3,8 @@ title: "Anleitung für Performance und Java Runtime Monitoring"
 date: 2008-08-15 05:37:00 +0000
 layout: post
 tags: ["java", "performance", "softwareentwicklung"]
-slug: "2008-08-15-anleitung-fr-performance-und-java"
+slug: "anleitung-fr-performance-und-java"
+link: "2008/08/anleitung-fr-performance-und-java.html"
 url: /2008/08/anleitung-fr-performance-und-java.html
 ---
 

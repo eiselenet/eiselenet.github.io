@@ -109,7 +109,16 @@ public class Migration implements Callable<Integer> {
         String fmDate = FRONT_MATTER_DATE_FORMATTER.format(pubInstant.atZone(ZoneId.of("UTC")));
 
         // Extract slug from /2008/01/enterprise-ajax.html -> enterprise-ajax
-        String slug = originalPath.substring(originalPath.lastIndexOf('/') + 1).replace(".html", "");
+        String filename = originalPath.substring(originalPath.lastIndexOf('/') + 1);
+        String slug = filename;
+        String extension = "";
+        
+        // Extract extension if present
+        int lastDot = filename.lastIndexOf('.');
+        if (lastDot > 0) {
+            extension = filename.substring(lastDot);
+            slug = filename.substring(0, lastDot);
+        }
 
         // Target Directory: content/posts/{YYYY}/{MM}/
         String year = dirDate.substring(0, 4);
@@ -148,7 +157,8 @@ public class Migration implements Callable<Integer> {
                     .collect(Collectors.joining(", "));
             sb.append("tags: [").append(quotedTags).append("]\n");
         }
-        sb.append("slug: \"").append(dirDate).append("-").append(slug).append("\"\n");
+        sb.append("slug: \"").append(slug).append("\"\n");
+        sb.append("link: \"").append(year).append("/").append(month).append("/").append(slug).append(extension).append("\"\n");
         sb.append("url: ").append(originalPath).append("\n");
         sb.append("---\n\n");
         sb.append(processedContent);
@@ -168,25 +178,34 @@ public class Migration implements Callable<Integer> {
 
         // Extract filename from URL (take the last part)
         // e.g. http://..../s320/nb-7-beta.jpg -> nb-7-beta.jpg
-        String filename = getFilenameFromUrl(url);
+        String originalFilename = getFilenameFromUrl(url);
 
-        // Check if exists in old_loop/images
-        Path sourceImg = imagesDir.resolve(filename);
+        // Normalize filename to avoid issues with spaces and special characters
+        String normalizedFilename = normalizeFilename(originalFilename);
+
+        // Check if exists in old_blog/images (try both original and normalized)
+        Path sourceImg = imagesDir.resolve(originalFilename);
+        if (!Files.exists(sourceImg)) {
+            // Try normalized name in case it was already normalized
+            sourceImg = imagesDir.resolve(normalizedFilename);
+        }
+
         if (Files.exists(sourceImg)) {
-            // Copy to target dir
-            Path targetImg = targetDir.resolve(filename);
+            // Copy to target dir with normalized name
+            Path targetImg = targetDir.resolve(normalizedFilename);
             if (!Files.exists(targetImg)) {
                 Files.copy(sourceImg, targetImg, StandardCopyOption.REPLACE_EXISTING);
-                // System.out.println("Copied image: " + filename);
+                // System.out.println("Copied image: " + originalFilename + " -> " + normalizedFilename);
             }
 
-            // Update attribute to be local
-            element.attr(attr, filename);
+            // Update attribute to use normalized filename
+            element.attr(attr, normalizedFilename);
         } else {
             // Debug logging
-            if (filename.contains("Screenshot")) {
-                System.out.println("DEBUG: Image not found: '" + filename + "' derived from URL: " + url);
-                System.out.println("DEBUG: Checked path: " + sourceImg.toAbsolutePath());
+            if (originalFilename.contains("Screenshot")) {
+                System.out.println("DEBUG: Image not found: '" + originalFilename + "' derived from URL: " + url);
+                System.out.println("DEBUG: Checked paths: " + imagesDir.resolve(originalFilename).toAbsolutePath() + 
+                                   " and " + imagesDir.resolve(normalizedFilename).toAbsolutePath());
             }
         }
     }
@@ -197,6 +216,21 @@ public class Migration implements Callable<Integer> {
             filename = url.substring(url.lastIndexOf('/') + 1);
         }
         return java.net.URLDecoder.decode(filename, java.nio.charset.StandardCharsets.UTF_8);
+    }
+
+    private String normalizeFilename(String filename) {
+        // Replace spaces with hyphens
+        String normalized = filename.replace(" ", "-");
+        // Replace other problematic characters
+        normalized = normalized.replace("%20", "-"); // URL-encoded spaces
+        normalized = normalized.replace("%", "-"); // Other URL encoding
+        // Remove or replace other special characters that might cause issues
+        normalized = normalized.replaceAll("[^a-zA-Z0-9._-]", "-");
+        // Collapse multiple consecutive hyphens
+        normalized = normalized.replaceAll("-+", "-");
+        // Remove leading/trailing hyphens
+        normalized = normalized.replaceAll("^-+|-+$", "");
+        return normalized;
     }
 
     private String getTagValue(Element parent, String tagName) {

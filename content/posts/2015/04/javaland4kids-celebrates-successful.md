@@ -3,7 +3,8 @@ title: "JavaLand4Kids Celebrates Successful Premiere and Thrills Tomorrow's Litt
 date: 2015-04-02 11:24:00 +0000
 layout: post
 tags: ["JavaLand", "JavaLand4Kids"]
-slug: "2015-04-02-javaland4kids-celebrates-successful"
+slug: "javaland4kids-celebrates-successful"
+link: "2015/04/javaland4kids-celebrates-successful.html"
 url: /2015/04/javaland4kids-celebrates-successful.html
 ---
 

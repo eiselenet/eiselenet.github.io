@@ -3,7 +3,8 @@ title: "Maven Repository Manager Nexus"
 date: 2008-07-21 04:30:00 +0000
 layout: post
 tags: ["softwareentwicklung", "maven"]
-slug: "2008-07-21-maven-repository-manager-nexus"
+slug: "maven-repository-manager-nexus"
+link: "2008/07/maven-repository-manager-nexus.html"
 url: /2008/07/maven-repository-manager-nexus.html
 ---
 

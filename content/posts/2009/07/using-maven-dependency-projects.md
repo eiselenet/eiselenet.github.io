@@ -3,7 +3,8 @@ title: "Using Maven Dependency Projects"
 date: 2009-07-24 06:17:00 +0000
 layout: post
 tags: ["Java EE", "jee", "maven", "dependency projects", "example"]
-slug: "2009-07-24-using-maven-dependency-projects"
+slug: "using-maven-dependency-projects"
+link: "2009/07/using-maven-dependency-projects.html"
 url: /2009/07/using-maven-dependency-projects.html
 ---
 

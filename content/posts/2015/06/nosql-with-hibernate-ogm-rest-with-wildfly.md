@@ -3,7 +3,8 @@ title: "NoSQL with Hibernate OGM - Part three: Building a REST application on Wi
 date: 2015-06-03 11:00:00 +0000
 layout: post
 tags: ["wildfly", "tutorial", "Jboss", "HibernateOGM"]
-slug: "2015-06-03-nosql-with-hibernate-ogm-rest-with-wildfly"
+slug: "nosql-with-hibernate-ogm-rest-with-wildfly"
+link: "2015/06/nosql-with-hibernate-ogm-rest-with-wildfly.html"
 url: /2015/06/nosql-with-hibernate-ogm-rest-with-wildfly.html
 ---
 

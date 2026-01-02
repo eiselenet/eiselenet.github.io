@@ -3,7 +3,8 @@ title: "Featured ACE on Arch2Arch"
 date: 2010-03-22 06:10:00 +0000
 layout: post
 tags: ["arch2arch", "oracle", "ACED", "architecture"]
-slug: "2010-03-22-featured-ace-on-arch2arch"
+slug: "featured-ace-on-arch2arch"
+link: "2010/03/featured-ace-on-arch2arch.html"
 url: /2010/03/featured-ace-on-arch2arch.html
 ---
 

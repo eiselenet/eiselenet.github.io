@@ -3,7 +3,8 @@ title: "Developing Reactive Microservices with Java - My new free mini-book!"
 date: 2016-05-11 18:26:00 +0000
 layout: post
 tags: ["ebook", "O'Reilly", "microservices"]
-slug: "2016-05-11-developing-reactive-microservices-with"
+slug: "developing-reactive-microservices-with"
+link: "2016/05/developing-reactive-microservices-with.html"
 url: /2016/05/developing-reactive-microservices-with.html
 ---
 

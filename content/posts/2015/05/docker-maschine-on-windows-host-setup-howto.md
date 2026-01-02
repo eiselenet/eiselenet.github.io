@@ -3,7 +3,8 @@ title: "Docker Machine on Windows - How To Setup You Hosts"
 date: 2015-05-06 10:00:00 +0000
 layout: post
 tags: ["Windows", "Docker", "Machine"]
-slug: "2015-05-06-docker-maschine-on-windows-host-setup-howto"
+slug: "docker-maschine-on-windows-host-setup-howto"
+link: "2015/05/docker-maschine-on-windows-host-setup-howto.html"
 url: /2015/05/docker-maschine-on-windows-host-setup-howto.html
 ---
 

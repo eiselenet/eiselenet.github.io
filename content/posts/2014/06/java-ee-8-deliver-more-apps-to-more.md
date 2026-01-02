@@ -3,7 +3,8 @@ title: "Java EE 8 - Deliver More Apps to More Devices"
 date: 2014-06-24 08:35:00 +0000
 layout: post
 tags: ["JavaEE8", "IoT"]
-slug: "2014-06-24-java-ee-8-deliver-more-apps-to-more"
+slug: "java-ee-8-deliver-more-apps-to-more"
+link: "2014/06/java-ee-8-deliver-more-apps-to-more.html"
 url: /2014/06/java-ee-8-deliver-more-apps-to-more.html
 ---
 

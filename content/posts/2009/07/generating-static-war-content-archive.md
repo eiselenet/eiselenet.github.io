@@ -3,7 +3,8 @@ title: "Generating Static WAR Content Archive with Maven"
 date: 2009-07-21 06:48:00 +0000
 layout: post
 tags: ["Java EE", "static content", "Web", "maven", "jee", "example"]
-slug: "2009-07-21-generating-static-war-content-archive"
+slug: "generating-static-war-content-archive"
+link: "2009/07/generating-static-war-content-archive.html"
 url: /2009/07/generating-static-war-content-archive.html
 ---
 

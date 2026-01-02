@@ -3,7 +3,8 @@ title: "Java Enterprise Edition 6: The Most Elegant Enterprise Java"
 date: 2011-08-22 03:59:00 +0000
 layout: post
 tags: ["refcard", "javaee6"]
-slug: "2011-08-22-java-enterprise-edition-6-most-elegant"
+slug: "java-enterprise-edition-6-most-elegant"
+link: "2011/08/java-enterprise-edition-6-most-elegant.html"
 url: /2011/08/java-enterprise-edition-6-most-elegant.html
 ---
 

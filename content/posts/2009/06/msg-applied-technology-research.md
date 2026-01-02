@@ -3,7 +3,8 @@ title: "msg Applied Technology Research"
 date: 2009-06-25 11:57:00 +0000
 layout: post
 tags: ["msg systems ag", "msg Applied Technology Research"]
-slug: "2009-06-25-msg-applied-technology-research"
+slug: "msg-applied-technology-research"
+link: "2009/06/msg-applied-technology-research.html"
 url: /2009/06/msg-applied-technology-research.html
 ---
 

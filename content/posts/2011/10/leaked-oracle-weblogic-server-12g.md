@@ -3,7 +3,8 @@ title: "Leaked: Oracle WebLogic Server 12g"
 date: 2011-10-11 11:13:00 +0000
 layout: post
 tags: ["oracle", "Java EE 6", "12g", "weblogic", "CDI", "leaked"]
-slug: "2011-10-11-leaked-oracle-weblogic-server-12g"
+slug: "leaked-oracle-weblogic-server-12g"
+link: "2011/10/leaked-oracle-weblogic-server-12g.html"
 url: /2011/10/leaked-oracle-weblogic-server-12g.html
 ---
 

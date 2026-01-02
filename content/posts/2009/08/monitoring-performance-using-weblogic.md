@@ -3,7 +3,8 @@ title: "Monitoring Performance Using the WebLogic Diagnostics Framework"
 date: 2009-08-27 04:53:00 +0000
 layout: post
 tags: ["performance", "monitoring", "weblogic server", "11g"]
-slug: "2009-08-27-monitoring-performance-using-weblogic"
+slug: "monitoring-performance-using-weblogic"
+link: "2009/08/monitoring-performance-using-weblogic.html"
 url: /2009/08/monitoring-performance-using-weblogic.html
 ---
 

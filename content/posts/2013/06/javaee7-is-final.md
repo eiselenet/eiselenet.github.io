@@ -3,7 +3,8 @@ title: "Java EE 7 is final. Thoughts, Insights and further Pointers."
 date: 2013-06-04 06:47:00 +0000
 layout: post
 tags: ["javaee7"]
-slug: "2013-06-04-javaee7-is-final"
+slug: "javaee7-is-final"
+link: "2013/06/javaee7-is-final.html"
 url: /2013/06/javaee7-is-final.html
 ---
 
@@ -248,7 +249,7 @@ It took us a little less than three years to get the next <a href="http://www.jc
    <td>Java Management Extensions (JMX)</td>
    <td>255</td>
    <td>2.0</td>
-   <td><a href="http://openjdk.java.net/groups/jmx/%E2%80%8E" target="_blank">openjdk</a></td>
+   <td><a href="" target="_blank">openjdk</a></td>
   </tr>
   <tr>
    <td>JavaBeans Activation Framework (JAF)</td>
@@ -260,7 +261,7 @@ It took us a little less than three years to get the next <a href="http://www.jc
    <td>Streaming API for XML (StAX)</td>
    <td>173</td>
    <td>1.0</td>
-   <td><a href="http://sjsxp.java.net/%E2%80%8E" target="_blank">sjsxp</a></td>
+   <td><a href="" target="_blank">sjsxp</a></td>
   </tr>
   <tr>
    <td>Java Authentication and Authorization Service (JAAS)</td>
@@ -278,7 +279,7 @@ It took us a little less than three years to get the next <a href="http://www.jc
    <td>Batch Applications for the Java Platform</td>
    <td>352</td>
    <td>1.0</td>
-   <td><a href="http://jbatch.java.net/%E2%80%8E" target="_blank">jbatch</a></td>
+   <td><a href="" target="_blank">jbatch</a></td>
   </tr>
   <tr>
    <td>Java API for JSON Processing</td>

@@ -3,7 +3,8 @@ title: "Loadbalancing with Undertow on EAP 7"
 date: 2015-12-01 10:50:00 +0000
 layout: post
 tags: [""]
-slug: "2015-12-01-loadbalancing-with-undertow-on-eap-7"
+slug: "loadbalancing-with-undertow-on-eap-7"
+link: "2015/12/loadbalancing-with-undertow-on-eap-7.html"
 url: /2015/12/loadbalancing-with-undertow-on-eap-7.html
 ---
 

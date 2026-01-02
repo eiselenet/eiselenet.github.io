@@ -3,7 +3,8 @@ title: "One thing you did not know about Java EE class loading in GlassFish 2.x"
 date: 2010-12-15 10:10:00 +0000
 layout: post
 tags: ["migration", "class-loading", "glassfish"]
-slug: "2010-12-15-one-thing-you-did-not-know-about-java"
+slug: "one-thing-you-did-not-know-about-java"
+link: "2010/12/one-thing-you-did-not-know-about-java.html"
 url: /2010/12/one-thing-you-did-not-know-about-java.html
 ---
 

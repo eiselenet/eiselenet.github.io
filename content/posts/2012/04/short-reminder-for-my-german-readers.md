@@ -3,7 +3,8 @@ title: "German Article about Arquillian."
 date: 2012-04-17 06:29:00 +0000
 layout: post
 tags: ["german", "Arquillian", "article", "heise"]
-slug: "2012-04-17-short-reminder-for-my-german-readers"
+slug: "short-reminder-for-my-german-readers"
+link: "2012/04/short-reminder-for-my-german-readers.html"
 url: /2012/04/short-reminder-for-my-german-readers.html
 ---
 

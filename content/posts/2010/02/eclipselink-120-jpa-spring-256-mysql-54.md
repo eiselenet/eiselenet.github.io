@@ -3,7 +3,8 @@ title: "Eclipselink 1.2.0 JPA, Spring 2.5.6, MySQL 5.4, JTA and Oracle WebLogic 
 date: 2010-02-20 08:49:00 +0000
 layout: post
 tags: ["jpa", "mysql", "jta", "EclipseLink", "weblogic server"]
-slug: "2010-02-20-eclipselink-120-jpa-spring-256-mysql-54"
+slug: "eclipselink-120-jpa-spring-256-mysql-54"
+link: "2010/02/eclipselink-120-jpa-spring-256-mysql-54.html"
 url: /2010/02/eclipselink-120-jpa-spring-256-mysql-54.html
 ---
 

@@ -3,7 +3,8 @@ title: "New Article in German Java Aktuell (iJUG) about Java 7"
 date: 2011-09-02 06:14:00 +0000
 layout: post
 tags: ["ijug", "article", "java7"]
-slug: "2011-09-02-new-article-in-german-java-aktuell-ijug"
+slug: "new-article-in-german-java-aktuell-ijug"
+link: "2011/09/new-article-in-german-java-aktuell-ijug.html"
 url: /2011/09/new-article-in-german-java-aktuell-ijug.html
 ---
 

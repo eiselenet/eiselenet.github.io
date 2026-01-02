@@ -3,7 +3,8 @@ title: "Microsofts Future Vision"
 date: 2009-03-03 08:45:00 +0000
 layout: post
 tags: ["emerging technologies", "future vision", "microsoft"]
-slug: "2009-03-03-microsofts-future-vision"
+slug: "microsofts-future-vision"
+link: "2009/03/microsofts-future-vision.html"
 url: /2009/03/microsofts-future-vision.html
 ---
 

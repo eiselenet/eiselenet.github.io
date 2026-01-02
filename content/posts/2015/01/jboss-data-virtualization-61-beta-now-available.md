@@ -3,7 +3,8 @@ title: "JBoss Data Virtualization 6.1 Beta Now Available"
 date: 2015-01-09 11:00:00 +0000
 layout: post
 tags: ["JDV", "Jboss", "DataVirtualization"]
-slug: "2015-01-09-jboss-data-virtualization-61-beta-now-available"
+slug: "jboss-data-virtualization-61-beta-now-available"
+link: "2015/01/jboss-data-virtualization-61-beta-now-available.html"
 url: /2015/01/jboss-data-virtualization-61-beta-now-available.html
 ---
 

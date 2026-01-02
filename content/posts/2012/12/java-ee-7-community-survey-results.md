@@ -3,7 +3,8 @@ title: "Java EE 7 Community Survey Results!"
 date: 2012-12-14 09:02:00 +0000
 layout: post
 tags: ["survey", "javaee7", "results"]
-slug: "2012-12-14-java-ee-7-community-survey-results"
+slug: "java-ee-7-community-survey-results"
+link: "2012/12/java-ee-7-community-survey-results.html"
 url: /2012/12/java-ee-7-community-survey-results.html
 ---
 

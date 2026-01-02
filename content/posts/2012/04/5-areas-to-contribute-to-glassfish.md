@@ -3,7 +3,8 @@ title: "5 Ways to Contribute to GlassFish without being a Programming Genius"
 date: 2012-04-05 08:09:00 +0000
 layout: post
 tags: ["contribute", "glassfish", "javaee"]
-slug: "2012-04-05-5-areas-to-contribute-to-glassfish"
+slug: "5-areas-to-contribute-to-glassfish"
+link: "2012/04/5-areas-to-contribute-to-glassfish.html"
 url: /2012/04/5-areas-to-contribute-to-glassfish.html
 ---
 

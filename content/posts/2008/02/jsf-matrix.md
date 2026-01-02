@@ -3,7 +3,8 @@ title: "JSF Matrix"
 date: 2008-02-11 06:56:00 +0000
 layout: post
 tags: ["ajax", "programmierung"]
-slug: "2008-02-11-jsf-matrix"
+slug: "jsf-matrix"
+link: "2008/02/jsf-matrix.html"
 url: /2008/02/jsf-matrix.html
 ---
 

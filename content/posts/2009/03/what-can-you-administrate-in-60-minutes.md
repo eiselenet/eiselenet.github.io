@@ -3,7 +3,8 @@ title: "What can you administrate in 60 Minutes?"
 date: 2009-03-25 06:16:00 +0000
 layout: post
 tags: ["cluster", "high availability", "weblogic server"]
-slug: "2009-03-25-what-can-you-administrate-in-60-minutes"
+slug: "what-can-you-administrate-in-60-minutes"
+link: "2009/03/what-can-you-administrate-in-60-minutes.html"
 url: /2009/03/what-can-you-administrate-in-60-minutes.html
 ---
 

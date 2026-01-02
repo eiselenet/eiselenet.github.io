@@ -3,7 +3,8 @@ title: "The Java EE 6 Example - Enhance Security with Galleria - Part 5"
 date: 2012-03-28 06:38:00 +0000
 layout: post
 tags: ["security", "javaee6", "galleria", "example"]
-slug: "2012-03-28-java-ee-6-example-enhance-security-with"
+slug: "java-ee-6-example-enhance-security-with"
+link: "2012/03/java-ee-6-example-enhance-security-with.html"
 url: /2012/03/java-ee-6-example-enhance-security-with.html
 ---
 

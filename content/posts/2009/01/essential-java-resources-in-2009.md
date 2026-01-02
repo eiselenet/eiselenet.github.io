@@ -3,7 +3,8 @@ title: "Essential Java resources in 2009"
 date: 2009-01-28 08:05:00 +0000
 layout: post
 tags: ["Java EE", "books", "java", "blogs", "sites", "jee", "trends 2009", "events"]
-slug: "2009-01-28-essential-java-resources-in-2009"
+slug: "essential-java-resources-in-2009"
+link: "2009/01/essential-java-resources-in-2009.html"
 url: /2009/01/essential-java-resources-in-2009.html
 ---
 

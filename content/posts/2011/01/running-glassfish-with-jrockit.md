@@ -3,7 +3,8 @@ title: "Running GlassFish with JRockit"
 date: 2011-01-30 19:30:00 +0000
 layout: post
 tags: ["glassfish", "JRockit"]
-slug: "2011-01-30-running-glassfish-with-jrockit"
+slug: "running-glassfish-with-jrockit"
+link: "2011/01/running-glassfish-with-jrockit.html"
 url: /2011/01/running-glassfish-with-jrockit.html
 ---
 

@@ -3,7 +3,8 @@ title: "Configure Java EE applications or \"Putting Bien into practice\" ;)"
 date: 2011-09-08 07:23:00 +0000
 layout: post
 tags: ["CDI", "adam", "javaee6", "configuration"]
-slug: "2011-09-08-configure-java-ee-applications-or"
+slug: "configure-java-ee-applications-or"
+link: "2011/09/configure-java-ee-applications-or.html"
 url: /2011/09/configure-java-ee-applications-or.html
 ---
 

@@ -3,7 +3,8 @@ title: "Developer Interviews (#DI 2) Claus Ibsen (@davsclaus) About All Things C
 date: 2014-08-19 11:11:00 +0000
 layout: post
 tags: ["Camel", "apache", "Hawtio"]
-slug: "2014-08-19-developer-interviews-di-2-claus-ibsen"
+slug: "developer-interviews-di-2-claus-ibsen"
+link: "2014/08/developer-interviews-di-2-claus-ibsen.html"
 url: /2014/08/developer-interviews-di-2-claus-ibsen.html
 ---
 

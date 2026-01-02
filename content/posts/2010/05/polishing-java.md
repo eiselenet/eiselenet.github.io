@@ -3,7 +3,8 @@ title: "polishing java"
 date: 2010-05-19 10:50:00 +0000
 layout: post
 tags: ["personal", "picture", "future"]
-slug: "2010-05-19-polishing-java"
+slug: "polishing-java"
+link: "2010/05/polishing-java.html"
 url: /2010/05/polishing-java.html
 ---
 

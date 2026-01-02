@@ -3,7 +3,8 @@ title: "OEPE 11gR1 first roll out of Oracle's Public Cloud Tools - an early test
 date: 2011-10-28 07:37:00 +0000
 layout: post
 tags: ["cloud", "java", "Nuviaq", "oracle"]
-slug: "2011-10-28-oepe-11gr1-first-roll-out-of-oracles"
+slug: "oepe-11gr1-first-roll-out-of-oracles"
+link: "2011/10/oepe-11gr1-first-roll-out-of-oracles.html"
 url: /2011/10/oepe-11gr1-first-roll-out-of-oracles.html
 ---
 

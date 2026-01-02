@@ -3,7 +3,8 @@ title: "JSF 2's new features"
 date: 2009-07-15 04:55:00 +0000
 layout: post
 tags: ["David Geary", "components", "templates", "jsf", "ajax", "jsf 2.0"]
-slug: "2009-07-15-jsf-2s-new-features"
+slug: "jsf-2s-new-features"
+link: "2009/07/jsf-2s-new-features.html"
 url: /2009/07/jsf-2s-new-features.html
 ---
 

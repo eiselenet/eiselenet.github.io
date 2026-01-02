@@ -3,7 +3,8 @@ title: "New Article in German iX Magazine: CapeDwarf"
 date: 2013-10-23 11:03:00 +0000
 layout: post
 tags: ["CapeDwarf", "AS7", "article", "ix"]
-slug: "2013-10-23-new-article-in-german-ix-magazine"
+slug: "new-article-in-german-ix-magazine"
+link: "2013/10/new-article-in-german-ix-magazine.html"
 url: /2013/10/new-article-in-german-ix-magazine.html
 ---
 

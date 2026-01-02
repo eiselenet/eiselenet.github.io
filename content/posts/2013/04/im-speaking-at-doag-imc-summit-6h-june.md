@@ -3,7 +3,8 @@ title: "I'm speaking at DOAG IMC Summit, 6h June 2013 in Mainz, Germany"
 date: 2013-04-10 08:47:00 +0000
 layout: post
 tags: ["conferenc", "IMC Summit", "doag"]
-slug: "2013-04-10-im-speaking-at-doag-imc-summit-6h-june"
+slug: "im-speaking-at-doag-imc-summit-6h-june"
+link: "2013/04/im-speaking-at-doag-imc-summit-6h-june.html"
 url: /2013/04/im-speaking-at-doag-imc-summit-6h-june.html
 ---
 

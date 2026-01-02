@@ -3,7 +3,8 @@ title: "Installing and Using the NEW WebLogic 12 Maven Plug-In for Deployment"
 date: 2011-12-11 23:00:00 +0000
 layout: post
 tags: ["weblogic", "maven", "deployment"]
-slug: "2011-12-11-installing-and-using-new-weblogic-12"
+slug: "installing-and-using-new-weblogic-12"
+link: "2011/12/installing-and-using-new-weblogic-12.html"
 url: /2011/12/installing-and-using-new-weblogic-12.html
 ---
 

@@ -3,7 +3,8 @@ title: "How Would ESBs Look Like, If They Were Done Today?"
 date: 2015-11-02 15:24:00 +0000
 layout: post
 tags: ["JavaOne", "ESB", "wildfly swarm", "microservices"]
-slug: "2015-11-02-how-esb-look-like-today-opensource"
+slug: "how-esb-look-like-today-opensource"
+link: "2015/11/how-esb-look-like-today-opensource.html"
 url: /2015/11/how-esb-look-like-today-opensource.html
 ---
 

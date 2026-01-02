@@ -3,7 +3,8 @@ title: "remembering"
 date: 2008-09-08 05:48:00 +0000
 layout: post
 tags: [""]
-slug: "2008-09-08-remembering"
+slug: "remembering"
+link: "2008/09/remembering.html"
 url: /2008/09/remembering.html
 ---
 

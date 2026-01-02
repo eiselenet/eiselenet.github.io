@@ -3,7 +3,8 @@ title: "Oracle + Sun: Application Server Strategy"
 date: 2010-01-28 13:43:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "Sun", "weblogic server"]
-slug: "2010-01-28-oracle-sun-application-server-strategy"
+slug: "oracle-sun-application-server-strategy"
+link: "2010/01/oracle-sun-application-server-strategy.html"
 url: /2010/01/oracle-sun-application-server-strategy.html
 ---
 

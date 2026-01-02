@@ -3,7 +3,8 @@ title: "Oracle Public Cloud Java Service with NetBeans in Early Access"
 date: 2012-08-02 06:46:00 +0000
 layout: post
 tags: ["cloud", "java", "oracle", "OPC", "public", "netbeans"]
-slug: "2012-08-02-oracle-public-cloud-java-netbeans"
+slug: "oracle-public-cloud-java-netbeans"
+link: "2012/08/oracle-public-cloud-java-netbeans.html"
 url: /2012/08/oracle-public-cloud-java-netbeans.html
 ---
 

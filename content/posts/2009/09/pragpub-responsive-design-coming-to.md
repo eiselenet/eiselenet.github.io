@@ -3,7 +3,8 @@ title: "PragPub: Responsive Design: Coming to Grips with the #Chaos That Is #Sof
 date: 2009-09-04 05:01:00 +0000
 layout: post
 tags: ["softwaredesign", "article", "review", "Kent Beck"]
-slug: "2009-09-04-pragpub-responsive-design-coming-to"
+slug: "pragpub-responsive-design-coming-to"
+link: "2009/09/pragpub-responsive-design-coming-to.html"
 url: /2009/09/pragpub-responsive-design-coming-to.html
 ---
 

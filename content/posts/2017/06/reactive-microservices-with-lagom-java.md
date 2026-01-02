@@ -3,7 +3,8 @@ title: "Reactive Microservices with Lagom & Java - DZone Refcard"
 date: 2017-06-27 16:20:00 +0000
 layout: post
 tags: ["java", "reactive", "Lagom", "microservices"]
-slug: "2017-06-27-reactive-microservices-with-lagom-java"
+slug: "reactive-microservices-with-lagom-java"
+link: "2017/06/reactive-microservices-with-lagom-java.html"
 url: /2017/06/reactive-microservices-with-lagom-java.html
 ---
 

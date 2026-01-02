@@ -3,7 +3,8 @@ title: "45 jQuery tips and techniques"
 date: 2009-01-25 07:43:00 +0000
 layout: post
 tags: ["tricks", "development", "jQuery", "tips"]
-slug: "2009-01-25-45-jquery-tips-and-techniques"
+slug: "45-jquery-tips-and-techniques"
+link: "2009/01/45-jquery-tips-and-techniques.html"
 url: /2009/01/45-jquery-tips-and-techniques.html
 ---
 

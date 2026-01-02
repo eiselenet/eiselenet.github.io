@@ -3,7 +3,8 @@ title: "Beyond the Hype: Building Actually Useful Platforms with the CNCF Maturi
 date: 2025-02-17 10:45:00 +0000
 layout: post
 tags: ["DevEx", "developers", "Platform Engineering", "TVP"]
-slug: "2025-02-17-cncf-platform-engineering-maturity-model-tvp-guide"
+slug: "cncf-platform-engineering-maturity-model-tvp-guide"
+link: "2025/02/cncf-platform-engineering-maturity-model-tvp-guide.html"
 url: /2025/02/cncf-platform-engineering-maturity-model-tvp-guide.html
 ---
 

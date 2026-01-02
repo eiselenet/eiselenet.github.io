@@ -3,7 +3,8 @@ title: "GlassFish City Revisited"
 date: 2012-08-16 14:12:00 +0000
 layout: post
 tags: ["glassfish", "inFusion", "city"]
-slug: "2012-08-16-glassfish-city-revisited"
+slug: "glassfish-city-revisited"
+link: "2012/08/glassfish-city-revisited.html"
 url: /2012/08/glassfish-city-revisited.html
 ---
 

@@ -3,7 +3,8 @@ title: "new online articles on eisele.net"
 date: 2008-08-29 05:28:00 +0000
 layout: post
 tags: ["office 2003", "article", "maven"]
-slug: "2008-08-29-new-online-articles-on-eiselenet"
+slug: "new-online-articles-on-eiselenet"
+link: "2008/08/new-online-articles-on-eiselenet.html"
 url: /2008/08/new-online-articles-on-eiselenet.html
 ---
 

@@ -3,7 +3,8 @@ title: "EC approves Oracle and Sun merger"
 date: 2010-01-21 11:44:00 +0000
 layout: post
 tags: ["approved", "oracle", "Sun", "merger"]
-slug: "2010-01-21-ec-approves-oracle-and-sun-merger"
+slug: "ec-approves-oracle-and-sun-merger"
+link: "2010/01/ec-approves-oracle-and-sun-merger.html"
 url: /2010/01/ec-approves-oracle-and-sun-merger.html
 ---
 

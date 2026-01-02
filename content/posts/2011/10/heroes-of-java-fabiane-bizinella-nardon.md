@@ -3,7 +3,8 @@ title: "The Heroes of Java: Fabiane Bizinella Nardon"
 date: 2011-10-15 18:10:00 +0000
 layout: post
 tags: ["java", "heroes", "Fabianne Nardon"]
-slug: "2011-10-15-heroes-of-java-fabiane-bizinella-nardon"
+slug: "heroes-of-java-fabiane-bizinella-nardon"
+link: "2011/10/heroes-of-java-fabiane-bizinella-nardon.html"
 url: /2011/10/heroes-of-java-fabiane-bizinella-nardon.html
 ---
 

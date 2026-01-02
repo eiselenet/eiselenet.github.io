@@ -3,7 +3,8 @@ title: "TINY"
 date: 2008-03-29 06:54:00 +0000
 layout: post
 tags: ["softwaredesign", "photographie"]
-slug: "2008-03-29-tiny"
+slug: "tiny"
+link: "2008/03/tiny.html"
 url: /2008/03/tiny.html
 ---
 

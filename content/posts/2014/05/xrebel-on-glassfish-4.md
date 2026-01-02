@@ -3,7 +3,8 @@ title: "XRebel on GlassFish 4"
 date: 2014-05-05 07:25:00 +0000
 layout: post
 tags: ["xrebel", "zeroturnaround"]
-slug: "2014-05-05-xrebel-on-glassfish-4"
+slug: "xrebel-on-glassfish-4"
+link: "2014/05/xrebel-on-glassfish-4.html"
 url: /2014/05/xrebel-on-glassfish-4.html
 ---
 

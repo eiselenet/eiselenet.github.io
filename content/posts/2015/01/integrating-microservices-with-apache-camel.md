@@ -3,7 +3,8 @@ title: "Integrating Microservices With Apache Camel"
 date: 2015-01-08 09:44:00 +0000
 layout: post
 tags: ["Fuse", "came", "apache", "webinar"]
-slug: "2015-01-08-integrating-microservices-with-apache-camel"
+slug: "integrating-microservices-with-apache-camel"
+link: "2015/01/integrating-microservices-with-apache-camel.html"
 url: /2015/01/integrating-microservices-with-apache-camel.html
 ---
 

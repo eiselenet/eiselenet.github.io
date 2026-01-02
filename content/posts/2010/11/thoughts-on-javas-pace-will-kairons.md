@@ -3,7 +3,8 @@ title: "Thoughts on Java's pace - will kairons decide about the future?"
 date: 2010-11-26 07:32:00 +0000
 layout: post
 tags: ["future", "java"]
-slug: "2010-11-26-thoughts-on-javas-pace-will-kairons"
+slug: "thoughts-on-javas-pace-will-kairons"
+link: "2010/11/thoughts-on-javas-pace-will-kairons.html"
 url: /2010/11/thoughts-on-javas-pace-will-kairons.html
 ---
 

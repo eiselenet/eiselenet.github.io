@@ -3,7 +3,8 @@ title: "GWT 1.5 Now Available"
 date: 2008-08-31 05:28:00 +0000
 layout: post
 tags: ["gwt", "google"]
-slug: "2008-08-31-gwt-15-now-available"
+slug: "gwt-15-now-available"
+link: "2008/08/gwt-15-now-available.html"
 url: /2008/08/gwt-15-now-available.html
 ---
 

@@ -3,7 +3,8 @@ title: "Fit für die Versicherungsbranche"
 date: 2008-02-15 11:16:00 +0000
 layout: post
 tags: ["msg systems ag", "Teams", "arbeitgeber", "job"]
-slug: "2008-02-15-fit-fr-die-versicherungsbranche"
+slug: "fit-fr-die-versicherungsbranche"
+link: "2008/02/fit-fr-die-versicherungsbranche.html"
 url: /2008/02/fit-fr-die-versicherungsbranche.html
 ---
 

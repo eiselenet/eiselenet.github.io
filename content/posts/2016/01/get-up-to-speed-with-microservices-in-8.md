@@ -3,7 +3,8 @@ title: "Get Up to Speed with Microservices in 8 hours"
 date: 2016-01-07 09:44:00 +0000
 layout: post
 tags: ["wildfly swarm", "Jboss", "microservices"]
-slug: "2016-01-07-get-up-to-speed-with-microservices-in-8"
+slug: "get-up-to-speed-with-microservices-in-8"
+link: "2016/01/get-up-to-speed-with-microservices-in-8.html"
 url: /2016/01/get-up-to-speed-with-microservices-in-8.html
 ---
 

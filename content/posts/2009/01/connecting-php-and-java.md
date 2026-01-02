@@ -3,7 +3,8 @@ title: "Connecting PHP and Java"
 date: 2009-01-22 05:02:00 +0000
 layout: post
 tags: ["Java EE", "java", "php", "backend", "jee", "connecting"]
-slug: "2009-01-22-connecting-php-and-java"
+slug: "connecting-php-and-java"
+link: "2009/01/connecting-php-and-java.html"
 url: /2009/01/connecting-php-and-java.html
 ---
 

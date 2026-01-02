@@ -3,7 +3,8 @@ title: "I am nominated for the 10th JCP Annual Awards - JCP Member of the Year"
 date: 2012-08-31 04:01:00 +0000
 layout: post
 tags: ["nominated", "Awards", "jcp"]
-slug: "2012-08-31-i-am-nominated-for-10th-jcp-annual"
+slug: "i-am-nominated-for-10th-jcp-annual"
+link: "2012/08/i-am-nominated-for-10th-jcp-annual.html"
 url: /2012/08/i-am-nominated-for-10th-jcp-annual.html
 ---
 

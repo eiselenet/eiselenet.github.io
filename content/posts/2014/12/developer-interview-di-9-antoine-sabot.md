@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 9) - Antoine Sabot-Durand (@antoine_sd) about C
 date: 2014-12-04 11:00:00 +0000
 layout: post
 tags: ["CDI", "JavaEE8", "DI", "Jboss"]
-slug: "2014-12-04-developer-interview-di-9-antoine-sabot"
+slug: "developer-interview-di-9-antoine-sabot"
+link: "2014/12/developer-interview-di-9-antoine-sabot.html"
 url: /2014/12/developer-interview-di-9-antoine-sabot.html
 ---
 

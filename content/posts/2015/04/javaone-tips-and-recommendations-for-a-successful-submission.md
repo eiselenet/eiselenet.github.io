@@ -3,7 +3,8 @@ title: "JavaOne 2015 - Tips And Recommendations For Your Submission."
 date: 2015-04-22 11:00:00 +0000
 layout: post
 tags: ["CfP", "JavaOne"]
-slug: "2015-04-22-javaone-tips-and-recommendations-for-a-successful-submission"
+slug: "javaone-tips-and-recommendations-for-a-successful-submission"
+link: "2015/04/javaone-tips-and-recommendations-for-a-successful-submission.html"
 url: /2015/04/javaone-tips-and-recommendations-for-a-successful-submission.html
 ---
 

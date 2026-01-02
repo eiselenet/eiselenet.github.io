@@ -3,7 +3,8 @@ title: "Software Quality: The Basics I - preface for looking at primefaces, rich
 date: 2009-12-08 09:21:00 +0000
 layout: post
 tags: ["basics", "metrics", "software development", "software quality"]
-slug: "2009-12-08-software-quality-basics-i-preface-for"
+slug: "software-quality-basics-i-preface-for"
+link: "2009/12/software-quality-basics-i-preface-for.html"
 url: /2009/12/software-quality-basics-i-preface-for.html
 ---
 

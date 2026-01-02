@@ -3,7 +3,8 @@ title: "GlassFish Operations: Log Notifications"
 date: 2012-07-17 12:28:00 +0000
 layout: post
 tags: ["glassfish", "operations", "notifications"]
-slug: "2012-07-17-glassfish-operations-log-notifications"
+slug: "glassfish-operations-log-notifications"
+link: "2012/07/glassfish-operations-log-notifications.html"
 url: /2012/07/glassfish-operations-log-notifications.html
 ---
 

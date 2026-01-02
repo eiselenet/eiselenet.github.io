@@ -3,7 +3,8 @@ title: "Goodbye 2015, Hello 2016! - Happy New Year."
 date: 2015-12-30 23:00:00 +0000
 layout: post
 tags: ["Happy New Year", "2016", "2015"]
-slug: "2015-12-30-goodbye-2015-hello-2016-happy-new-year"
+slug: "goodbye-2015-hello-2016-happy-new-year"
+link: "2015/12/goodbye-2015-hello-2016-happy-new-year.html"
 url: /2015/12/goodbye-2015-hello-2016-happy-new-year.html
 ---
 

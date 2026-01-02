@@ -3,7 +3,8 @@ title: "Developer Interviews (#DI 3) Christian Posta (@christianposta) on fabric
 date: 2014-08-25 10:00:00 +0000
 layout: post
 tags: ["fabric8", "Hawtio"]
-slug: "2014-08-25-developer-interviews-di-3-christian"
+slug: "developer-interviews-di-3-christian"
+link: "2014/08/developer-interviews-di-3-christian.html"
 url: /2014/08/developer-interviews-di-3-christian.html
 ---
 

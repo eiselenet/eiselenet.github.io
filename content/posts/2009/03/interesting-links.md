@@ -3,7 +3,8 @@ title: "Interesting links"
 date: 2009-03-16 05:50:00 +0000
 layout: post
 tags: ["links"]
-slug: "2009-03-16-interesting-links"
+slug: "interesting-links"
+link: "2009/03/interesting-links.html"
 url: /2009/03/interesting-links.html
 ---
 

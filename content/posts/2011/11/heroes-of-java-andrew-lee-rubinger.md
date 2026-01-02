@@ -3,7 +3,8 @@ title: "The Heroes of Java: Andrew Lee Rubinger"
 date: 2011-11-22 13:18:00 +0000
 layout: post
 tags: ["java", "heroes", "andrewleerubinger"]
-slug: "2011-11-22-heroes-of-java-andrew-lee-rubinger"
+slug: "heroes-of-java-andrew-lee-rubinger"
+link: "2011/11/heroes-of-java-andrew-lee-rubinger.html"
 url: /2011/11/heroes-of-java-andrew-lee-rubinger.html
 ---
 

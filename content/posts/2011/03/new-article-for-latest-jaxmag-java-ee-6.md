@@ -3,7 +3,8 @@ title: "New article for latest JAXmag \"Java EE 6\" about Arquillian"
 date: 2011-03-16 16:34:00 +0000
 layout: post
 tags: ["Arquillian", "article"]
-slug: "2011-03-16-new-article-for-latest-jaxmag-java-ee-6"
+slug: "new-article-for-latest-jaxmag-java-ee-6"
+link: "2011/03/new-article-for-latest-jaxmag-java-ee-6.html"
 url: /2011/03/new-article-for-latest-jaxmag-java-ee-6.html
 ---
 

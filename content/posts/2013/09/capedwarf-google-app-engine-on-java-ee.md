@@ -3,7 +3,8 @@ title: "CapeDwarf - Google App Engine on Java EE"
 date: 2013-09-06 10:04:00 +0000
 layout: post
 tags: ["JavaEE8", "CapeDwarf", "PaaS"]
-slug: "2013-09-06-capedwarf-google-app-engine-on-java-ee"
+slug: "capedwarf-google-app-engine-on-java-ee"
+link: "2013/09/capedwarf-google-app-engine-on-java-ee.html"
 url: /2013/09/capedwarf-google-app-engine-on-java-ee.html
 ---
 

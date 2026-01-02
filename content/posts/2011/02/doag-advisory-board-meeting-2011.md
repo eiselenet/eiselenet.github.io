@@ -3,7 +3,8 @@ title: "DOAG Advisory Board Meeting 2011 - Schwielowsee"
 date: 2011-02-03 11:00:00 +0000
 layout: post
 tags: ["doag", "advisory board"]
-slug: "2011-02-03-doag-advisory-board-meeting-2011"
+slug: "doag-advisory-board-meeting-2011"
+link: "2011/02/doag-advisory-board-meeting-2011.html"
 url: /2011/02/doag-advisory-board-meeting-2011.html
 ---
 

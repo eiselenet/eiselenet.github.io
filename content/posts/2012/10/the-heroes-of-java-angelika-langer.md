@@ -3,7 +3,8 @@ title: "The Heroes of Java: Angelika Langer"
 date: 2012-10-23 16:00:00 +0000
 layout: post
 tags: ["HoJ", "AngelikaLanger", "java", "heroes"]
-slug: "2012-10-23-the-heroes-of-java-angelika-langer"
+slug: "the-heroes-of-java-angelika-langer"
+link: "2012/10/the-heroes-of-java-angelika-langer.html"
 url: /2012/10/the-heroes-of-java-angelika-langer.html
 ---
 

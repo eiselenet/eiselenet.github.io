@@ -3,7 +3,8 @@ title: "Reviewing: Java SE Tutorials now available as eBook"
 date: 2012-03-05 11:29:00 +0000
 layout: post
 tags: ["tutorial", "java", "ebook", "kindle"]
-slug: "2012-03-05-reviewing-java-se-tutorials-now"
+slug: "reviewing-java-se-tutorials-now"
+link: "2012/03/reviewing-java-se-tutorials-now.html"
 url: /2012/03/reviewing-java-se-tutorials-now.html
 ---
 

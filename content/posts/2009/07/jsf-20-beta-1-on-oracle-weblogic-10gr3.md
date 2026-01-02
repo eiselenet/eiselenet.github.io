@@ -3,7 +3,8 @@ title: "JSF 2.0-BETA 1 on Oracle Weblogic 10gR3"
 date: 2009-07-07 09:03:00 +0000
 layout: post
 tags: ["10gR3", "oracle", "weblogic server", "jsf 2.0"]
-slug: "2009-07-07-jsf-20-beta-1-on-oracle-weblogic-10gr3"
+slug: "jsf-20-beta-1-on-oracle-weblogic-10gr3"
+link: "2009/07/jsf-20-beta-1-on-oracle-weblogic-10gr3.html"
 url: /2009/07/jsf-20-beta-1-on-oracle-weblogic-10gr3.html
 ---
 

@@ -3,7 +3,8 @@ title: "Getting started with SwitchYard 2.0.0.Alpha1 on WildFly 8.1.0.Final"
 date: 2014-07-29 08:57:00 +0000
 layout: post
 tags: ["wildfly", "SwitchYard"]
-slug: "2014-07-29-getting-started-with-switchyard"
+slug: "getting-started-with-switchyard"
+link: "2014/07/getting-started-with-switchyard.html"
 url: /2014/07/getting-started-with-switchyard.html
 ---
 

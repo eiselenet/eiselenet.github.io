@@ -3,7 +3,8 @@ title: "Enterprise grade JSF component libraries and how to find them"
 date: 2009-11-17 10:56:00 +0000
 layout: post
 tags: ["richfaces", "adf", "jsf", "enterprise", "primefaces"]
-slug: "2009-11-17-enterprise-grade-jsf-component"
+slug: "enterprise-grade-jsf-component"
+link: "2009/11/enterprise-grade-jsf-component.html"
 url: /2009/11/enterprise-grade-jsf-component.html
 ---
 

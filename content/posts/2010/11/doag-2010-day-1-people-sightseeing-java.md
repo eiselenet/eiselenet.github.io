@@ -3,7 +3,8 @@ title: "DOAG 2010 - Day 1 - People, Sightseeing, Java SE 7 and 8"
 date: 2010-11-17 07:58:00 +0000
 layout: post
 tags: ["doag", "conference"]
-slug: "2010-11-17-doag-2010-day-1-people-sightseeing-java"
+slug: "doag-2010-day-1-people-sightseeing-java"
+link: "2010/11/doag-2010-day-1-people-sightseeing-java.html"
 url: /2010/11/doag-2010-day-1-people-sightseeing-java.html
 ---
 

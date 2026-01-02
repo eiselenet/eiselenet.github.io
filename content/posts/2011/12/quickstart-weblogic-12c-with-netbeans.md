@@ -3,7 +3,8 @@ title: "Quickstart WebLogic 12c with NetBeans 7.1 RC 2"
 date: 2011-12-09 21:30:00 +0000
 layout: post
 tags: ["weblogic", "netbeans", "javaee6", "primefaces"]
-slug: "2011-12-09-quickstart-weblogic-12c-with-netbeans"
+slug: "quickstart-weblogic-12c-with-netbeans"
+link: "2011/12/quickstart-weblogic-12c-with-netbeans.html"
 url: /2011/12/quickstart-weblogic-12c-with-netbeans.html
 ---
 

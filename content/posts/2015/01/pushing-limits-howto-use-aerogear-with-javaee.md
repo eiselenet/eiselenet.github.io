@@ -3,7 +3,8 @@ title: "Pushing the Limits - Howto use AeroGear Unified Push for Java EE and Nod
 date: 2015-01-13 11:00:00 +0000
 layout: post
 tags: ["AeroGear", "xPaaS", "Jboss"]
-slug: "2015-01-13-pushing-limits-howto-use-aerogear-with-javaee"
+slug: "pushing-limits-howto-use-aerogear-with-javaee"
+link: "2015/01/pushing-limits-howto-use-aerogear-with-javaee.html"
 url: /2015/01/pushing-limits-howto-use-aerogear-with-javaee.html
 ---
 

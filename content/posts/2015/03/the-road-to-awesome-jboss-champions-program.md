@@ -3,7 +3,8 @@ title: "The Road To Awesome - Welcome JBoss Champions Program"
 date: 2015-03-04 08:16:00 +0000
 layout: post
 tags: ["Champions", "Jboss"]
-slug: "2015-03-04-the-road-to-awesome-jboss-champions-program"
+slug: "the-road-to-awesome-jboss-champions-program"
+link: "2015/03/the-road-to-awesome-jboss-champions-program.html"
 url: /2015/03/the-road-to-awesome-jboss-champions-program.html
 ---
 

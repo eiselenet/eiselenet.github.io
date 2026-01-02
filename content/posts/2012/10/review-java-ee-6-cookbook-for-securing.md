@@ -3,7 +3,8 @@ title: "Review: \"Java EE 6 Cookbook for Securing, Tuning, and Extending Enterpr
 date: 2012-10-23 05:55:00 +0000
 layout: post
 tags: ["packtpub", "javaee", "review", "book"]
-slug: "2012-10-23-review-java-ee-6-cookbook-for-securing"
+slug: "review-java-ee-6-cookbook-for-securing"
+link: "2012/10/review-java-ee-6-cookbook-for-securing.html"
 url: /2012/10/review-java-ee-6-cookbook-for-securing.html
 ---
 

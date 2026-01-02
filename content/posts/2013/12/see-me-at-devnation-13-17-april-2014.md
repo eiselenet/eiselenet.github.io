@@ -3,7 +3,8 @@ title: "See me at DevNation, 13 - 17 April 2014, San Francisco, CA"
 date: 2013-12-23 12:24:00 +0000
 layout: post
 tags: ["RedHat", "conference", "DevNation14"]
-slug: "2013-12-23-see-me-at-devnation-13-17-april-2014"
+slug: "see-me-at-devnation-13-17-april-2014"
+link: "2013/12/see-me-at-devnation-13-17-april-2014.html"
 url: /2013/12/see-me-at-devnation-13-17-april-2014.html
 ---
 

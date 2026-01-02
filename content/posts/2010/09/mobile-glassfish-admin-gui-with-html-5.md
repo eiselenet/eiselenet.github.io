@@ -3,7 +3,8 @@ title: "Mobile GlassFish Admin GUI with HTML 5 and the iPad"
 date: 2010-09-01 06:27:00 +0000
 layout: post
 tags: ["glassfish", "iPad", "html"]
-slug: "2010-09-01-mobile-glassfish-admin-gui-with-html-5"
+slug: "mobile-glassfish-admin-gui-with-html-5"
+link: "2010/09/mobile-glassfish-admin-gui-with-html-5.html"
 url: /2010/09/mobile-glassfish-admin-gui-with-html-5.html
 ---
 

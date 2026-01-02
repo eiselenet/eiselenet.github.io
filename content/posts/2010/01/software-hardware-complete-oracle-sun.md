@@ -3,7 +3,8 @@ title: "SOFTWARE. HARDWARE. COMPLETE. (Oracle + Sun Strategy Update Webcast)"
 date: 2010-01-27 14:12:00 +0000
 layout: post
 tags: ["software hardware complete", "oracle", "Sun"]
-slug: "2010-01-27-software-hardware-complete-oracle-sun"
+slug: "software-hardware-complete-oracle-sun"
+link: "2010/01/software-hardware-complete-oracle-sun.html"
 url: /2010/01/software-hardware-complete-oracle-sun.html
 ---
 

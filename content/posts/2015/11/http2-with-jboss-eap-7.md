@@ -3,7 +3,8 @@ title: "HTTP/2 With JBoss EAP 7 - Tech Preview"
 date: 2015-11-19 11:42:00 +0000
 layout: post
 tags: ["EAP7", "Undertow", "HTTP/2"]
-slug: "2015-11-19-http2-with-jboss-eap-7"
+slug: "http2-with-jboss-eap-7"
+link: "2015/11/http2-with-jboss-eap-7.html"
 url: /2015/11/http2-with-jboss-eap-7.html
 ---
 

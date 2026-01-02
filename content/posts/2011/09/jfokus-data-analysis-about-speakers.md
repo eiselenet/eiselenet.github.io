@@ -3,7 +3,8 @@ title: "Jfokus - Data analysis about speakers"
 date: 2011-09-23 18:28:00 +0000
 layout: post
 tags: ["analysis", "Jfokus", "speaker", "statistics"]
-slug: "2011-09-23-jfokus-data-analysis-about-speakers"
+slug: "jfokus-data-analysis-about-speakers"
+link: "2011/09/jfokus-data-analysis-about-speakers.html"
 url: /2011/09/jfokus-data-analysis-about-speakers.html
 ---
 

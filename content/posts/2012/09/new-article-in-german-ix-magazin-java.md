@@ -3,7 +3,8 @@ title: "New Article in German iX Magazin: Java Batch"
 date: 2012-09-19 10:12:00 +0000
 layout: post
 tags: ["java", "article", "heise", "ix"]
-slug: "2012-09-19-new-article-in-german-ix-magazin-java"
+slug: "new-article-in-german-ix-magazin-java"
+link: "2012/09/new-article-in-german-ix-magazin-java.html"
 url: /2012/09/new-article-in-german-ix-magazin-java.html
 ---
 

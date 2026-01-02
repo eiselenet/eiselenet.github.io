@@ -3,7 +3,8 @@ title: "I'm speaking at OUGN Spring Conference 3rd-5th of April 2014, Oslo-Kiel"
 date: 2014-01-14 10:08:00 +0000
 layout: post
 tags: ["OUGN", "conference", "Vårseminar"]
-slug: "2014-01-14-im-speaking-at-ougn-spring-conference"
+slug: "im-speaking-at-ougn-spring-conference"
+link: "2014/01/im-speaking-at-ougn-spring-conference.html"
 url: /2014/01/im-speaking-at-ougn-spring-conference.html
 ---
 

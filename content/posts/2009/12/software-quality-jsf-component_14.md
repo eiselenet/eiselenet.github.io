@@ -3,7 +3,8 @@ title: "Software Quality: JSF Component Libraries - Findbugs Results"
 date: 2009-12-14 11:51:00 +0000
 layout: post
 tags: ["findbugs", "components", "software quality", "jsf"]
-slug: "2009-12-14-software-quality-jsf-component_14"
+slug: "software-quality-jsf-component_14"
+link: "2009/12/software-quality-jsf-component_14.html"
 url: /2009/12/software-quality-jsf-component_14.html
 ---
 

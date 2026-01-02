@@ -3,7 +3,8 @@ title: "The Heroes of Java: Martijn Verburg"
 date: 2011-09-15 05:23:00 +0000
 layout: post
 tags: ["Martijn Verburg", "java", "heroes"]
-slug: "2011-09-15-heroes-of-java-martijn-verburg"
+slug: "heroes-of-java-martijn-verburg"
+link: "2011/09/heroes-of-java-martijn-verburg.html"
 url: /2011/09/heroes-of-java-martijn-verburg.html
 ---
 

@@ -3,7 +3,8 @@ title: "JRockit Mission Control Suite and WebLogic Server"
 date: 2010-07-06 06:55:00 +0000
 layout: post
 tags: ["wldf", "weblogic", "JRockit", "jrmc"]
-slug: "2010-07-06-jrockit-mission-control-suite-and"
+slug: "jrockit-mission-control-suite-and"
+link: "2010/07/jrockit-mission-control-suite-and.html"
 url: /2010/07/jrockit-mission-control-suite-and.html
 ---
 

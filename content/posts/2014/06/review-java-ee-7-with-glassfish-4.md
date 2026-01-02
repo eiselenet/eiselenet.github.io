@@ -3,7 +3,8 @@ title: "Review: \"Java EE 7 with GlassFish 4 Application Server\" by David Heffe
 date: 2014-06-13 04:33:00 +0000
 layout: post
 tags: ["packtpub", "glassfish", "javaee7", "review"]
-slug: "2014-06-13-review-java-ee-7-with-glassfish-4"
+slug: "review-java-ee-7-with-glassfish-4"
+link: "2014/06/review-java-ee-7-with-glassfish-4.html"
 url: /2014/06/review-java-ee-7-with-glassfish-4.html
 ---
 

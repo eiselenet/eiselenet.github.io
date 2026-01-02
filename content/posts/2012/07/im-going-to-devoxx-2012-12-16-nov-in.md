@@ -3,7 +3,8 @@ title: "I'm speaking at Devoxx 2012, 12-16 Nov in Antwerp, Belgium"
 date: 2012-07-24 07:51:00 +0000
 layout: post
 tags: ["javaee", "devoxx"]
-slug: "2012-07-24-im-going-to-devoxx-2012-12-16-nov-in"
+slug: "im-going-to-devoxx-2012-12-16-nov-in"
+link: "2012/07/im-going-to-devoxx-2012-12-16-nov-in.html"
 url: /2012/07/im-going-to-devoxx-2012-12-16-nov-in.html
 ---
 

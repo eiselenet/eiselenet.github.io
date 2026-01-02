@@ -3,7 +3,8 @@ title: "Day 1: ACED Briefing and the future of Java"
 date: 2010-09-17 00:10:00 +0000
 layout: post
 tags: ["ACED"]
-slug: "2010-09-17-day-1-aced-briefing-and-future-of-java"
+slug: "day-1-aced-briefing-and-future-of-java"
+link: "2010/09/day-1-aced-briefing-and-future-of-java.html"
 url: /2010/09/day-1-aced-briefing-and-future-of-java.html
 ---
 

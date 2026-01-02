@@ -3,7 +3,8 @@ title: "Software Version Control Visualization - Gource"
 date: 2011-09-05 09:37:00 +0000
 layout: post
 tags: ["gource", "visualization"]
-slug: "2011-09-05-software-version-control-visualization"
+slug: "software-version-control-visualization"
+link: "2011/09/software-version-control-visualization.html"
 url: /2011/09/software-version-control-visualization.html
 ---
 

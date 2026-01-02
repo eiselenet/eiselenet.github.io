@@ -3,7 +3,8 @@ title: "The Java EE 6 Example - Galleria - Part 1"
 date: 2012-03-12 11:33:00 +0000
 layout: post
 tags: ["glassfish", "javaee6", "example"]
-slug: "2012-03-12-java-ee-6-galleria-example-part-1"
+slug: "java-ee-6-galleria-example-part-1"
+link: "2012/03/java-ee-6-galleria-example-part-1.html"
 url: /2012/03/java-ee-6-galleria-example-part-1.html
 ---
 

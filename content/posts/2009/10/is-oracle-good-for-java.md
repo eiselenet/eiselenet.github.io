@@ -3,7 +3,8 @@ title: "“Is Oracle good for Java?”"
 date: 2009-10-22 07:13:00 +0000
 layout: post
 tags: ["java", "oracle", "Sun", "\"is oracle good for java?\""]
-slug: "2009-10-22-is-oracle-good-for-java"
+slug: "is-oracle-good-for-java"
+link: "2009/10/is-oracle-good-for-java.html"
 url: /2009/10/is-oracle-good-for-java.html
 ---
 

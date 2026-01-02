@@ -3,7 +3,8 @@ title: "The evolution of the Java language is essentially over"
 date: 2009-06-08 08:41:00 +0000
 layout: post
 tags: ["JavaOne", "java", "quote"]
-slug: "2009-06-08-evolution-of-java-language-is"
+slug: "evolution-of-java-language-is"
+link: "2009/06/evolution-of-java-language-is.html"
 url: /2009/06/evolution-of-java-language-is.html
 ---
 

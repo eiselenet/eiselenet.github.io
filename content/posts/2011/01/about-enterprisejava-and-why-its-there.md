@@ -3,7 +3,8 @@ title: "About @enterprisejava and why it's there .... it's NOT official!"
 date: 2011-01-26 06:34:00 +0000
 layout: post
 tags: ["twitterfeed", "yahoo pipes", "java"]
-slug: "2011-01-26-about-enterprisejava-and-why-its-there"
+slug: "about-enterprisejava-and-why-its-there"
+link: "2011/01/about-enterprisejava-and-why-its-there.html"
 url: /2011/01/about-enterprisejava-and-why-its-there.html
 ---
 

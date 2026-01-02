@@ -3,7 +3,8 @@ title: "Eclipse Process Framework - Search with published war file"
 date: 2009-01-27 08:54:00 +0000
 layout: post
 tags: ["oracle", "bea oracle", "weblogic server", "lucene", "EPF", "eclipse"]
-slug: "2009-01-27-eclipse-process-framework-search-with"
+slug: "eclipse-process-framework-search-with"
+link: "2009/01/eclipse-process-framework-search-with.html"
 url: /2009/01/eclipse-process-framework-search-with.html
 ---
 

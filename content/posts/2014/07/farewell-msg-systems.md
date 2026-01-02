@@ -3,7 +3,8 @@ title: "Farewell msg systems ..."
 date: 2014-07-04 07:52:00 +0000
 layout: post
 tags: ["RedHat", "farewall", "msgsystems"]
-slug: "2014-07-04-farewell-msg-systems"
+slug: "farewell-msg-systems"
+link: "2014/07/farewell-msg-systems.html"
 url: /2014/07/farewell-msg-systems.html
 ---
 

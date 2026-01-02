@@ -3,7 +3,8 @@ title: "Win a free eBook copy of WildFly Performance Tuning"
 date: 2014-07-09 05:38:00 +0000
 layout: post
 tags: ["packtpub", "wildfly", "contest"]
-slug: "2014-07-09-win-free-ebook-copy-of-wildfly"
+slug: "win-free-ebook-copy-of-wildfly"
+link: "2014/07/win-free-ebook-copy-of-wildfly.html"
 url: /2014/07/win-free-ebook-copy-of-wildfly.html
 ---
 

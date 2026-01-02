@@ -3,7 +3,8 @@ title: "The Heroes of Java: Ola Bini"
 date: 2012-03-26 11:14:00 +0000
 layout: post
 tags: ["Ola Bini", "HoJ", "java", "heroes"]
-slug: "2012-03-26-heroes-of-java-ola-bini"
+slug: "heroes-of-java-ola-bini"
+link: "2012/03/heroes-of-java-ola-bini.html"
 url: /2012/03/heroes-of-java-ola-bini.html
 ---
 

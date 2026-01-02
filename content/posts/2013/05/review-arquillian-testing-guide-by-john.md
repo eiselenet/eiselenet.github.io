@@ -3,7 +3,8 @@ title: "Review: \"Arquillian Testing Guide\" by John D. Ament"
 date: 2013-05-30 08:30:00 +0000
 layout: post
 tags: ["packtpub", "Arquillian", "review"]
-slug: "2013-05-30-review-arquillian-testing-guide-by-john"
+slug: "review-arquillian-testing-guide-by-john"
+link: "2013/05/review-arquillian-testing-guide-by-john.html"
 url: /2013/05/review-arquillian-testing-guide-by-john.html
 ---
 

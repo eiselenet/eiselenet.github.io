@@ -3,7 +3,8 @@ title: "Spring 3.0.0.M3 on Google Appengine with JPA"
 date: 2009-07-31 07:10:00 +0000
 layout: post
 tags: ["google", "GAE", "jpa", "DataNucleus", "Spring"]
-slug: "2009-07-31-spring-300m3-on-google-appengine-with"
+slug: "spring-300m3-on-google-appengine-with"
+link: "2009/07/spring-300m3-on-google-appengine-with.html"
 url: /2009/07/spring-300m3-on-google-appengine-with.html
 ---
 

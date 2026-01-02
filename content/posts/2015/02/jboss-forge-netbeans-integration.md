@@ -3,7 +3,8 @@ title: "JBoss Forge NetBeans integration - Getting Started"
 date: 2015-02-17 11:00:00 +0000
 layout: post
 tags: ["Forge", "netbeans", "Jboss"]
-slug: "2015-02-17-jboss-forge-netbeans-integration"
+slug: "jboss-forge-netbeans-integration"
+link: "2015/02/jboss-forge-netbeans-integration.html"
 url: /2015/02/jboss-forge-netbeans-integration.html
 ---
 

@@ -3,7 +3,8 @@ title: "Java EE, Docker, WildFly and Microservices on Docker"
 date: 2015-01-12 11:00:00 +0000
 layout: post
 tags: ["wildfly", "Docker", "javaee", "Jboss"]
-slug: "2015-01-12-java-ee-docker-wildfly-and-microservices-on-docker"
+slug: "java-ee-docker-wildfly-and-microservices-on-docker"
+link: "2015/01/java-ee-docker-wildfly-and-microservices-on-docker.html"
 url: /2015/01/java-ee-docker-wildfly-and-microservices-on-docker.html
 ---
 

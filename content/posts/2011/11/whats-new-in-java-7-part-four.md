@@ -3,7 +3,8 @@ title: "What's new in Java 7? - Part four"
 date: 2011-11-30 07:30:00 +0000
 layout: post
 tags: ["java7", "article", "heise"]
-slug: "2011-11-30-whats-new-in-java-7-part-four"
+slug: "whats-new-in-java-7-part-four"
+link: "2011/11/whats-new-in-java-7-part-four.html"
 url: /2011/11/whats-new-in-java-7-part-four.html
 ---
 

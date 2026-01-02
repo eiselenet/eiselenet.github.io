@@ -3,7 +3,8 @@ title: "PrimeFaces UI 0.9.3 Trailer"
 date: 2009-09-28 06:11:00 +0000
 layout: post
 tags: ["jsf", "primefaces"]
-slug: "2009-09-28-primefaces-ui-093-trailer"
+slug: "primefaces-ui-093-trailer"
+link: "2009/09/primefaces-ui-093-trailer.html"
 url: /2009/09/primefaces-ui-093-trailer.html
 ---
 

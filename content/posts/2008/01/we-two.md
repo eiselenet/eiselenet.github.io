@@ -3,7 +3,8 @@ title: "we two"
 date: 2008-01-14 08:20:00 +0000
 layout: post
 tags: ["photographie"]
-slug: "2008-01-14-we-two"
+slug: "we-two"
+link: "2008/01/we-two.html"
 url: /2008/01/we-two.html
 ---
 

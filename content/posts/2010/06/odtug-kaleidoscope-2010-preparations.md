@@ -3,7 +3,8 @@ title: "ODTUG Kaleidoscope 2010 - preparations and sessions"
 date: 2010-06-09 05:56:00 +0000
 layout: post
 tags: ["odtug", "oracle", "kaleidoscope2010"]
-slug: "2010-06-09-odtug-kaleidoscope-2010-preparations"
+slug: "odtug-kaleidoscope-2010-preparations"
+link: "2010/06/odtug-kaleidoscope-2010-preparations.html"
 url: /2010/06/odtug-kaleidoscope-2010-preparations.html
 ---
 

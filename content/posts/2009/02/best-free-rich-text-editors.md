@@ -3,7 +3,8 @@ title: "best free rich text editors"
 date: 2009-02-12 11:15:00 +0000
 layout: post
 tags: ["license", "development", "rich text editor"]
-slug: "2009-02-12-best-free-rich-text-editors"
+slug: "best-free-rich-text-editors"
+link: "2009/02/best-free-rich-text-editors.html"
 url: /2009/02/best-free-rich-text-editors.html
 ---
 

@@ -3,7 +3,8 @@ title: "Review: “Java Coding Problems, Second Edition” by Anghel Leonard"
 date: 2024-09-11 06:30:00 +0000
 layout: post
 tags: ["java", "review", "book", "packtpub", "Packt"]
-slug: "2024-09-11-review-java-coding-problems-second"
+slug: "review-java-coding-problems-second"
+link: "2024/09/review-java-coding-problems-second.html"
 url: /2024/09/review-java-coding-problems-second.html
 ---
 
@@ -15,7 +16,7 @@ I recently had the pleasure of reviewing “<a href="https://packt.link/MwOta" t
  <br>
 </div>
 <div>
- <a href="Java coding problems- cover image.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="Java Coding Problems, Second Edition Cover Picture" border="0" data-original-height="1360" data-original-width="1103" height="320" src="Java coding problems- cover image.jpg" width="260"></a>
+ <a href="Java-coding-problems-cover-image.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="Java Coding Problems, Second Edition Cover Picture" border="0" data-original-height="1360" data-original-width="1103" height="320" src="Java-coding-problems-cover-image.jpg" width="260"></a>
 </div>Chapter 1: Text Blocks, Locales, Numbers, and Math&nbsp;
 <div>
  Chapter 2: Objects, Immutability, Switch Expressions, and Pattern Matching&nbsp;

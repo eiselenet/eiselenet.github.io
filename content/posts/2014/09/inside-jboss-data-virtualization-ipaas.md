@@ -3,7 +3,8 @@ title: "Inside JBoss Data Virtualization - iPaaS Demystified (Part 1)"
 date: 2014-09-02 11:53:00 +0000
 layout: post
 tags: ["iPaaS", "xPaaS", "Jboss", "DataVirtualization"]
-slug: "2014-09-02-inside-jboss-data-virtualization-ipaas"
+slug: "inside-jboss-data-virtualization-ipaas"
+link: "2014/09/inside-jboss-data-virtualization-ipaas.html"
 url: /2014/09/inside-jboss-data-virtualization-ipaas.html
 ---
 

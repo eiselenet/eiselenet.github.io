@@ -3,7 +3,8 @@ title: "DOAG Conference Sessions approved"
 date: 2009-08-13 07:58:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "session", "weblogic server", "Sun", "doag"]
-slug: "2009-08-13-doag-conference-sessions-approved"
+slug: "doag-conference-sessions-approved"
+link: "2009/08/doag-conference-sessions-approved.html"
 url: /2009/08/doag-conference-sessions-approved.html
 ---
 

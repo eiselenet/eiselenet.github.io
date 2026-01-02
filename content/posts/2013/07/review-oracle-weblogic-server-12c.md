@@ -3,7 +3,8 @@ title: "Review: \"Oracle WebLogic Server 12c - Distinctive Recipes\" by Frank Mu
 date: 2013-07-08 05:42:00 +0000
 layout: post
 tags: ["weblogic", "review", "book"]
-slug: "2013-07-08-review-oracle-weblogic-server-12c"
+slug: "review-oracle-weblogic-server-12c"
+link: "2013/07/review-oracle-weblogic-server-12c.html"
 url: /2013/07/review-oracle-weblogic-server-12c.html
 ---
 

@@ -3,7 +3,8 @@ title: "PrimeFaces Push with Atmosphere on GlassFish 3.1.2.2"
 date: 2012-09-06 06:20:00 +0000
 layout: post
 tags: ["atmosphere", "glassfish", "primefaces"]
-slug: "2012-09-06-primefaces-push-with-atmosphere-on"
+slug: "primefaces-push-with-atmosphere-on"
+link: "2012/09/primefaces-push-with-atmosphere-on.html"
 url: /2012/09/primefaces-push-with-atmosphere-on.html
 ---
 

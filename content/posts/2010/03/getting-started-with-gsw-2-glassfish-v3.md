@@ -3,7 +3,8 @@ title: "Getting started with (GSW #2): GlassFish v3"
 date: 2010-03-11 08:59:00 +0000
 layout: post
 tags: ["GSW", "glassfishv3", "\"Getting started with\""]
-slug: "2010-03-11-getting-started-with-gsw-2-glassfish-v3"
+slug: "getting-started-with-gsw-2-glassfish-v3"
+link: "2010/03/getting-started-with-gsw-2-glassfish-v3.html"
 url: /2010/03/getting-started-with-gsw-2-glassfish-v3.html
 ---
 

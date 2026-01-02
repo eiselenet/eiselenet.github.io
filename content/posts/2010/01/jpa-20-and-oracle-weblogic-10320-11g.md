@@ -3,7 +3,8 @@ title: "JPA 2.0 and Oracle Weblogic 10.3.2.0 (11g)"
 date: 2010-01-13 06:27:00 +0000
 layout: post
 tags: ["oracle", "jpa 2.0", "weblogic server"]
-slug: "2010-01-13-jpa-20-and-oracle-weblogic-10320-11g"
+slug: "jpa-20-and-oracle-weblogic-10320-11g"
+link: "2010/01/jpa-20-and-oracle-weblogic-10320-11g.html"
 url: /2010/01/jpa-20-and-oracle-weblogic-10320-11g.html
 ---
 

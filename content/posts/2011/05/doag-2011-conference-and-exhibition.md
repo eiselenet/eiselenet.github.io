@@ -3,7 +3,8 @@ title: "DOAG 2011 Conference and Exhibition - Update"
 date: 2011-05-30 11:23:00 +0000
 layout: post
 tags: ["program", "doagev", "review"]
-slug: "2011-05-30-doag-2011-conference-and-exhibition"
+slug: "doag-2011-conference-and-exhibition"
+link: "2011/05/doag-2011-conference-and-exhibition.html"
 url: /2011/05/doag-2011-conference-and-exhibition.html
 ---
 

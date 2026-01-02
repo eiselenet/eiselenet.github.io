@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 10) - Gorkem Ercan (@gorkemercan) about Mobile 
 date: 2015-01-14 11:00:00 +0000
 layout: post
 tags: ["JBDS", "DI", "Cordova", "Jboss"]
-slug: "2015-01-14-developer-interview-10-gorkem-ercan-about-jbds-and-cordova"
+slug: "developer-interview-10-gorkem-ercan-about-jbds-and-cordova"
+link: "2015/01/developer-interview-10-gorkem-ercan-about-jbds-and-cordova.html"
 url: /2015/01/developer-interview-10-gorkem-ercan-about-jbds-and-cordova.html
 ---
 

@@ -3,7 +3,8 @@ title: "JavaFX Platform the Official Rich Client Technology for 2010 Winter Game
 date: 2010-02-12 08:03:00 +0000
 layout: post
 tags: ["oracle", "javafx", "rich client", "VANOC"]
-slug: "2010-02-12-javafx-platform-official-rich-client"
+slug: "javafx-platform-official-rich-client"
+link: "2010/02/javafx-platform-official-rich-client.html"
 url: /2010/02/javafx-platform-official-rich-client.html
 ---
 

@@ -3,7 +3,8 @@ title: "The Heroes of Java: Ward Cunningham"
 date: 2012-02-13 22:50:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Ward Cunningham"]
-slug: "2012-02-13-heroes-of-java-ward-cunningham"
+slug: "heroes-of-java-ward-cunningham"
+link: "2012/02/heroes-of-java-ward-cunningham.html"
 url: /2012/02/heroes-of-java-ward-cunningham.html
 ---
 

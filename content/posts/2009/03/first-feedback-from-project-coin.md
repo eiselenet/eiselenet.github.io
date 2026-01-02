@@ -3,7 +3,8 @@ title: "First feedback from project Coin"
 date: 2009-03-09 09:47:00 +0000
 layout: post
 tags: ["project coin", "JDK 7", "java"]
-slug: "2009-03-09-first-feedback-from-project-coin"
+slug: "first-feedback-from-project-coin"
+link: "2009/03/first-feedback-from-project-coin.html"
 url: /2009/03/first-feedback-from-project-coin.html
 ---
 

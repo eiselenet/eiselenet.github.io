@@ -3,7 +3,8 @@ title: "Web Dynpro for Open Source?"
 date: 2009-10-02 04:52:00 +0000
 layout: post
 tags: ["opensource", "netweaver", "webdynpro", "sap"]
-slug: "2009-10-02-web-dynpro-for-open-source"
+slug: "web-dynpro-for-open-source"
+link: "2009/10/web-dynpro-for-open-source.html"
 url: /2009/10/web-dynpro-for-open-source.html
 ---
 

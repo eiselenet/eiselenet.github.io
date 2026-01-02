@@ -3,7 +3,8 @@ title: "Kscope11 - Preparations done. I am a proud speaker."
 date: 2011-05-09 10:13:00 +0000
 layout: post
 tags: ["odtug", "Kscope11", "ACED"]
-slug: "2011-05-09-kscope11-preparations-done-i-am-proud"
+slug: "kscope11-preparations-done-i-am-proud"
+link: "2011/05/kscope11-preparations-done-i-am-proud.html"
 url: /2011/05/kscope11-preparations-done-i-am-proud.html
 ---
 

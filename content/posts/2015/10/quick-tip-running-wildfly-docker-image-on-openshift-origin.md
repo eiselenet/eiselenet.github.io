@@ -3,7 +3,8 @@ title: "Quick Tip: Running WildFly Docker Image on OpenShift Origin"
 date: 2015-10-05 09:31:00 +0000
 layout: post
 tags: ["Openshift", "WildFly9", "Docker"]
-slug: "2015-10-05-quick-tip-running-wildfly-docker-image-on-openshift-origin"
+slug: "quick-tip-running-wildfly-docker-image-on-openshift-origin"
+link: "2015/10/quick-tip-running-wildfly-docker-image-on-openshift-origin.html"
 url: /2015/10/quick-tip-running-wildfly-docker-image-on-openshift-origin.html
 ---
 

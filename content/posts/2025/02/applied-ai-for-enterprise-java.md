@@ -3,7 +3,8 @@ title: "Applied AI for Enterprise Java Development"
 date: 2025-02-17 10:56:00 +0000
 layout: post
 tags: ["java", "ebook", "O'Reilly", "AI", "Enterprise Java"]
-slug: "2025-02-17-applied-ai-for-enterprise-java"
+slug: "applied-ai-for-enterprise-java"
+link: "2025/02/applied-ai-for-enterprise-java.html"
 url: /2025/02/applied-ai-for-enterprise-java.html
 ---
 

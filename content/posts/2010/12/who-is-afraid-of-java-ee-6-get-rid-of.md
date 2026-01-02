@@ -3,7 +3,8 @@ title: "Who is afraid of Java EE 6? Get rid of your fears!"
 date: 2010-12-10 12:24:00 +0000
 layout: post
 tags: ["Java EE 5", "Java EE 6"]
-slug: "2010-12-10-who-is-afraid-of-java-ee-6-get-rid-of"
+slug: "who-is-afraid-of-java-ee-6-get-rid-of"
+link: "2010/12/who-is-afraid-of-java-ee-6-get-rid-of.html"
 url: /2010/12/who-is-afraid-of-java-ee-6-get-rid-of.html
 ---
 
@@ -12,7 +13,7 @@ Believe it or not. From time to time I get the chance to make a proposal for a t
 <br><b>Nothing changed (basicaly)</b>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="#" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="212" src="javaee6_new.png" width="320"></a>
+ <a href="" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="212" src="javaee6_new.png" width="320"></a>
 </div>If you look at Java EE 6 from a technology point of view, you have a couple of single specifications contained in an umbrella. We are talking about roughly 35 technologies. Let's split them apart to see, what's important. Compared to the plain numbers, the heart of Java EE 6 is still Java EE 5. 52% of the specifications did not even get an update. They simply stay unchanged. We have 23% regular updates, 14% major updates (reworks) and only 11% of the stack is completely new. So nobody has to fear, that already taken investments in Java EE 5 skills or infrastructure will be wasted. It's more like a concrete evolution of what we have with Java EE 6. If you stay at 5 these days, you'll be betting on 4-year old technology and increasing your <a href="http://en.wikipedia.org/wiki/Technical_debt" target="_blank">Technical Debt</a>.
 <br>
 <br><b>Advantages and opportunities of the new ones</b>
@@ -29,7 +30,7 @@ Believe it or not. From time to time I get the chance to make a proposal for a t
 <br>
 <div class="separator" style="clear: both; text-align: center;"></div>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="#" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="219" src="introduce_javaee6.png" width="320"></a>
+ <a href="" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="219" src="introduce_javaee6.png" width="320"></a>
 </div>But there is still the risk, that the new kids on the block will fail and the concepts are not usable in a productive environment. How to address this? The first step is to have it on the list somewhere. Don't tell anybody, you are going to base everything exclusively on them. For a real life project it's best to find a strategy for staggered and suitable use of the new features. In fact, you could think about the right time to introduce the new features. Having a mature Java EE 5 stack at hand it's probably best to start with whatever you have.&nbsp;Straight away and think about the need to introduce any of the new specifications following these simple rules:&nbsp;1) One at a time. 2) And always have a&nbsp;fall back&nbsp;strategy. The little graphic shows a possible&nbsp;scenario&nbsp;for this. Start with what you know best and introduce what you could handle. JSF 2.0 is a good starting point in general.
 <br>
 <br><b>GlassFish is dead!</b>

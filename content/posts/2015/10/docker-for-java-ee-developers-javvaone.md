@@ -3,7 +3,8 @@ title: "Docker for Java EE Developers - A Sneak Peak Into Our JavaOne HOL"
 date: 2015-10-23 10:47:00 +0000
 layout: post
 tags: ["JavaOne", "Docker", "javaee"]
-slug: "2015-10-23-docker-for-java-ee-developers-javvaone"
+slug: "docker-for-java-ee-developers-javvaone"
+link: "2015/10/docker-for-java-ee-developers-javvaone.html"
 url: /2015/10/docker-for-java-ee-developers-javvaone.html
 ---
 

@@ -3,7 +3,8 @@ title: "Trip-Report Oracle OpenWorld and JavaOne 2012"
 date: 2012-10-16 19:06:00 +0000
 layout: post
 tags: ["JavaOne", "openworld", "review"]
-slug: "2012-10-16-trip-report-oracle-openworld-and"
+slug: "trip-report-oracle-openworld-and"
+link: "2012/10/trip-report-oracle-openworld-and.html"
 url: /2012/10/trip-report-oracle-openworld-and.html
 ---
 

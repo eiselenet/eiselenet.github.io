@@ -3,7 +3,8 @@ title: "From Microservices to Distributed Systems - Survival guide for Java Deve
 date: 2017-02-16 09:15:00 +0000
 layout: post
 tags: ["distributed", "java", "systems", "microservices"]
-slug: "2017-02-16-from-microservices-to-distributed-systems-java"
+slug: "from-microservices-to-distributed-systems-java"
+link: "2017/02/from-microservices-to-distributed-systems-java.html"
 url: /2017/02/from-microservices-to-distributed-systems-java.html
 ---
 

@@ -3,7 +3,8 @@ title: "How DevOps And Microservices Accelerate Application Delivery"
 date: 2016-01-04 16:38:00 +0000
 layout: post
 tags: ["german", "DevOps", "article", "microservices"]
-slug: "2016-01-04-how-devops-and-microservices-accelerate"
+slug: "how-devops-and-microservices-accelerate"
+link: "2016/01/how-devops-and-microservices-accelerate.html"
 url: /2016/01/how-devops-and-microservices-accelerate.html
 ---
 

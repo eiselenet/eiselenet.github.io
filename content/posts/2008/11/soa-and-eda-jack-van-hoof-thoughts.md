@@ -3,7 +3,8 @@ title: "SOA and EDA - Jack van Hoof' thoughts"
 date: 2008-11-25 13:27:00 +0000
 layout: post
 tags: ["enterprise", "architecture"]
-slug: "2008-11-25-soa-and-eda-jack-van-hoof-thoughts"
+slug: "soa-and-eda-jack-van-hoof-thoughts"
+link: "2008/11/soa-and-eda-jack-van-hoof-thoughts.html"
 url: /2008/11/soa-and-eda-jack-van-hoof-thoughts.html
 ---
 

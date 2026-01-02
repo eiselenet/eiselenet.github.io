@@ -3,7 +3,8 @@ title: "German Book about Apache Geronimo"
 date: 2009-01-15 11:36:00 +0000
 layout: post
 tags: ["apache", "dpunkt", "bücher", "geronimo"]
-slug: "2009-01-15-german-book-about-apache-geronimo"
+slug: "german-book-about-apache-geronimo"
+link: "2009/01/german-book-about-apache-geronimo.html"
 url: /2009/01/german-book-about-apache-geronimo.html
 ---
 

@@ -3,7 +3,8 @@ title: "Virtual JBoss User Group (Virtual:JBUG)"
 date: 2014-10-01 10:00:00 +0000
 layout: post
 tags: ["vJBUG", "Jboss", "javausergroups"]
-slug: "2014-10-01-virtual-jboss-user-group-virtualjbug"
+slug: "virtual-jboss-user-group-virtualjbug"
+link: "2014/10/virtual-jboss-user-group-virtualjbug.html"
 url: /2014/10/virtual-jboss-user-group-virtualjbug.html
 ---
 

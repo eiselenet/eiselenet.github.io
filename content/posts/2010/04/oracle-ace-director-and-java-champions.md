@@ -3,7 +3,8 @@ title: "Oracle ACE Directors and Java Champions"
 date: 2010-04-06 07:38:00 +0000
 layout: post
 tags: ["java champions", "developer program", "oracle", "ACED"]
-slug: "2010-04-06-oracle-ace-director-and-java-champions"
+slug: "oracle-ace-director-and-java-champions"
+link: "2010/04/oracle-ace-director-and-java-champions.html"
 url: /2010/04/oracle-ace-director-and-java-champions.html
 ---
 

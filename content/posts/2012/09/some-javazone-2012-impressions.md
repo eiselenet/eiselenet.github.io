@@ -3,7 +3,8 @@ title: "JavaZone 2012 Trip Report"
 date: 2012-09-13 11:20:00 +0000
 layout: post
 tags: ["report", "impressions", "JavaZone", "picture"]
-slug: "2012-09-13-some-javazone-2012-impressions"
+slug: "some-javazone-2012-impressions"
+link: "2012/09/some-javazone-2012-impressions.html"
 url: /2012/09/some-javazone-2012-impressions.html
 ---
 

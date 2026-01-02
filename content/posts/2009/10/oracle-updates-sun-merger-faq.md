@@ -3,7 +3,8 @@ title: "Oracle Updates Sun Merger FAQ"
 date: 2009-10-28 05:58:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "mysql", "acquisition", "netbeans", "Sun", "merger"]
-slug: "2009-10-28-oracle-updates-sun-merger-faq"
+slug: "oracle-updates-sun-merger-faq"
+link: "2009/10/oracle-updates-sun-merger-faq.html"
 url: /2009/10/oracle-updates-sun-merger-faq.html
 ---
 

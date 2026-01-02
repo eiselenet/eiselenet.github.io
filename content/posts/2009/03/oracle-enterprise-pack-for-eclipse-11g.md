@@ -3,7 +3,8 @@ title: "Oracle Enterprise Pack for Eclipse 11g"
 date: 2009-03-25 09:01:00 +0000
 layout: post
 tags: ["oracle", "11g", "weblogic server", "EclipseLink", "OEPE", "eclipse"]
-slug: "2009-03-25-oracle-enterprise-pack-for-eclipse-11g"
+slug: "oracle-enterprise-pack-for-eclipse-11g"
+link: "2009/03/oracle-enterprise-pack-for-eclipse-11g.html"
 url: /2009/03/oracle-enterprise-pack-for-eclipse-11g.html
 ---
 

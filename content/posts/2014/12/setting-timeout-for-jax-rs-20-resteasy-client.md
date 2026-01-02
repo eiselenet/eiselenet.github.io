@@ -3,7 +3,8 @@ title: "Setting Timeout for the JAX-RS 2.0 / Resteasy Client"
 date: 2014-12-06 06:40:00 +0000
 layout: post
 tags: ["javaee7", "Resteasy", "microservices"]
-slug: "2014-12-06-setting-timeout-for-jax-rs-20-resteasy-client"
+slug: "setting-timeout-for-jax-rs-20-resteasy-client"
+link: "2014/12/setting-timeout-for-jax-rs-20-resteasy-client.html"
 url: /2014/12/setting-timeout-for-jax-rs-20-resteasy-client.html
 ---
 

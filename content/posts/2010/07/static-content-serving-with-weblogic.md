@@ -3,7 +3,8 @@ title: "Static content serving with WebLogic Server"
 date: 2010-07-13 08:21:00 +0000
 layout: post
 tags: ["weblogic", "static content"]
-slug: "2010-07-13-static-content-serving-with-weblogic"
+slug: "static-content-serving-with-weblogic"
+link: "2010/07/static-content-serving-with-weblogic.html"
 url: /2010/07/static-content-serving-with-weblogic.html
 ---
 

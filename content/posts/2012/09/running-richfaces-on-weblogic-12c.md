@@ -3,7 +3,8 @@ title: "Running RichFaces on WebLogic 12c"
 date: 2012-09-19 11:34:00 +0000
 layout: post
 tags: ["weblogic", "richfaces", "wls-cat"]
-slug: "2012-09-19-running-richfaces-on-weblogic-12c"
+slug: "running-richfaces-on-weblogic-12c"
+link: "2012/09/running-richfaces-on-weblogic-12c.html"
 url: /2012/09/running-richfaces-on-weblogic-12c.html
 ---
 

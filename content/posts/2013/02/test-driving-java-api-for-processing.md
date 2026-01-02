@@ -3,7 +3,8 @@ title: "Test driving Java API for Processing JSON with GlassFish 4.0"
 date: 2013-02-26 11:37:00 +0000
 layout: post
 tags: ["glassfish", "json", "javaee7"]
-slug: "2013-02-26-test-driving-java-api-for-processing"
+slug: "test-driving-java-api-for-processing"
+link: "2013/02/test-driving-java-api-for-processing.html"
 url: /2013/02/test-driving-java-api-for-processing.html
 ---
 

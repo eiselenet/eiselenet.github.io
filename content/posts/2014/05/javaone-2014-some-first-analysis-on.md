@@ -3,7 +3,8 @@ title: "JavaOne 2014 - Some First Analysis on Submissions"
 date: 2014-05-15 15:28:00 +0000
 layout: post
 tags: ["javaone14", "conference", "analysis"]
-slug: "2014-05-15-javaone-2014-some-first-analysis-on"
+slug: "javaone-2014-some-first-analysis-on"
+link: "2014/05/javaone-2014-some-first-analysis-on.html"
 url: /2014/05/javaone-2014-some-first-analysis-on.html
 ---
 

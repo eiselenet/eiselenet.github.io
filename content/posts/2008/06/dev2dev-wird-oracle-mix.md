@@ -3,7 +3,8 @@ title: "dev2dev wird oracle mix"
 date: 2008-06-02 05:33:00 +0000
 layout: post
 tags: ["bea oracle", "bea"]
-slug: "2008-06-02-dev2dev-wird-oracle-mix"
+slug: "dev2dev-wird-oracle-mix"
+link: "2008/06/dev2dev-wird-oracle-mix.html"
 url: /2008/06/dev2dev-wird-oracle-mix.html
 ---
 

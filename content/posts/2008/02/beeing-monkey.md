@@ -3,7 +3,8 @@ title: "Beeing monkey!"
 date: 2008-02-08 08:01:00 +0000
 layout: post
 tags: ["Teams"]
-slug: "2008-02-08-beeing-monkey"
+slug: "beeing-monkey"
+link: "2008/02/beeing-monkey.html"
 url: /2008/02/beeing-monkey.html
 ---
 

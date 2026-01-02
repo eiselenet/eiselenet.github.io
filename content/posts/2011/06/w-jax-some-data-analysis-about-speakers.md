@@ -3,7 +3,8 @@ title: "W-JAX - some data analysis about speakers."
 date: 2011-06-16 08:34:00 +0000
 layout: post
 tags: ["w-jax", "speaker", "statistics"]
-slug: "2011-06-16-w-jax-some-data-analysis-about-speakers"
+slug: "w-jax-some-data-analysis-about-speakers"
+link: "2011/06/w-jax-some-data-analysis-about-speakers.html"
 url: /2011/06/w-jax-some-data-analysis-about-speakers.html
 ---
 

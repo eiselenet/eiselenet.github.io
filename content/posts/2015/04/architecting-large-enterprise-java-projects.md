@@ -3,7 +3,8 @@ title: "Architecting Large Enterprise Java Projects - My Virtual JUG Session"
 date: 2015-04-02 05:46:00 +0000
 layout: post
 tags: ["vJUG", "javaee", "enterprise", "microservices"]
-slug: "2015-04-02-architecting-large-enterprise-java-projects"
+slug: "architecting-large-enterprise-java-projects"
+link: "2015/04/architecting-large-enterprise-java-projects.html"
 url: /2015/04/architecting-large-enterprise-java-projects.html
 ---
 

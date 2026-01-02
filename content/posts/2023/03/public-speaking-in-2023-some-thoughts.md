@@ -3,7 +3,8 @@ title: "Public Speaking in 2023 - Some thoughts and 10 reasons."
 date: 2023-03-28 13:04:00 +0000
 layout: post
 tags: ["conference", "public speaking"]
-slug: "2023-03-28-public-speaking-in-2023-some-thoughts"
+slug: "public-speaking-in-2023-some-thoughts"
+link: "2023/03/public-speaking-in-2023-some-thoughts.html"
 url: /2023/03/public-speaking-in-2023-some-thoughts.html
 ---
 

@@ -3,7 +3,8 @@ title: "List of GlassFish related Sessions at Oracle OpenWorld and Oracle Develo
 date: 2009-09-29 07:46:00 +0000
 layout: post
 tags: ["oracle", "Sun", "session", "OOW"]
-slug: "2009-09-29-list-of-glassfish-related-sessions-at"
+slug: "list-of-glassfish-related-sessions-at"
+link: "2009/09/list-of-glassfish-related-sessions-at.html"
 url: /2009/09/list-of-glassfish-related-sessions-at.html
 ---
 

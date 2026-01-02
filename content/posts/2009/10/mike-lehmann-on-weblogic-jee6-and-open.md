@@ -3,7 +3,8 @@ title: "Mike Lehmann on #Weblogic, #JEE6 and Open Standards - #OOW09 Followup"
 date: 2009-10-21 05:39:00 +0000
 layout: post
 tags: ["opensource", "oracle", "open world 2009", "Java EE 6", "weblogic server"]
-slug: "2009-10-21-mike-lehmann-on-weblogic-jee6-and-open"
+slug: "mike-lehmann-on-weblogic-jee6-and-open"
+link: "2009/10/mike-lehmann-on-weblogic-jee6-and-open.html"
 url: /2009/10/mike-lehmann-on-weblogic-jee6-and-open.html
 ---
 

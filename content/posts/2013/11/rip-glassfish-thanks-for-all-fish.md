@@ -3,7 +3,8 @@ title: "R.I.P. GlassFish - Thanks for all the fish."
 date: 2013-11-05 05:59:00 +0000
 layout: post
 tags: ["glassfish", "oracle"]
-slug: "2013-11-05-rip-glassfish-thanks-for-all-fish"
+slug: "rip-glassfish-thanks-for-all-fish"
+link: "2013/11/rip-glassfish-thanks-for-all-fish.html"
 url: /2013/11/rip-glassfish-thanks-for-all-fish.html
 ---
 

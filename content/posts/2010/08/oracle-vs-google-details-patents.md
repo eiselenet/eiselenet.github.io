@@ -3,7 +3,8 @@ title: "Oracle vs. Google - the details: Patents, Complaint and Thoughts."
 date: 2010-08-13 05:14:00 +0000
 layout: post
 tags: ["google", "oracle"]
-slug: "2010-08-13-oracle-vs-google-details-patents"
+slug: "oracle-vs-google-details-patents"
+link: "2010/08/oracle-vs-google-details-patents.html"
 url: /2010/08/oracle-vs-google-details-patents.html
 ---
 

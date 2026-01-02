@@ -3,7 +3,8 @@ title: "Oracle Enterprise Pack for Eclipse (OEPE) 11gR1 (11.1.1.6) - New Feature
 date: 2010-08-02 05:48:00 +0000
 layout: post
 tags: ["glassfish", "wtp", "oracle", "OEPE"]
-slug: "2010-08-02-oracle-enterprise-pack-for-eclipse-oepe"
+slug: "oracle-enterprise-pack-for-eclipse-oepe"
+link: "2010/08/oracle-enterprise-pack-for-eclipse-oepe.html"
 url: /2010/08/oracle-enterprise-pack-for-eclipse-oepe.html
 ---
 

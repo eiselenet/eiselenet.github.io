@@ -3,7 +3,8 @@ title: "70 New, Useful AJAX And JavaScript Techniques"
 date: 2009-03-12 11:18:00 +0000
 layout: post
 tags: ["ajax"]
-slug: "2009-03-12-70-new-useful-ajax-and-javascript"
+slug: "70-new-useful-ajax-and-javascript"
+link: "2009/03/70-new-useful-ajax-and-javascript.html"
 url: /2009/03/70-new-useful-ajax-and-javascript.html
 ---
 

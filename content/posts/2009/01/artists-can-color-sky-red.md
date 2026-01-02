@@ -3,7 +3,8 @@ title: "artists can color the sky red"
 date: 2009-01-14 14:17:00 +0000
 layout: post
 tags: [""]
-slug: "2009-01-14-artists-can-color-sky-red"
+slug: "artists-can-color-sky-red"
+link: "2009/01/artists-can-color-sky-red.html"
 url: /2009/01/artists-can-color-sky-red.html
 ---
 

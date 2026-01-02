@@ -3,7 +3,8 @@ title: "Neue Gesichter gesucht!"
 date: 2008-01-21 06:08:00 +0000
 layout: post
 tags: ["msg systems ag", "arbeitgeber", "job", "softwareentwicklung"]
-slug: "2008-01-21-neue-gesichter-gesucht"
+slug: "neue-gesichter-gesucht"
+link: "2008/01/neue-gesichter-gesucht.html"
 url: /2008/01/neue-gesichter-gesucht.html
 ---
 

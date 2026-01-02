@@ -3,7 +3,8 @@ title: "friendly reminder. do architecture documentation the right way."
 date: 2010-05-18 06:40:00 +0000
 layout: post
 tags: ["documentation", "architecture"]
-slug: "2010-05-18-friendly-reminder-do-architecture"
+slug: "friendly-reminder-do-architecture"
+link: "2010/05/friendly-reminder-do-architecture.html"
 url: /2010/05/friendly-reminder-do-architecture.html
 ---
 

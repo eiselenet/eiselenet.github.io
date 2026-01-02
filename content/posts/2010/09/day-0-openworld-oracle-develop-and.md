@@ -3,7 +3,8 @@ title: "Day 0: OpenWorld, Oracle Develop and JavaOne."
 date: 2010-09-16 13:14:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne", "ACED"]
-slug: "2010-09-16-day-0-openworld-oracle-develop-and"
+slug: "day-0-openworld-oracle-develop-and"
+link: "2010/09/day-0-openworld-oracle-develop-and.html"
 url: /2010/09/day-0-openworld-oracle-develop-and.html
 ---
 

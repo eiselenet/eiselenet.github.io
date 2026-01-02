@@ -3,7 +3,8 @@ title: "The Heroes of Java: Eberhard Wolff"
 date: 2011-12-01 07:36:00 +0000
 layout: post
 tags: ["java", "heroes", "EberhardWolff"]
-slug: "2011-12-01-heroes-of-java-eberhard-wolff"
+slug: "heroes-of-java-eberhard-wolff"
+link: "2011/12/heroes-of-java-eberhard-wolff.html"
 url: /2011/12/heroes-of-java-eberhard-wolff.html
 ---
 

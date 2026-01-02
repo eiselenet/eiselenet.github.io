@@ -3,7 +3,8 @@ title: "These things I believe."
 date: 2008-08-19 06:51:00 +0000
 layout: post
 tags: ["mozilla", "ui", "programming", "design"]
-slug: "2008-08-19-these-things-i-believe"
+slug: "these-things-i-believe"
+link: "2008/08/these-things-i-believe.html"
 url: /2008/08/these-things-i-believe.html
 ---
 

@@ -3,7 +3,8 @@ title: "Oracle and Sun"
 date: 2009-04-21 05:09:00 +0000
 layout: post
 tags: ["Sun", "oracle"]
-slug: "2009-04-21-oracle-and-sun"
+slug: "oracle-and-sun"
+link: "2009/04/oracle-and-sun.html"
 url: /2009/04/oracle-and-sun.html
 ---
 

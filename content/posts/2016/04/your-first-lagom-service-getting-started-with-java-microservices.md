@@ -3,7 +3,8 @@ title: "Your first Lagom service - getting started with Java Microservices"
 date: 2016-04-07 07:07:00 +0000
 layout: post
 tags: ["java", "microservices"]
-slug: "2016-04-07-your-first-lagom-service-getting-started-with-java-microservices"
+slug: "your-first-lagom-service-getting-started-with-java-microservices"
+link: "2016/04/your-first-lagom-service-getting-started-with-java-microservices.html"
 url: /2016/04/your-first-lagom-service-getting-started-with-java-microservices.html
 ---
 

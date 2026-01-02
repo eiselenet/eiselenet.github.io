@@ -3,7 +3,8 @@ title: "The Heroes of Java: Çağatay Çivici"
 date: 2012-08-06 16:00:00 +0000
 layout: post
 tags: ["Çağatay Çivici", "HoJ", "java", "heroes"]
-slug: "2012-08-06-the-heroes-of-java-cagatay-civici"
+slug: "the-heroes-of-java-cagatay-civici"
+link: "2012/08/the-heroes-of-java-cagatay-civici.html"
 url: /2012/08/the-heroes-of-java-cagatay-civici.html
 ---
 

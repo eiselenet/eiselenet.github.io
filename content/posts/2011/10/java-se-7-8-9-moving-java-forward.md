@@ -3,7 +3,8 @@ title: "Java SE 7, 8, 9 - Moving Java Forward"
 date: 2011-10-04 04:37:00 +0000
 layout: post
 tags: ["keynote", "javaone11", "java"]
-slug: "2011-10-04-java-se-7-8-9-moving-java-forward"
+slug: "java-se-7-8-9-moving-java-forward"
+link: "2011/10/java-se-7-8-9-moving-java-forward.html"
 url: /2011/10/java-se-7-8-9-moving-java-forward.html
 ---
 

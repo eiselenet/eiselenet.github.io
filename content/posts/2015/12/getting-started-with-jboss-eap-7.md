@@ -3,7 +3,8 @@ title: "Getting Started With The JBoss EAP 7 Quickstarts"
 date: 2015-12-23 15:48:00 +0000
 layout: post
 tags: ["javaee7", "EAP7", "Quickstart", "Jboss"]
-slug: "2015-12-23-getting-started-with-jboss-eap-7"
+slug: "getting-started-with-jboss-eap-7"
+link: "2015/12/getting-started-with-jboss-eap-7.html"
 url: /2015/12/getting-started-with-jboss-eap-7.html
 ---
 

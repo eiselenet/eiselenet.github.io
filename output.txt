@@ -1,0 +1,1210 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< org.acme:blog-eisele-net-roq >--------------------
+[INFO] Building blog-eisele-net-roq 1.0.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ blog-eisele-net-roq ---
+[INFO] skip non existing resourceDirectory /Users/meisele/Library/Mobile Documents/com~apple~CloudDocs/projects/blog-eisele-net-roq/src/main/resources
+[INFO] 
+[INFO] --- quarkus:3.30.2:generate-code (default) @ blog-eisele-net-roq ---
+[INFO] 
+[INFO] --- compiler:3.14.1:compile (default-compile) @ blog-eisele-net-roq ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- quarkus:3.30.2:generate-code-tests (default) @ blog-eisele-net-roq ---
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ blog-eisele-net-roq ---
+[INFO] skip non existing resourceDirectory /Users/meisele/Library/Mobile Documents/com~apple~CloudDocs/projects/blog-eisele-net-roq/src/test/resources
+[INFO] 
+[INFO] --- compiler:3.14.1:testCompile (default-testCompile) @ blog-eisele-net-roq ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.5.4:test (default-test) @ blog-eisele-net-roq ---
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ blog-eisele-net-roq ---
+[INFO] 
+[INFO] --- quarkus:3.30.2:build (default) @ blog-eisele-net-roq ---
+[INFO] [io.quarkiverse.web.bundler.deployment.WebDependenciesProcessor] All Web Dependencies are already installed in './node_modules'.
+[INFO] [io.quarkiverse.web.bundler.deployment.PrepareForBundlingProcessor] Preparing Web Bundling for 'app' with 4 files
+[INFO] [io.quarkiverse.web.bundler.deployment.BundlingProcessor] Web Bundler generated 8 files in 730ms
+[INFO] [io.quarkus.deployment.QuarkusAugmentor] Quarkus augmentation completed in 1810ms
+[INFO] 
+[INFO] --- quarkus:3.30.2:run (default-cli) @ blog-eisele-net-roq ---
+[INFO] [io.quarkus.deployment.QuarkusAugmentor] Quarkus augmentation completed in 223ms
+[INFO] Executing "/Users/meisele/.sdkman/candidates/java/25-tem/bin/java -Dquarkus.platform.version=3.30.2 -Dquarkus.application.version=1.0.0-SNAPSHOT -Dquarkus.platform.artifact-id=quarkus-bom -Dquarkus.platform.group-id=io.quarkus.platform -Dquarkus.application.name=blog-eisele-net-roq -jar /Users/meisele/Library/Mobile Documents/com~apple~CloudDocs/projects/blog-eisele-net-roq/target/quarkus-app/quarkus-run.jar"
+__  ____  __  _____   ___  __ ____  ______ 
+ --/ __ \/ / / / _ | / _ \/ //_/ / / / __/ 
+ -/ /_/ / /_/ / __ |/ , _/ ,< / /_/ /\ \   
+--\___\_\____/_/ |_/_/|_/_/|_|\____/___/   
+2026-01-02 09:29:42,030 INFO  [io.quarkus] (main) blog-eisele-net-roq 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.30.2) started in 0.756s. Listening on: http://0.0.0.0:8080
+2026-01-02 09:29:42,032 INFO  [io.quarkus] (main) Profile prod activated. 
+2026-01-02 09:29:42,032 INFO  [io.quarkus] (main) Installed features: [cdi, qute, qute-web-markdown, roq-data, roq-frontmatter, roq-generator, roq-plugin-markdown, roq-plugin-tagging, smallrye-context-propagation, vertx, web-bundler, web-bundler-tailwindcss]
+2026-01-02 09:29:42,273 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file images/favicon.ico
+2026-01-02 09:29:42,274 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/app-EKV5VSH3.css
+2026-01-02 09:29:42,274 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/app-EKV5VSH3.css.map
+2026-01-02 09:29:42,275 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/app-JNQDHV6Q.js
+2026-01-02 09:29:42,278 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/app-JNQDHV6Q.js.map
+2026-01-02 09:29:42,278 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/assets/atkinson-hyperlegible-latin-400-normal-4XQA3ZPE.woff
+2026-01-02 09:29:42,278 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/assets/atkinson-hyperlegible-latin-400-normal-SPAYGEOD.woff2
+2026-01-02 09:29:42,278 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/assets/atkinson-hyperlegible-latin-ext-400-normal-ASDR7VQP.woff
+2026-01-02 09:29:42,278 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file static/bundle/assets/atkinson-hyperlegible-latin-ext-400-normal-H6U454CV.woff2
+2026-01-02 09:29:42,369 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/das-baby-inbetriebnahme-wartung-und.html
+2026-01-02 09:29:42,369 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/codebeamer-50-comming.html
+2026-01-02 09:29:42,370 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/flickr-uploader-30-oder-die-unendliche.html
+2026-01-02 09:29:42,370 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/enterprise-ajax.html
+2026-01-02 09:29:42,370 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/flickr-uploader-303.html
+2026-01-02 09:29:42,373 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/flickr-uploadr-304.html
+2026-01-02 09:29:42,374 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/from-heart.html
+2026-01-02 09:29:42,374 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/herzlich-willkommen.html
+2026-01-02 09:29:42,375 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/mbel-und-mehr.html
+2026-01-02 09:29:42,376 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/licht-und-belichtung-in-der-fotografie.html
+2026-01-02 09:29:42,377 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/we-two.html
+2026-01-02 09:29:42,378 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/oracle-kauft-bea-systems.html
+2026-01-02 09:29:42,378 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/apache-geronimo-v21-released.html
+2026-01-02 09:29:42,378 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/01/neue-gesichter-gesucht.html
+2026-01-02 09:29:42,379 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/arc42-die-endgltige-antwort-in-version.html
+2026-01-02 09:29:42,380 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/beeing-monkey.html
+2026-01-02 09:29:42,381 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/bleeding-love.html
+2026-01-02 09:29:42,383 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/eine-vorausschau-auf-jsf-20.html
+2026-01-02 09:29:42,383 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/best-practices-fr-ear-files.html
+2026-01-02 09:29:42,383 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/eigenwerbung-artikel-in-ix-032008-heise.html
+2026-01-02 09:29:42,384 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/fit-fr-die-versicherungsbranche.html
+2026-01-02 09:29:42,384 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/icefaces-and-spring.html
+2026-01-02 09:29:42,386 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/jsf-matrix.html
+2026-01-02 09:29:42,386 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/myfaces-portlet-bridge-version-100.html
+2026-01-02 09:29:42,387 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/msg-systems-und-whitestein-technologies.html
+2026-01-02 09:29:42,387 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/nachrichtenaufklrung.html
+2026-01-02 09:29:42,388 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/02/top-5-java-technologies-for-2008.html
+2026-01-02 09:29:42,389 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/03/tiny.html
+2026-01-02 09:29:42,390 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/03/you-are-now-registered-iphone-developer.html
+2026-01-02 09:29:42,391 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/04/adobe-photoshop-lightroom-2-beta.html
+2026-01-02 09:29:42,391 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/03/iphone-webanwendungen-aber-richtig.html
+2026-01-02 09:29:42,391 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/04/ein-interview-mit-adam-bien.html
+2026-01-02 09:29:42,392 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/04/ejb-is-dying.html
+2026-01-02 09:29:42,392 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/04/xul-runner-in-der-praxis.html
+2026-01-02 09:29:42,394 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/06/dev2dev-wird-oracle-mix.html
+2026-01-02 09:29:42,394 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/06/ant-oder-maven-oder-wie-man-schnell-und.html
+2026-01-02 09:29:42,394 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/06/mein-entwicklerhandbuch-google.html
+2026-01-02 09:29:42,396 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/06/jsr-286-portlet-specification-20.html
+2026-01-02 09:29:42,397 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/06/release-of-whitestein-lsabpm-version.html
+2026-01-02 09:29:42,397 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/07/maven-best-practices.html
+2026-01-02 09:29:42,397 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/07/fnf-missverstndnisse-bei-der.html
+2026-01-02 09:29:42,398 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/07/maven-repository-manager-nexus.html
+2026-01-02 09:29:42,398 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/anleitung-fr-performance-und-java.html
+2026-01-02 09:29:42,398 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/cut-out.html
+2026-01-02 09:29:42,399 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/07/maven-goal-eclipserad.html
+2026-01-02 09:29:42,400 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/business-requirements-are-bullshit.html
+2026-01-02 09:29:42,401 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/fhrung-in-teams.html
+2026-01-02 09:29:42,401 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/gwt-15-now-available.html
+2026-01-02 09:29:42,402 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/importent-links-for-oracle-weblogic.html
+2026-01-02 09:29:42,403 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/introduction-to-m2eclipse.html
+2026-01-02 09:29:42,403 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/jsr-316-oder-auch-jee6.html
+2026-01-02 09:29:42,404 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/man-paints-with-his-brains-and-not-with.html
+2026-01-02 09:29:42,404 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/new-online-articles-on-eiselenet.html
+2026-01-02 09:29:42,406 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/oracle-removes-licensing-for-workshop.html
+2026-01-02 09:29:42,406 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/meet-me-at-doag-konferenz-2008.html
+2026-01-02 09:29:42,408 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/oracle-enterprise-pack-for-eclipse-oepe.html
+2026-01-02 09:29:42,410 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/oracle-workshops-support-for-java-ee-5.html
+2026-01-02 09:29:42,410 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/oracle-weblogic-server-103.html
+2026-01-02 09:29:42,410 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/soa-is-dead.html
+2026-01-02 09:29:42,410 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/some-call-it-summer.html
+2026-01-02 09:29:42,411 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/tears-of-night.html
+2026-01-02 09:29:42,411 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/these-things-i-believe.html
+2026-01-02 09:29:42,411 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/ubiquity-xing-command.html
+2026-01-02 09:29:42,412 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/all-in-one-java-troubleshooting-tool.html
+2026-01-02 09:29:42,412 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/writings-past-present-and-future-some.html
+2026-01-02 09:29:42,412 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/08/zbv-adee.html
+2026-01-02 09:29:42,414 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/official-google-blog-fresh-take-on.html
+2026-01-02 09:29:42,414 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/blurred-out-51-things-you-arent-allowed.html
+2026-01-02 09:29:42,415 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/cnet-news-reveals-some-of-chromes-inner.html
+2026-01-02 09:29:42,415 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/composition-on-grails.html
+2026-01-02 09:29:42,416 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/remembering.html
+2026-01-02 09:29:42,416 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/ubiquity-011-released.html
+2026-01-02 09:29:42,416 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/10/drops-in-focus.html
+2026-01-02 09:29:42,416 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/10/five-reasons-software-developers-hate.html
+2026-01-02 09:29:42,417 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/10/firefox-31-beta-1-is-out.html
+2026-01-02 09:29:42,417 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/09/using-mysql-as-rdbms-security-store-for.html
+2026-01-02 09:29:42,418 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/10/introduction-to-adobe-air.html
+2026-01-02 09:29:42,419 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/97-things-every-software-architect.html
+2026-01-02 09:29:42,420 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/10/trends-in-software-engineering.html
+2026-01-02 09:29:42,420 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/ejb-3-from-legacy-technology-to-secret.html
+2026-01-02 09:29:42,422 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/goal-oriented-business-process.html
+2026-01-02 09:29:42,422 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/in-hurry.html
+2026-01-02 09:29:42,422 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/google-and-microsofts-openxml.html
+2026-01-02 09:29:42,423 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/12/istj-duty-fulfillers.html
+2026-01-02 09:29:42,423 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/soa-and-eda-jack-van-hoof-thoughts.html
+2026-01-02 09:29:42,423 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/11/logdigger-gives-wings-to-your-java.html
+2026-01-02 09:29:42,423 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2008/12/doag-review.html
+2026-01-02 09:29:42,423 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/45-jquery-tips-and-techniques.html
+2026-01-02 09:29:42,423 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/2008-review.html
+2026-01-02 09:29:42,424 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/aide-mmoire-psychology-of-why-reuse.html
+2026-01-02 09:29:42,426 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/connecting-php-and-java.html
+2026-01-02 09:29:42,427 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/artists-can-color-sky-red.html
+2026-01-02 09:29:42,427 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/essential-java-resources-in-2009.html
+2026-01-02 09:29:42,427 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/eclipse-process-framework-search-with.html
+2026-01-02 09:29:42,427 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/german-book-about-apache-geronimo.html
+2026-01-02 09:29:42,428 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/grails-with-glassfish-v3-prelude.html
+2026-01-02 09:29:42,428 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/jee6-public-review-draft.html
+2026-01-02 09:29:42,430 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/new-version-of-tda-thread-dump-analyzer.html
+2026-01-02 09:29:42,430 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/perf4j-performance-analysis-for.html
+2026-01-02 09:29:42,431 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/jpa-implementations-comparison.html
+2026-01-02 09:29:42,431 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/installing-and-configuring-wls-apache.html
+2026-01-02 09:29:42,431 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/sales-engineers-and-technology.html
+2026-01-02 09:29:42,431 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/sans-institute-top-25-most-dangerous.html
+2026-01-02 09:29:42,432 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/soa-is-dead-long-live-services.html
+2026-01-02 09:29:42,432 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/see-my-boss-live-eclipse-epf-at-msg.html
+2026-01-02 09:29:42,432 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/01/work-on-stuff-that-matters.html
+2026-01-02 09:29:42,433 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/best-free-rich-text-editors.html
+2026-01-02 09:29:42,433 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/creating-app-in-one-month.html
+2026-01-02 09:29:42,433 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/jcp-approves-java-ee-6-public-review.html
+2026-01-02 09:29:42,433 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/heartstorming-instead-of-brainstorming.html
+2026-01-02 09:29:42,433 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/jsf-versions-and-weblogic-server.html
+2026-01-02 09:29:42,434 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/meet-me-at-sig-fusion-middleware.html
+2026-01-02 09:29:42,434 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/oracle-weblogic-server-on-amazons-ec2.html
+2026-01-02 09:29:42,439 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/perf4j-release-099-available.html
+2026-01-02 09:29:42,439 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/talking-to-sap-jee-integration-with-sap.html
+2026-01-02 09:29:42,439 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/using-html-and-http-compression-with.html
+2026-01-02 09:29:42,444 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/visualizations.html
+2026-01-02 09:29:42,444 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/weblogic-resource-security.html
+2026-01-02 09:29:42,445 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/weblogic-server-quicker-development.html
+2026-01-02 09:29:42,447 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/10-must-know-topics-for-software.html
+2026-01-02 09:29:42,447 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/02/xmind-3-for-eclipse-34-open-source-open.html
+2026-01-02 09:29:42,447 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/building-osgi-applications.html
+2026-01-02 09:29:42,448 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/first-feedback-from-project-coin.html
+2026-01-02 09:29:42,448 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/genivi-alliance.html
+2026-01-02 09:29:42,448 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/get-ready-for-java-on-appengine.html
+2026-01-02 09:29:42,448 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/70-new-useful-ajax-and-javascript.html
+2026-01-02 09:29:42,449 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/ibm-hashing-out-websphere-plans.html
+2026-01-02 09:29:42,449 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/legos-building-block-for-good.html
+2026-01-02 09:29:42,450 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/interesting-links.html
+2026-01-02 09:29:42,450 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/microsofts-future-vision.html
+2026-01-02 09:29:42,450 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/ibm-in-talks-to-buy-sun.html
+2026-01-02 09:29:42,451 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/nine-browsers-of-today-and-tomorrow.html
+2026-01-02 09:29:42,451 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/peer-to-peer-interview-in-oracle.html
+2026-01-02 09:29:42,451 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/oracle-enterprise-pack-for-eclipse-11g.html
+2026-01-02 09:29:42,451 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/rainer-singvogelse09-about-epf.html
+2026-01-02 09:29:42,452 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/so-what-should-you-really-focus-on.html
+2026-01-02 09:29:42,452 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/transactional-file-system-in-java.html
+2026-01-02 09:29:42,453 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/understanding-caching-in-hibernate.html
+2026-01-02 09:29:42,453 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/03/what-can-you-administrate-in-60-minutes.html
+2026-01-02 09:29:42,453 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/04/logging-in-websphere-application-server.html
+2026-01-02 09:29:42,454 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/04/oracle-and-sun.html
+2026-01-02 09:29:42,455 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/05/article-about-suns-glassfish-v3-prelude.html
+2026-01-02 09:29:42,455 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/06/dev-versus-ops.html
+2026-01-02 09:29:42,455 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/06/evolution-of-java-language-is.html
+2026-01-02 09:29:42,456 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/06/gosling-whats-good-for-google-may-not.html
+2026-01-02 09:29:42,456 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/06/introducing-oracle-fusion-middleware.html
+2026-01-02 09:29:42,456 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/06/msg-applied-technology-research.html
+2026-01-02 09:29:42,457 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/building-modern-java-app-with-eclipse.html
+2026-01-02 09:29:42,457 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/06/sampling-of-ejb-31.html
+2026-01-02 09:29:42,457 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/basics-debugging-with-oracle-weblogic.html
+2026-01-02 09:29:42,457 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/adding-additional-source-folders-to.html
+2026-01-02 09:29:42,458 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/generating-static-war-content-archive.html
+2026-01-02 09:29:42,458 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/gmail4j-accessing-gmail-services-from.html
+2026-01-02 09:29:42,458 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/jboss-tools-31-m2-released.html
+2026-01-02 09:29:42,459 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/jsf-2s-new-features.html
+2026-01-02 09:29:42,459 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/last-days-of-edocsbeacom.html
+2026-01-02 09:29:42,459 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/jsf-20-beta-1-on-oracle-weblogic-10gr3.html
+2026-01-02 09:29:42,459 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/jpa-implementation-patterns.html
+2026-01-02 09:29:42,460 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/oracle-application-grid-podcasts.html
+2026-01-02 09:29:42,460 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/quickstart-maven-jee5-project.html
+2026-01-02 09:29:42,460 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/software-engineering-is-idea-whose-time.html
+2026-01-02 09:29:42,461 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/oracle-fusion-middleware-11g-launch.html
+2026-01-02 09:29:42,461 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/suns-stockholders-approve-acquisition.html
+2026-01-02 09:29:42,461 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/spring-300m3-on-google-appengine-with.html
+2026-01-02 09:29:42,461 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/time-is-changing.html
+2026-01-02 09:29:42,461 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/using-hibernate-3x-in-weblogic-server.html
+2026-01-02 09:29:42,461 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/07/using-maven-dependency-projects.html
+2026-01-02 09:29:42,462 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/best-eclipse-plugins.html
+2026-01-02 09:29:42,462 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/book-review-real-world-java-ee-patterns.html
+2026-01-02 09:29:42,463 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/doag-conference-sessions-approved.html
+2026-01-02 09:29:42,463 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/good-enough-revolution.html
+2026-01-02 09:29:42,464 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/j2ee-to-jee5-or-jee6-migration.html
+2026-01-02 09:29:42,464 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/facestrace-tracing-your-jsf.html
+2026-01-02 09:29:42,465 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/jpa-optimistic-locking-and-concurrency.html
+2026-01-02 09:29:42,465 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/enterprise-java-firmer-grasp-of.html
+2026-01-02 09:29:42,466 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/java-ee-6-will-be-around-november.html
+2026-01-02 09:29:42,466 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/monitoring-performance-using-weblogic.html
+2026-01-02 09:29:42,466 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/myfears-dev-preview.html
+2026-01-02 09:29:42,466 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/next-generation-java-programming-style.html
+2026-01-02 09:29:42,467 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/now-mobile-support-for-my-blog.html
+2026-01-02 09:29:42,467 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/things-i-have-in-common-with-martin.html
+2026-01-02 09:29:42,468 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/sparks-and-white-noise-new-oraclesun.html
+2026-01-02 09:29:42,468 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/oepe-support-for-eclipse-35.html
+2026-01-02 09:29:42,469 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/27-of-september-vote-in-germany.html
+2026-01-02 09:29:42,469 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/using-javamail-with-weblogic-server.html
+2026-01-02 09:29:42,469 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/08/tune-your-weblogic-server-application.html
+2026-01-02 09:29:42,469 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/confirmed-ec-delays-oracle-sun-deal.html
+2026-01-02 09:29:42,469 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/customizing-look-and-feel-of-weblogic.html
+2026-01-02 09:29:42,469 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/gartner-identifies-ten-enterprise.html
+2026-01-02 09:29:42,470 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/edocs-updated-links-to-weblogic-server.html
+2026-01-02 09:29:42,472 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/java-ee-container-redeploy-restart.html
+2026-01-02 09:29:42,473 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/integrating-jquery-ajax-and-spring-mvc.html
+2026-01-02 09:29:42,473 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/links-for-sept-1-2009.html
+2026-01-02 09:29:42,473 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/list-of-glassfish-related-sessions-at.html
+2026-01-02 09:29:42,473 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/maven-definitive-guide.html
+2026-01-02 09:29:42,474 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/oracle-openworld-otn-guide-to-oracle.html
+2026-01-02 09:29:42,474 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/pragpub-responsive-design-coming-to.html
+2026-01-02 09:29:42,475 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/primefaces-ui-093-trailer.html
+2026-01-02 09:29:42,475 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/primefaces-ui-component-092-and-optimus.html
+2026-01-02 09:29:42,475 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/rumor-ec-could-delay-oracle-sun-deal.html
+2026-01-02 09:29:42,475 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/spring-framework-30-rc1-released.html
+2026-01-02 09:29:42,475 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/tribute-to-sun-microsystems.html
+2026-01-02 09:29:42,476 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/user-experience-interaction-guidelines.html
+2026-01-02 09:29:42,476 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/09/were-in-it-to-win-it-larry-ellison.html
+2026-01-02 09:29:42,477 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/fundamentals-of-software-architecture.html
+2026-01-02 09:29:42,477 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/is-oracle-good-for-java.html
+2026-01-02 09:29:42,477 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/jim-driscoll-about-jsf-2-and-ajax.html
+2026-01-02 09:29:42,478 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/mike-lehmann-on-weblogic-jee6-and-open.html
+2026-01-02 09:29:42,479 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/magic-quadrant-for-enterprise.html
+2026-01-02 09:29:42,479 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/my-personal-oow09-review.html
+2026-01-02 09:29:42,479 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/oow-in-numers.html
+2026-01-02 09:29:42,479 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/jsf-facelets-myfaces-and-richfaces.html
+2026-01-02 09:29:42,480 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/loadbalancing-with-fail-over-through.html
+2026-01-02 09:29:42,480 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/log4j-twitter-appender-twitter-your.html
+2026-01-02 09:29:42,481 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/optimize-glassfish-performance-in.html
+2026-01-02 09:29:42,481 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/oracle-openworld-2009-pictures-and.html
+2026-01-02 09:29:42,481 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/oracle-openworld-live.html
+2026-01-02 09:29:42,482 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/preview-weblogic-dm-server-weblogic.html
+2026-01-02 09:29:42,483 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/oracle-updates-sun-merger-faq.html
+2026-01-02 09:29:42,483 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/web-dynpro-for-open-source.html
+2026-01-02 09:29:42,483 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/done-is-engine-of-more.html
+2026-01-02 09:29:42,483 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/10/proposed-final-draft-pfd-of-java-ee-6.html
+2026-01-02 09:29:42,483 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/enterprise-grade-jsf-component.html
+2026-01-02 09:29:42,483 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/glassfish-experience-german.html
+2026-01-02 09:29:42,484 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/myfears-tweet-cloud.html
+2026-01-02 09:29:42,484 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/enterprise-modules-project-gemini.html
+2026-01-02 09:29:42,484 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/oracle-ace-program.html
+2026-01-02 09:29:42,485 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/jee-complexity-documentation-pruning.html
+2026-01-02 09:29:42,485 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/oracle-weblogic-server-11g-r1-patch-set.html
+2026-01-02 09:29:42,486 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/oracle-techcasts-from-openworld-2009.html
+2026-01-02 09:29:42,486 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/profound-misunderstanding.html
+2026-01-02 09:29:42,487 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/twitter-search-in-weblogic-console.html
+2026-01-02 09:29:42,488 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/11/wls-10320-jscalite-techpreview-examples.html
+2026-01-02 09:29:42,488 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/celebrating-glassfish-v3-final.html
+2026-01-02 09:29:42,488 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/breaking-news-java-ee-6-is-done.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/java-ee-6-specification-summary-zoom.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/glassfish-v3-calling-weblogic-11g.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/manifesto-for-cloud-computing-published.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/software-quality-basics-ii-ccd-acd-ca.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/software-quality-basics-i-preface-for.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/oracle-seasons-greetings-peace-hope-joy.html
+2026-01-02 09:29:42,490 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/software-quality-jsf-component_14.html
+2026-01-02 09:29:42,491 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/software-quality-jsf-component.html
+2026-01-02 09:29:42,492 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/software-quality-jsf-component_09.html
+2026-01-02 09:29:42,493 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/wls-10320-jscalite-techpreview-examples.html
+2026-01-02 09:29:42,493 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/260-posts-and-some-reworks-personal.html
+2026-01-02 09:29:42,493 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/ec-approves-oracle-and-sun-merger.html
+2026-01-02 09:29:42,494 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/weblogic-11g-calling-glassfish-v3.html
+2026-01-02 09:29:42,494 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2009/12/software-quality-jsf-component_16.html
+2026-01-02 09:29:42,497 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/glassfish-v3-cdi-maven-eclipse.html
+2026-01-02 09:29:42,497 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/jpa-20-and-oracle-weblogic-10320-11g.html
+2026-01-02 09:29:42,497 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/jsr-299-cdi-interceptors.html
+2026-01-02 09:29:42,497 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/jsr-299-cdi-portable-extensions.html
+2026-01-02 09:29:42,498 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/oracle-sun-application-server-strategy.html
+2026-01-02 09:29:42,499 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/news-and-announcements-from-todays.html
+2026-01-02 09:29:42,500 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/switching-to-blogeiselenet.html
+2026-01-02 09:29:42,500 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/oracle-sun-java-strategy-seeejavaone.html
+2026-01-02 09:29:42,500 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/software-hardware-complete-oracle-sun.html
+2026-01-02 09:29:42,500 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/01/running-mojarra-202-on-glassfish-v211.html
+2026-01-02 09:29:42,501 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/article-in-german-ix-magazin-032010.html
+2026-01-02 09:29:42,502 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/cfpjavaone-oracle-develop-and-oracle.html
+2026-01-02 09:29:42,502 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/application-server-unresponsive-or.html
+2026-01-02 09:29:42,507 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/glassfish-vs-weblogic-10-visions-for.html
+2026-01-02 09:29:42,507 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/javafx-platform-official-rich-client.html
+2026-01-02 09:29:42,507 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/jvm-15-gc-tuning-and-weblogic-server.html
+2026-01-02 09:29:42,507 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/java-ee-development-environment-rollout.html
+2026-01-02 09:29:42,507 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/eclipselink-120-jpa-spring-256-mysql-54.html
+2026-01-02 09:29:42,507 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/low-hanging-fruits-in-optimizing-java.html
+2026-01-02 09:29:42,508 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/need-new-boxes-oracle-please-help.html
+2026-01-02 09:29:42,508 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/new-features-of-jsr-317-jpa-20.html
+2026-01-02 09:29:42,508 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/article-in-german-ix-magazin-042010.html
+2026-01-02 09:29:42,508 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/02/jvm-15-gc-tuning-and-weblogic-server_25.html
+2026-01-02 09:29:42,508 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/clouds-word-clouds.html
+2026-01-02 09:29:42,509 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/basic-thoughts-on-architecture-and.html
+2026-01-02 09:29:42,509 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/featured-ace-on-arch2arch.html
+2026-01-02 09:29:42,510 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/getting-started-with-gsw-2-glassfish-v3.html
+2026-01-02 09:29:42,510 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/getting-started-with-gsw-1-java-ee-6.html
+2026-01-02 09:29:42,510 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/getting-started-with-gsw-3-grails-on.html
+2026-01-02 09:29:42,512 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/myfear-flame.html
+2026-01-02 09:29:42,512 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/04/article-in-german-ix-magazin-052010.html
+2026-01-02 09:29:42,512 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/glassfish-product-roadmap-updates.html
+2026-01-02 09:29:42,512 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/03/your-firefox-your-oracle-style.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/04/oracle-introduces-java-virtualization.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/04/finally-there-ipad-at-my-desk.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/04/oracle-ace-director-and-java-champions.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/04/oracle-weblogic-development-only.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/about-java-ee-6-web-profile-und-java-ee.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/doag-2010-conference-and-exhibition-cfp.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/04/weblogic-server-10330-released-it-now.html
+2026-01-02 09:29:42,513 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/friendly-reminder-do-architecture.html
+2026-01-02 09:29:42,514 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/doag-news-0210-glassfish-and-java-ee-6.html
+2026-01-02 09:29:42,514 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/gmail-notesdomino-and-migration.html
+2026-01-02 09:29:42,514 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/java-ee-5-or-6-which-to-choose-today.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/06/goslings-guerrilla-posts-make-me-feel.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/spring-and-google-vs-java-ee-6.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/06/odtug-impressions_28.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/05/polishing-java.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/06/odtug-kaleidoscope-2010-preparations.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/beautifull-twitter-integration.html
+2026-01-02 09:29:42,515 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/java-se-6-release-21-java-hotspot-vm.html
+2026-01-02 09:29:42,516 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/ipad-for-business-about-why-and-how.html
+2026-01-02 09:29:42,516 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/getting-started-with-wlst-and-oracle.html
+2026-01-02 09:29:42,516 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/06/weblogic-server-ssl-httpst3s-and-java.html
+2026-01-02 09:29:42,516 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/jdk-16021-b06-eclipse-vs-16021-b07.html
+2026-01-02 09:29:42,517 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/links-and-tips-for-openworld-javaone.html
+2026-01-02 09:29:42,517 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/netbeans-is-targeted-at-being-number.html
+2026-01-02 09:29:42,517 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/oepe-tech-preview-11gr1-11115-for.html
+2026-01-02 09:29:42,517 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/jrockit-mission-control-suite-and.html
+2026-01-02 09:29:42,517 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/oracle-ace-and-aced-at-doag-conference.html
+2026-01-02 09:29:42,518 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/review-glassfish-security-by-masoud.html
+2026-01-02 09:29:42,518 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/updating-glassfish-server-adapter-with.html
+2026-01-02 09:29:42,518 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/unboxing-javaroadtrip-t-shirt.html
+2026-01-02 09:29:42,518 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/bloggers-meetup-oracle-openworld-2010.html
+2026-01-02 09:29:42,519 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/static-content-serving-with-weblogic.html
+2026-01-02 09:29:42,519 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/07/weblogic-server-documentation-search.html
+2026-01-02 09:29:42,519 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/glassfish-31-logo-suggestions-for.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/ipad-for-business-about-how.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/oracle-vs-google-details-patents.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/packt-launch-fifth-annual-open-source.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/java-enterprise-edition-schedule-for.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/breaking-exalogic-maschine.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/08/oracle-enterprise-pack-for-eclipse-oepe.html
+2026-01-02 09:29:42,520 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-1-aced-briefing-and-future-of-java.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-0-openworld-oracle-develop-and.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-5-lets-get-conference-started.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-3-day-4-part-one-time-for-mental.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-2-aced-briefing-and-going-to-sfo.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-4-glassfish-community-event-and-ace.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-6-working-and-working.html
+2026-01-02 09:29:42,521 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-7-meetings-keynotes-and-party.html
+2026-01-02 09:29:42,522 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/hyphen-ussage-in-package-names.html
+2026-01-02 09:29:42,522 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/day-8-bad-and-ugly-at-oow-javaone10-and.html
+2026-01-02 09:29:42,523 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/java-se-7-8-9-road-ahead.html
+2026-01-02 09:29:42,523 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/mobile-glassfish-admin-gui-with-html-5.html
+2026-01-02 09:29:42,523 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/java-eenext-cloud-exalogic-some.html
+2026-01-02 09:29:42,523 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/new-german-java-magazin-java-aktuell.html
+2026-01-02 09:29:42,524 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/see-me-live-doag-special-interest-group.html
+2026-01-02 09:29:42,524 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/reviewing-javaone-oracle-openworld-and.html
+2026-01-02 09:29:42,524 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/visual-impressions-from-javaone-oracle.html
+2026-01-02 09:29:42,525 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/09/we-all-are-future-of-java.html
+2026-01-02 09:29:42,525 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/18-and-more-clicks-to-future-java-ee-6.html
+2026-01-02 09:29:42,525 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/bleeding-edge-first-steps-with-openjdk.html
+2026-01-02 09:29:42,525 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/free-java-jcpnext-here-are-options.html
+2026-01-02 09:29:42,525 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/java-se-7-new-features-in-detail.html
+2026-01-02 09:29:42,526 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/netbeans-70-milestone-2-features.html
+2026-01-02 09:29:42,526 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/review-java-ee-6-with-glassfish-3.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/10/software-quality-on-jsf-mojarra-203.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/doag-2010-day-3-my-second-talk-tired.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/doag-2010-day-1-people-sightseeing-java.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/doag-2010-day-2-my-talk-people-and.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/arquillian-test-in-container-with.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/doag-2010-its-wrap-in-pictures.html
+2026-01-02 09:29:42,527 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/doag-conference-2010-last-minute.html
+2026-01-02 09:29:42,528 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/mobile-apps-native-flash-html-5.html
+2026-01-02 09:29:42,528 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/thoughts-on-javas-pace-will-kairons.html
+2026-01-02 09:29:42,528 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/12/netbeans-in-large-teams-rollout-and.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/11/review-oracle-jrockit-definitive-guide.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/12/one-thing-you-did-not-know-about-java.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/12/seasons-greetings-and-happy-holidays.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/12/who-is-afraid-of-java-ee-6-get-rid-of.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/2010-year-in-review-some-statistics.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2010/12/seven-ways-to-get-things-started-java.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/about-enterprisejava-and-why-its-there.html
+2026-01-02 09:29:42,529 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/five-ways-to-know-how-your-data-looked.html
+2026-01-02 09:29:42,530 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/glassfish-3-vs-jboss-6-is-web-profile.html
+2026-01-02 09:29:42,530 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/java-ee-7-whats-coming-up-for-2012.html
+2026-01-02 09:29:42,530 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/qr-codes-with-glassfish-and-primefaces.html
+2026-01-02 09:29:42,530 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/review-beautiful-code-leading.html
+2026-01-02 09:29:42,530 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/jdbc-security-realm-and-form-based.html
+2026-01-02 09:29:42,530 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/running-glassfish-with-jrockit.html
+2026-01-02 09:29:42,531 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/using-and-installing-weblogic-10340.html
+2026-01-02 09:29:42,531 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/using-new-weblogic-classloader-analysis.html
+2026-01-02 09:29:42,531 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/doag-advisory-board-meeting-2011.html
+2026-01-02 09:29:42,532 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/doag-ev-advisory-board-meeting-review.html
+2026-01-02 09:29:42,532 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/glassfish-31-arrived-yes-sir-we-do.html
+2026-01-02 09:29:42,532 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/clustering-stateful-session-beans-with.html
+2026-01-02 09:29:42,532 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/01/weblogic-10340-oepe-maven-primefaces.html
+2026-01-02 09:29:42,532 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/glassfish-city-another-view-onto-your.html
+2026-01-02 09:29:42,532 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/hey-netbeans-691-got-some-plugin.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/high-performance-jpa-with-glassfish-and.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/high-performance-jpa-with-glassfish-and_14.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/im-great-think-tank-and-here-is-why.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/javadoc-unloved-child-pragmatic.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/preventing-csrf-with-jsf-20.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/six-reasons-why-you-should-revise-you.html
+2026-01-02 09:29:42,533 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/02/time-to-take-red-pill.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/03/both-weblogic-and-glassfish-are.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/03/high-performance-jpa-with-glassfish-and.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/03/new-article-for-latest-jaxmag-java-ee-6.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/glassfish-31-clustering-swarm.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/glassfish-31-with-oracle-coherence-for.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/javaone-2011-not-back-to-moscone.html
+2026-01-02 09:29:42,534 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/03/why-netbeans-isnt-enterprise-solution.html
+2026-01-02 09:29:42,535 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/new-article-in-java-tech-journal.html
+2026-01-02 09:29:42,535 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/running-richfaces-400final-showcase-on.html
+2026-01-02 09:29:42,535 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/you-should-not-have-any-other.html
+2026-01-02 09:29:42,535 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/blog-redesign-and-some-thoughts.html
+2026-01-02 09:29:42,535 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/doag-2011-conference-and-exhibition.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/04/test-coverage-for-your-enterprise-beans.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/enforcing-upload-limits-with-primefaces.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/glassfish-31-securejdbcrealm-detecting.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/kscope11-preparations-done-i-am-proud.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/jrockit-is-now-free-period.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/new-article-in-german-java-aktuell-ijug.html
+2026-01-02 09:29:42,536 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/oracle-weblogic-server-11g-release-1.html
+2026-01-02 09:29:42,537 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/binding-ssl-sessions-to-httpsessions-in.html
+2026-01-02 09:29:42,537 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/dynamically-registering-webfilter-with.html
+2026-01-02 09:29:42,537 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/devoxx-some-more-data-analysis-about.html
+2026-01-02 09:29:42,537 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/05/securing-your-glassfish-hardening-guide.html
+2026-01-02 09:29:42,537 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/glassfish-tale-oracle-scene.html
+2026-01-02 09:29:42,539 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/kscope-11-day-1-and-2.html
+2026-01-02 09:29:42,539 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/kscope-11-day-3.html
+2026-01-02 09:29:42,539 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/review-real-world-java-ee-night-hacks.html
+2026-01-02 09:29:42,539 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/06/w-jax-some-data-analysis-about-speakers.html
+2026-01-02 09:29:42,540 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/10-ways-to-make-best-out-of-conference.html
+2026-01-02 09:29:42,540 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/dont-use-java-7-are-you-kidding-me.html
+2026-01-02 09:29:42,540 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/introducing-java-7-moving-forward-7711.html
+2026-01-02 09:29:42,540 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/java-glassfish-javamagazin-all-one.html
+2026-01-02 09:29:42,540 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/java-is-moving-forward-and-so-is-duke.html
+2026-01-02 09:29:42,540 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/javaone-2011-java-ee-web-profile-and.html
+2026-01-02 09:29:42,541 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/kscope-11-day-4-to-6-and-wrap-up.html
+2026-01-02 09:29:42,541 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/priorities-java-community-and-oracle.html
+2026-01-02 09:29:42,542 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/javaone-is-looming-on-horizon-6393600.html
+2026-01-02 09:29:42,542 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/release-it-monitoring-performance-in.html
+2026-01-02 09:29:42,543 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/some-free-fun-stuff-glassfish.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/whats-new-in-java-7-part-one.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/07/whats-new-in-java-7-part-two.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/08/im-speaking-at-doag-2011-conference-and.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/08/java-champions-at-javaone-vs-aces-at.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/08/java-enterprise-edition-6-most-elegant.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/08/tired-of-getters-and-setters-lombok.html
+2026-01-02 09:29:42,544 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/08/working-with-money-in-java.html
+2026-01-02 09:29:42,545 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/day-0-javaone-oracle-open-world-and.html
+2026-01-02 09:29:42,545 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/heroes-of-java-charles-oliver-nutter.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/heroes-of-java-marcus-lagergren.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/configure-java-ee-applications-or.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/heroes-of-java-martijn-verburg.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/i-joined-java-code-geek-jcg-program.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/heroes-of-java.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/im-speaking-at-eclipsecon-europe-java7.html
+2026-01-02 09:29:42,546 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/jfokus-data-analysis-about-speakers.html
+2026-01-02 09:29:42,547 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/me-myself-and-myfear-more-about-my.html
+2026-01-02 09:29:42,547 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/new-article-in-german-java-aktuell-ijug.html
+2026-01-02 09:29:42,547 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/javaone-mobile-app-first-detailed-look.html
+2026-01-02 09:29:42,548 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/response-gzip-compression-with.html
+2026-01-02 09:29:42,548 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/thanks-dzone.html
+2026-01-02 09:29:42,548 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/use-java-7-i-am-not-kidding.html
+2026-01-02 09:29:42,549 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/whats-new-in-java-7-part-three.html
+2026-01-02 09:29:42,549 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/day-12-ace-director-briefing-at-oracle.html
+2026-01-02 09:29:42,550 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/09/software-version-control-visualization.html
+2026-01-02 09:29:42,550 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/day-3-my-day-off.html
+2026-01-02 09:29:42,550 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/day-4-meeting-community-java-glassfish.html
+2026-01-02 09:29:42,550 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/get-free-structure101-license-by.html
+2026-01-02 09:29:42,550 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/heroes-of-java-cay-horstmann.html
+2026-01-02 09:29:42,550 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/impressions-glassfish-community-event.html
+2026-01-02 09:29:42,551 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/heroes-of-java-fabiane-bizinella-nardon.html
+2026-01-02 09:29:42,551 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/java-ee-past-present-cloud-7.html
+2026-01-02 09:29:42,551 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/java-se-7-8-9-moving-java-forward.html
+2026-01-02 09:29:42,552 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/leaked-oracle-weblogic-server-12g.html
+2026-01-02 09:29:42,552 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/oepe-11gr1-first-roll-out-of-oracles.html
+2026-01-02 09:29:42,552 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/my-interview-with-tori-wieldt-java.html
+2026-01-02 09:29:42,553 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/heroes-of-java-andrew-lee-rubinger.html
+2026-01-02 09:29:42,553 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/10/oracle-weblogic-java-cloud-service.html
+2026-01-02 09:29:42,553 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/doag-2011-vs-devoxx-value-and.html
+2026-01-02 09:29:42,553 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/eclipsecon-europe-java-7-in-enterprise.html
+2026-01-02 09:29:42,554 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/heroes-of-java-michael-huttermann.html
+2026-01-02 09:29:42,554 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/im-speaking-at-jfokus-2012-13th-15th.html
+2026-01-02 09:29:42,554 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/my-doag-2011-slides.html
+2026-01-02 09:29:42,554 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/oracle-2009-2011-in-gartners-magic.html
+2026-01-02 09:29:42,554 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/review-oracle-weblogic-server-11gr1-ps2.html
+2026-01-02 09:29:42,554 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/11/whats-new-in-java-7-part-four.html
+2026-01-02 09:29:42,555 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/heroes-of-java-agnes-crepet.html
+2026-01-02 09:29:42,555 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/heroes-of-java-eberhard-wolff.html
+2026-01-02 09:29:42,555 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/heroes-of-java-rod-johnson.html
+2026-01-02 09:29:42,555 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/im-speaking-at-kscope12-24th-28th-june.html
+2026-01-02 09:29:42,555 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/installing-and-using-new-weblogic-12.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/it-doesnt-feel-like-but-i-was-in-brazil.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/next-gig-tonight-java-ee-7-update-for.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/moving-java-forward-definition-year-in.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/oracle-announces-availability-of-oracle.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/oracle-jrockit-mission-control-41.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/running-richfaces-410final-on-weblogic.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/wishing-you-happy-and-prosperous-new.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/quickstart-weblogic-12c-with-netbeans.html
+2026-01-02 09:29:42,556 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2011/12/scaling-up-to-weblogic-12c-server-from.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/arquillian-with-netbeans-glassfish.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/arquillian-with-netbeans-weblogic-12c.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/arquillian-with-netbeans-glassfish_18.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/heroes-of-java-trisha-gee.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/new-article-in-german-ix-magazin-time.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/review-jboss-as7-configuration.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/02/headline-of-week-jfokus-in-stockholm.html
+2026-01-02 09:29:42,557 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/02/heroes-of-java-featured-in-janfeb-issue.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/throwing-light-on-glassfish-webserver.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/01/sneak-peak-at-java-ee-7-multitenant.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/02/heroes-of-java-greg-luck.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/02/jfokus-2012-trip-report.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/agile-software-development-with-srcum.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/02/heroes-of-java-ward-cunningham.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/heroes-of-java-ola-bini.html
+2026-01-02 09:29:42,558 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/im-speaking-at-doag-development.html
+2026-01-02 09:29:42,559 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/java-ee-6-example-enhance-security-with.html
+2026-01-02 09:29:42,559 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/java-ee-6-example-running-galleria-on.html
+2026-01-02 09:29:42,559 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/java-ee-6-example-testing-galleria-part.html
+2026-01-02 09:29:42,560 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/java-ee-6-running-galleria-on-glassfish.html
+2026-01-02 09:29:42,560 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/java-ee-6-galleria-example-part-1.html
+2026-01-02 09:29:42,560 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/jfokus-2012-recording-of-my-talk-on.html
+2026-01-02 09:29:42,560 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/updated-oracle-weblogic-server-12110.html
+2026-01-02 09:29:42,560 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/reviewing-java-se-tutorials-now.html
+2026-01-02 09:29:42,560 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/03/why-i-think-ec-is-wrong-about-jsr-357.html
+2026-01-02 09:29:42,561 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/arquillian-100final-released-ready-for.html
+2026-01-02 09:29:42,561 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/5-areas-to-contribute-to-glassfish.html
+2026-01-02 09:29:42,561 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/heroes-of-java-david-blevins.html
+2026-01-02 09:29:42,561 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/i-am-nominated-for-2012-jboss-community.html
+2026-01-02 09:29:42,561 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/javaone-2012-analysis-submitted.html
+2026-01-02 09:29:42,561 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/java-ee-6-example-gracefully-dealing.html
+2026-01-02 09:29:42,562 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/thank-you-im-jboss-community-leader.html
+2026-01-02 09:29:42,562 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/04/short-reminder-for-my-german-readers.html
+2026-01-02 09:29:42,562 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/05/future-of-nosql-with-java-ee.html
+2026-01-02 09:29:42,562 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/05/new-article-in-german-ix-magazin.html
+2026-01-02 09:29:42,563 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/06/if-you-arent-among-those-finding-bugs.html
+2026-01-02 09:29:42,563 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/06/javaone-2012-2400-hours-to-go-some.html
+2026-01-02 09:29:42,564 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/glassfish-operations-log-notifications.html
+2026-01-02 09:29:42,564 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/glassfish-jdbc-security-with-salted.html
+2026-01-02 09:29:42,564 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/06/judcon-trip-report-2012.html
+2026-01-02 09:29:42,565 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/im-going-to-devoxx-2012-12-16-nov-in.html
+2026-01-02 09:29:42,565 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/im-going-to-javaone-2012-30-sept-to-4.html
+2026-01-02 09:29:42,565 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/plan-b-that-is-plan-n-nothing-jigsaw.html
+2026-01-02 09:29:42,565 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/review-enterprise-javabeans-31-by.html
+2026-01-02 09:29:42,565 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/the-heroes-of-java-bauke-scholtz.html
+2026-01-02 09:29:42,566 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/im-speaking-at-javazone-2012-12-13-sept.html
+2026-01-02 09:29:42,566 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/the-heroes-of-java-werner-keil.html
+2026-01-02 09:29:42,566 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/upgrading-mojarra-in-glassfish.html
+2026-01-02 09:29:42,566 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/glassfish-city-revisited.html
+2026-01-02 09:29:42,566 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/i-am-nominated-for-10th-jcp-annual.html
+2026-01-02 09:29:42,567 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/07/whats-new-in-glassfish-server-3122.html
+2026-01-02 09:29:42,567 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/java-champions-at-javaone-2012.html
+2026-01-02 09:29:42,567 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/javaee7-firstimpressions-german.html
+2026-01-02 09:29:42,567 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/jboss-community-leader-documentation.html
+2026-01-02 09:29:42,567 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/ocpsoft-rewrite-totheedge-on-glassfish.html
+2026-01-02 09:29:42,568 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/jsf-component-libraries-quality-is-more.html
+2026-01-02 09:29:42,568 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/realigning-java-ee-7-promise-is-cloud.html
+2026-01-02 09:29:42,568 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/oracle-public-cloud-java-netbeans.html
+2026-01-02 09:29:42,569 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/resource-bundle-tricks-and-best.html
+2026-01-02 09:29:42,569 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/the-heroes-of-java-cagatay-civici.html
+2026-01-02 09:29:42,569 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/08/the-heroes-of-java-sacha-labourey.html
+2026-01-02 09:29:42,570 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/day-0-oracle-openworld-and-javaone.html
+2026-01-02 09:29:42,570 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/javaee6-pocket-guide-by-arun-gupta.html
+2026-01-02 09:29:42,570 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/new-article-in-german-ix-magazin-java.html
+2026-01-02 09:29:42,570 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/oracle-public-cloud-java-service.html
+2026-01-02 09:29:42,571 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/primefaces-push-with-atmosphere-on.html
+2026-01-02 09:29:42,571 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/oracle-and-maven-love-story-out-of-he.html
+2026-01-02 09:29:42,571 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/running-richfaces-on-weblogic-12c.html
+2026-01-02 09:29:42,571 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/some-javazone-2012-impressions.html
+2026-01-02 09:29:42,571 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/09/the-heroes-of-java-stephen-colebourne.html
+2026-01-02 09:29:42,572 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/10/im-speaking-at-jayday-2012-3-dec-in.html
+2026-01-02 09:29:42,572 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/10/review-java-ee-6-cookbook-for-securing.html
+2026-01-02 09:29:42,572 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/10/the-heroes-of-java-angelika-langer.html
+2026-01-02 09:29:42,572 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/10/java-temporary-caching-api-test-driving.html
+2026-01-02 09:29:42,573 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/10/trip-report-oracle-openworld-and.html
+2026-01-02 09:29:42,573 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/11/devoxx-2012-trip-report.html
+2026-01-02 09:29:42,573 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/11/im-speaking-at-oracle-developer-day-oop.html
+2026-01-02 09:29:42,573 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/11/java-specification-requests-in-numbers.html
+2026-01-02 09:29:42,574 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/12/are-your-garbage-collection-logs.html
+2026-01-02 09:29:42,574 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/11/polyglot-persistence-eclipselink-with.html
+2026-01-02 09:29:42,574 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/12/article-about-adopt-jsr-program.html
+2026-01-02 09:29:42,574 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/12/from-xaas-to-java-ee-which-damn-cloud.html
+2026-01-02 09:29:42,574 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/12/i-always-get-more-emotional-when-it.html
+2026-01-02 09:29:42,575 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/12/im-speaking-at-jfokus-2013-4th-6th.html
+2026-01-02 09:29:42,575 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2012/12/java-ee-7-community-survey-results.html
+2026-01-02 09:29:42,575 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/im-speaking-at-devoxx-uk-2013-26th-27th.html
+2026-01-02 09:29:42,575 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/im-speaking-at-ougn-varseminar-17th.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/jdbc-realm-glassfish312-primefaces342.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/report-oop-special-day-oracle.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/the-glassfish-story.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/selecting-your-java-ee-6-application.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/testdriving-mojarra-220-m08-on.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/01/the-heroes-of-java-coleen-phillimore.html
+2026-01-02 09:29:42,576 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/02/prime-ui-jax-rs-with-jersey-and-gson-on.html
+2026-01-02 09:29:42,577 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/02/jfokus-2013-trip-report-hottest-place.html
+2026-01-02 09:29:42,577 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/02/review-java-ee-development-with-eclipse.html
+2026-01-02 09:29:42,577 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/02/test-driving-java-api-for-processing.html
+2026-01-02 09:29:42,578 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/02/the-heroes-of-java-marcus-hirt.html
+2026-01-02 09:29:42,578 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/im-speaking-at-doag-imc-summit-6h-june.html
+2026-01-02 09:29:42,578 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/im-speaking-at-jayday-1th-july-2013-in.html
+2026-01-02 09:29:42,578 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/java-7-update-21-security-improvements.html
+2026-01-02 09:29:42,579 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/javaee-7-with-glassfish-on-eclipse-juno.html
+2026-01-02 09:29:42,579 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/trip-report-devoxxuk-2013-mind-geek.html
+2026-01-02 09:29:42,579 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/trip-report-ougn-varseminar-2013.html
+2026-01-02 09:29:42,579 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/04/otn-interview-by-yolande-porier-about.html
+2026-01-02 09:29:42,580 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/05/im-speaking-at-javaone-22-26-september.html
+2026-01-02 09:29:42,580 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/german-ijug-ev-interviewed-in-latest.html
+2026-01-02 09:29:42,580 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/documenting-compliance-about-tcks.html
+2026-01-02 09:29:42,580 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/glassfish-4-brings-java-ee-7.html
+2026-01-02 09:29:42,580 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/05/review-arquillian-testing-guide-by-john.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/java-ee-7-launch-feedback-and-press.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/java-se-7-update-25-release-notes.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/new-german-article-java-7-update-21.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/new-article-in-german-ix-magazine-java.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/new-german-article-oracle-java-cloud.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/06/javaee7-is-final.html
+2026-01-02 09:29:42,581 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/1935-days-of-twitter.html
+2026-01-02 09:29:42,582 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/awestruct-w-aciidoctor-on-windows-w-jruby.html
+2026-01-02 09:29:42,582 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/experts-training-on-jsf-22-with-edburns.html
+2026-01-02 09:29:42,582 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/review-oracle-weblogic-server-12c.html
+2026-01-02 09:29:42,582 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/island-news-new-german-java-blog.html
+2026-01-02 09:29:42,582 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/the-heroes-of-java-kevlin-henney.html
+2026-01-02 09:29:42,583 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/08/im-speaking-at-doag-conference-19-21.html
+2026-01-02 09:29:42,583 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/07/two-tcks-for-eclipse-what-is-really-in.html
+2026-01-02 09:29:42,583 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/08/review-oracle-weblogic-server-12c.html
+2026-01-02 09:29:42,584 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/09/capedwarf-google-app-engine-on-java-ee.html
+2026-01-02 09:29:42,584 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/09/java-mission-control-52-is-finally-here.html
+2026-01-02 09:29:42,584 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/10/new-article-in-german-ix-magazine.html
+2026-01-02 09:29:42,584 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/10/javaland-2014-cfp-statistics-and.html
+2026-01-02 09:29:42,585 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/09/new-article-in-german-java-aktuell-java.html
+2026-01-02 09:29:42,585 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/10/review-testng-beginners-guide-by-varun.html
+2026-01-02 09:29:42,585 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/10/travel-report-javaone-2013-back-to-glory.html
+2026-01-02 09:29:42,585 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/11/rip-glassfish-thanks-for-all-fish.html
+2026-01-02 09:29:42,586 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/12/my-vjug-session-dont-be-that-guy.html
+2026-01-02 09:29:42,586 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/12/another-year-is-nearly-over.html
+2026-01-02 09:29:42,586 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/12/see-me-at-devnation-13-17-april-2014.html
+2026-01-02 09:29:42,587 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2013/12/project-avatar-whats-in-it-for-java-ee-8.html
+2026-01-02 09:29:42,587 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/01/im-speaking-at-ougn-spring-conference.html
+2026-01-02 09:29:42,587 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/03/abandon-fish-migrating-from-glassfish.html
+2026-01-02 09:29:42,587 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/03/happy-8th-birthday-java.html
+2026-01-02 09:29:42,588 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/01/wildfly-8-vs-glassfish-4-which.html
+2026-01-02 09:29:42,588 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/02/continuous-enterprise-development-in.html
+2026-01-02 09:29:42,588 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/03/javaone-cfp-2014-open-for-business.html
+2026-01-02 09:29:42,588 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/04/trip-report-devnation-2014.html
+2026-01-02 09:29:42,588 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/05/javaone-2014-some-first-analysis-on.html
+2026-01-02 09:29:42,588 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/05/xrebel-on-glassfish-4.html
+2026-01-02 09:29:42,589 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/06/java-ee-8-deliver-more-apps-to-more.html
+2026-01-02 09:29:42,589 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/06/review-java-ee-7-with-glassfish-4.html
+2026-01-02 09:29:42,589 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/07/farewell-msg-systems.html
+2026-01-02 09:29:42,590 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/06/im-speaking-at-javaone-2014-september.html
+2026-01-02 09:29:42,590 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/07/hibernate-statistics-with-hawtio-and.html
+2026-01-02 09:29:42,590 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/07/win-free-ebook-copy-of-wildfly.html
+2026-01-02 09:29:42,590 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/07/getting-started-with-switchyard.html
+2026-01-02 09:29:42,590 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/all-redhat-engineers-at-javaone.html
+2026-01-02 09:29:42,591 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/developer-interviews-di-1-ehsavoie.html
+2026-01-02 09:29:42,591 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/developer-interviews-di-3-christian.html
+2026-01-02 09:29:42,591 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/bootstrapping-apache-camel-in-java-ee7.html
+2026-01-02 09:29:42,591 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/developer-interviews-di-2-claus-ibsen.html
+2026-01-02 09:29:42,592 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/everything-developers-need-to-know-about-redhat-xpaas.html
+2026-01-02 09:29:42,592 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/java-champions-at-javaone-2014.html
+2026-01-02 09:29:42,592 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/java-ee-wildfly-and-jboss-at-upcoming.html
+2026-01-02 09:29:42,593 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/review-wildfly-performance-tuning-by.html
+2026-01-02 09:29:42,593 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/netbeans-nightly-now-includes-wildfly.html
+2026-01-02 09:29:42,593 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/08/start-your-xpaas-journey-with-openshift.html
+2026-01-02 09:29:42,594 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/developer-interview-jeff-genender-apache-microservices.html
+2026-01-02 09:29:42,594 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/developer-interviews-stan-lewis-hawtio-fuse.html
+2026-01-02 09:29:42,595 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/explore-new-camel-metrics-ui-in-hawtio.html
+2026-01-02 09:29:42,595 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/inside-jboss-data-virtualization-ipaas.html
+2026-01-02 09:29:42,595 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/exploring-switchyard-200alpha2.html
+2026-01-02 09:29:42,595 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/ipaas-data-virtualization-in-practice.html
+2026-01-02 09:29:42,596 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/java-ee-7-performance-tuning-and-optimization.html
+2026-01-02 09:29:42,596 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/jboss-fuse-component-details-and-versions.html
+2026-01-02 09:29:42,596 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/make-impossible-happen-connect-with.html
+2026-01-02 09:29:42,596 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/overlord-one-place-to-rule-and-manage-your-apis.html
+2026-01-02 09:29:42,597 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/red-hat-to-acquire-feedhenry.html
+2026-01-02 09:29:42,597 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/rest-api-management-in-wildfly-81-with-overlord.html
+2026-01-02 09:29:42,597 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/wildfly-9-console-with-hawtio.html
+2026-01-02 09:29:42,597 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/09/web-based-ssh-access-to-your-openshift-applications.html
+2026-01-02 09:29:42,597 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/developer-interview-di-6-geert-schuring.html
+2026-01-02 09:29:42,598 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/developer-interview-di-7-matthias-wessendorf.html
+2026-01-02 09:29:42,598 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/java-ee-wildfly-and-jboss-integration.html
+2026-01-02 09:29:42,598 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/learn-about-openshift-fuse-fabric8-hawtio.html
+2026-01-02 09:29:42,598 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/the-heroes-of-java-dan-allen.html
+2026-01-02 09:29:42,598 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/trip-report-openslava-2014.html
+2026-01-02 09:29:42,599 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/virtual-jboss-user-group-virtualjbug.html
+2026-01-02 09:29:42,599 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/the-future-is-micro-service-architectures-with-apache-karaf.html
+2026-01-02 09:29:42,599 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/10/vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian.html
+2026-01-02 09:29:42,599 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo.html
+2026-01-02 09:29:42,599 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/on-java-ee-and-community-voxxed.html
+2026-01-02 09:29:42,599 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/jms-with-activemq-on-openshift-remote-clients-and-encryption.html
+2026-01-02 09:29:42,600 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/technical-details-about-the-jboss-devoxx-demo.html
+2026-01-02 09:29:42,600 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/the-2014-dzone-guide-to-enterprise-integration.html
+2026-01-02 09:29:42,600 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/trip-report-devoxx-belgium-2014.html
+2026-01-02 09:29:42,600 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/11/trip-report-joker-conf-2014.html
+2026-01-02 09:29:42,600 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/camel-on-java-ee-7-rest-services-swagger-api-doc.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/2014-twenty-fourteen-going-on-fifteen.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/developer-interview-di-9-antoine-sabot.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/im-now-netbeans-dream-team-member.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/docker-for-java-ee-developers-on-windows-with-maven.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/java-mission-control-and-flight-recordings-on-wildfly-and-eap.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/javaee-with-netbeans-on-openshift.html
+2026-01-02 09:29:42,601 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/setting-timeout-for-jax-rs-20-resteasy-client.html
+2026-01-02 09:29:42,602 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/redhat-jboss-at-jdkio-2015.html
+2026-01-02 09:29:42,602 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2014/12/wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started.html
+2026-01-02 09:29:42,602 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/about-wildflies-camel-and-large.html
+2026-01-02 09:29:42,602 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/developer-interview-10-gorkem-ercan-about-jbds-and-cordova.html
+2026-01-02 09:29:42,602 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/developer-interview-12-henryk-konsek-about-camel-in-docker.html
+2026-01-02 09:29:42,602 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/developer-interview-di-11-stuart-douglas-about-wildfly9-undertow.html
+2026-01-02 09:29:42,603 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/devnation-call-for-papers-program.html
+2026-01-02 09:29:42,603 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/getting-started-with-openshift-quick-hands-on.html
+2026-01-02 09:29:42,603 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/headlands-with-wildfly-and-infinispan.html
+2026-01-02 09:29:42,603 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/integrating-microservices-with-apache-camel.html
+2026-01-02 09:29:42,603 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/java-ee-docker-wildfly-and-microservices-on-docker.html
+2026-01-02 09:29:42,603 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/jboss-data-virtualization-61-beta-now-available.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/jdbc-realm-wildfly820-primefaces51.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/kickstart-on-api-management-with-jboss-apiman.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/pushing-limits-howto-use-aerogear-with-javaee.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/ssl-with-wildfly-8-and-undertow.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/01/nosql-with-hibernate-ogm-part-one.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/byteman-swiss-army-knife-for-byte-code.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/devconfcz-slides-and-trip-report.html
+2026-01-02 09:29:42,604 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/developer-interview-13-vlad-mihalcea-about-hibernate-locking.html
+2026-01-02 09:29:42,605 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs.html
+2026-01-02 09:29:42,605 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/developer-interview-di14-corinne-krych.html
+2026-01-02 09:29:42,605 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/jboss-forge-netbeans-integration.html
+2026-01-02 09:29:42,605 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/mark-little-about-enterprise-and-iot.html
+2026-01-02 09:29:42,606 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/marcus-lagergren-20-years-of-java-in-review.html
+2026-01-02 09:29:42,606 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/nosql-with-hibernate-ogm-part-two.html
+2026-01-02 09:29:42,606 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/playing-with-weld-probe-see-all-of-your.html
+2026-01-02 09:29:42,606 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/plug-in-policies-into-jboss-apiman.html
+2026-01-02 09:29:42,606 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/03/developer-interview-16-openshift-docker-kubernetes.html
+2026-01-02 09:29:42,606 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/secure-jdbc-realm-with-custom-principle.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/02/two-way-ssl-with-wildfly-and-undertow.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/03/the-road-to-awesome-jboss-champions-program.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/architecting-large-enterprise-java-projects.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/continuous-delivery-with-docker.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/di17-with-alex-soto-testing-applications-in-docker-arquillian.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/how-to-contribute-to-jboss-wildfly.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/how-to-use-docker-16-windows-client.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/javaland4kids-celebrates-successful.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/javaone-tips-and-recommendations-for-a-successful-submission.html
+2026-01-02 09:29:42,607 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/review-wildfly-configuration-deployment-administration-packtpub.html
+2026-01-02 09:29:42,608 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/the-java-council-first-vjug-podcast.html
+2026-01-02 09:29:42,608 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/time-to-toss-out-java-7-jboss-eap-64-is-here.html
+2026-01-02 09:29:42,608 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/welcome-google-summer-of-code-students.html
+2026-01-02 09:29:42,608 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/04/what-do-assistant-dogs-and-java-have-in.html
+2026-01-02 09:29:42,609 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/05/java-ee-deployment-secenarios-for-docker.html
+2026-01-02 09:29:42,609 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/05/docker-maschine-on-windows-host-setup-howto.html
+2026-01-02 09:29:42,609 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/05/my-toddler-knows-more-about-computers-than-I-do.html
+2026-01-02 09:29:42,610 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/05/red-hat-is-now-strategic-eclipse-member.html
+2026-01-02 09:29:42,610 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/06/docker-compose-on-windows-with-python.html
+2026-01-02 09:29:42,610 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/monitoring-devops-style-with-wildfly-9.html
+2026-01-02 09:29:42,611 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/06/nosql-with-hibernate-ogm-rest-with-wildfly.html
+2026-01-02 09:29:42,612 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/running-wildfly-on-openshift-3-with-kubernetes-fabric8-on-windows.html
+2026-01-02 09:29:42,612 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/sending-jms-messages-from-wildfly-8-to-weblogic-with-camel.html
+2026-01-02 09:29:42,612 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/scaling-and-load-balancing-wildfly-with-fabric8-openshift.html
+2026-01-02 09:29:42,612 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/using-camel-routes-in-java-ee-components.html
+2026-01-02 09:29:42,612 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/using-jpa-and-cdi-beans-with-camel-on-wildfly.html
+2026-01-02 09:29:42,613 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/08/coding-in-cloud-based-enterprise.html
+2026-01-02 09:29:42,613 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/08/devoxx-morocco-whats-in-it-for-you.html
+2026-01-02 09:29:42,613 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/09/50-off-for-top-wildfly-books.html
+2026-01-02 09:29:42,613 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/07/weblogic-server-1213-on-kubernetes.html
+2026-01-02 09:29:42,613 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/09/running-openshift-origin-on-windows.html
+2026-01-02 09:29:42,614 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/09/wildfly-10-cr-2-released-java-ee-7-java.html
+2026-01-02 09:29:42,614 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/akka-http-in-the-cloud-maven-docker-for-java-developers.html
+2026-01-02 09:29:42,614 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/deploying-java-ee-microservices-on-openshift.html
+2026-01-02 09:29:42,614 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/docker-for-java-ee-developers-javvaone.html
+2026-01-02 09:29:42,614 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/all-about-red-hat-at-javaone-2015.html
+2026-01-02 09:29:42,614 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/learn-more-red-hat-mini-theater-at-javaone-2015.html
+2026-01-02 09:29:42,615 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/my-book-modern-java-ee-design-patterns.html
+2026-01-02 09:29:42,615 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/quick-tip-running-wildfly-docker-image-on-openshift-origin.html
+2026-01-02 09:29:42,615 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/openshift-quick-tip-port-forwarding.html
+2026-01-02 09:29:42,615 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/running-mysql-database-with-persistent.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/scaling-java-ee-microservices-openshift.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/a-refresher-java-ee-7-at-glance.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/10/wildfly-swarm-jax-rs-microservice-on-docker.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/book-review-arquillian-in-action.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/getting-started-with-eap-7-alpha-and.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/getting-started-with-jboss-wildfly-10.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/how-esb-look-like-today-opensource.html
+2026-01-02 09:29:42,616 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/more-java-ee-from-red-hat-engineers-at-devoxx-2015.html
+2026-01-02 09:29:42,617 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html
+2026-01-02 09:29:42,617 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/http2-with-jboss-eap-7.html
+2026-01-02 09:29:42,617 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/promoting-docker-images-across-environments-on-openshift.html
+2026-01-02 09:29:42,617 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/theft-proof-java-ee-securing-your-javaee-enterprise-applications.html
+2026-01-02 09:29:42,617 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/11/red-hat-jboss-enterprise-application-platform-7.0-alpha.html
+2026-01-02 09:29:42,617 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/a-java-ee-7-application-on-openshift-3.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/a-refresher-top-10-java-ee-7-backend.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/getting-started-with-jboss-eap-7.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/goodbye-2015-hello-2016-happy-new-year.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/how-microservices-devops-and-paas-impact-javaee.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/loadbalancing-with-undertow-on-eap-7.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/java-ee-microservices-architecture.html
+2026-01-02 09:29:42,618 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2015/12/red-hat-eap7-public-beta-early-access.html
+2026-01-02 09:29:42,619 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/01/a-refresher-top-5-java-ee-7-frontend.html
+2026-01-02 09:29:42,619 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/01/how-devops-and-microservices-accelerate.html
+2026-01-02 09:29:42,619 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/01/get-up-to-speed-with-microservices-in-8.html
+2026-01-02 09:29:42,619 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/01/running-any-docker-image-on-openshift.html
+2026-01-02 09:29:42,619 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/02/taking-off-red-fedora-hello-lightbend.html
+2026-01-02 09:29:42,620 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/03/free-ebook-about-reactive-microservices.html
+2026-01-02 09:29:42,620 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/03/let-lagom-help-with-your-microservices-troubles.html
+2026-01-02 09:29:42,620 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/03/review-learning-akka-by-jason-goodwin.html
+2026-01-02 09:29:42,621 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/04/integration-architecture-with-java-ee-and-spring.html
+2026-01-02 09:29:42,621 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/04/your-first-lagom-service-getting-started-with-java-microservices.html
+2026-01-02 09:29:42,621 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/05/developing-reactive-microservices-with.html
+2026-01-02 09:29:42,622 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/05/modern-architecture-with-containers-microservices-and-nosql.html
+2026-01-02 09:29:42,622 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/06/how-cloud-containers-microservices-and.html
+2026-01-02 09:29:42,622 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/07/cqrs-with-java-and-lagom.html
+2026-01-02 09:29:42,624 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/08/build-and-deploy-microservices-modern.html
+2026-01-02 09:29:42,624 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/08/remote-jms-with-wildfly-swarm.html
+2026-01-02 09:29:42,625 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/08/join-me-for-reactive-microservices.html
+2026-01-02 09:29:42,625 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/08/lightbender-at-javaone-2016.html
+2026-01-02 09:29:42,625 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/12/no-being-wary-doesnt-hurt-java-comment.html
+2026-01-02 09:29:42,626 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2016/09/replacing-legacy-java-ee-application.html
+2026-01-02 09:29:42,626 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2017/02/from-microservices-to-distributed-systems-java.html
+2026-01-02 09:29:42,626 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2017/06/reactive-microservices-with-lagom-java.html
+2026-01-02 09:29:42,627 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2022/05/modernizing-enterprise-java.html
+2026-01-02 09:29:42,627 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2022/11/dieting-vs-nutrition-vs-rethinking-my.html
+2026-01-02 09:29:42,629 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2023/03/public-speaking-in-2023-some-thoughts.html
+2026-01-02 09:29:42,629 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2023/03/public-speaking-in-2023-some-thoughts.html!
+2026-01-02 09:29:42,629 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2023/08/a-running-update-and-two-confessions-i.html!
+2026-01-02 09:29:42,630 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2024/03/a-developers-guide-to-secure-supply-chains.html
+2026-01-02 09:29:42,630 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2023/08/a-running-update-and-two-confessions-i.html
+2026-01-02 09:29:42,630 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2024/09/review-java-coding-problems-second.html
+2026-01-02 09:29:42,631 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2024/12/theres-no-silver-bullet-for-developer.html
+2026-01-02 09:29:42,632 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/01/flow-state-coloring-book-developer-adventure.html
+2026-01-02 09:29:42,632 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/02/cncf-platform-engineering-maturity-model-tvp-guide.html
+2026-01-02 09:29:42,633 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/03/devnexus-2025-talk-backstage-software.html
+2026-01-02 09:29:42,633 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/02/applied-ai-for-enterprise-java.html
+2026-01-02 09:29:42,633 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/07/six-months-of-enterprise-java-and.html
+2026-01-02 09:29:42,633 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/09/quarkus-foundations-for-java-developers.html
+2026-01-02 09:29:42,633 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/07/big-news-announcing-my-new-flagship.html
+2026-01-02 09:29:42,634 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/12/applied-ai-enterprise-java-book-oreilly.html
+2026-01-02 09:29:42,634 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/10/java-ai-cloud-native-quarkus-guide.html
+2026-01-02 09:29:42,634 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file 2025/12/java-ai-quarkus-enterprise-engineering-2025-review.html
+2026-01-02 09:29:42,634 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file about/index.html
+2026-01-02 09:29:42,637 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file index.html
+2026-01-02 09:29:42,637 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page100/index.html
+2026-01-02 09:29:42,638 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page10/index.html
+2026-01-02 09:29:42,638 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page102/index.html
+2026-01-02 09:29:42,638 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page101/index.html
+2026-01-02 09:29:42,639 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page105/index.html
+2026-01-02 09:29:42,639 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page104/index.html
+2026-01-02 09:29:42,640 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page107/index.html
+2026-01-02 09:29:42,640 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page103/index.html
+2026-01-02 09:29:42,640 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page106/index.html
+2026-01-02 09:29:42,641 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page108/index.html
+2026-01-02 09:29:42,642 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page109/index.html
+2026-01-02 09:29:42,642 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page11/index.html
+2026-01-02 09:29:42,642 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page110/index.html
+2026-01-02 09:29:42,643 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page111/index.html
+2026-01-02 09:29:42,644 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page112/index.html
+2026-01-02 09:29:42,644 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page115/index.html
+2026-01-02 09:29:42,645 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page116/index.html
+2026-01-02 09:29:42,645 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page114/index.html
+2026-01-02 09:29:42,645 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page113/index.html
+2026-01-02 09:29:42,645 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page117/index.html
+2026-01-02 09:29:42,646 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page118/index.html
+2026-01-02 09:29:42,646 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page119/index.html
+2026-01-02 09:29:42,647 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page12/index.html
+2026-01-02 09:29:42,647 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page120/index.html
+2026-01-02 09:29:42,647 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page121/index.html
+2026-01-02 09:29:42,648 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page122/index.html
+2026-01-02 09:29:42,648 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page123/index.html
+2026-01-02 09:29:42,648 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page124/index.html
+2026-01-02 09:29:42,648 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page126/index.html
+2026-01-02 09:29:42,649 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page125/index.html
+2026-01-02 09:29:42,649 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page127/index.html
+2026-01-02 09:29:42,649 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page128/index.html
+2026-01-02 09:29:42,650 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page13/index.html
+2026-01-02 09:29:42,650 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page130/index.html
+2026-01-02 09:29:42,650 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page129/index.html
+2026-01-02 09:29:42,651 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,651 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,651 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page131/index.html
+2026-01-02 09:29:42,651 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page132/index.html
+2026-01-02 09:29:42,651 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page133/index.html
+2026-01-02 09:29:42,651 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page134/index.html
+2026-01-02 09:29:42,651 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,651 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page135/index.html
+2026-01-02 09:29:42,651 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,652 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page136/index.html
+2026-01-02 09:29:42,652 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page137/index.html
+2026-01-02 09:29:42,653 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page138/index.html
+2026-01-02 09:29:42,653 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page139/index.html
+2026-01-02 09:29:42,653 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page14/index.html
+2026-01-02 09:29:42,653 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page140/index.html
+2026-01-02 09:29:42,654 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page141/index.html
+2026-01-02 09:29:42,654 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page142/index.html
+2026-01-02 09:29:42,654 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page143/index.html
+2026-01-02 09:29:42,654 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page144/index.html
+2026-01-02 09:29:42,654 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page145/index.html
+2026-01-02 09:29:42,655 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page146/index.html
+2026-01-02 09:29:42,655 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page147/index.html
+2026-01-02 09:29:42,656 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page149/index.html
+2026-01-02 09:29:42,656 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page148/index.html
+2026-01-02 09:29:42,657 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page15/index.html
+2026-01-02 09:29:42,657 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page150/index.html
+2026-01-02 09:29:42,658 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page151/index.html
+2026-01-02 09:29:42,658 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page154/index.html
+2026-01-02 09:29:42,658 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page153/index.html
+2026-01-02 09:29:42,659 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page152/index.html
+2026-01-02 09:29:42,660 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page155/index.html
+2026-01-02 09:29:42,660 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page156/index.html
+2026-01-02 09:29:42,663 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page157/index.html
+2026-01-02 09:29:42,663 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page159/index.html
+2026-01-02 09:29:42,663 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page158/index.html
+2026-01-02 09:29:42,664 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page16/index.html
+2026-01-02 09:29:42,664 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page160/index.html
+2026-01-02 09:29:42,664 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page161/index.html
+2026-01-02 09:29:42,664 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page162/index.html
+2026-01-02 09:29:42,664 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page163/index.html
+2026-01-02 09:29:42,664 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page164/index.html
+2026-01-02 09:29:42,665 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page18/index.html
+2026-01-02 09:29:42,665 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page19/index.html
+2026-01-02 09:29:42,665 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page17/index.html
+2026-01-02 09:29:42,665 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page2/index.html
+2026-01-02 09:29:42,666 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page20/index.html
+2026-01-02 09:29:42,666 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page21/index.html
+2026-01-02 09:29:42,667 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page23/index.html
+2026-01-02 09:29:42,667 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page22/index.html
+2026-01-02 09:29:42,667 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page24/index.html
+2026-01-02 09:29:42,668 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page26/index.html
+2026-01-02 09:29:42,668 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page25/index.html
+2026-01-02 09:29:42,669 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page29/index.html
+2026-01-02 09:29:42,669 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page28/index.html
+2026-01-02 09:29:42,669 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page3/index.html
+2026-01-02 09:29:42,669 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page27/index.html
+2026-01-02 09:29:42,670 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page30/index.html
+2026-01-02 09:29:42,671 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page31/index.html
+2026-01-02 09:29:42,671 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page32/index.html
+2026-01-02 09:29:42,671 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page33/index.html
+2026-01-02 09:29:42,672 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page34/index.html
+2026-01-02 09:29:42,673 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page36/index.html
+2026-01-02 09:29:42,674 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page35/index.html
+2026-01-02 09:29:42,674 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page38/index.html
+2026-01-02 09:29:42,674 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page37/index.html
+2026-01-02 09:29:42,675 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page39/index.html
+2026-01-02 09:29:42,676 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page41/index.html
+2026-01-02 09:29:42,676 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page4/index.html
+2026-01-02 09:29:42,677 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page40/index.html
+2026-01-02 09:29:42,677 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page42/index.html
+2026-01-02 09:29:42,677 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page43/index.html
+2026-01-02 09:29:42,678 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page46/index.html
+2026-01-02 09:29:42,678 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page44/index.html
+2026-01-02 09:29:42,679 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page45/index.html
+2026-01-02 09:29:42,679 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page47/index.html
+2026-01-02 09:29:42,679 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page48/index.html
+2026-01-02 09:29:42,680 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page49/index.html
+2026-01-02 09:29:42,680 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page5/index.html
+2026-01-02 09:29:42,681 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page50/index.html
+2026-01-02 09:29:42,682 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page51/index.html
+2026-01-02 09:29:42,683 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page52/index.html
+2026-01-02 09:29:42,684 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page53/index.html
+2026-01-02 09:29:42,685 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page55/index.html
+2026-01-02 09:29:42,686 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page56/index.html
+2026-01-02 09:29:42,687 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page57/index.html
+2026-01-02 09:29:42,689 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page54/index.html
+2026-01-02 09:29:42,689 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page6/index.html
+2026-01-02 09:29:42,689 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page58/index.html
+2026-01-02 09:29:42,691 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page59/index.html
+2026-01-02 09:29:42,692 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page60/index.html
+2026-01-02 09:29:42,693 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page61/index.html
+2026-01-02 09:29:42,694 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page63/index.html
+2026-01-02 09:29:42,694 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page64/index.html
+2026-01-02 09:29:42,695 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page62/index.html
+2026-01-02 09:29:42,696 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page65/index.html
+2026-01-02 09:29:42,697 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page66/index.html
+2026-01-02 09:29:42,697 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page69/index.html
+2026-01-02 09:29:42,697 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page68/index.html
+2026-01-02 09:29:42,698 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page7/index.html
+2026-01-02 09:29:42,699 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page67/index.html
+2026-01-02 09:29:42,699 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page70/index.html
+2026-01-02 09:29:42,701 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page71/index.html
+2026-01-02 09:29:42,703 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page74/index.html
+2026-01-02 09:29:42,705 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page73/index.html
+2026-01-02 09:29:42,706 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page72/index.html
+2026-01-02 09:29:42,706 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page76/index.html
+2026-01-02 09:29:42,707 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page75/index.html
+2026-01-02 09:29:42,708 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page77/index.html
+2026-01-02 09:29:42,710 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page78/index.html
+2026-01-02 09:29:42,711 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page79/index.html
+2026-01-02 09:29:42,712 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page80/index.html
+2026-01-02 09:29:42,712 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page81/index.html
+2026-01-02 09:29:42,713 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page8/index.html
+2026-01-02 09:29:42,713 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page82/index.html
+2026-01-02 09:29:42,714 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page83/index.html
+2026-01-02 09:29:42,714 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page84/index.html
+2026-01-02 09:29:42,715 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page86/index.html
+2026-01-02 09:29:42,715 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page85/index.html
+2026-01-02 09:29:42,715 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page87/index.html
+2026-01-02 09:29:42,716 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page89/index.html
+2026-01-02 09:29:42,716 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page88/index.html
+2026-01-02 09:29:42,716 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page90/index.html
+2026-01-02 09:29:42,717 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page9/index.html
+2026-01-02 09:29:42,717 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page91/index.html
+2026-01-02 09:29:42,717 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page92/index.html
+2026-01-02 09:29:42,717 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page94/index.html
+2026-01-02 09:29:42,717 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page93/index.html
+2026-01-02 09:29:42,717 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page95/index.html
+2026-01-02 09:29:42,718 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page96/index.html
+2026-01-02 09:29:42,718 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page98/index.html
+2026-01-02 09:29:42,718 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page99/index.html
+2026-01-02 09:29:42,718 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/page97/index.html
+2026-01-02 09:29:42,719 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/10/index.html
+2026-01-02 09:29:42,720 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/10gR3/index.html
+2026-01-02 09:29:42,720 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/12c/index.html
+2026-01-02 09:29:42,720 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/11g/index.html
+2026-01-02 09:29:42,720 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/11gR1/index.html
+2026-01-02 09:29:42,720 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/12g/index.html
+2026-01-02 09:29:42,721 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/20-years/index.html
+2026-01-02 09:29:42,721 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2-2/index.html
+2026-01-02 09:29:42,722 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2008/index.html
+2026-01-02 09:29:42,723 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2009/index.html
+2026-01-02 09:29:42,723 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2-0-2/index.html
+2026-01-02 09:29:42,724 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2012-2011/index.html
+2026-01-02 09:29:42,724 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2010/index.html
+2026-01-02 09:29:42,725 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2012/index.html
+2026-01-02 09:29:42,725 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2013/index.html
+2026-01-02 09:29:42,726 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2014/index.html
+2026-01-02 09:29:42,727 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2016/index.html
+2026-01-02 09:29:42,727 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/3-0-RC1/index.html
+2026-01-02 09:29:42,727 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/7u25/index.html
+2026-01-02 09:29:42,728 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/2015/index.html
+2026-01-02 09:29:42,729 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/3-1-beta/index.html
+2026-01-02 09:29:42,730 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/7u40/index.html
+2026-01-02 09:29:42,731 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ACED/page2/index.html
+2026-01-02 09:29:42,731 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ACED/index.html
+2026-01-02 09:29:42,732 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ACED/page4/index.html
+2026-01-02 09:29:42,732 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ACED/page3/index.html
+2026-01-02 09:29:42,733 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/AI/index.html
+2026-01-02 09:29:42,733 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/AIR/index.html
+2026-01-02 09:29:42,733 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/API/index.html
+2026-01-02 09:29:42,734 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/AS7/index.html
+2026-01-02 09:29:42,734 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ASJava/index.html
+2026-01-02 09:29:42,735 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ActiveMQ/index.html
+2026-01-02 09:29:42,736 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Adobe/index.html
+2026-01-02 09:29:42,736 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/AgnesCrepet/index.html
+2026-01-02 09:29:42,737 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Alpha/index.html
+2026-01-02 09:29:42,737 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/AeroGear/index.html
+2026-01-02 09:29:42,737 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/AngelikaLanger/index.html
+2026-01-02 09:29:42,738 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Amazon/index.html
+2026-01-02 09:29:42,738 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Answers/index.html
+2026-01-02 09:29:42,739 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Apiman/index.html
+2026-01-02 09:29:42,739 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Apple/index.html
+2026-01-02 09:29:42,739 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Application-server/index.html
+2026-01-02 09:29:42,739 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Applied-AI-for-Enterprise-Java/index.html
+2026-01-02 09:29:42,740 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Arquillian/index.html
+2026-01-02 09:29:42,740 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Arquillian/page2/index.html
+2026-01-02 09:29:42,740 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/ArunGupta/index.html
+2026-01-02 09:29:42,741 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Arquillian/page3/index.html
+2026-01-02 09:29:42,741 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Arquillian/page4/index.html
+2026-01-02 09:29:42,741 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Avatar/index.html
+2026-01-02 09:29:42,742 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Awards/index.html
+2026-01-02 09:29:42,742 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Awestruct/index.html
+2026-01-02 09:29:42,742 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Backstage/index.html
+2026-01-02 09:29:42,743 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Babon/index.html
+2026-01-02 09:29:42,743 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/BalusC/index.html
+2026-01-02 09:29:42,744 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/BaukeScholtz/index.html
+2026-01-02 09:29:42,745 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Beautiful-Code/index.html
+2026-01-02 09:29:42,746 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/BoF/index.html
+2026-01-02 09:29:42,746 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Beginner/index.html
+2026-01-02 09:29:42,746 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Boot2Docker/index.html
+2026-01-02 09:29:42,746 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Boston/index.html
+2026-01-02 09:29:42,747 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Byteman/index.html
+2026-01-02 09:29:42,747 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CD/index.html
+2026-01-02 09:29:42,747 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CI/index.html
+2026-01-02 09:29:42,747 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CDI/index.html
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CLI/index.html
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,748 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CJUG/index.html
+2026-01-02 09:29:42,748 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CQRS/index.html
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CSRF/index.html
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,749 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Camel/index.html
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Camel/page2/index.html
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/CapeDwarf/index.html
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page3/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page4/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//page2/: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,750 INFO  [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generated file posts/tag/Cay-Horstmann/index.html
+2026-01-02 09:29:42,750 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq request failed /posts/tag//: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,755 ERROR [io.quarkiverse.roq.generator.runtime.RoqGenerator] (vert.x-eventloop-thread-0) Roq generation failed: io.vertx.core.VertxException: Response status code 404 is not equal to 200
+
+2026-01-02 09:29:42,906 INFO  [io.quarkus] (main) blog-eisele-net-roq stopped in 0.151s
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.154 s
+[INFO] Finished at: 2026-01-02T09:29:42+01:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal io.quarkus.platform:quarkus-maven-plugin:3.30.2:run (default-cli) on project blog-eisele-net-roq: Execution default-cli of goal io.quarkus.platform:quarkus-maven-plugin:3.30.2:run failed: Process exited abnormally (pid 92069) with exit code 1 with error output:
+[ERROR]  > WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+[ERROR]  > WARNING: sun.misc.Unsafe::allocateMemory has been called by io.netty.util.internal.PlatformDependent0$2 (file:/Users/meisele/Library/Mobile%20Documents/com~apple~CloudDocs/projects/blog-eisele-net-roq/target/quarkus-app/lib/main/io.netty.netty-common-4.1.1
+[ERROR]  > WARNING: Please consider reporting this to the maintainers of class io.netty.util.internal.PlatformDependent0$2
+[ERROR]  > WARNING: sun.misc.Unsafe::allocateMemory will be removed in a future release
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginExecutionException

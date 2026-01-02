@@ -3,7 +3,8 @@ title: "The Heroes of Java: Coleen Phillimore"
 date: 2013-01-21 11:16:00 +0000
 layout: post
 tags: ["Coleen Phillimore", "HoJ", "java"]
-slug: "2013-01-21-the-heroes-of-java-coleen-phillimore"
+slug: "the-heroes-of-java-coleen-phillimore"
+link: "2013/01/the-heroes-of-java-coleen-phillimore.html"
 url: /2013/01/the-heroes-of-java-coleen-phillimore.html
 ---
 

@@ -3,7 +3,8 @@ title: "Hibernate Statistics with Hawtio and Jolokia"
 date: 2014-07-31 08:39:00 +0000
 layout: post
 tags: ["Hibernate", "jpa", "Jolokia", "Hawtio"]
-slug: "2014-07-31-hibernate-statistics-with-hawtio-and"
+slug: "hibernate-statistics-with-hawtio-and"
+link: "2014/07/hibernate-statistics-with-hawtio-and.html"
 url: /2014/07/hibernate-statistics-with-hawtio-and.html
 ---
 

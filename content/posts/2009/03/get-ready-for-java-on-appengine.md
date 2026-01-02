@@ -3,7 +3,8 @@ title: "Get Ready For Java On AppEngine"
 date: 2009-03-27 04:52:00 +0000
 layout: post
 tags: ["appengine", "cloud", "google", "java"]
-slug: "2009-03-27-get-ready-for-java-on-appengine"
+slug: "get-ready-for-java-on-appengine"
+link: "2009/03/get-ready-for-java-on-appengine.html"
 url: /2009/03/get-ready-for-java-on-appengine.html
 ---
 

@@ -3,7 +3,8 @@ title: "Article about Suns Glassfish v3 Prelude"
 date: 2009-05-04 03:52:00 +0000
 layout: post
 tags: ["glassfish", "v3 prelude", "Sun", "article"]
-slug: "2009-05-04-article-about-suns-glassfish-v3-prelude"
+slug: "article-about-suns-glassfish-v3-prelude"
+link: "2009/05/article-about-suns-glassfish-v3-prelude.html"
 url: /2009/05/article-about-suns-glassfish-v3-prelude.html
 ---
 

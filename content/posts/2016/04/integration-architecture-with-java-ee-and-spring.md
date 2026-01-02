@@ -3,7 +3,8 @@ title: "Integration Architecture with Java EE and Spring"
 date: 2016-04-12 12:27:00 +0000
 layout: post
 tags: ["Java EE", "integration", "SACon", "Spring"]
-slug: "2016-04-12-integration-architecture-with-java-ee-and-spring"
+slug: "integration-architecture-with-java-ee-and-spring"
+link: "2016/04/integration-architecture-with-java-ee-and-spring.html"
 url: /2016/04/integration-architecture-with-java-ee-and-spring.html
 ---
 

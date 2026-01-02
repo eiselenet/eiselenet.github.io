@@ -3,7 +3,8 @@ title: "Use Java 7! I am not kidding!"
 date: 2011-09-02 08:56:00 +0000
 layout: post
 tags: ["bug", "java7"]
-slug: "2011-09-02-use-java-7-i-am-not-kidding"
+slug: "use-java-7-i-am-not-kidding"
+link: "2011/09/use-java-7-i-am-not-kidding.html"
 url: /2011/09/use-java-7-i-am-not-kidding.html
 ---
 

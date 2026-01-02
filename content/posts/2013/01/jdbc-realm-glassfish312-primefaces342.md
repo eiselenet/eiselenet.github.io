@@ -3,7 +3,8 @@ title: "JDBC Realm and Form Based Authentication with GlassFish 3.1.2.2 and Prim
 date: 2013-01-25 11:44:00 +0000
 layout: post
 tags: ["security", "netbeans", "JDBCRealm", "primefaces"]
-slug: "2013-01-25-jdbc-realm-glassfish312-primefaces342"
+slug: "jdbc-realm-glassfish312-primefaces342"
+link: "2013/01/jdbc-realm-glassfish312-primefaces342.html"
 url: /2013/01/jdbc-realm-glassfish312-primefaces342.html
 ---
 

@@ -3,7 +3,8 @@ title: "MyFaces Portlet Bridge - Version 1.0.0-alpha"
 date: 2008-02-22 11:21:00 +0000
 layout: post
 tags: ["softwareentwicklung", "programmierung", "JSR-301", "portlet", "jsf", "portal"]
-slug: "2008-02-22-myfaces-portlet-bridge-version-100"
+slug: "myfaces-portlet-bridge-version-100"
+link: "2008/02/myfaces-portlet-bridge-version-100.html"
 url: /2008/02/myfaces-portlet-bridge-version-100.html
 ---
 

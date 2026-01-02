@@ -3,7 +3,8 @@ title: "JCP Approves the Java EE 6 Public Review (JSR-316)"
 date: 2009-02-25 05:00:00 +0000
 layout: post
 tags: ["Java EE", "JSR-299", "Java EE 6", "jee", "JSR-316", "jee6"]
-slug: "2009-02-25-jcp-approves-java-ee-6-public-review"
+slug: "jcp-approves-java-ee-6-public-review"
+link: "2009/02/jcp-approves-java-ee-6-public-review.html"
 url: /2009/02/jcp-approves-java-ee-6-public-review.html
 ---
 

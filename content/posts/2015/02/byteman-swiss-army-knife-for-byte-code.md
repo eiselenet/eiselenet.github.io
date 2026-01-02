@@ -3,7 +3,8 @@ title: "Byteman - a swiss army knife for byte code manipulation"
 date: 2015-02-16 11:00:00 +0000
 layout: post
 tags: ["Byteman", "Jboss"]
-slug: "2015-02-16-byteman-swiss-army-knife-for-byte-code"
+slug: "byteman-swiss-army-knife-for-byte-code"
+link: "2015/02/byteman-swiss-army-knife-for-byte-code.html"
 url: /2015/02/byteman-swiss-army-knife-for-byte-code.html
 ---
 

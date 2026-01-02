@@ -3,7 +3,8 @@ title: "Plug in Policies Into JBoss Apiman"
 date: 2015-02-20 13:00:00 +0000
 layout: post
 tags: ["Management", "Jboss", "Apiman"]
-slug: "2015-02-20-plug-in-policies-into-jboss-apiman"
+slug: "plug-in-policies-into-jboss-apiman"
+link: "2015/02/plug-in-policies-into-jboss-apiman.html"
 url: /2015/02/plug-in-policies-into-jboss-apiman.html
 ---
 

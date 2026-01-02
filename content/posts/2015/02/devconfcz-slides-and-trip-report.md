@@ -3,7 +3,8 @@ title: "DevConf.CZ Slides and Trip Report"
 date: 2015-02-09 11:00:00 +0000
 layout: post
 tags: ["DevConf.CZ", "javaee", "Jboss"]
-slug: "2015-02-09-devconfcz-slides-and-trip-report"
+slug: "devconfcz-slides-and-trip-report"
+link: "2015/02/devconfcz-slides-and-trip-report.html"
 url: /2015/02/devconfcz-slides-and-trip-report.html
 ---
 

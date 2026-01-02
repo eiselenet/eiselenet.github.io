@@ -3,7 +3,8 @@ title: "Trip-Report OUGN Vårseminar 2013"
 date: 2013-04-22 06:27:00 +0000
 layout: post
 tags: ["OUGN2013", "conference"]
-slug: "2013-04-22-trip-report-ougn-varseminar-2013"
+slug: "trip-report-ougn-varseminar-2013"
+link: "2013/04/trip-report-ougn-varseminar-2013.html"
 url: /2013/04/trip-report-ougn-varseminar-2013.html
 ---
 

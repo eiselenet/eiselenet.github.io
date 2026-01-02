@@ -3,7 +3,8 @@ title: "Java EE with NetBeans on OpenShift"
 date: 2014-12-02 14:00:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "netbeans", "Jboss"]
-slug: "2014-12-02-javaee-with-netbeans-on-openshift"
+slug: "javaee-with-netbeans-on-openshift"
+link: "2014/12/javaee-with-netbeans-on-openshift.html"
 url: /2014/12/javaee-with-netbeans-on-openshift.html
 ---
 

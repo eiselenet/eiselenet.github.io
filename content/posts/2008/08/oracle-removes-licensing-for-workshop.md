@@ -3,7 +3,8 @@ title: "Oracle removes licensing for Workshop Eclipse plug-ins"
 date: 2008-08-13 10:06:00 +0000
 layout: post
 tags: ["bea oracle", "weblogic workshop"]
-slug: "2008-08-13-oracle-removes-licensing-for-workshop"
+slug: "oracle-removes-licensing-for-workshop"
+link: "2008/08/oracle-removes-licensing-for-workshop.html"
 url: /2008/08/oracle-removes-licensing-for-workshop.html
 ---
 

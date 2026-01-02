@@ -3,7 +3,8 @@ title: "Visualizations"
 date: 2009-02-23 05:10:00 +0000
 layout: post
 tags: ["wordle", "visualization"]
-slug: "2009-02-23-visualizations"
+slug: "visualizations"
+link: "2009/02/visualizations.html"
 url: /2009/02/visualizations.html
 ---
 

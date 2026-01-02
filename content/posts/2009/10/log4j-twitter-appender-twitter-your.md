@@ -3,7 +3,8 @@ title: "Log4J Twitter Appender - twitter your logmessages :)"
 date: 2009-10-30 08:22:00 +0000
 layout: post
 tags: ["twitter", "appender", "java", "log4j"]
-slug: "2009-10-30-log4j-twitter-appender-twitter-your"
+slug: "log4j-twitter-appender-twitter-your"
+link: "2009/10/log4j-twitter-appender-twitter-your.html"
 url: /2009/10/log4j-twitter-appender-twitter-your.html
 ---
 

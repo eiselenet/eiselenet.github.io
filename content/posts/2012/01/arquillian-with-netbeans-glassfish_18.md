@@ -3,7 +3,8 @@ title: "Arquillian with NetBeans, GlassFish embedded, JPA and a MySQL Datasource
 date: 2012-01-18 07:51:00 +0000
 layout: post
 tags: ["glassfish", "jpa", "mysql", "netbeans", "Arquillian"]
-slug: "2012-01-18-arquillian-with-netbeans-glassfish_18"
+slug: "arquillian-with-netbeans-glassfish_18"
+link: "2012/01/arquillian-with-netbeans-glassfish_18.html"
 url: /2012/01/arquillian-with-netbeans-glassfish_18.html
 ---
 

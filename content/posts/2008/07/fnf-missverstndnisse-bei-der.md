@@ -3,7 +3,8 @@ title: "Fünf Missverständnisse bei der Webanwendungsentwicklung"
 date: 2008-07-22 10:09:00 +0000
 layout: post
 tags: ["softwareentwicklung"]
-slug: "2008-07-22-fnf-missverstndnisse-bei-der"
+slug: "fnf-missverstndnisse-bei-der"
+link: "2008/07/fnf-missverstndnisse-bei-der.html"
 url: /2008/07/fnf-missverstndnisse-bei-der.html
 ---
 

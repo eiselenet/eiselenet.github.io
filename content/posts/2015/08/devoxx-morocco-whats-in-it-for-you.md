@@ -3,7 +3,8 @@ title: "Devoxx Morocco: What's in it for you!"
 date: 2015-08-18 19:21:00 +0000
 layout: post
 tags: ["DevoxxMA"]
-slug: "2015-08-18-devoxx-morocco-whats-in-it-for-you"
+slug: "devoxx-morocco-whats-in-it-for-you"
+link: "2015/08/devoxx-morocco-whats-in-it-for-you.html"
 url: /2015/08/devoxx-morocco-whats-in-it-for-you.html
 ---
 

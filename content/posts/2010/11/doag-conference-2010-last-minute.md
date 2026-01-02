@@ -3,7 +3,8 @@ title: "DOAG Conference 2010 - last minute information and hints"
 date: 2010-11-15 06:24:00 +0000
 layout: post
 tags: ["doag2010", "conference"]
-slug: "2010-11-15-doag-conference-2010-last-minute"
+slug: "doag-conference-2010-last-minute"
+link: "2010/11/doag-conference-2010-last-minute.html"
 url: /2010/11/doag-conference-2010-last-minute.html
 ---
 

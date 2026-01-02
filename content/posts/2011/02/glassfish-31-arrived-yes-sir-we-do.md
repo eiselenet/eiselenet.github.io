@@ -3,7 +3,8 @@ title: "GlassFish 3.1 arrived! Yes sir, we do cluster now!"
 date: 2011-02-28 13:00:00 +0000
 layout: post
 tags: ["cluster", "glassfish", "glassfish 3.1", "what's new"]
-slug: "2011-02-28-glassfish-31-arrived-yes-sir-we-do"
+slug: "glassfish-31-arrived-yes-sir-we-do"
+link: "2011/02/glassfish-31-arrived-yes-sir-we-do.html"
 url: /2011/02/glassfish-31-arrived-yes-sir-we-do.html
 ---
 

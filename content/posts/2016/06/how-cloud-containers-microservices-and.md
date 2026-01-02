@@ -3,7 +3,8 @@ title: "How Cloud, Containers, Microservices and you can help Charity!"
 date: 2016-06-07 12:01:00 +0000
 layout: post
 tags: ["cloud", "Containers", "survey", "microservices"]
-slug: "2016-06-07-how-cloud-containers-microservices-and"
+slug: "how-cloud-containers-microservices-and"
+link: "2016/06/how-cloud-containers-microservices-and.html"
 url: /2016/06/how-cloud-containers-microservices-and.html
 ---
 

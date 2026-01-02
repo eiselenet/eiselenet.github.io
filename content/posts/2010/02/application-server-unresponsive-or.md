@@ -3,7 +3,8 @@ title: "Application Server unresponsive or stuck? Take a deeper look!"
 date: 2010-02-16 10:36:00 +0000
 layout: post
 tags: ["Java EE", "appserver", "monitoring", "unresponsive", "stuck"]
-slug: "2010-02-16-application-server-unresponsive-or"
+slug: "application-server-unresponsive-or"
+link: "2010/02/application-server-unresponsive-or.html"
 url: /2010/02/application-server-unresponsive-or.html
 ---
 

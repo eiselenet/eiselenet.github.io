@@ -3,7 +3,8 @@ title: "More Java EE from Red Hat Engineers at Devoxx"
 date: 2015-11-09 09:12:00 +0000
 layout: post
 tags: ["RedHat", "devoxx", "javaee"]
-slug: "2015-11-09-more-java-ee-from-red-hat-engineers-at-devoxx-2015"
+slug: "more-java-ee-from-red-hat-engineers-at-devoxx-2015"
+link: "2015/11/more-java-ee-from-red-hat-engineers-at-devoxx-2015.html"
 url: /2015/11/more-java-ee-from-red-hat-engineers-at-devoxx-2015.html
 ---
 

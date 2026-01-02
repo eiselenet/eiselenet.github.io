@@ -3,7 +3,8 @@ title: "Getting Started With OpenShift - A Quick Hands-On Introduction To OpenSh
 date: 2015-01-21 11:00:00 +0000
 layout: post
 tags: ["Openshift", "ebook", "HoL"]
-slug: "2015-01-21-getting-started-with-openshift-quick-hands-on"
+slug: "getting-started-with-openshift-quick-hands-on"
+link: "2015/01/getting-started-with-openshift-quick-hands-on.html"
 url: /2015/01/getting-started-with-openshift-quick-hands-on.html
 ---
 

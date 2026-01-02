@@ -3,7 +3,8 @@ title: "JPA implementations comparison: Hibernate, Toplink Essentials, Openjpa, 
 date: 2009-01-20 06:10:00 +0000
 layout: post
 tags: ["Hibernate", "java", "performance", "Toplink Essentials", "OpenJPA", "EclipseLink"]
-slug: "2009-01-20-jpa-implementations-comparison"
+slug: "jpa-implementations-comparison"
+link: "2009/01/jpa-implementations-comparison.html"
 url: /2009/01/jpa-implementations-comparison.html
 ---
 

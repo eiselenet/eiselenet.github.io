@@ -3,7 +3,8 @@ title: "Docker Compose on Windows with Python And Babon"
 date: 2015-06-08 12:30:00 +0000
 layout: post
 tags: ["Windows", "Babon", "Docker-Compose", "Python"]
-slug: "2015-06-08-docker-compose-on-windows-with-python"
+slug: "docker-compose-on-windows-with-python"
+link: "2015/06/docker-compose-on-windows-with-python.html"
 url: /2015/06/docker-compose-on-windows-with-python.html
 ---
 

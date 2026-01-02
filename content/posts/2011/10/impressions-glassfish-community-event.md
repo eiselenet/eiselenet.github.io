@@ -3,7 +3,8 @@ title: "Impressions GlassFish Community Event"
 date: 2011-10-03 22:29:00 +0000
 layout: post
 tags: ["glassfish", "javaone11"]
-slug: "2011-10-03-impressions-glassfish-community-event"
+slug: "impressions-glassfish-community-event"
+link: "2011/10/impressions-glassfish-community-event.html"
 url: /2011/10/impressions-glassfish-community-event.html
 ---
 

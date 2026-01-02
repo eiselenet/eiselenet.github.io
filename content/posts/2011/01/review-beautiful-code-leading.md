@@ -3,7 +3,8 @@ title: "Review: \"Beautiful Code - Leading Programmers Explain How They Think\" 
 date: 2011-01-06 19:07:00 +0000
 layout: post
 tags: ["Beautiful Code", "oreilly", "review"]
-slug: "2011-01-06-review-beautiful-code-leading"
+slug: "review-beautiful-code-leading"
+link: "2011/01/review-beautiful-code-leading.html"
 url: /2011/01/review-beautiful-code-leading.html
 ---
 

@@ -3,7 +3,8 @@ title: "iPad for Business? About the why ..."
 date: 2010-07-26 11:09:00 +0000
 layout: post
 tags: ["iPad", "software development", "business"]
-slug: "2010-07-26-ipad-for-business-about-why-and-how"
+slug: "ipad-for-business-about-why-and-how"
+link: "2010/07/ipad-for-business-about-why-and-how.html"
 url: /2010/07/ipad-for-business-about-why-and-how.html
 ---
 

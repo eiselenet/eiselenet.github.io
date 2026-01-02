@@ -3,7 +3,8 @@ title: "bleeding love"
 date: 2008-02-18 12:37:00 +0000
 layout: post
 tags: ["privat", "photographie"]
-slug: "2008-02-18-bleeding-love"
+slug: "bleeding-love"
+link: "2008/02/bleeding-love.html"
 url: /2008/02/bleeding-love.html
 ---
 

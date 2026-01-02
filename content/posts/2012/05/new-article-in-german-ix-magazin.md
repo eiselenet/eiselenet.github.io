@@ -3,7 +3,8 @@ title: "New Article in German iX Magazin: WebLogic 12c"
 date: 2012-05-03 06:19:00 +0000
 layout: post
 tags: ["weblogic", "article", "heise"]
-slug: "2012-05-03-new-article-in-german-ix-magazin"
+slug: "new-article-in-german-ix-magazin"
+link: "2012/05/new-article-in-german-ix-magazin.html"
 url: /2012/05/new-article-in-german-ix-magazin.html
 ---
 

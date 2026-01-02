@@ -3,7 +3,8 @@ title: "Playing with Weld-Probe - See All of your CDI Aspects in One Place"
 date: 2015-02-11 11:00:00 +0000
 layout: post
 tags: ["CDI", "wildfly", "Jboss", "Weld"]
-slug: "2015-02-11-playing-with-weld-probe-see-all-of-your"
+slug: "playing-with-weld-probe-see-all-of-your"
+link: "2015/02/playing-with-weld-probe-see-all-of-your.html"
 url: /2015/02/playing-with-weld-probe-see-all-of-your.html
 ---
 

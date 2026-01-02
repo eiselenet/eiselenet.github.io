@@ -3,7 +3,8 @@ title: "Java Enterprise Edition Schedule for @javaoneconf, @oracledevelop and @o
 date: 2010-08-03 05:50:00 +0000
 layout: post
 tags: ["OOW10", "oracledevelop", "JavaOne"]
-slug: "2010-08-03-java-enterprise-edition-schedule-for"
+slug: "java-enterprise-edition-schedule-for"
+link: "2010/08/java-enterprise-edition-schedule-for.html"
 url: /2010/08/java-enterprise-edition-schedule-for.html
 ---
 

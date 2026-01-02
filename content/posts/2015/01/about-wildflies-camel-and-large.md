@@ -3,7 +3,8 @@ title: "About WildFlies, Camel and Large Enterprise Projects"
 date: 2015-01-22 11:00:00 +0000
 layout: post
 tags: ["wildfly", "Camel", "javaee", "Jboss"]
-slug: "2015-01-22-about-wildflies-camel-and-large"
+slug: "about-wildflies-camel-and-large"
+link: "2015/01/about-wildflies-camel-and-large.html"
 url: /2015/01/about-wildflies-camel-and-large.html
 ---
 

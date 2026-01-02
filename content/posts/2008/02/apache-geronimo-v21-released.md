@@ -3,7 +3,8 @@ title: "Apache Geronimo v2.1 Released"
 date: 2008-02-22 11:44:00 +0000
 layout: post
 tags: ["apache", "softwareentwicklung", "geronimo", "programmierung"]
-slug: "2008-02-22-apache-geronimo-v21-released"
+slug: "apache-geronimo-v21-released"
+link: "2008/02/apache-geronimo-v21-released.html"
 url: /2008/02/apache-geronimo-v21-released.html
 ---
 

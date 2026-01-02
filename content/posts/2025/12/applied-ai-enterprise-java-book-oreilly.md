@@ -3,7 +3,8 @@ title: "Building Applied AI with Java While the World Keeps Moving"
 date: 2025-12-19 14:41:00 +0000
 layout: post
 tags: ["O'Reilly", "Applied AI for Enterprise Java", "java", "book"]
-slug: "2025-12-19-applied-ai-enterprise-java-book-oreilly"
+slug: "applied-ai-enterprise-java-book-oreilly"
+link: "2025/12/applied-ai-enterprise-java-book-oreilly.html"
 url: /2025/12/applied-ai-enterprise-java-book-oreilly.html
 ---
 

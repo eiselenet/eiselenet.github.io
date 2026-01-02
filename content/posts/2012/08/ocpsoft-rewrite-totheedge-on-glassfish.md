@@ -3,7 +3,8 @@ title: "Rewrite to the edge - getting the most out of it! On GlassFish!"
 date: 2012-08-22 11:51:00 +0000
 layout: post
 tags: ["glassfish", "javaee", "ocpsoft", "rewrite", "primefaces"]
-slug: "2012-08-22-ocpsoft-rewrite-totheedge-on-glassfish"
+slug: "ocpsoft-rewrite-totheedge-on-glassfish"
+link: "2012/08/ocpsoft-rewrite-totheedge-on-glassfish.html"
 url: /2012/08/ocpsoft-rewrite-totheedge-on-glassfish.html
 ---
 

@@ -3,7 +3,8 @@ title: "97 Things Every Software Architect Should Know - The Book"
 date: 2008-11-26 10:08:00 +0000
 layout: post
 tags: ["soft skills", "architecture"]
-slug: "2008-11-26-97-things-every-software-architect"
+slug: "97-things-every-software-architect"
+link: "2008/11/97-things-every-software-architect.html"
 url: /2008/11/97-things-every-software-architect.html
 ---
 

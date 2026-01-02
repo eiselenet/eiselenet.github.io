@@ -3,7 +3,8 @@ title: "OTN Interview by Yolande Porier about Java EE 7"
 date: 2013-04-17 13:08:00 +0000
 layout: post
 tags: ["OTN", "javaee7", "devoxxuk"]
-slug: "2013-04-17-otn-interview-by-yolande-porier-about"
+slug: "otn-interview-by-yolande-porier-about"
+link: "2013/04/otn-interview-by-yolande-porier-about.html"
 url: /2013/04/otn-interview-by-yolande-porier-about.html
 ---
 

@@ -3,7 +3,8 @@ title: "CQRS with Java and Lagom"
 date: 2016-07-15 12:36:00 +0000
 layout: post
 tags: ["CQRS", "java", "Lagom", "CJUG"]
-slug: "2016-07-15-cqrs-with-java-and-lagom"
+slug: "cqrs-with-java-and-lagom"
+link: "2016/07/cqrs-with-java-and-lagom.html"
 url: /2016/07/cqrs-with-java-and-lagom.html
 ---
 

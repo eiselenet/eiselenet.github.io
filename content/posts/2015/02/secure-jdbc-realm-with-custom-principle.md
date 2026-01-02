@@ -3,7 +3,8 @@ title: "Secure JDBC Realm with Custom Principle"
 date: 2015-02-18 10:59:00 +0000
 layout: post
 tags: [""]
-slug: "2015-02-18-secure-jdbc-realm-with-custom-principle"
+slug: "secure-jdbc-realm-with-custom-principle"
+link: "2015/02/secure-jdbc-realm-with-custom-principle.html"
 url: /2015/02/secure-jdbc-realm-with-custom-principle.html
 ---
 

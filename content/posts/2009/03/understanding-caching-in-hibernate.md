@@ -3,7 +3,8 @@ title: "Understanding Caching in Hibernate"
 date: 2009-03-26 06:29:00 +0000
 layout: post
 tags: ["Hibernate", "cache", "jpa"]
-slug: "2009-03-26-understanding-caching-in-hibernate"
+slug: "understanding-caching-in-hibernate"
+link: "2009/03/understanding-caching-in-hibernate.html"
 url: /2009/03/understanding-caching-in-hibernate.html
 ---
 

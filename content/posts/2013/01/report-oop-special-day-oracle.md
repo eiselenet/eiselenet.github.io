@@ -3,7 +3,8 @@ title: "Report OOP Special Day Oracle"
 date: 2013-01-25 05:53:00 +0000
 layout: post
 tags: ["oracle", "conference", "oop2013"]
-slug: "2013-01-25-report-oop-special-day-oracle"
+slug: "report-oop-special-day-oracle"
+link: "2013/01/report-oop-special-day-oracle.html"
 url: /2013/01/report-oop-special-day-oracle.html
 ---
 

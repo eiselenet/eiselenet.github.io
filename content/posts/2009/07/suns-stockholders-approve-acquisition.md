@@ -3,7 +3,8 @@ title: "Sun's Stockholders approve Acquisition"
 date: 2009-07-17 03:51:00 +0000
 layout: post
 tags: ["acquisition", "oracle", "Sun"]
-slug: "2009-07-17-suns-stockholders-approve-acquisition"
+slug: "suns-stockholders-approve-acquisition"
+link: "2009/07/suns-stockholders-approve-acquisition.html"
 url: /2009/07/suns-stockholders-approve-acquisition.html
 ---
 

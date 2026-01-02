@@ -3,7 +3,8 @@ title: "The Heroes of Java: Trisha Gee"
 date: 2012-01-23 20:46:00 +0000
 layout: post
 tags: ["Trisha Gee", "java", "heroes"]
-slug: "2012-01-23-heroes-of-java-trisha-gee"
+slug: "heroes-of-java-trisha-gee"
+link: "2012/01/heroes-of-java-trisha-gee.html"
 url: /2012/01/heroes-of-java-trisha-gee.html
 ---
 

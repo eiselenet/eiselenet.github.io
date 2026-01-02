@@ -3,7 +3,8 @@ title: "On Java EE and Community - Voxxed Interview"
 date: 2014-11-14 11:21:00 +0000
 layout: post
 tags: ["devoxx", "Voxxed", "interview"]
-slug: "2014-11-14-on-java-ee-and-community-voxxed"
+slug: "on-java-ee-and-community-voxxed"
+link: "2014/11/on-java-ee-and-community-voxxed.html"
 url: /2014/11/on-java-ee-and-community-voxxed.html
 ---
 

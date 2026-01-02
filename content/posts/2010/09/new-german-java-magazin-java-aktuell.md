@@ -3,7 +3,8 @@ title: "New German Java magazin - Java Aktuell available!"
 date: 2010-09-03 10:35:00 +0000
 layout: post
 tags: ["ijug", "doagev", "java aktuell"]
-slug: "2010-09-03-new-german-java-magazin-java-aktuell"
+slug: "new-german-java-magazin-java-aktuell"
+link: "2010/09/new-german-java-magazin-java-aktuell.html"
 url: /2010/09/new-german-java-magazin-java-aktuell.html
 ---
 

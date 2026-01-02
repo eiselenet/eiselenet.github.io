@@ -3,7 +3,8 @@ title: "some call it summer"
 date: 2008-08-25 09:34:00 +0000
 layout: post
 tags: [""]
-slug: "2008-08-25-some-call-it-summer"
+slug: "some-call-it-summer"
+link: "2008/08/some-call-it-summer.html"
 url: /2008/08/some-call-it-summer.html
 ---
 

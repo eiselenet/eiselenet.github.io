@@ -3,7 +3,8 @@ title: "Replacing legacy Java EE application servers with microservices and cont
 date: 2016-09-16 16:39:00 +0000
 layout: post
 tags: ["container", "Java EE", "microservices"]
-slug: "2016-09-16-replacing-legacy-java-ee-application"
+slug: "replacing-legacy-java-ee-application"
+link: "2016/09/replacing-legacy-java-ee-application.html"
 url: /2016/09/replacing-legacy-java-ee-application.html
 ---
 

@@ -3,7 +3,8 @@ title: "The 2014 Guide to Enterprise Integration is available"
 date: 2014-11-14 14:00:00 +0000
 layout: post
 tags: ["Fuse", "DZone", "Camel", "Jboss"]
-slug: "2014-11-14-the-2014-dzone-guide-to-enterprise-integration"
+slug: "the-2014-dzone-guide-to-enterprise-integration"
+link: "2014/11/the-2014-dzone-guide-to-enterprise-integration.html"
 url: /2014/11/the-2014-dzone-guide-to-enterprise-integration.html
 ---
 

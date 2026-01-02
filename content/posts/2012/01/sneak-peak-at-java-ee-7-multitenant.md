@@ -3,7 +3,8 @@ title: "Sneak peak at Java EE 7 - Multitenant Examples with EclipseLink"
 date: 2012-01-27 11:15:00 +0000
 layout: post
 tags: ["javaee7", "EclipseLink", "Multitenant"]
-slug: "2012-01-27-sneak-peak-at-java-ee-7-multitenant"
+slug: "sneak-peak-at-java-ee-7-multitenant"
+link: "2012/01/sneak-peak-at-java-ee-7-multitenant.html"
 url: /2012/01/sneak-peak-at-java-ee-7-multitenant.html
 ---
 

@@ -3,7 +3,8 @@ title: "Weblogic Server - quick(er) development roundtrips - fast-swap"
 date: 2009-02-10 05:34:00 +0000
 layout: post
 tags: ["Java EE", "fast-swap", "development", "jee", "weblogic server"]
-slug: "2009-02-10-weblogic-server-quicker-development"
+slug: "weblogic-server-quicker-development"
+link: "2009/02/weblogic-server-quicker-development.html"
 url: /2009/02/weblogic-server-quicker-development.html
 ---
 

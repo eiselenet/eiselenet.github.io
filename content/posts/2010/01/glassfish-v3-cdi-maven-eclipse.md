@@ -3,7 +3,8 @@ title: "GlassFish v3, CDI, Maven, Eclipse"
 date: 2010-01-20 06:51:00 +0000
 layout: post
 tags: ["glassfishv3", "JSR-299", "maven", "Java EE 6", "eclipse"]
-slug: "2010-01-20-glassfish-v3-cdi-maven-eclipse"
+slug: "glassfish-v3-cdi-maven-eclipse"
+link: "2010/01/glassfish-v3-cdi-maven-eclipse.html"
 url: /2010/01/glassfish-v3-cdi-maven-eclipse.html
 ---
 

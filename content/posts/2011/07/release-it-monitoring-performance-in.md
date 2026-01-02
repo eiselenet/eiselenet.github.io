@@ -3,7 +3,8 @@ title: "Release It! Monitoring Performance in Production."
 date: 2011-07-20 14:00:00 +0000
 layout: post
 tags: ["CDI", "javaee6", "Interceptor"]
-slug: "2011-07-20-release-it-monitoring-performance-in"
+slug: "release-it-monitoring-performance-in"
+link: "2011/07/release-it-monitoring-performance-in.html"
 url: /2011/07/release-it-monitoring-performance-in.html
 ---
 

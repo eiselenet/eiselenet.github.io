@@ -3,7 +3,8 @@ title: "DOAG review"
 date: 2008-12-04 04:47:00 +0000
 layout: post
 tags: ["bea oracle", "doag"]
-slug: "2008-12-04-doag-review"
+slug: "doag-review"
+link: "2008/12/doag-review.html"
 url: /2008/12/doag-review.html
 ---
 

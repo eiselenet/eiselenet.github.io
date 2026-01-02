@@ -3,7 +3,8 @@ title: "Composition on Grails"
 date: 2008-09-17 09:10:00 +0000
 layout: post
 tags: ["new technology", "sap", "grails"]
-slug: "2008-09-17-composition-on-grails"
+slug: "composition-on-grails"
+link: "2008/09/composition-on-grails.html"
 url: /2008/09/composition-on-grails.html
 ---
 

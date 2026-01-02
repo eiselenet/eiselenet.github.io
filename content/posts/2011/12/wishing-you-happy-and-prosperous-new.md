@@ -3,7 +3,8 @@ title: "Wishing you a Happy and Prosperous New Year!"
 date: 2011-12-31 13:55:00 +0000
 layout: post
 tags: ["2012 2011", "new year"]
-slug: "2011-12-31-wishing-you-happy-and-prosperous-new"
+slug: "wishing-you-happy-and-prosperous-new"
+link: "2011/12/wishing-you-happy-and-prosperous-new.html"
 url: /2011/12/wishing-you-happy-and-prosperous-new.html
 ---
 

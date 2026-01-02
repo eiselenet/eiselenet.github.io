@@ -3,7 +3,8 @@ title: "My Book: Modern Java EE Design Patterns"
 date: 2015-10-26 14:08:00 +0000
 layout: post
 tags: ["javaee", "O'Reilly", "design"]
-slug: "2015-10-26-my-book-modern-java-ee-design-patterns"
+slug: "my-book-modern-java-ee-design-patterns"
+link: "2015/10/my-book-modern-java-ee-design-patterns.html"
 url: /2015/10/my-book-modern-java-ee-design-patterns.html
 ---
 

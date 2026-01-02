@@ -3,7 +3,8 @@ title: "Blurred Out: 51 Things You Aren't Allowed to See on Google Maps"
 date: 2008-09-12 06:28:00 +0000
 layout: post
 tags: ["maps", "google"]
-slug: "2008-09-12-blurred-out-51-things-you-arent-allowed"
+slug: "blurred-out-51-things-you-arent-allowed"
+link: "2008/09/blurred-out-51-things-you-arent-allowed.html"
 url: /2008/09/blurred-out-51-things-you-arent-allowed.html
 ---
 

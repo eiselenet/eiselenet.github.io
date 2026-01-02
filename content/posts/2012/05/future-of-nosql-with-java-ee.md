@@ -3,7 +3,8 @@ title: "The Future of NoSQL with Java EE"
 date: 2012-05-07 08:28:00 +0000
 layout: post
 tags: ["NoSQL", "javaee", "EclipseLink", "HibernateOGM"]
-slug: "2012-05-07-future-of-nosql-with-java-ee"
+slug: "future-of-nosql-with-java-ee"
+link: "2012/05/future-of-nosql-with-java-ee.html"
 url: /2012/05/future-of-nosql-with-java-ee.html
 ---
 

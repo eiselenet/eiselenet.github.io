@@ -3,7 +3,8 @@ title: "The Oracle ACE Program"
 date: 2009-11-04 07:24:00 +0000
 layout: post
 tags: ["OTN", "oracle", "Community", "ACED"]
-slug: "2009-11-04-oracle-ace-program"
+slug: "oracle-ace-program"
+link: "2009/11/oracle-ace-program.html"
 url: /2009/11/oracle-ace-program.html
 ---
 

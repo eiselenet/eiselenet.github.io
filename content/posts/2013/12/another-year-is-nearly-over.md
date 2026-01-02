@@ -3,7 +3,8 @@ title: "Another year is nearly over..."
 date: 2013-12-24 08:26:00 +0000
 layout: post
 tags: ["thank you", "christmas", "2013"]
-slug: "2013-12-24-another-year-is-nearly-over"
+slug: "another-year-is-nearly-over"
+link: "2013/12/another-year-is-nearly-over.html"
 url: /2013/12/another-year-is-nearly-over.html
 ---
 

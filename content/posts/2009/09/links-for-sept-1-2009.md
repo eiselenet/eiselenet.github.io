@@ -3,7 +3,8 @@ title: "Links for Sept 1, 2009"
 date: 2009-09-01 09:33:00 +0000
 layout: post
 tags: ["2009", "links"]
-slug: "2009-09-01-links-for-sept-1-2009"
+slug: "links-for-sept-1-2009"
+link: "2009/09/links-for-sept-1-2009.html"
 url: /2009/09/links-for-sept-1-2009.html
 ---
 

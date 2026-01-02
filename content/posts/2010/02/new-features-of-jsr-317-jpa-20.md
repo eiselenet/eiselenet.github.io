@@ -3,7 +3,8 @@ title: "New Features of JSR 317 (JPA 2.0)"
 date: 2010-02-05 14:09:00 +0000
 layout: post
 tags: ["jsr-317", "slides", "jpa 2.0"]
-slug: "2010-02-05-new-features-of-jsr-317-jpa-20"
+slug: "new-features-of-jsr-317-jpa-20"
+link: "2010/02/new-features-of-jsr-317-jpa-20.html"
 url: /2010/02/new-features-of-jsr-317-jpa-20.html
 ---
 

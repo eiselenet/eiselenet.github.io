@@ -3,7 +3,8 @@ title: "Next Generation Java Programming Style"
 date: 2009-08-25 10:00:00 +0000
 layout: post
 tags: ["java", "next generation", "programming"]
-slug: "2009-08-25-next-generation-java-programming-style"
+slug: "next-generation-java-programming-style"
+link: "2009/08/next-generation-java-programming-style.html"
 url: /2009/08/next-generation-java-programming-style.html
 ---
 

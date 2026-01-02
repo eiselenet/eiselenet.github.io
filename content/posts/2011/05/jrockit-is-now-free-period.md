@@ -3,7 +3,8 @@ title: "JRockit is Now Free!!! Period."
 date: 2011-05-18 12:23:00 +0000
 layout: post
 tags: ["jvm", "HotSpot", "JRockit"]
-slug: "2011-05-18-jrockit-is-now-free-period"
+slug: "jrockit-is-now-free-period"
+link: "2011/05/jrockit-is-now-free-period.html"
 url: /2011/05/jrockit-is-now-free-period.html
 ---
 

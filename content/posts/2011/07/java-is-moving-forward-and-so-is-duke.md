@@ -3,7 +3,8 @@ title: "Java is moving forward, and so is Duke!"
 date: 2011-07-04 03:07:00 +0000
 layout: post
 tags: ["screensaver", "java", "duke"]
-slug: "2011-07-04-java-is-moving-forward-and-so-is-duke"
+slug: "java-is-moving-forward-and-so-is-duke"
+link: "2011/07/java-is-moving-forward-and-so-is-duke.html"
 url: /2011/07/java-is-moving-forward-and-so-is-duke.html
 ---
 

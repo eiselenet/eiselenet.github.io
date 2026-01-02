@@ -3,7 +3,8 @@ title: "Kscope 11 - Day 1 and 2"
 date: 2011-06-26 21:02:00 +0000
 layout: post
 tags: ["Kscope11", "conference"]
-slug: "2011-06-26-kscope-11-day-1-and-2"
+slug: "kscope-11-day-1-and-2"
+link: "2011/06/kscope-11-day-1-and-2.html"
 url: /2011/06/kscope-11-day-1-and-2.html
 ---
 

@@ -3,7 +3,8 @@ title: "Red Hat JBoss Enterprise Application Platform 7 Beta Released!"
 date: 2015-12-21 07:30:00 +0000
 layout: post
 tags: ["RedHat", "EAP7", "Jboss"]
-slug: "2015-12-21-red-hat-eap7-public-beta-early-access"
+slug: "red-hat-eap7-public-beta-early-access"
+link: "2015/12/red-hat-eap7-public-beta-early-access.html"
 url: /2015/12/red-hat-eap7-public-beta-early-access.html
 ---
 

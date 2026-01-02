@@ -3,7 +3,8 @@ title: "Software Quality: The Basics II - CCD, ACD, Ca, Ce, I, A, I/A and D"
 date: 2009-12-09 07:28:00 +0000
 layout: post
 tags: ["basics", "metrics", "software development", "software quality"]
-slug: "2009-12-09-software-quality-basics-ii-ccd-acd-ca"
+slug: "software-quality-basics-ii-ccd-acd-ca"
+link: "2009/12/software-quality-basics-ii-ccd-acd-ca.html"
 url: /2009/12/software-quality-basics-ii-ccd-acd-ca.html
 ---
 

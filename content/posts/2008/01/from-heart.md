@@ -3,7 +3,8 @@ title: "from the heart"
 date: 2008-01-23 05:54:00 +0000
 layout: post
 tags: ["privat"]
-slug: "2008-01-23-from-heart"
+slug: "from-heart"
+link: "2008/01/from-heart.html"
 url: /2008/01/from-heart.html
 ---
 

@@ -3,7 +3,8 @@ title: "Adding additional Source Folders to Maven Project"
 date: 2009-07-22 04:13:00 +0000
 layout: post
 tags: ["Java EE", "src folder", "jee", "maven", "example"]
-slug: "2009-07-22-adding-additional-source-folders-to"
+slug: "adding-additional-source-folders-to"
+link: "2009/07/adding-additional-source-folders-to.html"
 url: /2009/07/adding-additional-source-folders-to.html
 ---
 

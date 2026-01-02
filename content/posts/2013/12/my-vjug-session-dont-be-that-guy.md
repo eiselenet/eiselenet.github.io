@@ -3,7 +3,8 @@ title: "My vJUG Session: Don’t Be That Guy! Developer Security Awareness"
 date: 2013-12-04 16:09:00 +0000
 layout: post
 tags: ["vJUG", "security"]
-slug: "2013-12-04-my-vjug-session-dont-be-that-guy"
+slug: "my-vjug-session-dont-be-that-guy"
+link: "2013/12/my-vjug-session-dont-be-that-guy.html"
 url: /2013/12/my-vjug-session-dont-be-that-guy.html
 ---
 

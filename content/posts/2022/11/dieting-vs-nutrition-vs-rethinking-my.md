@@ -3,7 +3,8 @@ title: "Dieting vs. Nutrition vs. Rethinking my lifestyle"
 date: 2022-11-11 13:23:00 +0000
 layout: post
 tags: ["Nutrition", "Dieting", "health"]
-slug: "2022-11-11-dieting-vs-nutrition-vs-rethinking-my"
+slug: "dieting-vs-nutrition-vs-rethinking-my"
+link: "2022/11/dieting-vs-nutrition-vs-rethinking-my.html"
 url: /2022/11/dieting-vs-nutrition-vs-rethinking-my.html
 ---
 

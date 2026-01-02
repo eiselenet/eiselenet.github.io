@@ -3,7 +3,8 @@ title: "Java EE Deployment Scenarios for Docker Containers"
 date: 2015-05-29 11:20:00 +0000
 layout: post
 tags: ["wildfly", "Docker", "javaee"]
-slug: "2015-05-29-java-ee-deployment-secenarios-for-docker"
+slug: "java-ee-deployment-secenarios-for-docker"
+link: "2015/05/java-ee-deployment-secenarios-for-docker.html"
 url: /2015/05/java-ee-deployment-secenarios-for-docker.html
 ---
 

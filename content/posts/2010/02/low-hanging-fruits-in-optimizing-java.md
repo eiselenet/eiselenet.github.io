@@ -3,7 +3,8 @@ title: "Low Hanging Fruits in Optimizing Java EE Performance"
 date: 2010-02-26 08:51:00 +0000
 layout: post
 tags: ["Java EE", "slides", "performance"]
-slug: "2010-02-26-low-hanging-fruits-in-optimizing-java"
+slug: "low-hanging-fruits-in-optimizing-java"
+link: "2010/02/low-hanging-fruits-in-optimizing-java.html"
 url: /2010/02/low-hanging-fruits-in-optimizing-java.html
 ---
 

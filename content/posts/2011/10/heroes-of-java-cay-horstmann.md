@@ -3,7 +3,8 @@ title: "The Heroes of Java: Cay Horstmann"
 date: 2011-10-24 10:10:00 +0000
 layout: post
 tags: ["java", "heroes", "Cay Horstmann"]
-slug: "2011-10-24-heroes-of-java-cay-horstmann"
+slug: "heroes-of-java-cay-horstmann"
+link: "2011/10/heroes-of-java-cay-horstmann.html"
 url: /2011/10/heroes-of-java-cay-horstmann.html
 ---
 

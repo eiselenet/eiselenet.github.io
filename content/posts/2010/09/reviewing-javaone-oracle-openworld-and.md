@@ -3,7 +3,8 @@ title: "Reviewing JavaONE, Oracle OpenWorld and Oracle Develop"
 date: 2010-09-28 09:39:00 +0000
 layout: post
 tags: ["OOW10", "oracledevelop", "javaone10"]
-slug: "2010-09-28-reviewing-javaone-oracle-openworld-and"
+slug: "reviewing-javaone-oracle-openworld-and"
+link: "2010/09/reviewing-javaone-oracle-openworld-and.html"
 url: /2010/09/reviewing-javaone-oracle-openworld-and.html
 ---
 

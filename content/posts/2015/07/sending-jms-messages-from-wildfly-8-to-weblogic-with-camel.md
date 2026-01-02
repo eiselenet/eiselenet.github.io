@@ -3,7 +3,8 @@ title: "Sending JMS Messages From WildFly 8 To WebLogic 12 with Camel"
 date: 2015-07-14 06:43:00 +0000
 layout: post
 tags: ["JMS", "Camel", "javaee", "microservices"]
-slug: "2015-07-14-sending-jms-messages-from-wildfly-8-to-weblogic-with-camel"
+slug: "sending-jms-messages-from-wildfly-8-to-weblogic-with-camel"
+link: "2015/07/sending-jms-messages-from-wildfly-8-to-weblogic-with-camel.html"
 url: /2015/07/sending-jms-messages-from-wildfly-8-to-weblogic-with-camel.html
 ---
 

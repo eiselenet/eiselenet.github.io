@@ -3,7 +3,8 @@ title: "GlassFish JDBC Security with Salted Passwords on MySQL"
 date: 2012-07-30 11:18:00 +0000
 layout: post
 tags: ["glassfish", "security", "mysql"]
-slug: "2012-07-30-glassfish-jdbc-security-with-salted"
+slug: "glassfish-jdbc-security-with-salted"
+link: "2012/07/glassfish-jdbc-security-with-salted.html"
 url: /2012/07/glassfish-jdbc-security-with-salted.html
 ---
 

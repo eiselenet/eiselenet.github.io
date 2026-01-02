@@ -3,7 +3,8 @@ title: "I always get more emotional when it comes closer to the end of the year.
 date: 2012-12-31 04:26:00 +0000
 layout: post
 tags: ["2012", "its a wrap", "welcome 2013"]
-slug: "2012-12-31-i-always-get-more-emotional-when-it"
+slug: "i-always-get-more-emotional-when-it"
+link: "2012/12/i-always-get-more-emotional-when-it.html"
 url: /2012/12/i-always-get-more-emotional-when-it.html
 ---
 

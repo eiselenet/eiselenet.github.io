@@ -3,7 +3,8 @@ title: "Day 3: My day off."
 date: 2011-10-02 05:21:00 +0000
 layout: post
 tags: ["OOW", "JavaOne"]
-slug: "2011-10-02-day-3-my-day-off"
+slug: "day-3-my-day-off"
+link: "2011/10/day-3-my-day-off.html"
 url: /2011/10/day-3-my-day-off.html
 ---
 

@@ -3,7 +3,8 @@ title: "Scaling Java EE Microservices on OpenShift"
 date: 2015-10-12 12:44:00 +0000
 layout: post
 tags: ["Openshift", "Scaling", "wildfly", "microservice"]
-slug: "2015-10-12-scaling-java-ee-microservices-openshift"
+slug: "scaling-java-ee-microservices-openshift"
+link: "2015/10/scaling-java-ee-microservices-openshift.html"
 url: /2015/10/scaling-java-ee-microservices-openshift.html
 ---
 

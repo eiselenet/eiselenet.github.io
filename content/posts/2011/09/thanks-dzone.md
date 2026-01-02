@@ -3,7 +3,8 @@ title: "Thanks @DZone!"
 date: 2011-09-05 04:27:00 +0000
 layout: post
 tags: [""]
-slug: "2011-09-05-thanks-dzone"
+slug: "thanks-dzone"
+link: "2011/09/thanks-dzone.html"
 url: /2011/09/thanks-dzone.html
 ---
 

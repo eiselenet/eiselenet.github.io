@@ -3,7 +3,8 @@ title: "Testdriving Mojarra 2.2.0-m08 on GlassFish 3.1.2.2"
 date: 2013-01-10 08:16:00 +0000
 layout: post
 tags: ["glassfish", "javaee7", "jsf"]
-slug: "2013-01-10-testdriving-mojarra-220-m08-on"
+slug: "testdriving-mojarra-220-m08-on"
+link: "2013/01/testdriving-mojarra-220-m08-on.html"
 url: /2013/01/testdriving-mojarra-220-m08-on.html
 ---
 

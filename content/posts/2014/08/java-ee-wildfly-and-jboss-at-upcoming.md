@@ -3,7 +3,8 @@ title: "Java EE, WildFly and JBoss at Upcoming Conferences"
 date: 2014-08-11 07:28:00 +0000
 layout: post
 tags: ["wildfly", "conference", "Jboss"]
-slug: "2014-08-11-java-ee-wildfly-and-jboss-at-upcoming"
+slug: "java-ee-wildfly-and-jboss-at-upcoming"
+link: "2014/08/java-ee-wildfly-and-jboss-at-upcoming.html"
 url: /2014/08/java-ee-wildfly-and-jboss-at-upcoming.html
 ---
 

@@ -3,7 +3,8 @@ title: "What Do Assistant Dogs And Java Have In Common?"
 date: 2015-04-10 09:11:00 +0000
 layout: post
 tags: ["survey", "DogsForTheDissabled", "Rebellabs"]
-slug: "2015-04-10-what-do-assistant-dogs-and-java-have-in"
+slug: "what-do-assistant-dogs-and-java-have-in"
+link: "2015/04/what-do-assistant-dogs-and-java-have-in.html"
 url: /2015/04/what-do-assistant-dogs-and-java-have-in.html
 ---
 

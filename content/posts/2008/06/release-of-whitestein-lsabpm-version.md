@@ -3,7 +3,8 @@ title: "Release of Whitestein LS/ABPM Version 1.1.1 and LS/ABPM SDK"
 date: 2008-06-06 10:28:00 +0000
 layout: post
 tags: ["whitestein"]
-slug: "2008-06-06-release-of-whitestein-lsabpm-version"
+slug: "release-of-whitestein-lsabpm-version"
+link: "2008/06/release-of-whitestein-lsabpm-version.html"
 url: /2008/06/release-of-whitestein-lsabpm-version.html
 ---
 

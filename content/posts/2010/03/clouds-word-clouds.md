@@ -3,7 +3,8 @@ title: "clouds ... word clouds ..."
 date: 2010-03-17 14:02:00 +0000
 layout: post
 tags: ["cloud", "wordle", "personal"]
-slug: "2010-03-17-clouds-word-clouds"
+slug: "clouds-word-clouds"
+link: "2010/03/clouds-word-clouds.html"
 url: /2010/03/clouds-word-clouds.html
 ---
 

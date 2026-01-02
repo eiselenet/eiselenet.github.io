@@ -3,7 +3,8 @@ title: "OEPE - tech preview - 11gR1 (11.1.1.5) for Eclipse Helios (3.6). And the
 date: 2010-07-12 09:31:00 +0000
 layout: post
 tags: ["glassfish 3.1", "helios", "OEPE"]
-slug: "2010-07-12-oepe-tech-preview-11gr1-11115-for"
+slug: "oepe-tech-preview-11gr1-11115-for"
+link: "2010/07/oepe-tech-preview-11gr1-11115-for.html"
 url: /2010/07/oepe-tech-preview-11gr1-11115-for.html
 ---
 

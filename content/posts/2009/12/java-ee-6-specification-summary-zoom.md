@@ -3,7 +3,8 @@ title: "Java EE 6 Specification summary - Zoom Text"
 date: 2009-12-01 10:53:00 +0000
 layout: post
 tags: ["JSR-316", "specifications"]
-slug: "2009-12-01-java-ee-6-specification-summary-zoom"
+slug: "java-ee-6-specification-summary-zoom"
+link: "2009/12/java-ee-6-specification-summary-zoom.html"
 url: /2009/12/java-ee-6-specification-summary-zoom.html
 ---
 

@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 7) Matthias Wessendorf (@mwessendorf) about Ope
 date: 2014-10-15 10:00:00 +0000
 layout: post
 tags: ["AeroGear", "Openshift", "DI", "Matthias Wessendorf"]
-slug: "2014-10-15-developer-interview-di-7-matthias-wessendorf"
+slug: "developer-interview-di-7-matthias-wessendorf"
+link: "2014/10/developer-interview-di-7-matthias-wessendorf.html"
 url: /2014/10/developer-interview-di-7-matthias-wessendorf.html
 ---
 

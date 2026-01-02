@@ -3,7 +3,8 @@ title: "Happy 8th Birthday Java!"
 date: 2014-03-19 06:59:00 +0000
 layout: post
 tags: ["Java8"]
-slug: "2014-03-19-happy-8th-birthday-java"
+slug: "happy-8th-birthday-java"
+link: "2014/03/happy-8th-birthday-java.html"
 url: /2014/03/happy-8th-birthday-java.html
 ---
 

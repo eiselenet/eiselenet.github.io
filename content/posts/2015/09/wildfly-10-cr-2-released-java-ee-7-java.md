@@ -3,7 +3,8 @@ title: "WildFly 10 CR 2 Released - Java EE 7, Java 8, Hibernate 5, JavaScript Su
 date: 2015-09-25 06:20:00 +0000
 layout: post
 tags: ["javaee7", "wildfly", "EAP7"]
-slug: "2015-09-25-wildfly-10-cr-2-released-java-ee-7-java"
+slug: "wildfly-10-cr-2-released-java-ee-7-java"
+link: "2015/09/wildfly-10-cr-2-released-java-ee-7-java.html"
 url: /2015/09/wildfly-10-cr-2-released-java-ee-7-java.html
 ---
 

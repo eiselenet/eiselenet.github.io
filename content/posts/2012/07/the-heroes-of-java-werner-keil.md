@@ -3,7 +3,8 @@ title: "The Heroes of Java: Werner Keil"
 date: 2012-07-23 17:32:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Werner Keil"]
-slug: "2012-07-23-the-heroes-of-java-werner-keil"
+slug: "the-heroes-of-java-werner-keil"
+link: "2012/07/the-heroes-of-java-werner-keil.html"
 url: /2012/07/the-heroes-of-java-werner-keil.html
 ---
 

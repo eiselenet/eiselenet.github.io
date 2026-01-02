@@ -3,7 +3,8 @@ title: "Tired of Getters and Setters? Lombok them!"
 date: 2011-08-22 08:46:00 +0000
 layout: post
 tags: ["java", "getter", "Lombok", "setter", "jsf"]
-slug: "2011-08-22-tired-of-getters-and-setters-lombok"
+slug: "tired-of-getters-and-setters-lombok"
+link: "2011/08/tired-of-getters-and-setters-lombok.html"
 url: /2011/08/tired-of-getters-and-setters-lombok.html
 ---
 

@@ -3,7 +3,8 @@ title: "About the Java EE 6 Web Profile und the Future"
 date: 2010-05-03 10:19:00 +0000
 layout: post
 tags: ["Java EE", "glassfishv3", "future", "Java EE 6"]
-slug: "2010-05-03-about-java-ee-6-web-profile-und-java-ee"
+slug: "about-java-ee-6-web-profile-und-java-ee"
+link: "2010/05/about-java-ee-6-web-profile-und-java-ee.html"
 url: /2010/05/about-java-ee-6-web-profile-und-java-ee.html
 ---
 

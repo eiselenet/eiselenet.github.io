@@ -3,7 +3,8 @@ title: "Introduction to m2eclipse"
 date: 2008-08-04 09:29:00 +0000
 layout: post
 tags: ["maven", "theserverside", "eclipse"]
-slug: "2008-08-04-introduction-to-m2eclipse"
+slug: "introduction-to-m2eclipse"
+link: "2008/08/introduction-to-m2eclipse.html"
 url: /2008/08/introduction-to-m2eclipse.html
 ---
 

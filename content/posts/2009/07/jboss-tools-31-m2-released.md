@@ -3,7 +3,8 @@ title: "JBoss Tools 3.1 M2 released"
 date: 2009-07-13 07:45:00 +0000
 layout: post
 tags: ["Jboss tools"]
-slug: "2009-07-13-jboss-tools-31-m2-released"
+slug: "jboss-tools-31-m2-released"
+link: "2009/07/jboss-tools-31-m2-released.html"
 url: /2009/07/jboss-tools-31-m2-released.html
 ---
 

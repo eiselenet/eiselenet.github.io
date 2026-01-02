@@ -3,7 +3,8 @@ title: "Selecting Your Java EE 6 Application Server"
 date: 2013-01-11 10:10:00 +0000
 layout: post
 tags: ["evaluation", "appserver", "javaee6"]
-slug: "2013-01-11-selecting-your-java-ee-6-application"
+slug: "selecting-your-java-ee-6-application"
+link: "2013/01/selecting-your-java-ee-6-application.html"
 url: /2013/01/selecting-your-java-ee-6-application.html
 ---
 

@@ -3,7 +3,8 @@ title: "Heroes of Java - featured in Jan/Feb Issue of Oracle Java Magazine"
 date: 2012-02-07 15:55:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "JavaMagazin"]
-slug: "2012-02-07-heroes-of-java-featured-in-janfeb-issue"
+slug: "heroes-of-java-featured-in-janfeb-issue"
+link: "2012/02/heroes-of-java-featured-in-janfeb-issue.html"
 url: /2012/02/heroes-of-java-featured-in-janfeb-issue.html
 ---
 

@@ -3,7 +3,8 @@ title: "Java, GlassFish, JavaMagazin ... all one Version-Number up!"
 date: 2011-07-28 18:11:00 +0000
 layout: post
 tags: ["glassfish", "java", "JavaMagazin"]
-slug: "2011-07-28-java-glassfish-javamagazin-all-one"
+slug: "java-glassfish-javamagazin-all-one"
+link: "2011/07/java-glassfish-javamagazin-all-one.html"
 url: /2011/07/java-glassfish-javamagazin-all-one.html
 ---
 

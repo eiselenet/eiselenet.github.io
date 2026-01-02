@@ -3,7 +3,8 @@ title: "Gmail4J - accessing Gmail services from Java"
 date: 2009-07-14 06:51:00 +0000
 layout: post
 tags: ["gmail", "google", "Gmail4J", "example"]
-slug: "2009-07-14-gmail4j-accessing-gmail-services-from"
+slug: "gmail4j-accessing-gmail-services-from"
+link: "2009/07/gmail4j-accessing-gmail-services-from.html"
 url: /2009/07/gmail4j-accessing-gmail-services-from.html
 ---
 

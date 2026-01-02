@@ -3,7 +3,8 @@ title: "Explore the new Camel Metrics UI in hawtio"
 date: 2014-09-12 09:09:00 +0000
 layout: post
 tags: [""]
-slug: "2014-09-12-explore-new-camel-metrics-ui-in-hawtio"
+slug: "explore-new-camel-metrics-ui-in-hawtio"
+link: "2014/09/explore-new-camel-metrics-ui-in-hawtio.html"
 url: /2014/09/explore-new-camel-metrics-ui-in-hawtio.html
 ---
 

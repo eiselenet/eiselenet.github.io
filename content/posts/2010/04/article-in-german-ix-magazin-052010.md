@@ -3,7 +3,8 @@ title: "Article in german iX Magazin (05/2010)"
 date: 2010-04-20 13:47:00 +0000
 layout: post
 tags: ["jEnterprise2010", "SPEC", "article", "ix"]
-slug: "2010-04-20-article-in-german-ix-magazin-052010"
+slug: "article-in-german-ix-magazin-052010"
+link: "2010/04/article-in-german-ix-magazin-052010.html"
 url: /2010/04/article-in-german-ix-magazin-052010.html
 ---
 

@@ -3,7 +3,8 @@ title: "Java EE 7 - what's coming up for 2012? First hints."
 date: 2011-01-12 06:12:00 +0000
 layout: post
 tags: ["Java EE", "timeline", "future"]
-slug: "2011-01-12-java-ee-7-whats-coming-up-for-2012"
+slug: "java-ee-7-whats-coming-up-for-2012"
+link: "2011/01/java-ee-7-whats-coming-up-for-2012.html"
 url: /2011/01/java-ee-7-whats-coming-up-for-2012.html
 ---
 

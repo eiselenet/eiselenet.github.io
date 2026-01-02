@@ -3,7 +3,8 @@ title: "Kickstart on API Management with JBoss Apiman 1.0"
 date: 2015-01-15 11:00:00 +0000
 layout: post
 tags: ["API", "Management", "Jboss", "Apiman"]
-slug: "2015-01-15-kickstart-on-api-management-with-jboss-apiman"
+slug: "kickstart-on-api-management-with-jboss-apiman"
+link: "2015/01/kickstart-on-api-management-with-jboss-apiman.html"
 url: /2015/01/kickstart-on-api-management-with-jboss-apiman.html
 ---
 

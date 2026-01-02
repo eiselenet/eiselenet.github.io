@@ -3,7 +3,8 @@ title: "Rainer Singvogel@SE09 about EPF"
 date: 2009-03-05 11:36:00 +0000
 layout: post
 tags: ["SE 2009", "msg systems ag", "EPF", "slides"]
-slug: "2009-03-05-rainer-singvogelse09-about-epf"
+slug: "rainer-singvogelse09-about-epf"
+link: "2009/03/rainer-singvogelse09-about-epf.html"
 url: /2009/03/rainer-singvogelse09-about-epf.html
 ---
 

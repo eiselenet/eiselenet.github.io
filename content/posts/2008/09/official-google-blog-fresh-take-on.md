@@ -3,7 +3,8 @@ title: "Official Google Blog: A fresh take on the browser"
 date: 2008-09-02 09:23:00 +0000
 layout: post
 tags: ["google", "chrome", "browser"]
-slug: "2008-09-02-official-google-blog-fresh-take-on"
+slug: "official-google-blog-fresh-take-on"
+link: "2008/09/official-google-blog-fresh-take-on.html"
 url: /2008/09/official-google-blog-fresh-take-on.html
 ---
 

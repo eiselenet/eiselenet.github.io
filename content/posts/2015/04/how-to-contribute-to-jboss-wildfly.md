@@ -3,7 +3,8 @@ title: "How to contribute to JBoss WildFly? Hacking on the next Java EE Version!
 date: 2015-04-14 11:00:00 +0000
 layout: post
 tags: ["vJBUG", "WildFly9", "Jboss"]
-slug: "2015-04-14-how-to-contribute-to-jboss-wildfly"
+slug: "how-to-contribute-to-jboss-wildfly"
+link: "2015/04/how-to-contribute-to-jboss-wildfly.html"
 url: /2015/04/how-to-contribute-to-jboss-wildfly.html
 ---
 

@@ -3,7 +3,8 @@ title: "Enterprise Java - a firmer grasp of the fundamentals"
 date: 2009-08-14 05:12:00 +0000
 layout: post
 tags: ["Java EE", "basics", "java", "Java EE 6"]
-slug: "2009-08-14-enterprise-java-firmer-grasp-of"
+slug: "enterprise-java-firmer-grasp-of"
+link: "2009/08/enterprise-java-firmer-grasp-of.html"
 url: /2009/08/enterprise-java-firmer-grasp-of.html
 ---
 

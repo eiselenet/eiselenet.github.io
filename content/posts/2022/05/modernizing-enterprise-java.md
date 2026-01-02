@@ -3,7 +3,8 @@ title: "Modernizing Enterprise Java"
 date: 2022-05-03 11:01:00 +0000
 layout: post
 tags: ["java", "modernizing", "O'Reilly"]
-slug: "2022-05-03-modernizing-enterprise-java"
+slug: "modernizing-enterprise-java"
+link: "2022/05/modernizing-enterprise-java.html"
 url: /2022/05/modernizing-enterprise-java.html
 ---
 

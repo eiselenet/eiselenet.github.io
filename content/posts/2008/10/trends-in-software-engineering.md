@@ -3,7 +3,8 @@ title: "Trends in Software Engineering"
 date: 2008-10-10 07:44:00 +0000
 layout: post
 tags: ["stal", "enterprise", "architecture"]
-slug: "2008-10-10-trends-in-software-engineering"
+slug: "trends-in-software-engineering"
+link: "2008/10/trends-in-software-engineering.html"
 url: /2008/10/trends-in-software-engineering.html
 ---
 

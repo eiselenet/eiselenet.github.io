@@ -3,7 +3,8 @@ title: "Adobe Photoshop Lightroom 2 Beta"
 date: 2008-04-04 08:26:00 +0000
 layout: post
 tags: ["photoshop", "photographie", "Adobe", "lightroom"]
-slug: "2008-04-04-adobe-photoshop-lightroom-2-beta"
+slug: "adobe-photoshop-lightroom-2-beta"
+link: "2008/04/adobe-photoshop-lightroom-2-beta.html"
 url: /2008/04/adobe-photoshop-lightroom-2-beta.html
 ---
 

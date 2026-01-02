@@ -3,7 +3,8 @@ title: "Camel Subsystem for WildFly 8 integrates Java EE - Getting Started"
 date: 2014-12-05 14:00:00 +0000
 layout: post
 tags: ["wildfly", "Camel", "apache", "Jboss", "Hawtio"]
-slug: "2014-12-05-wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started"
+slug: "wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started"
+link: "2014/12/wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started.html"
 url: /2014/12/wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started.html
 ---
 

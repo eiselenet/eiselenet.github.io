@@ -3,7 +3,8 @@ title: "Your Firefox, your Oracle style!"
 date: 2010-03-23 06:26:00 +0000
 layout: post
 tags: ["oracle", "personas", "firefox"]
-slug: "2010-03-23-your-firefox-your-oracle-style"
+slug: "your-firefox-your-oracle-style"
+link: "2010/03/your-firefox-your-oracle-style.html"
 url: /2010/03/your-firefox-your-oracle-style.html
 ---
 

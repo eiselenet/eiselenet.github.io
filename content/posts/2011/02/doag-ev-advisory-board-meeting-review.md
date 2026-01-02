@@ -3,7 +3,8 @@ title: "DOAG e.V. Advisory Board Meeting - Review"
 date: 2011-02-05 15:16:00 +0000
 layout: post
 tags: ["doagev", "advisory board"]
-slug: "2011-02-05-doag-ev-advisory-board-meeting-review"
+slug: "doag-ev-advisory-board-meeting-review"
+link: "2011/02/doag-ev-advisory-board-meeting-review.html"
 url: /2011/02/doag-ev-advisory-board-meeting-review.html
 ---
 

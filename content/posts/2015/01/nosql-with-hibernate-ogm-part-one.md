@@ -3,7 +3,8 @@ title: "NoSQL with Hibernate OGM - Part one: Persisting your first Entities"
 date: 2015-01-20 11:00:00 +0000
 layout: post
 tags: ["Hibernate", "NoSQL", "Jboss"]
-slug: "2015-01-20-nosql-with-hibernate-ogm-part-one"
+slug: "nosql-with-hibernate-ogm-part-one"
+link: "2015/01/nosql-with-hibernate-ogm-part-one.html"
 url: /2015/01/nosql-with-hibernate-ogm-part-one.html
 ---
 

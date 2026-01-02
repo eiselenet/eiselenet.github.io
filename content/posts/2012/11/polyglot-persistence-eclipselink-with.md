@@ -3,7 +3,8 @@ title: "Polyglot Persistence: EclipseLink with MongoDB and Derby"
 date: 2012-11-06 12:43:00 +0000
 layout: post
 tags: ["persistence", "MongoDB", "jpa", "Derby", "EclipseLink"]
-slug: "2012-11-06-polyglot-persistence-eclipselink-with"
+slug: "polyglot-persistence-eclipselink-with"
+link: "2012/11/polyglot-persistence-eclipselink-with.html"
 url: /2012/11/polyglot-persistence-eclipselink-with.html
 ---
 

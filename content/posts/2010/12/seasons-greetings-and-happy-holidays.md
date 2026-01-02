@@ -3,7 +3,8 @@ title: "Season's Greetings and Happy Holidays"
 date: 2010-12-24 08:40:00 +0000
 layout: post
 tags: ["christmas", "season's greetings"]
-slug: "2010-12-24-seasons-greetings-and-happy-holidays"
+slug: "seasons-greetings-and-happy-holidays"
+link: "2010/12/seasons-greetings-and-happy-holidays.html"
 url: /2010/12/seasons-greetings-and-happy-holidays.html
 ---
 
@@ -14,5 +15,5 @@ It's nearly done. 2010 is almost over and we finally reached Christmas. Time for
 <br>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="#" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="IMG00263-20101224-0930.jpg" width="320"></a>
+ <a href="" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="IMG00263-20101224-0930.jpg" width="320"></a>
 </div>

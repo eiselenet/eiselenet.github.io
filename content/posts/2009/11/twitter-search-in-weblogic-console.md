@@ -3,7 +3,8 @@ title: "Twitter Search in #weblogic console"
 date: 2009-11-02 08:10:00 +0000
 layout: post
 tags: ["console", "twitter", "extenstion", "weblogic server"]
-slug: "2009-11-02-twitter-search-in-weblogic-console"
+slug: "twitter-search-in-weblogic-console"
+link: "2009/11/twitter-search-in-weblogic-console.html"
 url: /2009/11/twitter-search-in-weblogic-console.html
 ---
 

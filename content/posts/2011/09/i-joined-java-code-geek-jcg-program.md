@@ -3,7 +3,8 @@ title: "I joined the Java Code Geek (JCG) Program"
 date: 2011-09-29 16:20:00 +0000
 layout: post
 tags: ["JCG", "java"]
-slug: "2011-09-29-i-joined-java-code-geek-jcg-program"
+slug: "i-joined-java-code-geek-jcg-program"
+link: "2011/09/i-joined-java-code-geek-jcg-program.html"
 url: /2011/09/i-joined-java-code-geek-jcg-program.html
 ---
 

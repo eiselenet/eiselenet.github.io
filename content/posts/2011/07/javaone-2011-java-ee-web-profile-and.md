@@ -3,7 +3,8 @@ title: "JavaOne 2011 - Java EE Web Profile and Platform Technologies"
 date: 2011-07-08 07:12:00 +0000
 layout: post
 tags: ["JavaOne", "java", "conference"]
-slug: "2011-07-08-javaone-2011-java-ee-web-profile-and"
+slug: "javaone-2011-java-ee-web-profile-and"
+link: "2011/07/javaone-2011-java-ee-web-profile-and.html"
 url: /2011/07/javaone-2011-java-ee-web-profile-and.html
 ---
 

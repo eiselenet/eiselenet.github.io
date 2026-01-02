@@ -3,7 +3,8 @@ title: "Realigning Java EE 7 - A promise is a cloud; fulfillment is rain."
 date: 2012-08-31 04:49:00 +0000
 layout: post
 tags: ["cloud", "javaee7", "realign"]
-slug: "2012-08-31-realigning-java-ee-7-promise-is-cloud"
+slug: "realigning-java-ee-7-promise-is-cloud"
+link: "2012/08/realigning-java-ee-7-promise-is-cloud.html"
 url: /2012/08/realigning-java-ee-7-promise-is-cloud.html
 ---
 

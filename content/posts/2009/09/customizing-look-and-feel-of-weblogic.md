@@ -3,7 +3,8 @@ title: "Customizing the Look and Feel of the Weblogic Server Admin Console"
 date: 2009-09-16 10:14:00 +0000
 layout: post
 tags: ["oracle", "portal", "weblogic server"]
-slug: "2009-09-16-customizing-look-and-feel-of-weblogic"
+slug: "customizing-look-and-feel-of-weblogic"
+link: "2009/09/customizing-look-and-feel-of-weblogic.html"
 url: /2009/09/customizing-look-and-feel-of-weblogic.html
 ---
 

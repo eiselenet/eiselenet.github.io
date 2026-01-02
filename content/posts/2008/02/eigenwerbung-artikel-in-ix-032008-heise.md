@@ -3,7 +3,8 @@ title: "Eigenwerbung :) Artikel in iX 03/2008 (heise Verlag)"
 date: 2008-02-26 05:41:00 +0000
 layout: post
 tags: ["Java EE", "softwareentwicklung", "article"]
-slug: "2008-02-26-eigenwerbung-artikel-in-ix-032008-heise"
+slug: "eigenwerbung-artikel-in-ix-032008-heise"
+link: "2008/02/eigenwerbung-artikel-in-ix-032008-heise.html"
 url: /2008/02/eigenwerbung-artikel-in-ix-032008-heise.html
 ---
 

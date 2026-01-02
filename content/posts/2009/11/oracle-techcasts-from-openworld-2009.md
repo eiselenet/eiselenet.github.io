@@ -3,7 +3,8 @@ title: "Oracle TechCasts from OpenWorld 2009 about WebLogic Server online"
 date: 2009-11-11 05:36:00 +0000
 layout: post
 tags: ["oracle", "open world 2009", "weblogic server"]
-slug: "2009-11-11-oracle-techcasts-from-openworld-2009"
+slug: "oracle-techcasts-from-openworld-2009"
+link: "2009/11/oracle-techcasts-from-openworld-2009.html"
 url: /2009/11/oracle-techcasts-from-openworld-2009.html
 ---
 

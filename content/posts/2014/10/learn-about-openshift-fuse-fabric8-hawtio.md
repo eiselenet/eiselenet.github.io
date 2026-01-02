@@ -3,7 +3,8 @@ title: "Come and learn about OpenShift, JBoss Fuse, Fabric8 and HawtIO"
 date: 2014-10-10 10:00:00 +0000
 layout: post
 tags: ["Fuse", "Openshift", "Jboss", "Hawtio", "fabric8"]
-slug: "2014-10-10-learn-about-openshift-fuse-fabric8-hawtio"
+slug: "learn-about-openshift-fuse-fabric8-hawtio"
+link: "2014/10/learn-about-openshift-fuse-fabric8-hawtio.html"
 url: /2014/10/learn-about-openshift-fuse-fabric8-hawtio.html
 ---
 

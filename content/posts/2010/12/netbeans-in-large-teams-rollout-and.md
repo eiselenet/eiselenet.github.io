@@ -3,7 +3,8 @@ title: "NetBeans in large teams. Rollout and preconfiguration."
 date: 2010-12-02 07:21:00 +0000
 layout: post
 tags: ["development", "netbeans", "rollout"]
-slug: "2010-12-02-netbeans-in-large-teams-rollout-and"
+slug: "netbeans-in-large-teams-rollout-and"
+link: "2010/12/netbeans-in-large-teams-rollout-and.html"
 url: /2010/12/netbeans-in-large-teams-rollout-and.html
 ---
 

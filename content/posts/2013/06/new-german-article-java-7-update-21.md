@@ -3,7 +3,8 @@ title: "New German Article: Java 7 Update 21 Security Improvements"
 date: 2013-06-03 08:46:00 +0000
 layout: post
 tags: ["security", "java", "article", "heise"]
-slug: "2013-06-03-new-german-article-java-7-update-21"
+slug: "new-german-article-java-7-update-21"
+link: "2013/06/new-german-article-java-7-update-21.html"
 url: /2013/06/new-german-article-java-7-update-21.html
 ---
 

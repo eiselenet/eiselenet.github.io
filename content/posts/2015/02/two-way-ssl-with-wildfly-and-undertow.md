@@ -3,7 +3,8 @@ title: "Two Way SSL With WildFly and Undertow - The Ultimate Howto"
 date: 2015-02-24 15:35:00 +0000
 layout: post
 tags: [""]
-slug: "2015-02-24-two-way-ssl-with-wildfly-and-undertow"
+slug: "two-way-ssl-with-wildfly-and-undertow"
+link: "2015/02/two-way-ssl-with-wildfly-and-undertow.html"
 url: /2015/02/two-way-ssl-with-wildfly-and-undertow.html
 ---
 

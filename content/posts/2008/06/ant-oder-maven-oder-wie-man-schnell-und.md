@@ -3,7 +3,8 @@ title: "ant oder maven oder wie man schnell und einfach .."
 date: 2008-06-20 05:28:00 +0000
 layout: post
 tags: ["java", "softwareentwicklung", "ant", "maven"]
-slug: "2008-06-20-ant-oder-maven-oder-wie-man-schnell-und"
+slug: "ant-oder-maven-oder-wie-man-schnell-und"
+link: "2008/06/ant-oder-maven-oder-wie-man-schnell-und.html"
 url: /2008/06/ant-oder-maven-oder-wie-man-schnell-und.html
 ---
 

@@ -3,7 +3,8 @@ title: "A Tribute to Sun Microsystems"
 date: 2009-09-22 08:28:00 +0000
 layout: post
 tags: ["acquisition", "oracle", "Sun"]
-slug: "2009-09-22-tribute-to-sun-microsystems"
+slug: "tribute-to-sun-microsystems"
+link: "2009/09/tribute-to-sun-microsystems.html"
 url: /2009/09/tribute-to-sun-microsystems.html
 ---
 

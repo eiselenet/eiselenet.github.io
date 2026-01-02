@@ -3,7 +3,8 @@ title: "Updating GlassFish Server Adapter with Eclipse 3.5 (Galileo) and 3.6 (He
 date: 2010-07-27 10:53:00 +0000
 layout: post
 tags: ["glassfish", "OEPE"]
-slug: "2010-07-27-updating-glassfish-server-adapter-with"
+slug: "updating-glassfish-server-adapter-with"
+link: "2010/07/updating-glassfish-server-adapter-with.html"
 url: /2010/07/updating-glassfish-server-adapter-with.html
 ---
 

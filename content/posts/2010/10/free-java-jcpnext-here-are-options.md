@@ -3,7 +3,8 @@ title: "Free Java? jcp.next? Here are the options!"
 date: 2010-10-04 07:06:00 +0000
 layout: post
 tags: ["java", "oracle", "future", "jcp"]
-slug: "2010-10-04-free-java-jcpnext-here-are-options"
+slug: "free-java-jcpnext-here-are-options"
+link: "2010/10/free-java-jcpnext-here-are-options.html"
 url: /2010/10/free-java-jcpnext-here-are-options.html
 ---
 

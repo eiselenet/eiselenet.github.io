@@ -3,7 +3,8 @@ title: "Enterprise Modules Project (Gemini), oracle, springsource and weblogic s
 date: 2009-11-23 11:54:00 +0000
 layout: post
 tags: ["OSGi", "oracle", "Spring", "weblogic server"]
-slug: "2009-11-23-enterprise-modules-project-gemini"
+slug: "enterprise-modules-project-gemini"
+link: "2009/11/enterprise-modules-project-gemini.html"
 url: /2009/11/enterprise-modules-project-gemini.html
 ---
 

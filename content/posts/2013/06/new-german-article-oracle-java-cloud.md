@@ -3,7 +3,8 @@ title: "New German Article: Oracle Java Cloud Service"
 date: 2013-06-03 08:36:00 +0000
 layout: post
 tags: ["OracleCloud", "java", "article", "heise"]
-slug: "2013-06-03-new-german-article-oracle-java-cloud"
+slug: "new-german-article-oracle-java-cloud"
+link: "2013/06/new-german-article-oracle-java-cloud.html"
 url: /2013/06/new-german-article-oracle-java-cloud.html
 ---
 

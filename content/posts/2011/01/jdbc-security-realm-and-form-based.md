@@ -3,7 +3,8 @@ title: "JDBC Security Realm and form based Authentication on GlassFish with Prim
 date: 2011-01-25 07:32:00 +0000
 layout: post
 tags: ["glassfish", "primefaces", "Security Realm"]
-slug: "2011-01-25-jdbc-security-realm-and-form-based"
+slug: "jdbc-security-realm-and-form-based"
+link: "2011/01/jdbc-security-realm-and-form-based.html"
 url: /2011/01/jdbc-security-realm-and-form-based.html
 ---
 

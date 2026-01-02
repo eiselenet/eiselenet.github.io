@@ -3,7 +3,8 @@ title: "Done is the engine of more."
 date: 2009-11-06 11:11:00 +0000
 layout: post
 tags: ["soft skills", "cult", "manifesto", "done"]
-slug: "2009-11-06-done-is-engine-of-more"
+slug: "done-is-engine-of-more"
+link: "2009/11/done-is-engine-of-more.html"
 url: /2009/11/done-is-engine-of-more.html
 ---
 

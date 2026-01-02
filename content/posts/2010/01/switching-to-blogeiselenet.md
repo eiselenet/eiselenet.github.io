@@ -3,7 +3,8 @@ title: "Switching to blog.eisele.net"
 date: 2010-01-27 12:19:00 +0000
 layout: post
 tags: [""]
-slug: "2010-01-27-switching-to-blogeiselenet"
+slug: "switching-to-blogeiselenet"
+link: "2010/01/switching-to-blogeiselenet.html"
 url: /2010/01/switching-to-blogeiselenet.html
 ---
 

@@ -3,7 +3,8 @@ title: "CfP JavaOne, Oracle Develop and Oracle OpenWorld 2010"
 date: 2010-02-11 07:20:00 +0000
 layout: post
 tags: ["OOW10", "2010", "JavaOne", "develop", "CfP"]
-slug: "2010-02-11-cfpjavaone-oracle-develop-and-oracle"
+slug: "cfpjavaone-oracle-develop-and-oracle"
+link: "2010/02/cfpjavaone-oracle-develop-and-oracle.html"
 url: /2010/02/cfpjavaone-oracle-develop-and-oracle.html
 ---
 

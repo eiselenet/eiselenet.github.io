@@ -3,7 +3,8 @@ title: "Marcus Lagergren 20 years of Java In Review"
 date: 2015-02-19 14:00:00 +0000
 layout: post
 tags: ["java", "20 years", "JavaLand"]
-slug: "2015-02-19-marcus-lagergren-20-years-of-java-in-review"
+slug: "marcus-lagergren-20-years-of-java-in-review"
+link: "2015/02/marcus-lagergren-20-years-of-java-in-review.html"
 url: /2015/02/marcus-lagergren-20-years-of-java-in-review.html
 ---
 

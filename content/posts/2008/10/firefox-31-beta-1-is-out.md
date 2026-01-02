@@ -3,7 +3,8 @@ title: "Firefox 3.1 beta 1 is out"
 date: 2008-10-15 05:31:00 +0000
 layout: post
 tags: ["mozilla", "3.1 beta", "firefox"]
-slug: "2008-10-15-firefox-31-beta-1-is-out"
+slug: "firefox-31-beta-1-is-out"
+link: "2008/10/firefox-31-beta-1-is-out.html"
 url: /2008/10/firefox-31-beta-1-is-out.html
 ---
 

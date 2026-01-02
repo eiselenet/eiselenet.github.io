@@ -3,7 +3,8 @@ title: "Developer Interview (#DI15) with Niko Köbler (@dasniko) Java EE and Nod
 date: 2015-02-27 12:00:00 +0000
 layout: post
 tags: ["wildfly", "nodejs", "performance", "DI"]
-slug: "2015-02-27-developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs"
+slug: "developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs"
+link: "2015/02/developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs.html"
 url: /2015/02/developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs.html
 ---
 

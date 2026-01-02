@@ -3,7 +3,8 @@ title: "New Article in German Java Aktuell: Java EE 7"
 date: 2012-08-24 04:49:00 +0000
 layout: post
 tags: ["ijug", "javaee7", "article", "javaaktuell"]
-slug: "2012-08-24-javaee7-firstimpressions-german"
+slug: "javaee7-firstimpressions-german"
+link: "2012/08/javaee7-firstimpressions-german.html"
 url: /2012/08/javaee7-firstimpressions-german.html
 ---
 

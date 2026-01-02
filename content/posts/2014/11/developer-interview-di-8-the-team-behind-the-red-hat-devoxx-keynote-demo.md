@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 8) - The Red Hat Devoxx Keynote Demo Team expla
 date: 2014-11-26 11:00:00 +0000
 layout: post
 tags: ["Fuse", "devoxx", "DI", "AeroGear", "Feedhenry", "xPaaS"]
-slug: "2014-11-26-developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo"
+slug: "developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo"
+link: "2014/11/developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo.html"
 url: /2014/11/developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo.html
 ---
 

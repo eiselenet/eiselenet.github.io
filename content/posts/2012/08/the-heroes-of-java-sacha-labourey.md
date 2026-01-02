@@ -3,7 +3,8 @@ title: "The Heroes of Java: Sacha Labourey"
 date: 2012-08-17 10:00:00 +0000
 layout: post
 tags: ["HoJ", "java", "Sacha Labourey", "heroes"]
-slug: "2012-08-17-the-heroes-of-java-sacha-labourey"
+slug: "the-heroes-of-java-sacha-labourey"
+link: "2012/08/the-heroes-of-java-sacha-labourey.html"
 url: /2012/08/the-heroes-of-java-sacha-labourey.html
 ---
 
@@ -12,7 +13,7 @@ The "<a href="http://blog.eisele.net/2011/09/heroes-of-java.html" target="_blank
 <br><b>Sacha Labourey</b>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="Sacha--photo.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="Sacha--photo.png" width="213"></a>
+ <a href="Sacha-photo.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="Sacha-photo.png" width="213"></a>
 </div> founded the European headquarters for JBoss and, as GM for Europe, led the strategy and partnerships. In 2005, he was appointed CTO of JBoss, Inc. and as such, oversaw all of the JBoss engineering activities. After JBoss was&nbsp;acquired&nbsp;by RedHat in 2007, Sacha became co-General Manager of Red Hat's middleware division. He ultimately left Red Hat in April 2009 and he formed CloudBees, Inc. in April 2010. 
 <br>
 <br><b>General</b>

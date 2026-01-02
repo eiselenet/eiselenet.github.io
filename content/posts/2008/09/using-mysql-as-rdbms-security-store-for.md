@@ -3,7 +3,8 @@ title: "Using MySQL as RDBMS Security Store for Weblogic Server"
 date: 2008-09-01 05:08:00 +0000
 layout: post
 tags: ["mysql", "oracle", "Security Realm", "weblogic server"]
-slug: "2008-09-01-using-mysql-as-rdbms-security-store-for"
+slug: "using-mysql-as-rdbms-security-store-for"
+link: "2008/09/using-mysql-as-rdbms-security-store-for.html"
 url: /2008/09/using-mysql-as-rdbms-security-store-for.html
 ---
 

@@ -3,7 +3,8 @@ title: "I'm speaking at DOAG Conference, 19-21 November 2013 in Nuremberg, Germa
 date: 2013-08-07 04:36:00 +0000
 layout: post
 tags: ["doag", "conference"]
-slug: "2013-08-07-im-speaking-at-doag-conference-19-21"
+slug: "im-speaking-at-doag-conference-19-21"
+link: "2013/08/im-speaking-at-doag-conference-19-21.html"
 url: /2013/08/im-speaking-at-doag-conference-19-21.html
 ---
 

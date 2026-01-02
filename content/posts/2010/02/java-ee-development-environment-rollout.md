@@ -3,7 +3,8 @@ title: "Java EE Development Environment - Rollout for large teams"
 date: 2010-02-10 08:04:00 +0000
 layout: post
 tags: ["Java EE", "glassfish", "development", "rollout", "large team", "workplace"]
-slug: "2010-02-10-java-ee-development-environment-rollout"
+slug: "java-ee-development-environment-rollout"
+link: "2010/02/java-ee-development-environment-rollout.html"
 url: /2010/02/java-ee-development-environment-rollout.html
 ---
 

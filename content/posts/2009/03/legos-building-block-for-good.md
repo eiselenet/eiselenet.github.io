@@ -3,7 +3,8 @@ title: "LEGO’s Building Block For Good Experiences"
 date: 2009-03-10 05:20:00 +0000
 layout: post
 tags: ["lego", "experience", "methodology", "design"]
-slug: "2009-03-10-legos-building-block-for-good"
+slug: "legos-building-block-for-good"
+link: "2009/03/legos-building-block-for-good.html"
 url: /2009/03/legos-building-block-for-good.html
 ---
 

@@ -3,7 +3,8 @@ title: "If you aren't among those finding bugs you might be among those complain
 date: 2012-06-11 13:43:00 +0000
 layout: post
 tags: ["glassfish", "Arquillian", "javaee"]
-slug: "2012-06-11-if-you-arent-among-those-finding-bugs"
+slug: "if-you-arent-among-those-finding-bugs"
+link: "2012/06/if-you-arent-among-those-finding-bugs.html"
 url: /2012/06/if-you-arent-among-those-finding-bugs.html
 ---
 

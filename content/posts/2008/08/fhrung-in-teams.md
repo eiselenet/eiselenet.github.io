@@ -3,7 +3,8 @@ title: "Führung in Teams"
 date: 2008-08-15 06:06:00 +0000
 layout: post
 tags: ["Teams"]
-slug: "2008-08-15-fhrung-in-teams"
+slug: "fhrung-in-teams"
+link: "2008/08/fhrung-in-teams.html"
 url: /2008/08/fhrung-in-teams.html
 ---
 

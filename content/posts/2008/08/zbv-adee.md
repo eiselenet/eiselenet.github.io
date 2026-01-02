@@ -3,7 +3,8 @@ title: "ZBV adee"
 date: 2008-08-14 06:48:00 +0000
 layout: post
 tags: ["sap"]
-slug: "2008-08-14-zbv-adee"
+slug: "zbv-adee"
+link: "2008/08/zbv-adee.html"
 url: /2008/08/zbv-adee.html
 ---
 

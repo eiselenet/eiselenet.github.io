@@ -3,7 +3,8 @@ title: "BREAKING: Exalogic Maschine"
 date: 2010-09-20 13:54:00 +0000
 layout: post
 tags: ["OOW10", "exalogic"]
-slug: "2010-09-20-breaking-exalogic-maschine"
+slug: "breaking-exalogic-maschine"
+link: "2010/09/breaking-exalogic-maschine.html"
 url: /2010/09/breaking-exalogic-maschine.html
 ---
 

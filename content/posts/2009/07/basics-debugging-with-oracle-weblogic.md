@@ -3,7 +3,8 @@ title: "Basics: Debugging with Oracle Weblogic Server"
 date: 2009-07-10 05:33:00 +0000
 layout: post
 tags: ["debugging", "basics", "oracle", "weblogic server"]
-slug: "2009-07-10-basics-debugging-with-oracle-weblogic"
+slug: "basics-debugging-with-oracle-weblogic"
+link: "2009/07/basics-debugging-with-oracle-weblogic.html"
 url: /2009/07/basics-debugging-with-oracle-weblogic.html
 ---
 

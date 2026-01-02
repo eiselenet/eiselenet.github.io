@@ -3,7 +3,8 @@ title: "Hey ... NetBeans 6.9.1 got some plugin updates tonight :)"
 date: 2011-02-02 07:37:00 +0000
 layout: post
 tags: ["netbeans"]
-slug: "2011-02-02-hey-netbeans-691-got-some-plugin"
+slug: "hey-netbeans-691-got-some-plugin"
+link: "2011/02/hey-netbeans-691-got-some-plugin.html"
 url: /2011/02/hey-netbeans-691-got-some-plugin.html
 ---
 

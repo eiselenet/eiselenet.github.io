@@ -3,7 +3,8 @@ title: "Securing your GlassFish. Hardening Guide."
 date: 2011-05-24 06:37:00 +0000
 layout: post
 tags: ["glassfish", "hardening", "security"]
-slug: "2011-05-24-securing-your-glassfish-hardening-guide"
+slug: "securing-your-glassfish-hardening-guide"
+link: "2011/05/securing-your-glassfish-hardening-guide.html"
 url: /2011/05/securing-your-glassfish-hardening-guide.html
 ---
 

@@ -3,7 +3,8 @@ title: "50% Off for Top WildFly Books"
 date: 2015-09-23 10:27:00 +0000
 layout: post
 tags: ["wildfly", "Packt"]
-slug: "2015-09-23-50-off-for-top-wildfly-books"
+slug: "50-off-for-top-wildfly-books"
+link: "2015/09/50-off-for-top-wildfly-books.html"
 url: /2015/09/50-off-for-top-wildfly-books.html
 ---
 

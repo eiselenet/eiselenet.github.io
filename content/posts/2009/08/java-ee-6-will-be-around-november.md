@@ -3,7 +3,8 @@ title: "Java EE 6 will be around November"
 date: 2009-08-05 04:15:00 +0000
 layout: post
 tags: ["JSR-330", "jee6", "JSR-299", "Java EE 6"]
-slug: "2009-08-05-java-ee-6-will-be-around-november"
+slug: "java-ee-6-will-be-around-november"
+link: "2009/08/java-ee-6-will-be-around-november.html"
 url: /2009/08/java-ee-6-will-be-around-november.html
 ---
 

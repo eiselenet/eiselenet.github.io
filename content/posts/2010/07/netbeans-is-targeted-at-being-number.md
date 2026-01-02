@@ -3,7 +3,8 @@ title: "NetBeans is targeted at being the number-one open source IDE"
 date: 2010-07-07 09:06:00 +0000
 layout: post
 tags: ["netbeans", "future", "eclipse"]
-slug: "2010-07-07-netbeans-is-targeted-at-being-number"
+slug: "netbeans-is-targeted-at-being-number"
+link: "2010/07/netbeans-is-targeted-at-being-number.html"
 url: /2010/07/netbeans-is-targeted-at-being-number.html
 ---
 

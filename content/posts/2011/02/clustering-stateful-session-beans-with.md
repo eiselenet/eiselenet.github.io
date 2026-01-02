@@ -3,7 +3,8 @@ title: "Clustering Stateful Session Beans with GlassFish 3.1"
 date: 2011-02-21 06:50:00 +0000
 layout: post
 tags: ["ejb 3.1", "cluster", "glassfish 3.1"]
-slug: "2011-02-21-clustering-stateful-session-beans-with"
+slug: "clustering-stateful-session-beans-with"
+link: "2011/02/clustering-stateful-session-beans-with.html"
 url: /2011/02/clustering-stateful-session-beans-with.html
 ---
 

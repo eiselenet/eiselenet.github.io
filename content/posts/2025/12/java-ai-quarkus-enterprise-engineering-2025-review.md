@@ -3,12 +3,13 @@ title: "316 Threads Later: A Year of Java, AI, and Enterprise Engineering"
 date: 2025-12-22 09:45:00 +0000
 layout: post
 tags: ["The Main Thread", "java", "Quarkus"]
-slug: "2025-12-22-java-ai-quarkus-enterprise-engineering-2025-review"
+slug: "java-ai-quarkus-enterprise-engineering-2025-review"
+link: "2025/12/java-ai-quarkus-enterprise-engineering-2025-review.html"
 url: /2025/12/java-ai-quarkus-enterprise-engineering-2025-review.html
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
- <a href="Screenshot 2025-12-22 at 10.34.23.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="The Main Thread Word Cloud" border="0" data-original-height="1244" data-original-width="2386" height="209" src="./Screenshot 2025-12-22 at 10.34.23.png" width="400"></a>
+ <a href="Screenshot-2025-12-22-at-10.34.23.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="The Main Thread Word Cloud" border="0" data-original-height="1244" data-original-width="2386" height="209" src="Screenshot-2025-12-22-at-10.34.23.png" width="400"></a>
 </div>
 <h2>316 Threads Later: A Year of Java, AI, and Enterprise Engineering</h2>
 <p>If you had told me in January that I would publish <b>316 posts</b> on <i>The Main Thread</i> this year, I might have laughed. But looking back at 2025, it hasn't just been a year of writing; it has been a year of documentation, experimentation, and rapid evolution.</p>

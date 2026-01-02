@@ -3,7 +3,8 @@ title: "EJB is dying!"
 date: 2008-04-25 10:32:00 +0000
 layout: post
 tags: ["Java EE", "jee", "softwareentwicklung", "programmierung"]
-slug: "2008-04-25-ejb-is-dying"
+slug: "ejb-is-dying"
+link: "2008/04/ejb-is-dying.html"
 url: /2008/04/ejb-is-dying.html
 ---
 

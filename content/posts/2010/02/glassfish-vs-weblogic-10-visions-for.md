@@ -3,7 +3,8 @@ title: "GlassFish vs. WebLogic - 10 visions for the future"
 date: 2010-02-04 14:23:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "weblogic server"]
-slug: "2010-02-04-glassfish-vs-weblogic-10-visions-for"
+slug: "glassfish-vs-weblogic-10-visions-for"
+link: "2010/02/glassfish-vs-weblogic-10-visions-for.html"
 url: /2010/02/glassfish-vs-weblogic-10-visions-for.html
 ---
 

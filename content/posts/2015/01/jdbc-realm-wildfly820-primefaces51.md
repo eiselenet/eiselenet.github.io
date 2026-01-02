@@ -3,7 +3,8 @@ title: "JDBC Realm and Form Based Authentication with WildFly 8.2.0.Final, Prime
 date: 2015-01-30 13:27:00 +0000
 layout: post
 tags: ["security", "wildfly", "mysql", "primefaces"]
-slug: "2015-01-30-jdbc-realm-wildfly820-primefaces51"
+slug: "jdbc-realm-wildfly820-primefaces51"
+link: "2015/01/jdbc-realm-wildfly820-primefaces51.html"
 url: /2015/01/jdbc-realm-wildfly820-primefaces51.html
 ---
 

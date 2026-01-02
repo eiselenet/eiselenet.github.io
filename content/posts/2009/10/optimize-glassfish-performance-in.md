@@ -3,7 +3,8 @@ title: "Optimize GlassFish Performance in a Production Environment"
 date: 2009-10-26 11:40:00 +0000
 layout: post
 tags: ["glassfish", "performance", "tuning"]
-slug: "2009-10-26-optimize-glassfish-performance-in"
+slug: "optimize-glassfish-performance-in"
+link: "2009/10/optimize-glassfish-performance-in.html"
 url: /2009/10/optimize-glassfish-performance-in.html
 ---
 

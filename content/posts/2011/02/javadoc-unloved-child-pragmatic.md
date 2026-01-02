@@ -3,7 +3,8 @@ title: "JavaDoc: The unloved child. A pragmatic approach."
 date: 2011-02-02 11:08:00 +0000
 layout: post
 tags: ["javadoc", "best practices"]
-slug: "2011-02-02-javadoc-unloved-child-pragmatic"
+slug: "javadoc-unloved-child-pragmatic"
+link: "2011/02/javadoc-unloved-child-pragmatic.html"
 url: /2011/02/javadoc-unloved-child-pragmatic.html
 ---
 

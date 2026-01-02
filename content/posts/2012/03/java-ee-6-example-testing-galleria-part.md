@@ -3,7 +3,8 @@ title: "The Java EE 6 Example - Testing Galleria - Part 4"
 date: 2012-03-20 09:34:00 +0000
 layout: post
 tags: ["javaee6", "selenium", "testing", "ejb 3.1", "Arquillian", "example"]
-slug: "2012-03-20-java-ee-6-example-testing-galleria-part"
+slug: "java-ee-6-example-testing-galleria-part"
+link: "2012/03/java-ee-6-example-testing-galleria-part.html"
 url: /2012/03/java-ee-6-example-testing-galleria-part.html
 ---
 

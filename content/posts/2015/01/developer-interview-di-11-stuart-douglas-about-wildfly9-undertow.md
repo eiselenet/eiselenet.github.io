@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 11) - Stuart Douglas (@stuartwdouglas) about Wi
 date: 2015-01-16 11:00:00 +0000
 layout: post
 tags: ["WildFly9", "DI", "Undertow"]
-slug: "2015-01-16-developer-interview-di-11-stuart-douglas-about-wildfly9-undertow"
+slug: "developer-interview-di-11-stuart-douglas-about-wildfly9-undertow"
+link: "2015/01/developer-interview-di-11-stuart-douglas-about-wildfly9-undertow.html"
 url: /2015/01/developer-interview-di-11-stuart-douglas-about-wildfly9-undertow.html
 ---
 

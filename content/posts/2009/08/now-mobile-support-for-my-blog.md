@@ -3,7 +3,8 @@ title: "Now mobile support for my blog"
 date: 2009-08-19 04:41:00 +0000
 layout: post
 tags: ["mobile", "java", "enterprise"]
-slug: "2009-08-19-now-mobile-support-for-my-blog"
+slug: "now-mobile-support-for-my-blog"
+link: "2009/08/now-mobile-support-for-my-blog.html"
 url: /2009/08/now-mobile-support-for-my-blog.html
 ---
 

@@ -3,7 +3,8 @@ title: "Oracle Fusion Middleware 11g Launch"
 date: 2009-07-03 05:16:00 +0000
 layout: post
 tags: ["oracle", "bea oracle", "Fusion Middleware", "weblogic server"]
-slug: "2009-07-03-oracle-fusion-middleware-11g-launch"
+slug: "oracle-fusion-middleware-11g-launch"
+link: "2009/07/oracle-fusion-middleware-11g-launch.html"
 url: /2009/07/oracle-fusion-middleware-11g-launch.html
 ---
 

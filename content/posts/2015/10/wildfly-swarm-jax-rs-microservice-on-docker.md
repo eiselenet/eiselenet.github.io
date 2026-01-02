@@ -3,7 +3,8 @@ title: "A WildFly Swarm JAX-RS Microservice in a Docker Container"
 date: 2015-10-08 15:19:00 +0000
 layout: post
 tags: ["jax-rs", "Docker", "wildfly swarm", "javaee"]
-slug: "2015-10-08-wildfly-swarm-jax-rs-microservice-on-docker"
+slug: "wildfly-swarm-jax-rs-microservice-on-docker"
+link: "2015/10/wildfly-swarm-jax-rs-microservice-on-docker.html"
 url: /2015/10/wildfly-swarm-jax-rs-microservice-on-docker.html
 ---
 

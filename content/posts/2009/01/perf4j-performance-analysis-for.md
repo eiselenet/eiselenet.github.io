@@ -3,7 +3,8 @@ title: "Perf4J: Performance Analysis for Enterprise Java"
 date: 2009-01-22 05:41:00 +0000
 layout: post
 tags: ["Java EE", "performance", "java", "enterprise", "Perf4J", "jee"]
-slug: "2009-01-22-perf4j-performance-analysis-for"
+slug: "perf4j-performance-analysis-for"
+link: "2009/01/perf4j-performance-analysis-for.html"
 url: /2009/01/perf4j-performance-analysis-for.html
 ---
 

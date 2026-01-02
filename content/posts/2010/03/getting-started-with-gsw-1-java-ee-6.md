@@ -3,7 +3,8 @@ title: "Getting started with (GSW #1): Java EE 6"
 date: 2010-03-08 12:16:00 +0000
 layout: post
 tags: ["GSW", "\"Getting started with\"", "Java EE 6"]
-slug: "2010-03-08-getting-started-with-gsw-1-java-ee-6"
+slug: "getting-started-with-gsw-1-java-ee-6"
+link: "2010/03/getting-started-with-gsw-1-java-ee-6.html"
 url: /2010/03/getting-started-with-gsw-1-java-ee-6.html
 ---
 

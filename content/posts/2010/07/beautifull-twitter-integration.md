@@ -3,7 +3,8 @@ title: "Beautiful twitter integration - TwittFont"
 date: 2010-07-14 11:37:00 +0000
 layout: post
 tags: ["twitter", "widget", "embed", "flash"]
-slug: "2010-07-14-beautifull-twitter-integration"
+slug: "beautifull-twitter-integration"
+link: "2010/07/beautifull-twitter-integration.html"
 url: /2010/07/beautifull-twitter-integration.html
 ---
 

@@ -3,7 +3,8 @@ title: "ODTUG Impressions"
 date: 2010-06-28 17:45:00 +0000
 layout: post
 tags: ["odtug", "kaleidoscope2010"]
-slug: "2010-06-28-odtug-impressions_28"
+slug: "odtug-impressions_28"
+link: "2010/06/odtug-impressions_28.html"
 url: /2010/06/odtug-impressions_28.html
 ---
 

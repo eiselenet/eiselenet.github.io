@@ -3,7 +3,8 @@ title: "How To Use The Docker 1.6 Windows Client"
 date: 2015-04-17 13:00:00 +0000
 layout: post
 tags: ["Windows", "Docker", "Boot2Docker"]
-slug: "2015-04-17-how-to-use-docker-16-windows-client"
+slug: "how-to-use-docker-16-windows-client"
+link: "2015/04/how-to-use-docker-16-windows-client.html"
 url: /2015/04/how-to-use-docker-16-windows-client.html
 ---
 

@@ -3,7 +3,8 @@ title: "Logging in WebSphere Application Server Community Edition"
 date: 2009-04-01 03:17:00 +0000
 layout: post
 tags: ["Logging", "WAS", "tutorial", "slf4j", "log4j"]
-slug: "2009-04-01-logging-in-websphere-application-server"
+slug: "logging-in-websphere-application-server"
+link: "2009/04/logging-in-websphere-application-server.html"
 url: /2009/04/logging-in-websphere-application-server.html
 ---
 

@@ -3,7 +3,8 @@ title: "Java SE 6 release 21, the Java Hotspot VM 17.0 and G1"
 date: 2010-07-09 05:04:00 +0000
 layout: post
 tags: ["\"Java SE 6 release 21\"", "G1", "GC", "jvm 17"]
-slug: "2010-07-09-java-se-6-release-21-java-hotspot-vm"
+slug: "java-se-6-release-21-java-hotspot-vm"
+link: "2010/07/java-se-6-release-21-java-hotspot-vm.html"
 url: /2010/07/java-se-6-release-21-java-hotspot-vm.html
 ---
 

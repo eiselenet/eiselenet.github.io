@@ -3,7 +3,8 @@ title: "myfear flame"
 date: 2010-03-08 11:16:00 +0000
 layout: post
 tags: ["personal", "flame", "myfear"]
-slug: "2010-03-08-myfear-flame"
+slug: "myfear-flame"
+link: "2010/03/myfear-flame.html"
 url: /2010/03/myfear-flame.html
 ---
 

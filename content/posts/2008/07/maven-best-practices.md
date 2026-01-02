@@ -3,7 +3,8 @@ title: "Maven Best Practices"
 date: 2008-07-19 06:06:00 +0000
 layout: post
 tags: ["softwareentwicklung", "maven"]
-slug: "2008-07-19-maven-best-practices"
+slug: "maven-best-practices"
+link: "2008/07/maven-best-practices.html"
 url: /2008/07/maven-best-practices.html
 ---
 

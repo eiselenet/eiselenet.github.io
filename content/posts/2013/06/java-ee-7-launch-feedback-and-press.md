@@ -3,7 +3,8 @@ title: "Java EE 7 launch - Feedback and Press Coverage"
 date: 2013-06-18 09:50:00 +0000
 layout: post
 tags: ["article", "javaee7"]
-slug: "2013-06-18-java-ee-7-launch-feedback-and-press"
+slug: "java-ee-7-launch-feedback-and-press"
+link: "2013/06/java-ee-7-launch-feedback-and-press.html"
 url: /2013/06/java-ee-7-launch-feedback-and-press.html
 ---
 

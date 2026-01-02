@@ -3,7 +3,8 @@ title: "I'm speaking at EclipseCon Europe (Java7 Summit), 2nd-4th November 2011 
 date: 2011-09-12 07:37:00 +0000
 layout: post
 tags: ["EclipseCon", "java7", "eclipse"]
-slug: "2011-09-12-im-speaking-at-eclipsecon-europe-java7"
+slug: "im-speaking-at-eclipsecon-europe-java7"
+link: "2011/09/im-speaking-at-eclipsecon-europe-java7.html"
 url: /2011/09/im-speaking-at-eclipsecon-europe-java7.html
 ---
 

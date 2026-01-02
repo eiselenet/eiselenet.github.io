@@ -3,7 +3,8 @@ title: "Developer Interviews (#DI 4) Stan Lewis (@gashcrumb) about #hawtio"
 date: 2014-09-08 16:40:00 +0000
 layout: post
 tags: ["Fuse", "DI", "Jboss", "Hawtio"]
-slug: "2014-09-08-developer-interviews-stan-lewis-hawtio-fuse"
+slug: "developer-interviews-stan-lewis-hawtio-fuse"
+link: "2014/09/developer-interviews-stan-lewis-hawtio-fuse.html"
 url: /2014/09/developer-interviews-stan-lewis-hawtio-fuse.html
 ---
 

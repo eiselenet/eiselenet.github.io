@@ -3,7 +3,8 @@ title: "Basic Thoughts on Architecture and Design Reviews"
 date: 2010-03-04 06:51:00 +0000
 layout: post
 tags: ["review", "architecture", "design"]
-slug: "2010-03-04-basic-thoughts-on-architecture-and"
+slug: "basic-thoughts-on-architecture-and"
+link: "2010/03/basic-thoughts-on-architecture-and.html"
 url: /2010/03/basic-thoughts-on-architecture-and.html
 ---
 

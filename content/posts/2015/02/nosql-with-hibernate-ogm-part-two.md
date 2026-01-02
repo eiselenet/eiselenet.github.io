@@ -3,7 +3,8 @@ title: "NoSQL with Hibernate OGM - Part two: Querying for your data"
 date: 2015-02-10 11:00:00 +0000
 layout: post
 tags: ["tutorial", "NoSQL", "Jboss", "HibernateOGM"]
-slug: "2015-02-10-nosql-with-hibernate-ogm-part-two"
+slug: "nosql-with-hibernate-ogm-part-two"
+link: "2015/02/nosql-with-hibernate-ogm-part-two.html"
 url: /2015/02/nosql-with-hibernate-ogm-part-two.html
 ---
 

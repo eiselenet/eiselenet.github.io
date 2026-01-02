@@ -3,7 +3,8 @@ title: "finally there. the iPad at my desk."
 date: 2010-04-27 05:02:00 +0000
 layout: post
 tags: ["iPad", "Apple", "review"]
-slug: "2010-04-27-finally-there-ipad-at-my-desk"
+slug: "finally-there-ipad-at-my-desk"
+link: "2010/04/finally-there-ipad-at-my-desk.html"
 url: /2010/04/finally-there-ipad-at-my-desk.html
 ---
 

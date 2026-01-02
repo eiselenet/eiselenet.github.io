@@ -3,7 +3,8 @@ title: "Oracle Season's Greetings - Peace, Hope, Joy and Happy Holidays"
 date: 2009-12-16 07:18:00 +0000
 layout: post
 tags: ["happy holidays", "oracle", "joy", "peace", "hope", "season's greetings"]
-slug: "2009-12-16-oracle-seasons-greetings-peace-hope-joy"
+slug: "oracle-seasons-greetings-peace-hope-joy"
+link: "2009/12/oracle-seasons-greetings-peace-hope-joy.html"
 url: /2009/12/oracle-seasons-greetings-peace-hope-joy.html
 ---
 

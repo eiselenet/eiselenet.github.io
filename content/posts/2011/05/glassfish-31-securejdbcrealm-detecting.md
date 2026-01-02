@@ -3,7 +3,8 @@ title: "GlassFish 3.1 SecureJDBCRealm - Detecting failed logins."
 date: 2011-05-11 11:50:00 +0000
 layout: post
 tags: ["glassfish", "security"]
-slug: "2011-05-11-glassfish-31-securejdbcrealm-detecting"
+slug: "glassfish-31-securejdbcrealm-detecting"
+link: "2011/05/glassfish-31-securejdbcrealm-detecting.html"
 url: /2011/05/glassfish-31-securejdbcrealm-detecting.html
 ---
 

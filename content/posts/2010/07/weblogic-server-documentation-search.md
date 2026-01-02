@@ -3,7 +3,8 @@ title: "WebLogic Server Documentation Search"
 date: 2010-07-14 09:13:00 +0000
 layout: post
 tags: ["weblogic", "edocs", "documentation"]
-slug: "2010-07-14-weblogic-server-documentation-search"
+slug: "weblogic-server-documentation-search"
+link: "2010/07/weblogic-server-documentation-search.html"
 url: /2010/07/weblogic-server-documentation-search.html
 ---
 

@@ -3,7 +3,8 @@ title: "Introducing Java 7 - Moving Forward - 7/7/11 7:00 AM"
 date: 2011-07-07 14:00:00 +0000
 layout: post
 tags: ["forward", "java7", "introduction"]
-slug: "2011-07-07-introducing-java-7-moving-forward-7711"
+slug: "introducing-java-7-moving-forward-7711"
+link: "2011/07/introducing-java-7-moving-forward-7711.html"
 url: /2011/07/introducing-java-7-moving-forward-7711.html
 ---
 

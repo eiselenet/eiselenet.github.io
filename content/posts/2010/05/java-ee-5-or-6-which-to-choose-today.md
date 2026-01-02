@@ -3,7 +3,8 @@ title: "Java EE 5 or 6 - which to choose today"
 date: 2010-05-04 07:23:00 +0000
 layout: post
 tags: ["Java EE", "glassfish", "oracle"]
-slug: "2010-05-04-java-ee-5-or-6-which-to-choose-today"
+slug: "java-ee-5-or-6-which-to-choose-today"
+link: "2010/05/java-ee-5-or-6-which-to-choose-today.html"
 url: /2010/05/java-ee-5-or-6-which-to-choose-today.html
 ---
 

@@ -3,7 +3,8 @@ title: "Virtual JBUG at JavaOne - Infinispan, Java EE 7, Hibernate, CDI, Ceylon 
 date: 2014-10-12 22:00:00 +0000
 layout: post
 tags: ["vJBUG", "JavaOne", "Jboss"]
-slug: "2014-10-12-vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian"
+slug: "vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian"
+link: "2014/10/vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian.html"
 url: /2014/10/vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian.html
 ---
 

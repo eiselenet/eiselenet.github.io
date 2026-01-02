@@ -3,7 +3,8 @@ title: "DevNation - Call For Papers, Program Committee and Raising Excitement"
 date: 2015-01-19 11:00:00 +0000
 layout: post
 tags: ["conference", "Jboss", "DevNation"]
-slug: "2015-01-19-devnation-call-for-papers-program"
+slug: "devnation-call-for-papers-program"
+link: "2015/01/devnation-call-for-papers-program.html"
 url: /2015/01/devnation-call-for-papers-program.html
 ---
 

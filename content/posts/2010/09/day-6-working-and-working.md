@@ -3,7 +3,8 @@ title: "Day 6: Working and Working"
 date: 2010-09-22 14:14:00 +0000
 layout: post
 tags: ["OOW", "javaone10", "ACED"]
-slug: "2010-09-22-day-6-working-and-working"
+slug: "day-6-working-and-working"
+link: "2010/09/day-6-working-and-working.html"
 url: /2010/09/day-6-working-and-working.html
 ---
 

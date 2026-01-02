@@ -3,7 +3,8 @@ title: "Oracle OpenWorld Live"
 date: 2009-10-11 22:21:00 +0000
 layout: post
 tags: ["2009", "open world 2009", "OOW"]
-slug: "2009-10-11-oracle-openworld-live"
+slug: "oracle-openworld-live"
+link: "2009/10/oracle-openworld-live.html"
 url: /2009/10/oracle-openworld-live.html
 ---
 

@@ -3,7 +3,8 @@ title: "Deploying Java EE Microservices on OpenShift"
 date: 2015-10-09 09:38:00 +0000
 layout: post
 tags: ["Openshift", "javaee", "microservice"]
-slug: "2015-10-09-deploying-java-ee-microservices-on-openshift"
+slug: "deploying-java-ee-microservices-on-openshift"
+link: "2015/10/deploying-java-ee-microservices-on-openshift.html"
 url: /2015/10/deploying-java-ee-microservices-on-openshift.html
 ---
 

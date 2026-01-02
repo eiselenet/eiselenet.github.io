@@ -3,7 +3,8 @@ title: "Binding SSL-Sessions to HttpSessions in GlassFish"
 date: 2011-06-06 08:40:00 +0000
 layout: post
 tags: ["glassfish", "security", "ssl", "session"]
-slug: "2011-06-06-binding-ssl-sessions-to-httpsessions-in"
+slug: "binding-ssl-sessions-to-httpsessions-in"
+link: "2011/06/binding-ssl-sessions-to-httpsessions-in.html"
 url: /2011/06/binding-ssl-sessions-to-httpsessions-in.html
 ---
 

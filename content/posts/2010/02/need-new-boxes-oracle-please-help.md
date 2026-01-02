@@ -3,7 +3,8 @@ title: "Need new boxes ;) Oracle, please help ;)"
 date: 2010-02-01 14:57:00 +0000
 layout: post
 tags: ["personal", "bea oracle", "weblogic server"]
-slug: "2010-02-01-need-new-boxes-oracle-please-help"
+slug: "need-new-boxes-oracle-please-help"
+link: "2010/02/need-new-boxes-oracle-please-help.html"
 url: /2010/02/need-new-boxes-oracle-please-help.html
 ---
 

@@ -3,7 +3,8 @@ title: "codebeamer 5.0 comming"
 date: 2008-01-15 06:32:00 +0000
 layout: post
 tags: ["softwareentwicklung"]
-slug: "2008-01-15-codebeamer-50-comming"
+slug: "codebeamer-50-comming"
+link: "2008/01/codebeamer-50-comming.html"
 url: /2008/01/codebeamer-50-comming.html
 ---
 

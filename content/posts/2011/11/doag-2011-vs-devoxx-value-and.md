@@ -3,7 +3,8 @@ title: "DOAG 2011 vs. Devoxx - Value and Attraction"
 date: 2011-11-16 07:34:00 +0000
 layout: post
 tags: ["devoxx", "doag2011"]
-slug: "2011-11-16-doag-2011-vs-devoxx-value-and"
+slug: "doag-2011-vs-devoxx-value-and"
+link: "2011/11/doag-2011-vs-devoxx-value-and.html"
 url: /2011/11/doag-2011-vs-devoxx-value-and.html
 ---
 

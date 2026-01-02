@@ -3,7 +3,8 @@ title: "Riding Camel on Java EE 7 - REST Services with Swagger Documentation"
 date: 2014-12-23 10:05:00 +0000
 layout: post
 tags: ["REST", "javaee7", "Camel", "Swagger"]
-slug: "2014-12-23-camel-on-java-ee-7-rest-services-swagger-api-doc"
+slug: "camel-on-java-ee-7-rest-services-swagger-api-doc"
+link: "2014/12/camel-on-java-ee-7-rest-services-swagger-api-doc.html"
 url: /2014/12/camel-on-java-ee-7-rest-services-swagger-api-doc.html
 ---
 

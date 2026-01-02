@@ -3,7 +3,8 @@ title: "Oracle ACE and ACED at DOAG Conference and Exhebition 2010"
 date: 2010-07-28 06:52:00 +0000
 layout: post
 tags: ["doagev", "doag2010", "ACED"]
-slug: "2010-07-28-oracle-ace-and-aced-at-doag-conference"
+slug: "oracle-ace-and-aced-at-doag-conference"
+link: "2010/07/oracle-ace-and-aced-at-doag-conference.html"
 url: /2010/07/oracle-ace-and-aced-at-doag-conference.html
 ---
 

@@ -3,7 +3,8 @@ title: "CONFIRMED: EC #delays #Oracle-Sun #deal"
 date: 2009-09-03 11:30:00 +0000
 layout: post
 tags: ["acquisition", "oracle", "Sun"]
-slug: "2009-09-03-confirmed-ec-delays-oracle-sun-deal"
+slug: "confirmed-ec-delays-oracle-sun-deal"
+link: "2009/09/confirmed-ec-delays-oracle-sun-deal.html"
 url: /2009/09/confirmed-ec-delays-oracle-sun-deal.html
 ---
 

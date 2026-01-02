@@ -3,7 +3,8 @@ title: "Oracle + Sun: Java Strategy (SE+EE+JavaOne)"
 date: 2010-01-28 14:09:00 +0000
 layout: post
 tags: ["webcast", "java", "oracle", "JavaOne", "strategy", "Sun"]
-slug: "2010-01-28-oracle-sun-java-strategy-seeejavaone"
+slug: "oracle-sun-java-strategy-seeejavaone"
+link: "2010/01/oracle-sun-java-strategy-seeejavaone.html"
 url: /2010/01/oracle-sun-java-strategy-seeejavaone.html
 ---
 

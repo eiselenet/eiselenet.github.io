@@ -3,7 +3,8 @@ title: "Working with Money in Java"
 date: 2011-08-18 13:00:00 +0000
 layout: post
 tags: ["money", "java"]
-slug: "2011-08-18-working-with-money-in-java"
+slug: "working-with-money-in-java"
+link: "2011/08/working-with-money-in-java.html"
 url: /2011/08/working-with-money-in-java.html
 ---
 

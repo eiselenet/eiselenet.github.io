@@ -3,7 +3,8 @@ title: "Eine Vorausschau auf JSF 2.0"
 date: 2008-02-20 11:00:00 +0000
 layout: post
 tags: ["jsf", "programmierung"]
-slug: "2008-02-20-eine-vorausschau-auf-jsf-20"
+slug: "eine-vorausschau-auf-jsf-20"
+link: "2008/02/eine-vorausschau-auf-jsf-20.html"
 url: /2008/02/eine-vorausschau-auf-jsf-20.html
 ---
 

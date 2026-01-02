@@ -3,7 +3,8 @@ title: "Get a free Structure101 license by visiting your local JUG!"
 date: 2011-10-25 17:02:00 +0000
 layout: post
 tags: ["license", "free", "Structure101", "javausergroups"]
-slug: "2011-10-25-get-free-structure101-license-by"
+slug: "get-free-structure101-license-by"
+link: "2011/10/get-free-structure101-license-by.html"
 url: /2011/10/get-free-structure101-license-by.html
 ---
 

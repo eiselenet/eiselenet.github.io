@@ -3,7 +3,8 @@ title: "Gmail, Notes/Domino and Migration"
 date: 2010-05-17 06:40:00 +0000
 layout: post
 tags: ["migration", "gmail", "lotus notes", "domino"]
-slug: "2010-05-17-gmail-notesdomino-and-migration"
+slug: "gmail-notesdomino-and-migration"
+link: "2010/05/gmail-notesdomino-and-migration.html"
 url: /2010/05/gmail-notesdomino-and-migration.html
 ---
 

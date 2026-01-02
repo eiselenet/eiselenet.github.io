@@ -3,7 +3,8 @@ title: "Fundamentals Of Software Architecture"
 date: 2009-10-19 02:55:00 +0000
 layout: post
 tags: [""]
-slug: "2009-10-19-fundamentals-of-software-architecture"
+slug: "fundamentals-of-software-architecture"
+link: "2009/10/fundamentals-of-software-architecture.html"
 url: /2009/10/fundamentals-of-software-architecture.html
 ---
 

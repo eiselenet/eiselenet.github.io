@@ -3,7 +3,8 @@ title: "Aide-mémoire: Psychology of why reuse fails - courtesy of GeekAndPoke"
 date: 2009-01-24 11:21:00 +0000
 layout: post
 tags: [""]
-slug: "2009-01-24-aide-mmoire-psychology-of-why-reuse"
+slug: "aide-mmoire-psychology-of-why-reuse"
+link: "2009/01/aide-mmoire-psychology-of-why-reuse.html"
 url: /2009/01/aide-mmoire-psychology-of-why-reuse.html
 ---
 

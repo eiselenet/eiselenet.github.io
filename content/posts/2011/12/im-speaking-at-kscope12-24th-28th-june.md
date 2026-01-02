@@ -3,7 +3,8 @@ title: "I'm NOT speaking at Kscope12, 24th-28th June 2012 in San Antonio"
 date: 2011-12-15 05:50:00 +0000
 layout: post
 tags: ["weblogic", "odtug", "conference", "Kscope12"]
-slug: "2011-12-15-im-speaking-at-kscope12-24th-28th-june"
+slug: "im-speaking-at-kscope12-24th-28th-june"
+link: "2011/12/im-speaking-at-kscope12-24th-28th-june.html"
 url: /2011/12/im-speaking-at-kscope12-24th-28th-june.html
 ---
 

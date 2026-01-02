@@ -3,7 +3,8 @@ title: "Bleeding edge - First steps with OpenJDK 7 Build b115"
 date: 2010-10-27 06:10:00 +0000
 layout: post
 tags: ["java SE 7", "OpenJDK 7"]
-slug: "2010-10-27-bleeding-edge-first-steps-with-openjdk"
+slug: "bleeding-edge-first-steps-with-openjdk"
+link: "2010/10/bleeding-edge-first-steps-with-openjdk.html"
 url: /2010/10/bleeding-edge-first-steps-with-openjdk.html
 ---
 

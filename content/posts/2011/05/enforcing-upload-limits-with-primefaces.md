@@ -3,7 +3,8 @@ title: "Enforcing Upload Limits with Primefaces 2.2.1"
 date: 2011-05-10 11:05:00 +0000
 layout: post
 tags: ["jsf", "primefaces"]
-slug: "2011-05-10-enforcing-upload-limits-with-primefaces"
+slug: "enforcing-upload-limits-with-primefaces"
+link: "2011/05/enforcing-upload-limits-with-primefaces.html"
 url: /2011/05/enforcing-upload-limits-with-primefaces.html
 ---
 

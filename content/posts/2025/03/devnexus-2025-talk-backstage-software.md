@@ -3,7 +3,8 @@ title: "DevNexus 2025 Talk: Backstage Software Templates for Java Developers"
 date: 2025-03-06 18:00:00 +0000
 layout: post
 tags: ["Software Templates", "java", "DevNexus", "Backstage", "Platform Engineering"]
-slug: "2025-03-06-devnexus-2025-talk-backstage-software"
+slug: "devnexus-2025-talk-backstage-software"
+link: "2025/03/devnexus-2025-talk-backstage-software.html"
 url: /2025/03/devnexus-2025-talk-backstage-software.html
 ---
 

@@ -3,7 +3,8 @@ title: "German iJUG e.V. interviewed in latest Oracle Java Magazine"
 date: 2013-06-12 10:32:00 +0000
 layout: post
 tags: ["ijug", "java", "JavaMagazin"]
-slug: "2013-06-12-german-ijug-ev-interviewed-in-latest"
+slug: "german-ijug-ev-interviewed-in-latest"
+link: "2013/06/german-ijug-ev-interviewed-in-latest.html"
 url: /2013/06/german-ijug-ev-interviewed-in-latest.html
 ---
 

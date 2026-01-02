@@ -3,7 +3,8 @@ title: "The Java EE 6 Example - Running Galleria on GlassFish 3.1.2 - Part 2"
 date: 2012-03-13 07:07:00 +0000
 layout: post
 tags: ["glassfish", "javaee6", "netbeans", "example"]
-slug: "2012-03-13-java-ee-6-running-galleria-on-glassfish"
+slug: "java-ee-6-running-galleria-on-glassfish"
+link: "2012/03/java-ee-6-running-galleria-on-glassfish.html"
 url: /2012/03/java-ee-6-running-galleria-on-glassfish.html
 ---
 

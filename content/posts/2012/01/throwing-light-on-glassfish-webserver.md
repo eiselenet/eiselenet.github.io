@@ -3,7 +3,8 @@ title: "Throwing Light on GlassFish Webserver Plugins and Proxying"
 date: 2012-01-10 11:26:00 +0000
 layout: post
 tags: ["glassfish", "apache", "webserver", "loadbalancing"]
-slug: "2012-01-10-throwing-light-on-glassfish-webserver"
+slug: "throwing-light-on-glassfish-webserver"
+link: "2012/01/throwing-light-on-glassfish-webserver.html"
 url: /2012/01/throwing-light-on-glassfish-webserver.html
 ---
 

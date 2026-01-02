@@ -3,7 +3,8 @@ title: "Important links for Oracle Weblogic"
 date: 2008-08-25 10:33:00 +0000
 layout: post
 tags: ["OTN", "forum", "bea oracle", "weblogic server"]
-slug: "2008-08-25-importent-links-for-oracle-weblogic"
+slug: "importent-links-for-oracle-weblogic"
+link: "2008/08/importent-links-for-oracle-weblogic.html"
 url: /2008/08/importent-links-for-oracle-weblogic.html
 ---
 

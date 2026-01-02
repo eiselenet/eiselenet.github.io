@@ -3,7 +3,8 @@ title: "Oracle Enterprise Pack for Eclipse (OEPE)"
 date: 2008-08-30 07:43:00 +0000
 layout: post
 tags: ["oracle", "OEPE", "eclipse"]
-slug: "2008-08-30-oracle-enterprise-pack-for-eclipse-oepe"
+slug: "oracle-enterprise-pack-for-eclipse-oepe"
+link: "2008/08/oracle-enterprise-pack-for-eclipse-oepe.html"
 url: /2008/08/oracle-enterprise-pack-for-eclipse-oepe.html
 ---
 

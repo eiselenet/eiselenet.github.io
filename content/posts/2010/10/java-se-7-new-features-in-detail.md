@@ -3,7 +3,8 @@ title: "Java SE 7 - new features in detail"
 date: 2010-10-12 02:40:00 +0000
 layout: post
 tags: ["java SE 7", "features"]
-slug: "2010-10-12-java-se-7-new-features-in-detail"
+slug: "java-se-7-new-features-in-detail"
+link: "2010/10/java-se-7-new-features-in-detail.html"
 url: /2010/10/java-se-7-new-features-in-detail.html
 ---
 

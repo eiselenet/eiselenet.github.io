@@ -3,7 +3,8 @@ title: "Oracle 2008 - 2011 in Gartners Magic Quadrant for Enterprise Application
 date: 2011-11-04 07:26:00 +0000
 layout: post
 tags: ["weblogic", "glassfish", "gartner", "oracle", "Magic Quadrant"]
-slug: "2011-11-04-oracle-2009-2011-in-gartners-magic"
+slug: "oracle-2009-2011-in-gartners-magic"
+link: "2011/11/oracle-2009-2011-in-gartners-magic.html"
 url: /2011/11/oracle-2009-2011-in-gartners-magic.html
 ---
 

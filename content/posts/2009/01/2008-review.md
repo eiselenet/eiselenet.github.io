@@ -3,7 +3,8 @@ title: "2008 review"
 date: 2009-01-02 07:55:00 +0000
 layout: post
 tags: ["2009", "2008", "privat", "new year"]
-slug: "2009-01-02-2008-review"
+slug: "2008-review"
+link: "2009/01/2008-review.html"
 url: /2009/01/2008-review.html
 ---
 

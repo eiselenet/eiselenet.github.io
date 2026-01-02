@@ -3,7 +3,8 @@ title: "No, being wary doesn't hurt Java. A comment about Java licensing."
 date: 2016-12-20 09:19:00 +0000
 layout: post
 tags: ["Community", "java"]
-slug: "2016-12-20-no-being-wary-doesnt-hurt-java-comment"
+slug: "no-being-wary-doesnt-hurt-java-comment"
+link: "2016/12/no-being-wary-doesnt-hurt-java-comment.html"
 url: /2016/12/no-being-wary-doesnt-hurt-java-comment.html
 ---
 

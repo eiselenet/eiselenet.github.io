@@ -3,7 +3,8 @@ title: "The Java EE Container Redeploy & Restart Report – measuring Turnaround
 date: 2009-09-24 04:08:00 +0000
 layout: post
 tags: ["redeployment", "Java EE", "development", "jee"]
-slug: "2009-09-24-java-ee-container-redeploy-restart"
+slug: "java-ee-container-redeploy-restart"
+link: "2009/09/java-ee-container-redeploy-restart.html"
 url: /2009/09/java-ee-container-redeploy-restart.html
 ---
 

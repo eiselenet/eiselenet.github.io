@@ -3,7 +3,8 @@ title: "Day 3 + day 4 part one: time for mental preparation and registration"
 date: 2010-09-19 20:46:00 +0000
 layout: post
 tags: ["JavaOne", "oracle", "ACED"]
-slug: "2010-09-19-day-3-day-4-part-one-time-for-mental"
+slug: "day-3-day-4-part-one-time-for-mental"
+link: "2010/09/day-3-day-4-part-one-time-for-mental.html"
 url: /2010/09/day-3-day-4-part-one-time-for-mental.html
 ---
 

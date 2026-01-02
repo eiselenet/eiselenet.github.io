@@ -3,7 +3,8 @@ title: "A Refresher - Top 10 Java EE 7 Backend Features"
 date: 2015-12-22 06:53:00 +0000
 layout: post
 tags: ["javaee7", "Top10"]
-slug: "2015-12-22-a-refresher-top-10-java-ee-7-backend"
+slug: "a-refresher-top-10-java-ee-7-backend"
+link: "2015/12/a-refresher-top-10-java-ee-7-backend.html"
 url: /2015/12/a-refresher-top-10-java-ee-7-backend.html
 ---
 

@@ -3,7 +3,8 @@ title: "Developer Interviews (#DI 1) @ehsavoie about #WildFly and #NetBeans"
 date: 2014-08-13 15:38:00 +0000
 layout: post
 tags: ["Jboss"]
-slug: "2014-08-13-developer-interviews-di-1-ehsavoie"
+slug: "developer-interviews-di-1-ehsavoie"
+link: "2014/08/developer-interviews-di-1-ehsavoie.html"
 url: /2014/08/developer-interviews-di-1-ehsavoie.html
 ---
 

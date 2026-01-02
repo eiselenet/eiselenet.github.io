@@ -3,7 +3,8 @@ title: "FacesTrace - tracing your JSF applications"
 date: 2009-08-27 09:41:00 +0000
 layout: post
 tags: ["FacesTrace", "jsf", "weblogic server"]
-slug: "2009-08-27-facestrace-tracing-your-jsf"
+slug: "facestrace-tracing-your-jsf"
+link: "2009/08/facestrace-tracing-your-jsf.html"
 url: /2009/08/facestrace-tracing-your-jsf.html
 ---
 

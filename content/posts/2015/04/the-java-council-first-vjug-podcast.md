@@ -3,7 +3,8 @@ title: "The Java Council: First vJUG Podcast. Microservices, Events and all Java
 date: 2015-04-20 07:00:00 +0000
 layout: post
 tags: ["vJUG", "java", "podcast"]
-slug: "2015-04-20-the-java-council-first-vjug-podcast"
+slug: "the-java-council-first-vjug-podcast"
+link: "2015/04/the-java-council-first-vjug-podcast.html"
 url: /2015/04/the-java-council-first-vjug-podcast.html
 ---
 

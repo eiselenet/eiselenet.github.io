@@ -3,7 +3,8 @@ title: "Oracle Public Cloud Java Service Development Tools"
 date: 2012-09-07 07:10:00 +0000
 layout: post
 tags: ["OracleCloud", "CLI", "java", "maven", "ant"]
-slug: "2012-09-07-oracle-public-cloud-java-service"
+slug: "oracle-public-cloud-java-service"
+link: "2012/09/oracle-public-cloud-java-service.html"
 url: /2012/09/oracle-public-cloud-java-service.html
 ---
 

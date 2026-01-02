@@ -3,7 +3,8 @@ title: "The Heroes of Java: Michael Hüttermann"
 date: 2011-11-11 10:11:00 +0000
 layout: post
 tags: ["Michael Hüttermann", "java", "heroes"]
-slug: "2011-11-11-heroes-of-java-michael-huttermann"
+slug: "heroes-of-java-michael-huttermann"
+link: "2011/11/heroes-of-java-michael-huttermann.html"
 url: /2011/11/heroes-of-java-michael-huttermann.html
 ---
 

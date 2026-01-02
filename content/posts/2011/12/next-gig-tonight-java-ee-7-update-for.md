@@ -3,7 +3,8 @@ title: "Next gig tonight: Java EE 7 update for JUG Darmstadt"
 date: 2011-12-13 05:59:00 +0000
 layout: post
 tags: ["javaee7", "javausergroups"]
-slug: "2011-12-13-next-gig-tonight-java-ee-7-update-for"
+slug: "next-gig-tonight-java-ee-7-update-for"
+link: "2011/12/next-gig-tonight-java-ee-7-update-for.html"
 url: /2011/12/next-gig-tonight-java-ee-7-update-for.html
 ---
 

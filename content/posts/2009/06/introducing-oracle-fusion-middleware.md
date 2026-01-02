@@ -3,7 +3,8 @@ title: "Introducing Oracle Fusion Middleware 11g"
 date: 2009-06-26 04:21:00 +0000
 layout: post
 tags: ["oracle", "Fusion Middleware", "weblogic server"]
-slug: "2009-06-26-introducing-oracle-fusion-middleware"
+slug: "introducing-oracle-fusion-middleware"
+link: "2009/06/introducing-oracle-fusion-middleware.html"
 url: /2009/06/introducing-oracle-fusion-middleware.html
 ---
 

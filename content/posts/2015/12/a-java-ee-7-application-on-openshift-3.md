@@ -3,7 +3,8 @@ title: "A Java EE 7 Application on OpenShift 3 With JBoss Tools"
 date: 2015-12-03 13:22:00 +0000
 layout: post
 tags: ["Tools", "Openshift", "javaee7", "Jboss"]
-slug: "2015-12-03-a-java-ee-7-application-on-openshift-3"
+slug: "a-java-ee-7-application-on-openshift-3"
+link: "2015/12/a-java-ee-7-application-on-openshift-3.html"
 url: /2015/12/a-java-ee-7-application-on-openshift-3.html
 ---
 

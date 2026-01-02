@@ -3,7 +3,8 @@ title: "Herzlich willkommen"
 date: 2008-01-06 15:45:00 +0000
 layout: post
 tags: ["privat"]
-slug: "2008-01-06-herzlich-willkommen"
+slug: "herzlich-willkommen"
+link: "2008/01/herzlich-willkommen.html"
 url: /2008/01/herzlich-willkommen.html
 ---
 

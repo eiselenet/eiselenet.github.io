@@ -3,7 +3,8 @@ title: "GlassFish Product Roadmap Updates - Versions 2.1.2, 3.0.1, 3.1, 3.2, 4.0
 date: 2010-03-25 19:31:00 +0000
 layout: post
 tags: ["glassfish", "roadmap", "oracle", "updates"]
-slug: "2010-03-25-glassfish-product-roadmap-updates"
+slug: "glassfish-product-roadmap-updates"
+link: "2010/03/glassfish-product-roadmap-updates.html"
 url: /2010/03/glassfish-product-roadmap-updates.html
 ---
 

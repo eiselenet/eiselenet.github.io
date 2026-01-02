@@ -3,7 +3,8 @@ title: "GlassFish 4 brings Java EE 7"
 date: 2013-06-11 04:36:00 +0000
 layout: post
 tags: ["glassfish", "javaee7"]
-slug: "2013-06-11-glassfish-4-brings-java-ee-7"
+slug: "glassfish-4-brings-java-ee-7"
+link: "2013/06/glassfish-4-brings-java-ee-7.html"
 url: /2013/06/glassfish-4-brings-java-ee-7.html
 ---
 

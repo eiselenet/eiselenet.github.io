@@ -3,7 +3,8 @@ title: "Java SE 7 Update 25 - Release-Notes explained."
 date: 2013-06-19 06:41:00 +0000
 layout: post
 tags: ["security", "java", "7u25"]
-slug: "2013-06-19-java-se-7-update-25-release-notes"
+slug: "java-se-7-update-25-release-notes"
+link: "2013/06/java-se-7-update-25-release-notes.html"
 url: /2013/06/java-se-7-update-25-release-notes.html
 ---
 

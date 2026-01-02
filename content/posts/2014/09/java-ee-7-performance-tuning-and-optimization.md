@@ -3,7 +3,8 @@ title: "Review: \"Java EE 7 Performance Tuning and Optimization\" by Osama Orans
 date: 2014-09-29 10:00:00 +0000
 layout: post
 tags: ["packtpub", "javaee7", "performance", "review", "book"]
-slug: "2014-09-29-java-ee-7-performance-tuning-and-optimization"
+slug: "java-ee-7-performance-tuning-and-optimization"
+link: "2014/09/java-ee-7-performance-tuning-and-optimization.html"
 url: /2014/09/java-ee-7-performance-tuning-and-optimization.html
 ---
 

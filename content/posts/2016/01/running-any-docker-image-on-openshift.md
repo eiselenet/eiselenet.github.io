@@ -3,7 +3,8 @@ title: "Running Any Docker Image On OpenShift Origin"
 date: 2016-01-20 15:07:00 +0000
 layout: post
 tags: ["Openshift", "Docker", "wildfly swarm"]
-slug: "2016-01-20-running-any-docker-image-on-openshift"
+slug: "running-any-docker-image-on-openshift"
+link: "2016/01/running-any-docker-image-on-openshift.html"
 url: /2016/01/running-any-docker-image-on-openshift.html
 ---
 

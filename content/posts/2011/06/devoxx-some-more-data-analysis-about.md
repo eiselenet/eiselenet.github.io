@@ -3,7 +3,8 @@ title: "Devoxx - some more data analysis about speakers"
 date: 2011-06-20 07:10:00 +0000
 layout: post
 tags: ["devoxx", "speaker", "statistics"]
-slug: "2011-06-20-devoxx-some-more-data-analysis-about"
+slug: "devoxx-some-more-data-analysis-about"
+link: "2011/06/devoxx-some-more-data-analysis-about.html"
 url: /2011/06/devoxx-some-more-data-analysis-about.html
 ---
 

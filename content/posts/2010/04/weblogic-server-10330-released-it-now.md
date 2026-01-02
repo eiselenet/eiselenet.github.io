@@ -3,7 +3,8 @@ title: "WebLogic Server 10.3.3.0 released. It now has JSF 2.0 support!!"
 date: 2010-04-28 06:30:00 +0000
 layout: post
 tags: ["howto", "weblogic server", "jsf 2.0"]
-slug: "2010-04-28-weblogic-server-10330-released-it-now"
+slug: "weblogic-server-10330-released-it-now"
+link: "2010/04/weblogic-server-10330-released-it-now.html"
 url: /2010/04/weblogic-server-10330-released-it-now.html
 ---
 

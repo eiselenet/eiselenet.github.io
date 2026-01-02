@@ -3,7 +3,8 @@ title: "Goal Oriented Business Process Management in Practice"
 date: 2008-11-03 05:48:00 +0000
 layout: post
 tags: ["article"]
-slug: "2008-11-03-goal-oriented-business-process"
+slug: "goal-oriented-business-process"
+link: "2008/11/goal-oriented-business-process.html"
 url: /2008/11/goal-oriented-business-process.html
 ---
 

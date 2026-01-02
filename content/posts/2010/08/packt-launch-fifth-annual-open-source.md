@@ -3,7 +3,8 @@ title: "Packt launch fifth annual Open Source Awards"
 date: 2010-08-27 14:38:00 +0000
 layout: post
 tags: ["packtpub", "opensource", "award"]
-slug: "2010-08-27-packt-launch-fifth-annual-open-source"
+slug: "packt-launch-fifth-annual-open-source"
+link: "2010/08/packt-launch-fifth-annual-open-source.html"
 url: /2010/08/packt-launch-fifth-annual-open-source.html
 ---
 

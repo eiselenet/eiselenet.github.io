@@ -3,7 +3,8 @@ title: "10 Must-Know Topics For Software Architects In 2009"
 date: 2009-03-25 06:09:00 +0000
 layout: post
 tags: ["must-know", "software development", "architecture"]
-slug: "2009-03-25-10-must-know-topics-for-software"
+slug: "10-must-know-topics-for-software"
+link: "2009/03/10-must-know-topics-for-software.html"
 url: /2009/03/10-must-know-topics-for-software.html
 ---
 

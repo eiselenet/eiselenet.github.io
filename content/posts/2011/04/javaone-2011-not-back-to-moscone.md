@@ -3,7 +3,8 @@ title: "JavaOne 2011 NOT back to Moscone"
 date: 2011-04-26 04:41:00 +0000
 layout: post
 tags: ["JavaOne"]
-slug: "2011-04-26-javaone-2011-not-back-to-moscone"
+slug: "javaone-2011-not-back-to-moscone"
+link: "2011/04/javaone-2011-not-back-to-moscone.html"
 url: /2011/04/javaone-2011-not-back-to-moscone.html
 ---
 

@@ -3,7 +3,8 @@ title: "I'm speaking at OUGN Vårseminar, 17th-20th April 2013 in Oslo/Kiel"
 date: 2013-01-25 06:24:00 +0000
 layout: post
 tags: ["OUGN", "conference", "Vårseminar"]
-slug: "2013-01-25-im-speaking-at-ougn-varseminar-17th"
+slug: "im-speaking-at-ougn-varseminar-17th"
+link: "2013/01/im-speaking-at-ougn-varseminar-17th.html"
 url: /2013/01/im-speaking-at-ougn-varseminar-17th.html
 ---
 

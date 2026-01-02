@@ -3,7 +3,8 @@ title: "Mein Entwicklerhandbuch: Google"
 date: 2008-06-11 05:35:00 +0000
 layout: post
 tags: ["google"]
-slug: "2008-06-11-mein-entwicklerhandbuch-google"
+slug: "mein-entwicklerhandbuch-google"
+link: "2008/06/mein-entwicklerhandbuch-google.html"
 url: /2008/06/mein-entwicklerhandbuch-google.html
 ---
 

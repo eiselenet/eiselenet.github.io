@@ -3,7 +3,8 @@ title: "Things I have in common with Martin Fowler :)"
 date: 2009-08-10 05:04:00 +0000
 layout: post
 tags: ["martin fowler", "photography", "canon"]
-slug: "2009-08-10-things-i-have-in-common-with-martin"
+slug: "things-i-have-in-common-with-martin"
+link: "2009/08/things-i-have-in-common-with-martin.html"
 url: /2009/08/things-i-have-in-common-with-martin.html
 ---
 

@@ -3,7 +3,8 @@ title: ""
 date: 2009-01-07 04:44:00 +0000
 layout: post
 tags: ["Services", "SOA Paper", "soa", "SaaS"]
-slug: "2009-01-07-soa-is-dead-long-live-services"
+slug: "soa-is-dead-long-live-services"
+link: "2009/01/soa-is-dead-long-live-services.html"
 url: /2009/01/soa-is-dead-long-live-services.html
 ---
 

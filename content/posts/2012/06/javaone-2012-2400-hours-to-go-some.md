@@ -3,7 +3,8 @@ title: "JavaOne 2012 - 2400 hours to go! Some recommendations."
 date: 2012-06-18 09:38:00 +0000
 layout: post
 tags: ["javaone12", "JavaOne", "recommendations"]
-slug: "2012-06-18-javaone-2012-2400-hours-to-go-some"
+slug: "javaone-2012-2400-hours-to-go-some"
+link: "2012/06/javaone-2012-2400-hours-to-go-some.html"
 url: /2012/06/javaone-2012-2400-hours-to-go-some.html
 ---
 

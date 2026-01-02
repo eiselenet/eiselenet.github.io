@@ -3,7 +3,8 @@ title: "JSR 286: Portlet Specification 2.0"
 date: 2008-06-14 10:36:00 +0000
 layout: post
 tags: ["portlet", "JSR-286", "portal"]
-slug: "2008-06-14-jsr-286-portlet-specification-20"
+slug: "jsr-286-portlet-specification-20"
+link: "2008/06/jsr-286-portlet-specification-20.html"
 url: /2008/06/jsr-286-portlet-specification-20.html
 ---
 

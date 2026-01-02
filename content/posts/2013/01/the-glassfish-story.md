@@ -3,7 +3,8 @@ title: "The GlassFish Story"
 date: 2013-01-24 13:05:00 +0000
 layout: post
 tags: ["glassfish", "gource"]
-slug: "2013-01-24-the-glassfish-story"
+slug: "the-glassfish-story"
+link: "2013/01/the-glassfish-story.html"
 url: /2013/01/the-glassfish-story.html
 ---
 

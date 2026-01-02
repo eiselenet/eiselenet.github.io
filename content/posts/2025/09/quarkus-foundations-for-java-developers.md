@@ -3,13 +3,14 @@ title: "Quarkus Foundations for Java Developers"
 date: 2025-09-15 09:47:00 +0000
 layout: post
 tags: ["java", "Quarkus", "Beginner", "Learning Path"]
-slug: "2025-09-15-quarkus-foundations-for-java-developers"
+slug: "quarkus-foundations-for-java-developers"
+link: "2025/09/quarkus-foundations-for-java-developers.html"
 url: /2025/09/quarkus-foundations-for-java-developers.html
 ---
 
 <p></p>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="ChatGPT Image Sep 15, 2025, 11_43_39 AM.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1024" data-original-width="1536" height="213" src="ChatGPT Image Sep 15, 2025, 11_43_39 AM.png" width="320"></a>
+ <a href="ChatGPT-Image-Sep-15-2025-11_43_39-AM.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1024" data-original-width="1536" height="213" src="ChatGPT-Image-Sep-15-2025-11_43_39-AM.png" width="320"></a>
 </div>
 <br>
 Over the past months I’ve been publishing a steady stream of hands-on tutorials on <a href=""><em>The Main Thread</em></a>, my Substack dedicated to <a href="" target="_blank">Quarkus</a>, Java, and AI. Many of you asked me where to begin and what’s the right order if you’re new to Quarkus and want to build a solid foundation.

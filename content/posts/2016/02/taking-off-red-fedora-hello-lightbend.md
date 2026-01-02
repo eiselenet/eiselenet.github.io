@@ -3,7 +3,8 @@ title: "Taking off the red fedora. Hello Lightbend!"
 date: 2016-02-24 06:00:00 +0000
 layout: post
 tags: ["newjob", "Lightbend"]
-slug: "2016-02-24-taking-off-red-fedora-hello-lightbend"
+slug: "taking-off-red-fedora-hello-lightbend"
+link: "2016/02/taking-off-red-fedora-hello-lightbend.html"
 url: /2016/02/taking-off-red-fedora-hello-lightbend.html
 ---
 

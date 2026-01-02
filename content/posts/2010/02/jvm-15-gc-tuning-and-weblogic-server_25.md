@@ -3,7 +3,8 @@ title: "JVM 1.5 GC Tuning and WebLogic Server - Part II garbage collection algor
 date: 2010-02-25 07:54:00 +0000
 layout: post
 tags: ["jvm", "tuning", "garbage collection", "weblogic server"]
-slug: "2010-02-25-jvm-15-gc-tuning-and-weblogic-server_25"
+slug: "jvm-15-gc-tuning-and-weblogic-server_25"
+link: "2010/02/jvm-15-gc-tuning-and-weblogic-server_25.html"
 url: /2010/02/jvm-15-gc-tuning-and-weblogic-server_25.html
 ---
 

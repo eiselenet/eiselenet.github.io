@@ -3,7 +3,8 @@ title: "The Heroes of Java: Dan Allen"
 date: 2014-10-08 10:00:00 +0000
 layout: post
 tags: ["Dan Allen", "HoJ"]
-slug: "2014-10-08-the-heroes-of-java-dan-allen"
+slug: "the-heroes-of-java-dan-allen"
+link: "2014/10/the-heroes-of-java-dan-allen.html"
 url: /2014/10/the-heroes-of-java-dan-allen.html
 ---
 

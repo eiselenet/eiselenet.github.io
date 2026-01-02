@@ -3,7 +3,8 @@ title: "Getting started with WLST and Oracle Enterprise Pack for Eclipse (OEPE)"
 date: 2010-07-31 06:37:00 +0000
 layout: post
 tags: ["weblogic", "wlst", "OEPE"]
-slug: "2010-07-31-getting-started-with-wlst-and-oracle"
+slug: "getting-started-with-wlst-and-oracle"
+link: "2010/07/getting-started-with-wlst-and-oracle.html"
 url: /2010/07/getting-started-with-wlst-and-oracle.html
 ---
 

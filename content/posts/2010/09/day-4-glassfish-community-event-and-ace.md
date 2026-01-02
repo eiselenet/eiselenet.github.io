@@ -3,7 +3,8 @@ title: "Day 4: GlassFish Community Event and ACE Directors Dinner"
 date: 2010-09-20 13:25:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne", "ACED"]
-slug: "2010-09-20-day-4-glassfish-community-event-and-ace"
+slug: "day-4-glassfish-community-event-and-ace"
+link: "2010/09/day-4-glassfish-community-event-and-ace.html"
 url: /2010/09/day-4-glassfish-community-event-and-ace.html
 ---
 

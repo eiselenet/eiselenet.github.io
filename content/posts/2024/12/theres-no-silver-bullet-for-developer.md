@@ -3,7 +3,8 @@ title: "There’s No Silver Bullet for Developer Platforms"
 date: 2024-12-13 11:24:00 +0000
 layout: post
 tags: ["DevOps", "Developer Productivity", "Platform Engineering"]
-slug: "2024-12-13-theres-no-silver-bullet-for-developer"
+slug: "theres-no-silver-bullet-for-developer"
+link: "2024/12/theres-no-silver-bullet-for-developer.html"
 url: /2024/12/theres-no-silver-bullet-for-developer.html
 ---
 

@@ -3,7 +3,8 @@ title: "Bloggers Meetup @ Oracle OpenWorld 2010 by Alex Gorbachev"
 date: 2010-08-28 09:26:00 +0000
 layout: post
 tags: ["OOW10", "bloggermeetup", "pythian"]
-slug: "2010-08-28-bloggers-meetup-oracle-openworld-2010"
+slug: "bloggers-meetup-oracle-openworld-2010"
+link: "2010/08/bloggers-meetup-oracle-openworld-2010.html"
 url: /2010/08/bloggers-meetup-oracle-openworld-2010.html
 ---
 

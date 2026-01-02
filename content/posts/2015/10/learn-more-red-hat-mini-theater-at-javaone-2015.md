@@ -3,7 +3,8 @@ title: "Learn more. Red Hat Mini-Theater Sessions at JavaOne."
 date: 2015-10-22 05:00:00 +0000
 layout: post
 tags: ["RedHat", "JavaOne"]
-slug: "2015-10-22-learn-more-red-hat-mini-theater-at-javaone-2015"
+slug: "learn-more-red-hat-mini-theater-at-javaone-2015"
+link: "2015/10/learn-more-red-hat-mini-theater-at-javaone-2015.html"
 url: /2015/10/learn-more-red-hat-mini-theater-at-javaone-2015.html
 ---
 

@@ -3,7 +3,8 @@ title: "User Experience Interaction Guidelines"
 date: 2009-09-15 11:54:00 +0000
 layout: post
 tags: ["User Experience", "interaction", "guidelines"]
-slug: "2009-09-15-user-experience-interaction-guidelines"
+slug: "user-experience-interaction-guidelines"
+link: "2009/09/user-experience-interaction-guidelines.html"
 url: /2009/09/user-experience-interaction-guidelines.html
 ---
 

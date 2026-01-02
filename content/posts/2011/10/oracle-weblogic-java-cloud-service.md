@@ -3,7 +3,8 @@ title: "Oracle WebLogic Java Cloud Service - Behind the scenes."
 date: 2011-10-13 10:04:00 +0000
 layout: post
 tags: ["cloud", "weblogic", "oracle"]
-slug: "2011-10-13-oracle-weblogic-java-cloud-service"
+slug: "oracle-weblogic-java-cloud-service"
+link: "2011/10/oracle-weblogic-java-cloud-service.html"
 url: /2011/10/oracle-weblogic-java-cloud-service.html
 ---
 

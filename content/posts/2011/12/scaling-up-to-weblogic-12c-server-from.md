@@ -3,7 +3,8 @@ title: "Scaling up to WebLogic 12c Server from GlassFish 3.x"
 date: 2011-12-12 23:00:00 +0000
 layout: post
 tags: ["weblogic", "glassfish"]
-slug: "2011-12-12-scaling-up-to-weblogic-12c-server-from"
+slug: "scaling-up-to-weblogic-12c-server-from"
+link: "2011/12/scaling-up-to-weblogic-12c-server-from.html"
 url: /2011/12/scaling-up-to-weblogic-12c-server-from.html
 ---
 

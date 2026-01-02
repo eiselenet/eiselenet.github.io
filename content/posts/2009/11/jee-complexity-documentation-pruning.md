@@ -3,7 +3,8 @@ title: "JEE complexity, documentation, pruning - some analyses and thoughts"
 date: 2009-11-04 11:08:00 +0000
 layout: post
 tags: ["Java EE", "Java EE 5", "java", "enterprise", "Java EE 6"]
-slug: "2009-11-04-jee-complexity-documentation-pruning"
+slug: "jee-complexity-documentation-pruning"
+link: "2009/11/jee-complexity-documentation-pruning.html"
 url: /2009/11/jee-complexity-documentation-pruning.html
 ---
 

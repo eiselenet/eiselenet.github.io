@@ -3,7 +3,8 @@ title: "WebLogic 10.3.4.0 + OEPE + Maven + Primefaces 2.2RC"
 date: 2011-01-21 13:06:00 +0000
 layout: post
 tags: ["weblogic", "primefaces", "OEPE"]
-slug: "2011-01-21-weblogic-10340-oepe-maven-primefaces"
+slug: "weblogic-10340-oepe-maven-primefaces"
+link: "2011/01/weblogic-10340-oepe-maven-primefaces.html"
 url: /2011/01/weblogic-10340-oepe-maven-primefaces.html
 ---
 

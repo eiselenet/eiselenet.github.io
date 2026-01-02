@@ -3,7 +3,8 @@ title: "Developer Interview (#DI14) Corinne Krych (@corinnekrych) about Swift, A
 date: 2015-02-13 11:00:00 +0000
 layout: post
 tags: ["Corinne Krych", "DI", "Jboss", "AeroGear", "Swift", "Keycloak"]
-slug: "2015-02-13-developer-interview-di14-corinne-krych"
+slug: "developer-interview-di14-corinne-krych"
+link: "2015/02/developer-interview-di14-corinne-krych.html"
 url: /2015/02/developer-interview-di14-corinne-krych.html
 ---
 

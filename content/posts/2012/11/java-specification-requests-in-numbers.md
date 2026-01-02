@@ -3,7 +3,8 @@ title: "Java Specification Requests in Numbers"
 date: 2012-11-20 13:02:00 +0000
 layout: post
 tags: ["JSR", "java", "jcp"]
-slug: "2012-11-20-java-specification-requests-in-numbers"
+slug: "java-specification-requests-in-numbers"
+link: "2012/11/java-specification-requests-in-numbers.html"
 url: /2012/11/java-specification-requests-in-numbers.html
 ---
 

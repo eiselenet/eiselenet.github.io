@@ -3,7 +3,8 @@ title: "Red Hat is now a Strategic Eclipse Member"
 date: 2015-05-05 12:56:00 +0000
 layout: post
 tags: ["member", "RedHat", "eclipse"]
-slug: "2015-05-05-red-hat-is-now-strategic-eclipse-member"
+slug: "red-hat-is-now-strategic-eclipse-member"
+link: "2015/05/red-hat-is-now-strategic-eclipse-member.html"
 url: /2015/05/red-hat-is-now-strategic-eclipse-member.html
 ---
 

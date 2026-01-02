@@ -3,7 +3,8 @@ title: "DOAG News 02/10: GlassFish and Java EE 6 at Oracle"
 date: 2010-05-21 10:45:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "doagev", "article"]
-slug: "2010-05-21-doag-news-0210-glassfish-and-java-ee-6"
+slug: "doag-news-0210-glassfish-and-java-ee-6"
+link: "2010/05/doag-news-0210-glassfish-and-java-ee-6.html"
 url: /2010/05/doag-news-0210-glassfish-and-java-ee-6.html
 ---
 

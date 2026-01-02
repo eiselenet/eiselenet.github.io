@@ -3,7 +3,8 @@ title: "ISTJ - The Duty Fulfillers"
 date: 2008-12-01 11:03:00 +0000
 layout: post
 tags: ["personal"]
-slug: "2008-12-01-istj-duty-fulfillers"
+slug: "istj-duty-fulfillers"
+link: "2008/12/istj-duty-fulfillers.html"
 url: /2008/12/istj-duty-fulfillers.html
 ---
 

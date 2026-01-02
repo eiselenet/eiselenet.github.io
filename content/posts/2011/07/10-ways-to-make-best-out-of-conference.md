@@ -3,7 +3,8 @@ title: "10 Ways to make the Best out of a Conference"
 date: 2011-07-05 07:42:00 +0000
 layout: post
 tags: ["conference", "ways", "10"]
-slug: "2011-07-05-10-ways-to-make-best-out-of-conference"
+slug: "10-ways-to-make-best-out-of-conference"
+link: "2011/07/10-ways-to-make-best-out-of-conference.html"
 url: /2011/07/10-ways-to-make-best-out-of-conference.html
 ---
 

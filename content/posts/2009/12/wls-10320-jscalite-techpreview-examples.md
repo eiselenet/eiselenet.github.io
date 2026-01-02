@@ -3,7 +3,8 @@ title: "WLS 10.3.2.0, JScaLite TechPreview .. examples ... working :)!"
 date: 2009-12-04 07:41:00 +0000
 layout: post
 tags: ["sca", "JScaLite", "Spring", "weblogic server"]
-slug: "2009-12-04-wls-10320-jscalite-techpreview-examples"
+slug: "wls-10320-jscalite-techpreview-examples"
+link: "2009/12/wls-10320-jscalite-techpreview-examples.html"
 url: /2009/12/wls-10320-jscalite-techpreview-examples.html
 ---
 

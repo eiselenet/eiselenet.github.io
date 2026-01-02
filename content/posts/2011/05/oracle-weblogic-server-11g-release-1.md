@@ -3,7 +3,8 @@ title: "Oracle WebLogic Server 11g Release 1 (10.3.5) Patch Set 4 seems to be ou
 date: 2011-05-06 13:58:00 +0000
 layout: post
 tags: ["weblogic", "OEPE"]
-slug: "2011-05-06-oracle-weblogic-server-11g-release-1"
+slug: "oracle-weblogic-server-11g-release-1"
+link: "2011/05/oracle-weblogic-server-11g-release-1.html"
 url: /2011/05/oracle-weblogic-server-11g-release-1.html
 ---
 

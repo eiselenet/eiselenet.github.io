@@ -3,7 +3,8 @@ title: "\"Continuous Enterprise Development in Java\" by Andrew Lee Rubinger and
 date: 2014-02-20 18:00:00 +0000
 layout: post
 tags: ["Arquillian", "oreilly", "book"]
-slug: "2014-02-20-continuous-enterprise-development-in"
+slug: "continuous-enterprise-development-in"
+link: "2014/02/continuous-enterprise-development-in.html"
 url: /2014/02/continuous-enterprise-development-in.html
 ---
 

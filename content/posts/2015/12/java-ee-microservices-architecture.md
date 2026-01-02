@@ -3,7 +3,8 @@ title: "Java EE Microservices Architecture - O'Reilly Webcast"
 date: 2015-12-18 07:09:00 +0000
 layout: post
 tags: ["webcast", "javaee", "O'Reilly", "microservices"]
-slug: "2015-12-18-java-ee-microservices-architecture"
+slug: "java-ee-microservices-architecture"
+link: "2015/12/java-ee-microservices-architecture.html"
 url: /2015/12/java-ee-microservices-architecture.html
 ---
 

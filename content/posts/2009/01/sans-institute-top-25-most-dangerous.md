@@ -3,7 +3,8 @@ title: "SANS Institute TOP 25 Most Dangerous Programming Errors"
 date: 2009-01-14 09:36:00 +0000
 layout: post
 tags: ["errors", "programming", "top 25"]
-slug: "2009-01-14-sans-institute-top-25-most-dangerous"
+slug: "sans-institute-top-25-most-dangerous"
+link: "2009/01/sans-institute-top-25-most-dangerous.html"
 url: /2009/01/sans-institute-top-25-most-dangerous.html
 ---
 

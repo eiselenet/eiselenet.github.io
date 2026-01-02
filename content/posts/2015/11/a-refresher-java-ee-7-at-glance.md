@@ -3,7 +3,8 @@ title: "A Refresher - Java EE 7 At A Glance"
 date: 2015-11-30 09:34:00 +0000
 layout: post
 tags: ["javaee7", "Overview"]
-slug: "2015-11-30-a-refresher-java-ee-7-at-glance"
+slug: "a-refresher-java-ee-7-at-glance"
+link: "2015/11/a-refresher-java-ee-7-at-glance.html"
 url: /2015/11/a-refresher-java-ee-7-at-glance.html
 ---
 

@@ -3,7 +3,8 @@ title: "A running update and two confessions: I run because I like cookies and d
 date: 2023-08-24 10:58:00 +0000
 layout: post
 tags: ["running", "Nutrition", "health", "strava", "cookies"]
-slug: "2023-08-24-a-running-update-and-two-confessions-i"
+slug: "a-running-update-and-two-confessions-i"
+link: "2023/08/a-running-update-and-two-confessions-i.html"
 url: /2023/08/a-running-update-and-two-confessions-i.html
 ---
 

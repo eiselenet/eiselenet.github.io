@@ -3,7 +3,8 @@ title: "Software engineering is an idea whose time has come and gone"
 date: 2009-07-24 13:10:00 +0000
 layout: post
 tags: ["Tom DeMarco", "software development"]
-slug: "2009-07-24-software-engineering-is-idea-whose-time"
+slug: "software-engineering-is-idea-whose-time"
+link: "2009/07/software-engineering-is-idea-whose-time.html"
 url: /2009/07/software-engineering-is-idea-whose-time.html
 ---
 

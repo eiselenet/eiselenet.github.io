@@ -3,7 +3,8 @@ title: "Review: \"Learning Akka\" by Jason Goodwin"
 date: 2016-03-11 07:43:00 +0000
 layout: post
 tags: ["packtpub", "akka", "review", "book"]
-slug: "2016-03-11-review-learning-akka-by-jason-goodwin"
+slug: "review-learning-akka-by-jason-goodwin"
+link: "2016/03/review-learning-akka-by-jason-goodwin.html"
 url: /2016/03/review-learning-akka-by-jason-goodwin.html
 ---
 

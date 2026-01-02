@@ -3,7 +3,8 @@ title: "Join me for the Reactive Microservices Roadshow"
 date: 2016-08-31 08:00:00 +0000
 layout: post
 tags: ["reactive", "roadshow", "microservices"]
-slug: "2016-08-31-join-me-for-reactive-microservices"
+slug: "join-me-for-reactive-microservices"
+link: "2016/08/join-me-for-reactive-microservices.html"
 url: /2016/08/join-me-for-reactive-microservices.html
 ---
 

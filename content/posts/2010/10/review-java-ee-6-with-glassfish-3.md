@@ -3,7 +3,8 @@ title: "Review \"Java EE 6 with GlassFish 3 Application Server\" by David Heffel
 date: 2010-10-07 07:16:00 +0000
 layout: post
 tags: ["packtpub", "glassfish", "Java EE 6"]
-slug: "2010-10-07-review-java-ee-6-with-glassfish-3"
+slug: "review-java-ee-6-with-glassfish-3"
+link: "2010/10/review-java-ee-6-with-glassfish-3.html"
 url: /2010/10/review-java-ee-6-with-glassfish-3.html
 ---
 

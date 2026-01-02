@@ -3,7 +3,8 @@ title: "I'm speaking at the Oracle Developer Day, OOP 21. - 25. Januar 2013 Muni
 date: 2012-11-27 08:37:00 +0000
 layout: post
 tags: ["java cloud", "developer day", "oracle", "oop2013"]
-slug: "2012-11-27-im-speaking-at-oracle-developer-day-oop"
+slug: "im-speaking-at-oracle-developer-day-oop"
+link: "2012/11/im-speaking-at-oracle-developer-day-oop.html"
 url: /2012/11/im-speaking-at-oracle-developer-day-oop.html
 ---
 

@@ -3,7 +3,8 @@ title: "The Heroes of Java: Bauke Scholtz"
 date: 2012-07-31 16:00:00 +0000
 layout: post
 tags: ["BalusC", "java", "BaukeScholtz", "heroes"]
-slug: "2012-07-31-the-heroes-of-java-bauke-scholtz"
+slug: "the-heroes-of-java-bauke-scholtz"
+link: "2012/07/the-heroes-of-java-bauke-scholtz.html"
 url: /2012/07/the-heroes-of-java-bauke-scholtz.html
 ---
 

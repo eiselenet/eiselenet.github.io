@@ -3,7 +3,8 @@ title: "Manifesto for Cloud Computing published"
 date: 2009-12-10 04:58:00 +0000
 layout: post
 tags: ["cloud", "computing", "manifesto"]
-slug: "2009-12-10-manifesto-for-cloud-computing-published"
+slug: "manifesto-for-cloud-computing-published"
+link: "2009/12/manifesto-for-cloud-computing-published.html"
 url: /2009/12/manifesto-for-cloud-computing-published.html
 ---
 

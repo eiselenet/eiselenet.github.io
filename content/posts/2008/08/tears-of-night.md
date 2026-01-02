@@ -3,7 +3,8 @@ title: "tears of the night"
 date: 2008-08-19 13:04:00 +0000
 layout: post
 tags: ["photoshop", "photographie"]
-slug: "2008-08-19-tears-of-night"
+slug: "tears-of-night"
+link: "2008/08/tears-of-night.html"
 url: /2008/08/tears-of-night.html
 ---
 

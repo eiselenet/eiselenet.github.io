@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 6) Geert Schuring (@geertschuring) about Fuse, 
 date: 2014-10-09 10:00:00 +0000
 layout: post
 tags: ["Fuse", "Camel", "Geert Schuring", "DI", "Jboss"]
-slug: "2014-10-09-developer-interview-di-6-geert-schuring"
+slug: "developer-interview-di-6-geert-schuring"
+link: "2014/10/developer-interview-di-6-geert-schuring.html"
 url: /2014/10/developer-interview-di-6-geert-schuring.html
 ---
 

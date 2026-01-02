@@ -3,7 +3,8 @@ title: "Review: \"Arquillian in Action\" by Alex Soto and Jason Porter"
 date: 2015-11-01 13:52:00 +0000
 layout: post
 tags: ["Manning", "Arquillian", "review"]
-slug: "2015-11-01-book-review-arquillian-in-action"
+slug: "book-review-arquillian-in-action"
+link: "2015/11/book-review-arquillian-in-action.html"
 url: /2015/11/book-review-arquillian-in-action.html
 ---
 

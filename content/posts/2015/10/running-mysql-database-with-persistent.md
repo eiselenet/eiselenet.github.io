@@ -3,7 +3,8 @@ title: "Running A MySQL Database with Persistent Storage on OpenShift"
 date: 2015-10-20 11:13:00 +0000
 layout: post
 tags: [""]
-slug: "2015-10-20-running-mysql-database-with-persistent"
+slug: "running-mysql-database-with-persistent"
+link: "2015/10/running-mysql-database-with-persistent.html"
 url: /2015/10/running-mysql-database-with-persistent.html
 ---
 

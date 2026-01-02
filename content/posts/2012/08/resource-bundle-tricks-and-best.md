@@ -3,7 +3,8 @@ title: "Resource Bundle Tricks and Best Practices"
 date: 2012-08-20 10:20:00 +0000
 layout: post
 tags: ["java", "resourcebundle", "best practices"]
-slug: "2012-08-20-resource-bundle-tricks-and-best"
+slug: "resource-bundle-tricks-and-best"
+link: "2012/08/resource-bundle-tricks-and-best.html"
 url: /2012/08/resource-bundle-tricks-and-best.html
 ---
 

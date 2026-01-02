@@ -3,7 +3,8 @@ title: "Oracle Introduces Java Virtualization Solution for Oracle WebLogic Suite
 date: 2010-04-21 04:36:00 +0000
 layout: post
 tags: ["oracle", "weblogic server", "JRockit"]
-slug: "2010-04-21-oracle-introduces-java-virtualization"
+slug: "oracle-introduces-java-virtualization"
+link: "2010/04/oracle-introduces-java-virtualization.html"
 url: /2010/04/oracle-introduces-java-virtualization.html
 ---
 

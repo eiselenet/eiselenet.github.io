@@ -3,7 +3,8 @@ title: "Review: \"WildFly Performance Tuning\" by Arnold Johansson and Anders We
 date: 2014-08-05 08:49:00 +0000
 layout: post
 tags: ["packtpub", "wildfly", "performance", "review"]
-slug: "2014-08-05-review-wildfly-performance-tuning-by"
+slug: "review-wildfly-performance-tuning-by"
+link: "2014/08/review-wildfly-performance-tuning-by.html"
 url: /2014/08/review-wildfly-performance-tuning-by.html
 ---
 
@@ -11,7 +12,7 @@ I've had the pleasure to review another book for Packt. This time it is the perf
 <br>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="http://bit.ly/1mzAA3M" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" target="_blank"><img border="0" src="0567OS_WildFly Performance Tuning.jpg" height="200" width="158"></a>
+ <a href="http://bit.ly/1mzAA3M" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" target="_blank"><img border="0" src="0567OS_WildFly-Performance-Tuning.jpg" height="200" width="158"></a>
 </div><b>Abstract</b>
 <br>
  The hugely successful JBoss Application Server has been updated and is now called WildFly. This cutting edge technology provides a free JEE-certified platform for the software of today and tomorrow. Learning to tune such a platform for optimal performance is vital for a healthy business organization, efficient development, and the smooth running of operations.

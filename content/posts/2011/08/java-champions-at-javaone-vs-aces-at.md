@@ -3,7 +3,8 @@ title: "Java Champions at JavaOne vs. ACEs at OpenWorld 2011 - 15:45"
 date: 2011-08-01 09:46:00 +0000
 layout: post
 tags: ["JavaOne", "openworld", "conference", "ACED"]
-slug: "2011-08-01-java-champions-at-javaone-vs-aces-at"
+slug: "java-champions-at-javaone-vs-aces-at"
+link: "2011/08/java-champions-at-javaone-vs-aces-at.html"
 url: /2011/08/java-champions-at-javaone-vs-aces-at.html
 ---
 

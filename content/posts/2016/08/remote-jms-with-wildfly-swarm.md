@@ -3,7 +3,8 @@ title: "Remote JMS with WildFly Swarm"
 date: 2016-08-05 07:16:00 +0000
 layout: post
 tags: ["JMS", "wildfly swarm", "remoting"]
-slug: "2016-08-05-remote-jms-with-wildfly-swarm"
+slug: "remote-jms-with-wildfly-swarm"
+link: "2016/08/remote-jms-with-wildfly-swarm.html"
 url: /2016/08/remote-jms-with-wildfly-swarm.html
 ---
 

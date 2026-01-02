@@ -3,7 +3,8 @@ title: "A Refresher - Top 5 Java EE 7 Frontend"
 date: 2016-01-12 18:57:00 +0000
 layout: post
 tags: ["javaee7", "frontend", "EdBurns"]
-slug: "2016-01-12-a-refresher-top-5-java-ee-7-frontend"
+slug: "a-refresher-top-5-java-ee-7-frontend"
+link: "2016/01/a-refresher-top-5-java-ee-7-frontend.html"
 url: /2016/01/a-refresher-top-5-java-ee-7-frontend.html
 ---
 

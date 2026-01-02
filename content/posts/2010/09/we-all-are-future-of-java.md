@@ -3,7 +3,8 @@ title: "We all are the future of Java! :)"
 date: 2010-09-15 08:10:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne"]
-slug: "2010-09-15-we-all-are-future-of-java"
+slug: "we-all-are-future-of-java"
+link: "2010/09/we-all-are-future-of-java.html"
 url: /2010/09/we-all-are-future-of-java.html
 ---
 

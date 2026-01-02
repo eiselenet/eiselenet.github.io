@@ -3,7 +3,8 @@ title: "Lightbender at JavaOne 2016"
 date: 2016-08-31 05:20:00 +0000
 layout: post
 tags: ["Lightbend", "JavaOne"]
-slug: "2016-08-31-lightbender-at-javaone-2016"
+slug: "lightbender-at-javaone-2016"
+link: "2016/08/lightbender-at-javaone-2016.html"
 url: /2016/08/lightbender-at-javaone-2016.html
 ---
 

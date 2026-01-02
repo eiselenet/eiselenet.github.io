@@ -3,7 +3,8 @@ title: "New Article in Java Tech Journal: GlassFish 3.1: What's New and Hot"
 date: 2011-04-20 09:39:00 +0000
 layout: post
 tags: ["glassfish", "article"]
-slug: "2011-04-20-new-article-in-java-tech-journal"
+slug: "new-article-in-java-tech-journal"
+link: "2011/04/new-article-in-java-tech-journal.html"
 url: /2011/04/new-article-in-java-tech-journal.html
 ---
 

@@ -3,7 +3,8 @@ title: "PrimeFaces UI Component 0.9.2 and Optimus 0.8.0"
 date: 2009-09-10 04:25:00 +0000
 layout: post
 tags: ["components", "jsf", "primefaces"]
-slug: "2009-09-10-primefaces-ui-component-092-and-optimus"
+slug: "primefaces-ui-component-092-and-optimus"
+link: "2009/09/primefaces-ui-component-092-and-optimus.html"
 url: /2009/09/primefaces-ui-component-092-and-optimus.html
 ---
 

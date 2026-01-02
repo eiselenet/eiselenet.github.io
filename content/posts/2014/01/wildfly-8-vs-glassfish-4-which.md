@@ -3,7 +3,8 @@ title: "WildFly 8 vs. GlassFish 4 - Which Application Server to Choose."
 date: 2014-01-28 09:53:00 +0000
 layout: post
 tags: ["glassfish", "wildfly", "javaee7"]
-slug: "2014-01-28-wildfly-8-vs-glassfish-4-which"
+slug: "wildfly-8-vs-glassfish-4-which"
+link: "2014/01/wildfly-8-vs-glassfish-4-which.html"
 url: /2014/01/wildfly-8-vs-glassfish-4-which.html
 ---
 

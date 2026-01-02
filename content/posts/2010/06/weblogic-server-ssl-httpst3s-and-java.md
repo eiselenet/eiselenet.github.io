@@ -3,7 +3,8 @@ title: "WebLogic Server SSL (https/t3s) and Java Web Start"
 date: 2010-06-15 10:02:00 +0000
 layout: post
 tags: ["weblogic", "https", "ssl", "t3s"]
-slug: "2010-06-15-weblogic-server-ssl-httpst3s-and-java"
+slug: "weblogic-server-ssl-httpst3s-and-java"
+link: "2010/06/weblogic-server-ssl-httpst3s-and-java.html"
 url: /2010/06/weblogic-server-ssl-httpst3s-and-java.html
 ---
 

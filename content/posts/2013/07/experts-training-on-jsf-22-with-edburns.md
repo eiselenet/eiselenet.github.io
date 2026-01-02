@@ -3,7 +3,8 @@ title: "Experts Training on JSF 2.2 with @EdBurns in Berlin, Germany"
 date: 2013-07-04 04:46:00 +0000
 layout: post
 tags: ["training", "javaee7", "netbeans", "jsf"]
-slug: "2013-07-04-experts-training-on-jsf-22-with-edburns"
+slug: "experts-training-on-jsf-22-with-edburns"
+link: "2013/07/experts-training-on-jsf-22-with-edburns.html"
 url: /2013/07/experts-training-on-jsf-22-with-edburns.html
 ---
 

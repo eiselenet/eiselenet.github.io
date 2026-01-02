@@ -3,7 +3,8 @@ title: "Plan B? That is Plan N ... Nothing. Jigsaw follows in 2015."
 date: 2012-07-18 07:56:00 +0000
 layout: post
 tags: ["2015", "Jigsaw", "Java9"]
-slug: "2012-07-18-plan-b-that-is-plan-n-nothing-jigsaw"
+slug: "plan-b-that-is-plan-n-nothing-jigsaw"
+link: "2012/07/plan-b-that-is-plan-n-nothing-jigsaw.html"
 url: /2012/07/plan-b-that-is-plan-n-nothing-jigsaw.html
 ---
 

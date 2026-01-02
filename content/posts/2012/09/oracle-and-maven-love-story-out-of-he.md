@@ -3,7 +3,8 @@ title: "Oracle and Maven - a love story out of the ordinary."
 date: 2012-09-22 18:19:00 +0000
 layout: post
 tags: ["love", "oracle", "maven", "story"]
-slug: "2012-09-22-oracle-and-maven-love-story-out-of-he"
+slug: "oracle-and-maven-love-story-out-of-he"
+link: "2012/09/oracle-and-maven-love-story-out-of-he.html"
 url: /2012/09/oracle-and-maven-love-story-out-of-he.html
 ---
 

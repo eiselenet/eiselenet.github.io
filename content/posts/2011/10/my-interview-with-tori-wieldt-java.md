@@ -3,7 +3,8 @@ title: "My interview with Tori Wieldt (@Java) during JavaOne"
 date: 2011-10-18 14:04:00 +0000
 layout: post
 tags: ["javaone11", "myfear", "interview"]
-slug: "2011-10-18-my-interview-with-tori-wieldt-java"
+slug: "my-interview-with-tori-wieldt-java"
+link: "2011/10/my-interview-with-tori-wieldt-java.html"
 url: /2011/10/my-interview-with-tori-wieldt-java.html
 ---
 

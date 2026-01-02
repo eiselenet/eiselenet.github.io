@@ -3,7 +3,8 @@ title: "Oracle Weblogic Server 10.3"
 date: 2008-08-08 06:08:00 +0000
 layout: post
 tags: ["bea oracle", "weblogic server"]
-slug: "2008-08-08-oracle-weblogic-server-103"
+slug: "oracle-weblogic-server-103"
+link: "2008/08/oracle-weblogic-server-103.html"
 url: /2008/08/oracle-weblogic-server-103.html
 ---
 

@@ -3,7 +3,8 @@ title: "iPhone Webanwendungen ... aber richtig!"
 date: 2008-03-24 09:42:00 +0000
 layout: post
 tags: ["iPhone", "Apple"]
-slug: "2008-03-24-iphone-webanwendungen-aber-richtig"
+slug: "iphone-webanwendungen-aber-richtig"
+link: "2008/03/iphone-webanwendungen-aber-richtig.html"
 url: /2008/03/iphone-webanwendungen-aber-richtig.html
 ---
 

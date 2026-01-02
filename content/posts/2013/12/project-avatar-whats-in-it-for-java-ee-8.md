@@ -3,7 +3,8 @@ title: "Project Avatar - What's in it for Java EE 8?"
 date: 2013-12-12 07:00:00 +0000
 layout: post
 tags: ["JavaEE8", "Avatar", "JavaScript"]
-slug: "2013-12-12-project-avatar-whats-in-it-for-java-ee-8"
+slug: "project-avatar-whats-in-it-for-java-ee-8"
+link: "2013/12/project-avatar-whats-in-it-for-java-ee-8.html"
 url: /2013/12/project-avatar-whats-in-it-for-java-ee-8.html
 ---
 

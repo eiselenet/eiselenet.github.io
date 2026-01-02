@@ -3,7 +3,8 @@ title: "Oracle OpenWorld 2009 - pictures and tweets"
 date: 2009-10-06 10:38:00 +0000
 layout: post
 tags: ["twitter", "twitpic", "open world 2009"]
-slug: "2009-10-06-oracle-openworld-2009-pictures-and"
+slug: "oracle-openworld-2009-pictures-and"
+link: "2009/10/oracle-openworld-2009-pictures-and.html"
 url: /2009/10/oracle-openworld-2009-pictures-and.html
 ---
 

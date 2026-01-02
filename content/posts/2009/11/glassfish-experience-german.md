@@ -3,7 +3,8 @@ title: "The GlassFish Experience (german)"
 date: 2009-11-23 06:45:00 +0000
 layout: post
 tags: ["glassfish", "slides", "session", "glassfishv3", "Sun", "doag"]
-slug: "2009-11-23-glassfish-experience-german"
+slug: "glassfish-experience-german"
+link: "2009/11/glassfish-experience-german.html"
 url: /2009/11/glassfish-experience-german.html
 ---
 

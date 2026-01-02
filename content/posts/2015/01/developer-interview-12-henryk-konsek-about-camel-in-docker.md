@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 12) - Henryk Konsek (@hekonsek) about Camel on 
 date: 2015-01-23 11:00:00 +0000
 layout: post
 tags: ["Camel", "Docker", "DI", "microservices"]
-slug: "2015-01-23-developer-interview-12-henryk-konsek-about-camel-in-docker"
+slug: "developer-interview-12-henryk-konsek-about-camel-in-docker"
+link: "2015/01/developer-interview-12-henryk-konsek-about-camel-in-docker.html"
 url: /2015/01/developer-interview-12-henryk-konsek-about-camel-in-docker.html
 ---
 

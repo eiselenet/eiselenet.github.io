@@ -3,7 +3,8 @@ title: "Both Weblogic and Glassfish are strategic products for Oracle"
 date: 2011-03-08 06:19:00 +0000
 layout: post
 tags: ["techcast", "weblogic", "glassfish"]
-slug: "2011-03-08-both-weblogic-and-glassfish-are"
+slug: "both-weblogic-and-glassfish-are"
+link: "2011/03/both-weblogic-and-glassfish-are.html"
 url: /2011/03/both-weblogic-and-glassfish-are.html
 ---
 

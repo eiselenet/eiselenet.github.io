@@ -3,7 +3,8 @@ title: "I'm speaking at JavaOne 2014, September 28 to October 2, 2014 in San Fra
 date: 2014-06-16 05:27:00 +0000
 layout: post
 tags: ["conference", "JavaOne"]
-slug: "2014-06-16-im-speaking-at-javaone-2014-september"
+slug: "im-speaking-at-javaone-2014-september"
+link: "2014/06/im-speaking-at-javaone-2014-september.html"
 url: /2014/06/im-speaking-at-javaone-2014-september.html
 ---
 

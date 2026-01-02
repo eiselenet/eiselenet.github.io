@@ -3,7 +3,8 @@ title: "Java Champions at JavaOne 2014"
 date: 2014-08-12 13:44:00 +0000
 layout: post
 tags: ["javachampions", "JavaOne"]
-slug: "2014-08-12-java-champions-at-javaone-2014"
+slug: "java-champions-at-javaone-2014"
+link: "2014/08/java-champions-at-javaone-2014.html"
 url: /2014/08/java-champions-at-javaone-2014.html
 ---
 

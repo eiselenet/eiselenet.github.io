@@ -3,7 +3,8 @@ title: "The Heroes of Java: Marcus Hirt"
 date: 2013-02-11 06:54:00 +0000
 layout: post
 tags: ["HoJ", "heroes", "Marcus Hirt"]
-slug: "2013-02-11-the-heroes-of-java-marcus-hirt"
+slug: "the-heroes-of-java-marcus-hirt"
+link: "2013/02/the-heroes-of-java-marcus-hirt.html"
 url: /2013/02/the-heroes-of-java-marcus-hirt.html
 ---
 

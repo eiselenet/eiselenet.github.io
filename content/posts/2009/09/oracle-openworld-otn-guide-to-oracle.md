@@ -3,7 +3,8 @@ title: "Oracle OpenWorld The OTN Guide to Oracle OpenWorld 2009"
 date: 2009-09-02 04:59:00 +0000
 layout: post
 tags: ["oracle", "open world 2009", "OOW"]
-slug: "2009-09-02-oracle-openworld-otn-guide-to-oracle"
+slug: "oracle-openworld-otn-guide-to-oracle"
+link: "2009/09/oracle-openworld-otn-guide-to-oracle.html"
 url: /2009/09/oracle-openworld-otn-guide-to-oracle.html
 ---
 

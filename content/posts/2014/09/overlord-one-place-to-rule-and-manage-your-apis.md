@@ -3,7 +3,8 @@ title: "Overlord - The One Place To Rule And Manage your APIs"
 date: 2014-09-10 07:07:00 +0000
 layout: post
 tags: ["API", "Jboss", "Overlord"]
-slug: "2014-09-10-overlord-one-place-to-rule-and-manage-your-apis"
+slug: "overlord-one-place-to-rule-and-manage-your-apis"
+link: "2014/09/overlord-one-place-to-rule-and-manage-your-apis.html"
 url: /2014/09/overlord-one-place-to-rule-and-manage-your-apis.html
 ---
 

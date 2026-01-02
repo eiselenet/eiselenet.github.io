@@ -3,7 +3,8 @@ title: "The Heroes of Java: Charles Oliver Nutter"
 date: 2011-09-08 18:37:00 +0000
 layout: post
 tags: ["java", "heroes", "charles oliver nutter"]
-slug: "2011-09-08-heroes-of-java-charles-oliver-nutter"
+slug: "heroes-of-java-charles-oliver-nutter"
+link: "2011/09/heroes-of-java-charles-oliver-nutter.html"
 url: /2011/09/heroes-of-java-charles-oliver-nutter.html
 ---
 

@@ -3,7 +3,8 @@ title: "Test Coverage for your Enterprise Beans. Running Eclemma with GlassFish 
 date: 2011-04-05 10:22:00 +0000
 layout: post
 tags: ["ejb 3.1", "glassfish 3.1", "eclemma", "embedded"]
-slug: "2011-04-05-test-coverage-for-your-enterprise-beans"
+slug: "test-coverage-for-your-enterprise-beans"
+link: "2011/04/test-coverage-for-your-enterprise-beans.html"
 url: /2011/04/test-coverage-for-your-enterprise-beans.html
 ---
 

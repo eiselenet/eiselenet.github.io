@@ -3,7 +3,8 @@ title: "Day 1+2: ACE Director Briefing at Oracle HQ"
 date: 2011-10-01 12:36:00 +0000
 layout: post
 tags: ["oracle", "java", "ACED"]
-slug: "2011-10-01-day-12-ace-director-briefing-at-oracle"
+slug: "day-12-ace-director-briefing-at-oracle"
+link: "2011/10/day-12-ace-director-briefing-at-oracle.html"
 url: /2011/10/day-12-ace-director-briefing-at-oracle.html
 ---
 

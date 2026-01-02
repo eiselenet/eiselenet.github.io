@@ -3,7 +3,8 @@ title: "JavaOne CfP 2014 - Open for Business"
 date: 2014-03-13 06:46:00 +0000
 layout: post
 tags: ["CfP", "JavaOne"]
-slug: "2014-03-13-javaone-cfp-2014-open-for-business"
+slug: "javaone-cfp-2014-open-for-business"
+link: "2014/03/javaone-cfp-2014-open-for-business.html"
 url: /2014/03/javaone-cfp-2014-open-for-business.html
 ---
 

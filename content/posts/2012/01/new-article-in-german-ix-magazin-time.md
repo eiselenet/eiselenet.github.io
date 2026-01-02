@@ -3,7 +3,8 @@ title: "New Article in German iX Magazin. Time and Money in Java."
 date: 2012-01-26 11:14:00 +0000
 layout: post
 tags: ["time", "money", "article", "ix"]
-slug: "2012-01-26-new-article-in-german-ix-magazin-time"
+slug: "new-article-in-german-ix-magazin-time"
+link: "2012/01/new-article-in-german-ix-magazin-time.html"
 url: /2012/01/new-article-in-german-ix-magazin-time.html
 ---
 

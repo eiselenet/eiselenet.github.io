@@ -3,7 +3,8 @@ title: "Preview: WebLogic DM Server - WebLogic Server Architecture, OSGi and Jav
 date: 2009-10-15 15:56:00 +0000
 layout: post
 tags: ["Weblogicdm", "open world 2009", "OOW", "weblogic server"]
-slug: "2009-10-15-preview-weblogic-dm-server-weblogic"
+slug: "preview-weblogic-dm-server-weblogic"
+link: "2009/10/preview-weblogic-dm-server-weblogic.html"
 url: /2009/10/preview-weblogic-dm-server-weblogic.html
 ---
 

@@ -3,7 +3,8 @@ title: "Running Java Mission Control and Flight Recorder against WildFly and EAP
 date: 2014-12-14 23:00:00 +0000
 layout: post
 tags: ["jmc", "wildfly", "EAP", "JFR"]
-slug: "2014-12-14-java-mission-control-and-flight-recordings-on-wildfly-and-eap"
+slug: "java-mission-control-and-flight-recordings-on-wildfly-and-eap"
+link: "2014/12/java-mission-control-and-flight-recordings-on-wildfly-and-eap.html"
 url: /2014/12/java-mission-control-and-flight-recordings-on-wildfly-and-eap.html
 ---
 

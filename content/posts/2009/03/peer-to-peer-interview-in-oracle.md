@@ -3,7 +3,8 @@ title: "Peer-to-Peer Interview in Oracle Magazin March/April 2009"
 date: 2009-03-19 07:10:00 +0000
 layout: post
 tags: ["Oracle Magazin", "peer-to-peer"]
-slug: "2009-03-19-peer-to-peer-interview-in-oracle"
+slug: "peer-to-peer-interview-in-oracle"
+link: "2009/03/peer-to-peer-interview-in-oracle.html"
 url: /2009/03/peer-to-peer-interview-in-oracle.html
 ---
 

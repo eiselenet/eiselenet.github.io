@@ -3,7 +3,8 @@ title: "Trip Report: Joker Conf 2014"
 date: 2014-11-13 12:00:00 +0000
 layout: post
 tags: ["trip", "Jboss", "jokerconf"]
-slug: "2014-11-13-trip-report-joker-conf-2014"
+slug: "trip-report-joker-conf-2014"
+link: "2014/11/trip-report-joker-conf-2014.html"
 url: /2014/11/trip-report-joker-conf-2014.html
 ---
 

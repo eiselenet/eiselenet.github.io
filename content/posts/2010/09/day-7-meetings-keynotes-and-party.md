@@ -3,7 +3,8 @@ title: "Day 7: Meetings, Keynotes and Party"
 date: 2010-09-23 17:43:00 +0000
 layout: post
 tags: ["OOW", "javaone10"]
-slug: "2010-09-23-day-7-meetings-keynotes-and-party"
+slug: "day-7-meetings-keynotes-and-party"
+link: "2010/09/day-7-meetings-keynotes-and-party.html"
 url: /2010/09/day-7-meetings-keynotes-and-party.html
 ---
 

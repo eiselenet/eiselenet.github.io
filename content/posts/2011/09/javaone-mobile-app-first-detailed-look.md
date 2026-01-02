@@ -3,7 +3,8 @@ title: "JavaOne Mobile App - A first detailed look. What's hot and what's not."
 date: 2011-09-02 05:23:00 +0000
 layout: post
 tags: ["mobile", "JavaOne"]
-slug: "2011-09-02-javaone-mobile-app-first-detailed-look"
+slug: "javaone-mobile-app-first-detailed-look"
+link: "2011/09/javaone-mobile-app-first-detailed-look.html"
 url: /2011/09/javaone-mobile-app-first-detailed-look.html
 ---
 

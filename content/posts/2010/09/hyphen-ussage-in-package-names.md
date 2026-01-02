@@ -3,7 +3,8 @@ title: "Hyphen usage in package names"
 date: 2010-09-06 09:06:00 +0000
 layout: post
 tags: ["jls", "names", "package", "dash", "hyphen"]
-slug: "2010-09-06-hyphen-ussage-in-package-names"
+slug: "hyphen-ussage-in-package-names"
+link: "2010/09/hyphen-ussage-in-package-names.html"
 url: /2010/09/hyphen-ussage-in-package-names.html
 ---
 

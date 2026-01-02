@@ -3,7 +3,8 @@ title: "The Good Enough Revolution"
 date: 2009-08-31 06:37:00 +0000
 layout: post
 tags: ["\"Good Enough Revolution\"", "software development"]
-slug: "2009-08-31-good-enough-revolution"
+slug: "good-enough-revolution"
+link: "2009/08/good-enough-revolution.html"
 url: /2009/08/good-enough-revolution.html
 ---
 

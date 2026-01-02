@@ -3,7 +3,8 @@ title: "Arquillian 1.0.0.Final released! Ready for GlassFish and WebLogic! Death
 date: 2012-04-11 07:12:00 +0000
 layout: post
 tags: ["weblogic", "glassfish", "Arquillian"]
-slug: "2012-04-11-arquillian-100final-released-ready-for"
+slug: "arquillian-100final-released-ready-for"
+link: "2012/04/arquillian-100final-released-ready-for.html"
 url: /2012/04/arquillian-100final-released-ready-for.html
 ---
 

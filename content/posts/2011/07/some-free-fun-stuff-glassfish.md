@@ -3,7 +3,8 @@ title: "Some free fun stuff - glassfish"
 date: 2011-07-13 09:45:00 +0000
 layout: post
 tags: ["glassfish 3.1", "desktop", "free", "wallpaper"]
-slug: "2011-07-13-some-free-fun-stuff-glassfish"
+slug: "some-free-fun-stuff-glassfish"
+link: "2011/07/some-free-fun-stuff-glassfish.html"
 url: /2011/07/some-free-fun-stuff-glassfish.html
 ---
 

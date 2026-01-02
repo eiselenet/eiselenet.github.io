@@ -3,7 +3,8 @@ title: "Enterprise AJAX"
 date: 2008-01-15 07:24:00 +0000
 layout: post
 tags: ["ajax", "programmierung"]
-slug: "2008-01-15-enterprise-ajax"
+slug: "enterprise-ajax"
+link: "2008/01/enterprise-ajax.html"
 url: /2008/01/enterprise-ajax.html
 ---
 

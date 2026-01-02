@@ -3,7 +3,8 @@ title: "Nine Browsers of Today and Tomorrow Compared"
 date: 2009-03-06 04:57:00 +0000
 layout: post
 tags: ["opera", "chrome", "safari", "browser", "firefox", "internet exporer"]
-slug: "2009-03-06-nine-browsers-of-today-and-tomorrow"
+slug: "nine-browsers-of-today-and-tomorrow"
+link: "2009/03/nine-browsers-of-today-and-tomorrow.html"
 url: /2009/03/nine-browsers-of-today-and-tomorrow.html
 ---
 

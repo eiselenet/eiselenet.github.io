@@ -3,7 +3,8 @@ title: "Breaking news: Java EE 6 is done!"
 date: 2009-12-01 08:51:00 +0000
 layout: post
 tags: ["final", "approved", "JSR-316", "Java EE 6"]
-slug: "2009-12-01-breaking-news-java-ee-6-is-done"
+slug: "breaking-news-java-ee-6-is-done"
+link: "2009/12/breaking-news-java-ee-6-is-done.html"
 url: /2009/12/breaking-news-java-ee-6-is-done.html
 ---
 

@@ -3,7 +3,8 @@ title: "LogDigger - Gives wings to your Java application logging"
 date: 2008-11-25 13:37:00 +0000
 layout: post
 tags: ["firebug", "development", "firefox", "log4j"]
-slug: "2008-11-25-logdigger-gives-wings-to-your-java"
+slug: "logdigger-gives-wings-to-your-java"
+link: "2008/11/logdigger-gives-wings-to-your-java.html"
 url: /2008/11/logdigger-gives-wings-to-your-java.html
 ---
 

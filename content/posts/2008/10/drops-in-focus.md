@@ -3,7 +3,8 @@ title: "drops in focus"
 date: 2008-10-14 10:56:00 +0000
 layout: post
 tags: [""]
-slug: "2008-10-14-drops-in-focus"
+slug: "drops-in-focus"
+link: "2008/10/drops-in-focus.html"
 url: /2008/10/drops-in-focus.html
 ---
 

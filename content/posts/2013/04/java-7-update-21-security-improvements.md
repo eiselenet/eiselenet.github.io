@@ -3,7 +3,8 @@ title: "Java 7 Update 21 Security Improvements in Detail"
 date: 2013-04-17 08:01:00 +0000
 layout: post
 tags: ["cpu", "security", "java"]
-slug: "2013-04-17-java-7-update-21-security-improvements"
+slug: "java-7-update-21-security-improvements"
+link: "2013/04/java-7-update-21-security-improvements.html"
 url: /2013/04/java-7-update-21-security-improvements.html
 ---
 

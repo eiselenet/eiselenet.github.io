@@ -3,7 +3,8 @@ title: "Gosling: What's Good for Google May Not Be Good for Java"
 date: 2009-06-25 08:38:00 +0000
 layout: post
 tags: ["google", "Gosling", "java", "Kriens", "OSGi"]
-slug: "2009-06-25-gosling-whats-good-for-google-may-not"
+slug: "gosling-whats-good-for-google-may-not"
+link: "2009/06/gosling-whats-good-for-google-may-not.html"
 url: /2009/06/gosling-whats-good-for-google-may-not.html
 ---
 

@@ -3,7 +3,8 @@ title: "Licht und Belichtung in der Fotografie"
 date: 2008-01-21 07:01:00 +0000
 layout: post
 tags: ["photographie", "bücher", "privat"]
-slug: "2008-01-21-licht-und-belichtung-in-der-fotografie"
+slug: "licht-und-belichtung-in-der-fotografie"
+link: "2008/01/licht-und-belichtung-in-der-fotografie.html"
 url: /2008/01/licht-und-belichtung-in-der-fotografie.html
 ---
 

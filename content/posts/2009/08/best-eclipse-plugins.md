@@ -3,7 +3,8 @@ title: "Best Eclipse Plugins"
 date: 2009-08-24 11:41:00 +0000
 layout: post
 tags: ["plugin", "eclipse"]
-slug: "2009-08-24-best-eclipse-plugins"
+slug: "best-eclipse-plugins"
+link: "2009/08/best-eclipse-plugins.html"
 url: /2009/08/best-eclipse-plugins.html
 ---
 

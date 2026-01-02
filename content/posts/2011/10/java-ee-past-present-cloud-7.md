@@ -3,7 +3,8 @@ title: "Java EE Past, Present, & Cloud 7"
 date: 2011-10-11 19:56:00 +0000
 layout: post
 tags: ["cloud", "javaone11", "Java EE 7"]
-slug: "2011-10-11-java-ee-past-present-cloud-7"
+slug: "java-ee-past-present-cloud-7"
+link: "2011/10/java-ee-past-present-cloud-7.html"
 url: /2011/10/java-ee-past-present-cloud-7.html
 ---
 

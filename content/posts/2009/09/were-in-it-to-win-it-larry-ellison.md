@@ -3,7 +3,8 @@ title: "We're in it to win it. (Larry Ellison)"
 date: 2009-09-10 09:35:00 +0000
 layout: post
 tags: ["oracle", "Sun", "win it"]
-slug: "2009-09-10-were-in-it-to-win-it-larry-ellison"
+slug: "were-in-it-to-win-it-larry-ellison"
+link: "2009/09/were-in-it-to-win-it-larry-ellison.html"
 url: /2009/09/were-in-it-to-win-it-larry-ellison.html
 ---
 

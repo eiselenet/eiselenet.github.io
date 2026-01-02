@@ -3,7 +3,8 @@ title: "OOW in Numers"
 date: 2009-10-12 15:33:00 +0000
 layout: post
 tags: ["open world 2009", "OOW"]
-slug: "2009-10-12-oow-in-numers"
+slug: "oow-in-numers"
+link: "2009/10/oow-in-numers.html"
 url: /2009/10/oow-in-numers.html
 ---
 

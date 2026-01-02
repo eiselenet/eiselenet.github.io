@@ -3,7 +3,8 @@ title: "2010 - The year in review. Some statistics."
 date: 2011-01-03 06:50:00 +0000
 layout: post
 tags: ["2010", "review", "new year"]
-slug: "2011-01-03-2010-year-in-review-some-statistics"
+slug: "2010-year-in-review-some-statistics"
+link: "2011/01/2010-year-in-review-some-statistics.html"
 url: /2011/01/2010-year-in-review-some-statistics.html
 ---
 

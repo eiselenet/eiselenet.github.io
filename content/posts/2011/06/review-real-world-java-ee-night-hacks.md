@@ -3,7 +3,8 @@ title: "Review: \"Real World Java EE Night Hacks - Dissecting the Business Tier\
 date: 2011-06-02 18:57:00 +0000
 layout: post
 tags: ["adam bien", "review", "Java EE 6"]
-slug: "2011-06-02-review-real-world-java-ee-night-hacks"
+slug: "review-real-world-java-ee-night-hacks"
+link: "2011/06/review-real-world-java-ee-night-hacks.html"
 url: /2011/06/review-real-world-java-ee-night-hacks.html
 ---
 

@@ -3,7 +3,8 @@ title: "Six reasons why you should revise you opinion about the Java-Univers in 
 date: 2011-02-24 11:40:00 +0000
 layout: post
 tags: ["five reasons", "javachampion", "ACED"]
-slug: "2011-02-24-six-reasons-why-you-should-revise-you"
+slug: "six-reasons-why-you-should-revise-you"
+link: "2011/02/six-reasons-why-you-should-revise-you.html"
 url: /2011/02/six-reasons-why-you-should-revise-you.html
 ---
 

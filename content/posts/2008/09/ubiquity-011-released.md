@@ -3,7 +3,8 @@ title: "Ubiquity 0.1.1 Released!"
 date: 2008-09-01 03:27:00 +0000
 layout: post
 tags: ["mozilla", "Ubiquity", "plugin", "firefox"]
-slug: "2008-09-01-ubiquity-011-released"
+slug: "ubiquity-011-released"
+link: "2008/09/ubiquity-011-released.html"
 url: /2008/09/ubiquity-011-released.html
 ---
 

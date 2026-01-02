@@ -3,7 +3,8 @@ title: "Day 8: The bad and the ugly at oow, javaone10 and oracledevelop"
 date: 2010-09-24 02:56:00 +0000
 layout: post
 tags: ["oracledevelop", "OOW", "javaone10"]
-slug: "2010-09-24-day-8-bad-and-ugly-at-oow-javaone10-and"
+slug: "day-8-bad-and-ugly-at-oow-javaone10-and"
+link: "2010/09/day-8-bad-and-ugly-at-oow-javaone10-and.html"
 url: /2010/09/day-8-bad-and-ugly-at-oow-javaone10-and.html
 ---
 

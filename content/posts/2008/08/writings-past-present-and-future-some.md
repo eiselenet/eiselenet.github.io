@@ -3,7 +3,8 @@ title: "Writings. Past, present and future. Some thoughts."
 date: 2008-08-28 06:00:00 +0000
 layout: post
 tags: ["magazins", "article"]
-slug: "2008-08-28-writings-past-present-and-future-some"
+slug: "writings-past-present-and-future-some"
+link: "2008/08/writings-past-present-and-future-some.html"
 url: /2008/08/writings-past-present-and-future-some.html
 ---
 

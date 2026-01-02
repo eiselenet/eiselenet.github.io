@@ -3,7 +3,8 @@ title: "The Java EE 6 Example - Gracefully dealing with Errors in Galleria - Par
 date: 2012-04-02 05:17:00 +0000
 layout: post
 tags: ["javaee6", "galleria", "errors", "example"]
-slug: "2012-04-02-java-ee-6-example-gracefully-dealing"
+slug: "java-ee-6-example-gracefully-dealing"
+link: "2012/04/java-ee-6-example-gracefully-dealing.html"
 url: /2012/04/java-ee-6-example-gracefully-dealing.html
 ---
 

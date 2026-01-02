@@ -3,7 +3,8 @@ title: "Visual Impressions from JavaONE, Oracle Open World and Develop 2010"
 date: 2010-09-30 08:20:00 +0000
 layout: post
 tags: ["oracledevelop", "picture", "OOW", "javaone10"]
-slug: "2010-09-30-visual-impressions-from-javaone-oracle"
+slug: "visual-impressions-from-javaone-oracle"
+link: "2010/09/visual-impressions-from-javaone-oracle.html"
 url: /2010/09/visual-impressions-from-javaone-oracle.html
 ---
 

@@ -3,7 +3,8 @@ title: "Getting Started With EAP 7 Alpha and Java EE 7"
 date: 2015-11-17 15:34:00 +0000
 layout: post
 tags: ["EAP7", "Getting Started", "Jboss"]
-slug: "2015-11-17-getting-started-with-eap-7-alpha-and"
+slug: "getting-started-with-eap-7-alpha-and"
+link: "2015/11/getting-started-with-eap-7-alpha-and.html"
 url: /2015/11/getting-started-with-eap-7-alpha-and.html
 ---
 

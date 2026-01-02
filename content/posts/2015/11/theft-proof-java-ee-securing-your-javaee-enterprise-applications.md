@@ -3,7 +3,8 @@ title: "Theft-Proof Java EE - Securing Your Java EE Enterprise Applications"
 date: 2015-11-09 06:27:00 +0000
 layout: post
 tags: ["javaee", "security"]
-slug: "2015-11-09-theft-proof-java-ee-securing-your-javaee-enterprise-applications"
+slug: "theft-proof-java-ee-securing-your-javaee-enterprise-applications"
+link: "2015/11/theft-proof-java-ee-securing-your-javaee-enterprise-applications.html"
 url: /2015/11/theft-proof-java-ee-securing-your-javaee-enterprise-applications.html
 ---
 

@@ -3,7 +3,8 @@ title: "Preventing CSRF with JSF 2.0"
 date: 2011-02-28 08:02:00 +0000
 layout: post
 tags: ["security", "CSRF", "jsf 2.0"]
-slug: "2011-02-28-preventing-csrf-with-jsf-20"
+slug: "preventing-csrf-with-jsf-20"
+link: "2011/02/preventing-csrf-with-jsf-20.html"
 url: /2011/02/preventing-csrf-with-jsf-20.html
 ---
 

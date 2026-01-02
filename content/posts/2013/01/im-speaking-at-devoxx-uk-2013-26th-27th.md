@@ -3,7 +3,8 @@ title: "I'm speaking at Devoxx UK 2013, 26th-27th March 2013 in London"
 date: 2013-01-14 09:42:00 +0000
 layout: post
 tags: ["devoxx", "conference", "devoxxuk"]
-slug: "2013-01-14-im-speaking-at-devoxx-uk-2013-26th-27th"
+slug: "im-speaking-at-devoxx-uk-2013-26th-27th"
+link: "2013/01/im-speaking-at-devoxx-uk-2013-26th-27th.html"
 url: /2013/01/im-speaking-at-devoxx-uk-2013-26th-27th.html
 ---
 

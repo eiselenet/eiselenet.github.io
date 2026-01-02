@@ -3,7 +3,8 @@ title: "Java Mission Control 5.2 is Finally Here! Welcome 7u40!"
 date: 2013-09-10 19:08:00 +0000
 layout: post
 tags: ["7u40", "jmc", "mission control"]
-slug: "2013-09-10-java-mission-control-52-is-finally-here"
+slug: "java-mission-control-52-is-finally-here"
+link: "2013/09/java-mission-control-52-is-finally-here.html"
 url: /2013/09/java-mission-control-52-is-finally-here.html
 ---
 

@@ -3,7 +3,8 @@ title: "DOAG 2010 - It's a wrap ... in pictures ..."
 date: 2010-11-25 06:18:00 +0000
 layout: post
 tags: ["doag2010", "picture"]
-slug: "2010-11-25-doag-2010-its-wrap-in-pictures"
+slug: "doag-2010-its-wrap-in-pictures"
+link: "2010/11/doag-2010-its-wrap-in-pictures.html"
 url: /2010/11/doag-2010-its-wrap-in-pictures.html
 ---
 

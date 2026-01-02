@@ -3,7 +3,8 @@ title: "260 posts and some reworks, personal comments"
 date: 2010-01-30 11:04:00 +0000
 layout: post
 tags: ["personal"]
-slug: "2010-01-30-260-posts-and-some-reworks-personal"
+slug: "260-posts-and-some-reworks-personal"
+link: "2010/01/260-posts-and-some-reworks-personal.html"
 url: /2010/01/260-posts-and-some-reworks-personal.html
 ---
 

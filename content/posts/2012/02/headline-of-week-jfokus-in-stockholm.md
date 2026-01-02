@@ -3,7 +3,8 @@ title: "Headline of the week: Jfokus in Stockholm!"
 date: 2012-02-12 16:54:00 +0000
 layout: post
 tags: ["conference", "Jfokus", "Stockholm"]
-slug: "2012-02-12-headline-of-week-jfokus-in-stockholm"
+slug: "headline-of-week-jfokus-in-stockholm"
+link: "2012/02/headline-of-week-jfokus-in-stockholm.html"
 url: /2012/02/headline-of-week-jfokus-in-stockholm.html
 ---
 

@@ -3,7 +3,8 @@ title: "in a hurry"
 date: 2008-11-06 11:17:00 +0000
 layout: post
 tags: [""]
-slug: "2008-11-06-in-hurry"
+slug: "in-hurry"
+link: "2008/11/in-hurry.html"
 url: /2008/11/in-hurry.html
 ---
 

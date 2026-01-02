@@ -3,7 +3,8 @@ title: "dev versus ops"
 date: 2009-06-25 08:31:00 +0000
 layout: post
 tags: ["development", "operations", "flickr programmierung"]
-slug: "2009-06-25-dev-versus-ops"
+slug: "dev-versus-ops"
+link: "2009/06/dev-versus-ops.html"
 url: /2009/06/dev-versus-ops.html
 ---
 

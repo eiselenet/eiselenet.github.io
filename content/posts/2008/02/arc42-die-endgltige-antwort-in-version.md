@@ -3,7 +3,8 @@ title: "arc42 - die endgültige Antwort in Version 3.2"
 date: 2008-02-11 07:08:00 +0000
 layout: post
 tags: ["it architecture", "softwaredesign", "softwareentwicklung"]
-slug: "2008-02-11-arc42-die-endgltige-antwort-in-version"
+slug: "arc42-die-endgltige-antwort-in-version"
+link: "2008/02/arc42-die-endgltige-antwort-in-version.html"
 url: /2008/02/arc42-die-endgltige-antwort-in-version.html
 ---
 

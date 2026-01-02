@@ -3,7 +3,8 @@ title: "Mark Little about Enterprise and IoT"
 date: 2015-02-03 13:00:00 +0000
 layout: post
 tags: ["enterprise", "JavaLand", "IoT"]
-slug: "2015-02-03-mark-little-about-enterprise-and-iot"
+slug: "mark-little-about-enterprise-and-iot"
+link: "2015/02/mark-little-about-enterprise-and-iot.html"
 url: /2015/02/mark-little-about-enterprise-and-iot.html
 ---
 

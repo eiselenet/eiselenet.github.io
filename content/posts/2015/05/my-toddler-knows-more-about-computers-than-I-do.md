@@ -3,7 +3,8 @@ title: "My Toddler Knows More About Computers Than I Do. Help?"
 date: 2015-05-20 18:17:00 +0000
 layout: post
 tags: ["devoxx4kids", "toddler", "lego", "computers"]
-slug: "2015-05-20-my-toddler-knows-more-about-computers-than-I-do"
+slug: "my-toddler-knows-more-about-computers-than-I-do"
+link: "2015/05/my-toddler-knows-more-about-computers-than-I-do.html"
 url: /2015/05/my-toddler-knows-more-about-computers-than-I-do.html
 ---
 

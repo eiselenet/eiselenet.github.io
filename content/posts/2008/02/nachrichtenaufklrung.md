@@ -3,7 +3,8 @@ title: "Nachrichtenaufklärung"
 date: 2008-02-08 11:48:00 +0000
 layout: post
 tags: ["privat"]
-slug: "2008-02-08-nachrichtenaufklrung"
+slug: "nachrichtenaufklrung"
+link: "2008/02/nachrichtenaufklrung.html"
 url: /2008/02/nachrichtenaufklrung.html
 ---
 

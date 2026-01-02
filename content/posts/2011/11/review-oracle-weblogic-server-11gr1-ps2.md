@@ -3,7 +3,8 @@ title: "Review: \"Oracle Weblogic Server 11gR1 PS2: Administration Essentials\" 
 date: 2011-11-07 08:19:00 +0000
 layout: post
 tags: ["packtpub", "weblogic", "books", "oracle", "review"]
-slug: "2011-11-07-review-oracle-weblogic-server-11gr1-ps2"
+slug: "review-oracle-weblogic-server-11gr1-ps2"
+link: "2011/11/review-oracle-weblogic-server-11gr1-ps2.html"
 url: /2011/11/review-oracle-weblogic-server-11gr1-ps2.html
 ---
 
@@ -11,7 +12,7 @@ Oracle's WebLogic 11g Server is an application server for running your enterpris
 <br>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="Image Oracle WebLogic Server.JPG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="Image Oracle WebLogic Server.JPG" width="254"></a>
+ <a href="Image-Oracle-WebLogic-Server.JPG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="Image-Oracle-WebLogic-Server.JPG" width="254"></a>
 </div> Oracle WebLogic Server 11gR1 PS2: Administration Essentials is announced as a focused step-by-step tutorial that provides an overview of the important administrative tasks performed by WebLogic Server administrators.
 <br>
 <br>

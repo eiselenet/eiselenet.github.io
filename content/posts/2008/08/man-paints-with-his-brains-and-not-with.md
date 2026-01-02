@@ -3,7 +3,8 @@ title: "A man paints with his brains and not with his hands."
 date: 2008-08-11 10:40:00 +0000
 layout: post
 tags: ["photoshop", "photographie"]
-slug: "2008-08-11-man-paints-with-his-brains-and-not-with"
+slug: "man-paints-with-his-brains-and-not-with"
+link: "2008/08/man-paints-with-his-brains-and-not-with.html"
 url: /2008/08/man-paints-with-his-brains-and-not-with.html
 ---
 

@@ -3,7 +3,8 @@ title: "Java Temporary Caching API - Test-driving the Early Draft Review RI"
 date: 2012-10-25 07:15:00 +0000
 layout: post
 tags: ["JCache", "JSR107"]
-slug: "2012-10-25-java-temporary-caching-api-test-driving"
+slug: "java-temporary-caching-api-test-driving"
+link: "2012/10/java-temporary-caching-api-test-driving.html"
 url: /2012/10/java-temporary-caching-api-test-driving.html
 ---
 

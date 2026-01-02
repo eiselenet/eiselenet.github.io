@@ -3,7 +3,8 @@ title: "Red Hat to Acquire FeedHenry - It takes a Village to raise an app"
 date: 2014-09-18 12:33:00 +0000
 layout: post
 tags: ["Feedhenry", "acquisition", "xPaaS"]
-slug: "2014-09-18-red-hat-to-acquire-feedhenry"
+slug: "red-hat-to-acquire-feedhenry"
+link: "2014/09/red-hat-to-acquire-feedhenry.html"
 url: /2014/09/red-hat-to-acquire-feedhenry.html
 ---
 

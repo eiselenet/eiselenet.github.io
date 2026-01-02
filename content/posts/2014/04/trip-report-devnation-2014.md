@@ -3,7 +3,8 @@ title: "Trip Report DevNation 2014"
 date: 2014-04-25 08:06:00 +0000
 layout: post
 tags: ["report", "conference", "DevNation14"]
-slug: "2014-04-25-trip-report-devnation-2014"
+slug: "trip-report-devnation-2014"
+link: "2014/04/trip-report-devnation-2014.html"
 url: /2014/04/trip-report-devnation-2014.html
 ---
 

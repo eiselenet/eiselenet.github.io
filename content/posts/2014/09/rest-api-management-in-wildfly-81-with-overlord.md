@@ -3,7 +3,8 @@ title: "API Management in WildFly 8.1 with Overlord"
 date: 2014-09-11 11:00:00 +0000
 layout: post
 tags: ["wildfly", "API", "Overlord"]
-slug: "2014-09-11-rest-api-management-in-wildfly-81-with-overlord"
+slug: "rest-api-management-in-wildfly-81-with-overlord"
+link: "2014/09/rest-api-management-in-wildfly-81-with-overlord.html"
 url: /2014/09/rest-api-management-in-wildfly-81-with-overlord.html
 ---
 

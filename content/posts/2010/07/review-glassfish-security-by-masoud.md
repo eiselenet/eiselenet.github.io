@@ -3,7 +3,8 @@ title: "Review \"GlassFish Security\" by Masoud Kalali (PACKT Publishing)"
 date: 2010-07-18 09:54:00 +0000
 layout: post
 tags: ["glassfish", "security", "books", "review"]
-slug: "2010-07-18-review-glassfish-security-by-masoud"
+slug: "review-glassfish-security-by-masoud"
+link: "2010/07/review-glassfish-security-by-masoud.html"
 url: /2010/07/review-glassfish-security-by-masoud.html
 ---
 

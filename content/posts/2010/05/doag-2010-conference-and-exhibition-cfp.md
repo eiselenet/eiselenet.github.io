@@ -3,7 +3,8 @@ title: "DOAG 2010 Conference and Exhibition CfP still running"
 date: 2010-05-12 11:18:00 +0000
 layout: post
 tags: ["doagev", "doag2010"]
-slug: "2010-05-12-doag-2010-conference-and-exhibition-cfp"
+slug: "doag-2010-conference-and-exhibition-cfp"
+link: "2010/05/doag-2010-conference-and-exhibition-cfp.html"
 url: /2010/05/doag-2010-conference-and-exhibition-cfp.html
 ---
 

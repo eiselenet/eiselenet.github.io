@@ -3,7 +3,8 @@ title: "JSF Component Libraries - Quality is more than zero bugs."
 date: 2012-08-26 19:21:00 +0000
 layout: post
 tags: ["richfaces", "icefaces", "jsf", "primefaces", "quality"]
-slug: "2012-08-26-jsf-component-libraries-quality-is-more"
+slug: "jsf-component-libraries-quality-is-more"
+link: "2012/08/jsf-component-libraries-quality-is-more.html"
 url: /2012/08/jsf-component-libraries-quality-is-more.html
 ---
 

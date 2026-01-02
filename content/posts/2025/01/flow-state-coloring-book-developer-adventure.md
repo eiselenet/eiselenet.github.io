@@ -3,14 +3,15 @@ title: "Introducing \"Flow State Found: Maria’s Developer Adventure\" – A Co
 date: 2025-01-21 11:49:00 +0000
 layout: post
 tags: ["pdf", "IDP", "coloring book", "book", "Platform Engineering"]
-slug: "2025-01-21-flow-state-coloring-book-developer-adventure"
+slug: "flow-state-coloring-book-developer-adventure"
+link: "2025/01/flow-state-coloring-book-developer-adventure.html"
 url: /2025/01/flow-state-coloring-book-developer-adventure.html
 ---
 
 <p>I've been wanting to do something like this for like forever. A coloring book for tech enthusiasts. There's been some examples (e.g. the Container Commando) or others but I never managed to be either good enough at drawing or find the time to think about a story that really resonates. With all the discussions around AI and developer productivity and the available tools at hand, it finally happened and I could put together a little story that I hope you enjoy.&nbsp;</p>
 <p></p>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="Developer Flow Coloring Book-2.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1847" data-original-width="1835" height="320" src="Developer Flow Coloring Book-2.png" width="318"></a>
+ <a href="Developer-Flow-Coloring-Book-2.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="1847" data-original-width="1835" height="320" src="Developer-Flow-Coloring-Book-2.png" width="318"></a>
 </div>
 <br>
 Share it, give it to your kids, color it yourself or send it to a friend. This really small book tells the story of Maria. A developer working at a large insurance company and fighting the good fight of approvals and processes most of the day. When her operations team finally teams up with her and they build an integrated developer platform that cuts wait times and approvals in half giving Maria her joy back.&nbsp;

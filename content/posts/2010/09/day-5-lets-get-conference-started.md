@@ -3,7 +3,8 @@ title: "Day 5: Let's get the conference started"
 date: 2010-09-21 13:49:00 +0000
 layout: post
 tags: ["OOW10", "javaone10"]
-slug: "2010-09-21-day-5-lets-get-conference-started"
+slug: "day-5-lets-get-conference-started"
+link: "2010/09/day-5-lets-get-conference-started.html"
 url: /2010/09/day-5-lets-get-conference-started.html
 ---
 

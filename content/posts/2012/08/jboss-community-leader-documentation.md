@@ -3,7 +3,8 @@ title: "JBoss Community Leader: Documentation category"
 date: 2012-08-18 07:07:00 +0000
 layout: post
 tags: ["Arquillian", "interview", "JUDCon"]
-slug: "2012-08-18-jboss-community-leader-documentation"
+slug: "jboss-community-leader-documentation"
+link: "2012/08/jboss-community-leader-documentation.html"
 url: /2012/08/jboss-community-leader-documentation.html
 ---
 

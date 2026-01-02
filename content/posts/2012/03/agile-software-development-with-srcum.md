@@ -3,7 +3,8 @@ title: "Agile Software Development with SCRUM"
 date: 2012-03-05 10:00:00 +0000
 layout: post
 tags: ["msg systems ag", "scrum", "webcast", "german", "webinar"]
-slug: "2012-03-05-agile-software-development-with-srcum"
+slug: "agile-software-development-with-srcum"
+link: "2012/03/agile-software-development-with-srcum.html"
 url: /2012/03/agile-software-development-with-srcum.html
 ---
 

@@ -3,7 +3,8 @@ title: "Software Quality: JSF Component Libraries"
 date: 2009-12-07 11:19:00 +0000
 layout: post
 tags: ["components", "software quality", "jsf"]
-slug: "2009-12-07-software-quality-jsf-component"
+slug: "software-quality-jsf-component"
+link: "2009/12/software-quality-jsf-component.html"
 url: /2009/12/software-quality-jsf-component.html
 ---
 

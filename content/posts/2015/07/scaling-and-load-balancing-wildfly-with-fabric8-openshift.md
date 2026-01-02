@@ -3,7 +3,8 @@ title: "Scaling and Load Balancing WildFly on OpenShift v3 With Fabric8"
 date: 2015-07-27 13:00:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "fabric8"]
-slug: "2015-07-27-scaling-and-load-balancing-wildfly-with-fabric8-openshift"
+slug: "scaling-and-load-balancing-wildfly-with-fabric8-openshift"
+link: "2015/07/scaling-and-load-balancing-wildfly-with-fabric8-openshift.html"
 url: /2015/07/scaling-and-load-balancing-wildfly-with-fabric8-openshift.html
 ---
 

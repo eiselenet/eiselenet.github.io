@@ -3,7 +3,8 @@ title: "Response GZIP Compression with GlassFish in Production"
 date: 2011-09-13 08:57:00 +0000
 layout: post
 tags: ["glassfish", "gzip", "compression"]
-slug: "2011-09-13-response-gzip-compression-with"
+slug: "response-gzip-compression-with"
+link: "2011/09/response-gzip-compression-with.html"
 url: /2011/09/response-gzip-compression-with.html
 ---
 

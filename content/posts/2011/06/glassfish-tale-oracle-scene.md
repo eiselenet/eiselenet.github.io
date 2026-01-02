@@ -3,7 +3,8 @@ title: "The GlassFish Tale - Oracle Scene"
 date: 2011-06-26 21:40:00 +0000
 layout: post
 tags: ["ukoug", "glassfish", "oracle", "article"]
-slug: "2011-06-26-glassfish-tale-oracle-scene"
+slug: "glassfish-tale-oracle-scene"
+link: "2011/06/glassfish-tale-oracle-scene.html"
 url: /2011/06/glassfish-tale-oracle-scene.html
 ---
 

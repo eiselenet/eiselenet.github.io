@@ -3,7 +3,8 @@ title: "Island News - New German Java Blog"
 date: 2013-07-22 04:58:00 +0000
 layout: post
 tags: ["german", "java", "blog", "heise"]
-slug: "2013-07-22-island-news-new-german-java-blog"
+slug: "island-news-new-german-java-blog"
+link: "2013/07/island-news-new-german-java-blog.html"
 url: /2013/07/island-news-new-german-java-blog.html
 ---
 

@@ -3,7 +3,8 @@ title: "Integrating jQuery AJAX and Spring MVC with XStream/Jettison and GAE"
 date: 2009-09-09 06:16:00 +0000
 layout: post
 tags: ["xstream", "GAE", "jQuery", "Spring", "Jettison"]
-slug: "2009-09-09-integrating-jquery-ajax-and-spring-mvc"
+slug: "integrating-jquery-ajax-and-spring-mvc"
+link: "2009/09/integrating-jquery-ajax-and-spring-mvc.html"
 url: /2009/09/integrating-jquery-ajax-and-spring-mvc.html
 ---
 

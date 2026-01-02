@@ -3,7 +3,8 @@ title: "Unboxing the JavaRoadTrip t-shirt"
 date: 2010-07-21 07:45:00 +0000
 layout: post
 tags: ["javaroadtrip", "washington", "t-shirt"]
-slug: "2010-07-21-unboxing-javaroadtrip-t-shirt"
+slug: "unboxing-javaroadtrip-t-shirt"
+link: "2010/07/unboxing-javaroadtrip-t-shirt.html"
 url: /2010/07/unboxing-javaroadtrip-t-shirt.html
 ---
 

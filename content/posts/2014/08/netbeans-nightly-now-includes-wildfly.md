@@ -3,7 +3,8 @@ title: "NetBeans Nightly Now Includes The WildFly Plugin"
 date: 2014-08-12 08:13:00 +0000
 layout: post
 tags: ["wildfly", "netbeans"]
-slug: "2014-08-12-netbeans-nightly-now-includes-wildfly"
+slug: "netbeans-nightly-now-includes-wildfly"
+link: "2014/08/netbeans-nightly-now-includes-wildfly.html"
 url: /2014/08/netbeans-nightly-now-includes-wildfly.html
 ---
 

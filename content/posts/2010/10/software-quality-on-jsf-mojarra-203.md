@@ -3,7 +3,8 @@ title: "Software Quality on JSF Mojarra 2.0.3-SNAPSHOT"
 date: 2010-10-14 11:58:00 +0000
 layout: post
 tags: ["jsf 2.0", "software quality"]
-slug: "2010-10-14-software-quality-on-jsf-mojarra-203"
+slug: "software-quality-on-jsf-mojarra-203"
+link: "2010/10/software-quality-on-jsf-mojarra-203.html"
 url: /2010/10/software-quality-on-jsf-mojarra-203.html
 ---
 

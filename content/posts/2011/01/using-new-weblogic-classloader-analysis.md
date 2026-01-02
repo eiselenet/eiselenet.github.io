@@ -3,7 +3,8 @@ title: "Using the new WebLogic Classloader Analysis Tool (CAT)"
 date: 2011-01-17 09:36:00 +0000
 layout: post
 tags: ["classloader", "weblogic", "analysis"]
-slug: "2011-01-17-using-new-weblogic-classloader-analysis"
+slug: "using-new-weblogic-classloader-analysis"
+link: "2011/01/using-new-weblogic-classloader-analysis.html"
 url: /2011/01/using-new-weblogic-classloader-analysis.html
 ---
 

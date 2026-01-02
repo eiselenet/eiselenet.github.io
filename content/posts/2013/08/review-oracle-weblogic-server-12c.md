@@ -3,7 +3,8 @@ title: "Review: \"Oracle WebLogic Server 12c - Advanced Administration Cookbook\
 date: 2013-08-30 05:32:00 +0000
 layout: post
 tags: ["packtpub", "weblogic"]
-slug: "2013-08-30-review-oracle-weblogic-server-12c"
+slug: "review-oracle-weblogic-server-12c"
+link: "2013/08/review-oracle-weblogic-server-12c.html"
 url: /2013/08/review-oracle-weblogic-server-12c.html
 ---
 

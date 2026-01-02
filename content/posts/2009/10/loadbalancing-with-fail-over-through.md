@@ -3,7 +3,8 @@ title: "Loadbalancing with fail-over through Apache 2.2 and GlassFish v2.1.1"
 date: 2009-10-29 11:33:00 +0000
 layout: post
 tags: ["v2.1.1", "proxy", "glassfish", "apache", "failover", "2.2", "loadbalancing"]
-slug: "2009-10-29-loadbalancing-with-fail-over-through"
+slug: "loadbalancing-with-fail-over-through"
+link: "2009/10/loadbalancing-with-fail-over-through.html"
 url: /2009/10/loadbalancing-with-fail-over-through.html
 ---
 

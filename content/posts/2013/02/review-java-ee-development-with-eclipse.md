@@ -3,7 +3,8 @@ title: "Review: \"Java EE Development with Eclipse\" by Deepak Vohra"
 date: 2013-02-19 07:31:00 +0000
 layout: post
 tags: ["packtpub", "javaee", "review"]
-slug: "2013-02-19-review-java-ee-development-with-eclipse"
+slug: "review-java-ee-development-with-eclipse"
+link: "2013/02/review-java-ee-development-with-eclipse.html"
 url: /2013/02/review-java-ee-development-with-eclipse.html
 ---
 

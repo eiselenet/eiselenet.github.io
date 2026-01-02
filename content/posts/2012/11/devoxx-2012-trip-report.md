@@ -3,7 +3,8 @@ title: "Devoxx 2012 Trip Report - clouds and sunshine."
 date: 2012-11-18 16:28:00 +0000
 layout: post
 tags: ["report", "devoxx", "trip"]
-slug: "2012-11-18-devoxx-2012-trip-report"
+slug: "devoxx-2012-trip-report"
+link: "2012/11/devoxx-2012-trip-report.html"
 url: /2012/11/devoxx-2012-trip-report.html
 ---
 

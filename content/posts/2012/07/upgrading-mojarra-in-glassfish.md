@@ -3,7 +3,8 @@ title: "Upgrading to latest Mojarra in GlassFish 3.1.x"
 date: 2012-07-09 06:26:00 +0000
 layout: post
 tags: ["glassfish", "Mojarra"]
-slug: "2012-07-09-upgrading-mojarra-in-glassfish"
+slug: "upgrading-mojarra-in-glassfish"
+link: "2012/07/upgrading-mojarra-in-glassfish.html"
 url: /2012/07/upgrading-mojarra-in-glassfish.html
 ---
 

@@ -3,7 +3,8 @@ title: "Java EE.next - the cloud? Exalogic? Some thoughts. And fears."
 date: 2010-09-29 06:18:00 +0000
 layout: post
 tags: ["Java EE", "JavaOne"]
-slug: "2010-09-29-java-eenext-cloud-exalogic-some"
+slug: "java-eenext-cloud-exalogic-some"
+link: "2010/09/java-eenext-cloud-exalogic-some.html"
 url: /2010/09/java-eenext-cloud-exalogic-some.html
 ---
 

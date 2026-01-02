@@ -3,7 +3,8 @@ title: "It doesn't feel like, but I was in Brazil for JavaOne!"
 date: 2011-12-12 12:21:00 +0000
 layout: post
 tags: ["brazil", "JavaOne"]
-slug: "2011-12-12-it-doesnt-feel-like-but-i-was-in-brazil"
+slug: "it-doesnt-feel-like-but-i-was-in-brazil"
+link: "2011/12/it-doesnt-feel-like-but-i-was-in-brazil.html"
 url: /2011/12/it-doesnt-feel-like-but-i-was-in-brazil.html
 ---
 

@@ -3,7 +3,8 @@ title: "CNet News reveals some of Chrome's inner workings"
 date: 2008-09-05 05:59:00 +0000
 layout: post
 tags: ["chrome", "google"]
-slug: "2008-09-05-cnet-news-reveals-some-of-chromes-inner"
+slug: "cnet-news-reveals-some-of-chromes-inner"
+link: "2008/09/cnet-news-reveals-some-of-chromes-inner.html"
 url: /2008/09/cnet-news-reveals-some-of-chromes-inner.html
 ---
 

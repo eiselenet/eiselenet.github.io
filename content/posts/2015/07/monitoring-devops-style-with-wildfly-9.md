@@ -3,7 +3,8 @@ title: "Monitoring DevOps Style With WildFly 9 And Jolokia"
 date: 2015-07-20 12:30:00 +0000
 layout: post
 tags: ["DevOps", "wildfly", "metrics", "Jolokia"]
-slug: "2015-07-20-monitoring-devops-style-with-wildfly-9"
+slug: "monitoring-devops-style-with-wildfly-9"
+link: "2015/07/monitoring-devops-style-with-wildfly-9.html"
 url: /2015/07/monitoring-devops-style-with-wildfly-9.html
 ---
 

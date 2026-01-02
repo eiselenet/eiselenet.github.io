@@ -3,7 +3,8 @@ title: "Exploring the SwitchYard 2.0.0.Alpha2 Quickstarts"
 date: 2014-09-26 10:00:00 +0000
 layout: post
 tags: ["wildfly", "Quickstarts", "SwitchYard"]
-slug: "2014-09-26-exploring-switchyard-200alpha2"
+slug: "exploring-switchyard-200alpha2"
+link: "2014/09/exploring-switchyard-200alpha2.html"
 url: /2014/09/exploring-switchyard-200alpha2.html
 ---
 

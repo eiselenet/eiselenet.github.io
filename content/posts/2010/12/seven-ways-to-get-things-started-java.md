@@ -3,7 +3,8 @@ title: "Seven ways to get things started. Java EE Startup Classes with GlassFish
 date: 2010-12-07 08:04:00 +0000
 layout: post
 tags: ["Java EE", "glassfish", "weblogic. startup"]
-slug: "2010-12-07-seven-ways-to-get-things-started-java"
+slug: "seven-ways-to-get-things-started-java"
+link: "2010/12/seven-ways-to-get-things-started-java.html"
 url: /2010/12/seven-ways-to-get-things-started-java.html
 ---
 

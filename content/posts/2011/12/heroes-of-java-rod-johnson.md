@@ -3,7 +3,8 @@ title: "The Heroes of Java: Rod Johnson"
 date: 2011-12-24 17:00:00 +0000
 layout: post
 tags: ["Rod Johnson", "java", "heroes"]
-slug: "2011-12-24-heroes-of-java-rod-johnson"
+slug: "heroes-of-java-rod-johnson"
+link: "2011/12/heroes-of-java-rod-johnson.html"
 url: /2011/12/heroes-of-java-rod-johnson.html
 ---
 

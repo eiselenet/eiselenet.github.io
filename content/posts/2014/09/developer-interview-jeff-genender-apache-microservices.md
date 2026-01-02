@@ -3,7 +3,8 @@ title: "Developer Interview (#DI 5) Jeff Genender (@jgenender) about Apache, Kar
 date: 2014-09-24 10:00:00 +0000
 layout: post
 tags: ["apache", "DI", "Jboss", "Karaf"]
-slug: "2014-09-24-developer-interview-jeff-genender-apache-microservices"
+slug: "developer-interview-jeff-genender-apache-microservices"
+link: "2014/09/developer-interview-jeff-genender-apache-microservices.html"
 url: /2014/09/developer-interview-jeff-genender-apache-microservices.html
 ---
 

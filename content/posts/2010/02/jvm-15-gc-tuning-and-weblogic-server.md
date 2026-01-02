@@ -3,7 +3,8 @@ title: "JVM 1.5 GC Tuning and WebLogic Server - Part I Heap"
 date: 2010-02-24 05:28:00 +0000
 layout: post
 tags: ["jvm", "tuning", "garbage collection", "weblogic server"]
-slug: "2010-02-24-jvm-15-gc-tuning-and-weblogic-server"
+slug: "jvm-15-gc-tuning-and-weblogic-server"
+link: "2010/02/jvm-15-gc-tuning-and-weblogic-server.html"
 url: /2010/02/jvm-15-gc-tuning-and-weblogic-server.html
 ---
 

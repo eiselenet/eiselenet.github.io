@@ -3,7 +3,8 @@ title: "Review: \"WildFly Configuration, Deployment, and Administration - Second
 date: 2015-04-01 11:04:00 +0000
 layout: post
 tags: ["packtpub", "Openshift", "wildfly", "review"]
-slug: "2015-04-01-review-wildfly-configuration-deployment-administration-packtpub"
+slug: "review-wildfly-configuration-deployment-administration-packtpub"
+link: "2015/04/review-wildfly-configuration-deployment-administration-packtpub.html"
 url: /2015/04/review-wildfly-configuration-deployment-administration-packtpub.html
 ---
 

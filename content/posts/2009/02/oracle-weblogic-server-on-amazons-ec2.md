@@ -3,7 +3,8 @@ title: "Oracle WebLogic Server on Amazon's EC2"
 date: 2009-02-11 04:41:00 +0000
 layout: post
 tags: ["cloud", "amazon ec2", "oracle", "weblogic server"]
-slug: "2009-02-11-oracle-weblogic-server-on-amazons-ec2"
+slug: "oracle-weblogic-server-on-amazons-ec2"
+link: "2009/02/oracle-weblogic-server-on-amazons-ec2.html"
 url: /2009/02/oracle-weblogic-server-on-amazons-ec2.html
 ---
 

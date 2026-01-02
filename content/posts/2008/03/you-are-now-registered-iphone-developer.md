@@ -3,7 +3,8 @@ title: "You are now a Registered iPhone Developer"
 date: 2008-03-10 06:58:00 +0000
 layout: post
 tags: ["iPhone", "Apple", "softwareentwicklung"]
-slug: "2008-03-10-you-are-now-registered-iphone-developer"
+slug: "you-are-now-registered-iphone-developer"
+link: "2008/03/you-are-now-registered-iphone-developer.html"
 url: /2008/03/you-are-now-registered-iphone-developer.html
 ---
 

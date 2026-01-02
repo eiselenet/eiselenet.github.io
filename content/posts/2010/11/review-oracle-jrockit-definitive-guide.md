@@ -3,7 +3,8 @@ title: "Review \"Oracle JRockit - The Definitive Guide\""
 date: 2010-11-21 20:09:00 +0000
 layout: post
 tags: ["packtpub", "oracle", "review", "JRockit"]
-slug: "2010-11-21-review-oracle-jrockit-definitive-guide"
+slug: "review-oracle-jrockit-definitive-guide"
+link: "2010/11/review-oracle-jrockit-definitive-guide.html"
 url: /2010/11/review-oracle-jrockit-definitive-guide.html
 ---
 

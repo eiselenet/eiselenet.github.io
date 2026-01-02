@@ -3,7 +3,8 @@ title: "Are your Garbage Collection Logs speaking to you? Censum does!"
 date: 2012-12-11 17:47:00 +0000
 layout: post
 tags: ["java", "garbage collection", "censum", "jClarity"]
-slug: "2012-12-11-are-your-garbage-collection-logs"
+slug: "are-your-garbage-collection-logs"
+link: "2012/12/are-your-garbage-collection-logs.html"
 url: /2012/12/are-your-garbage-collection-logs.html
 ---
 
@@ -24,7 +25,7 @@ Have you heard about jClarity? This is a new start-up with some great ideas and 
  First thing to do is to get some decent gc logs. All you have to do is to enable the GC details with the above mentioned arguments and write them to a logfile with the additional option -Xloggc:d:\gc.log. After importing it to censum you are presented with a nice and clear analytics summary. 
 <br>
 <div class="separator" style="clear: both; text-align: center;">
- <a href="analytics summary.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="205" src="analytics summary.PNG" width="320"></a>
+ <a href="analytics-summary.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="205" src="analytics-summary.PNG" width="320"></a>
 </div>
 <br>
  This summary presents an overview of the findings. You can dig into any of those via the tree on the left and get further details about the individual finding. Beside the fact, that you get the findings in plain English

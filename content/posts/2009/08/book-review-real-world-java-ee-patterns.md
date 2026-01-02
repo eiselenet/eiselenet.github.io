@@ -3,7 +3,8 @@ title: "Book review: Real World Java EE Patterns - Rethinking Best Practices by 
 date: 2009-08-25 05:30:00 +0000
 layout: post
 tags: ["Java EE", "adam bien", "bücher", "Java EE 6", "best practices"]
-slug: "2009-08-25-book-review-real-world-java-ee-patterns"
+slug: "book-review-real-world-java-ee-patterns"
+link: "2009/08/book-review-real-world-java-ee-patterns.html"
 url: /2009/08/book-review-real-world-java-ee-patterns.html
 ---
 

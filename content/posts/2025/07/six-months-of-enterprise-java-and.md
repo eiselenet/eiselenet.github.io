@@ -3,7 +3,8 @@ title: "Six Months of Enterprise Java and Quarkus and What Comes Next"
 date: 2025-07-24 09:01:00 +0000
 layout: post
 tags: ["Substack", "The Main Thread", "java", "Quarkus"]
-slug: "2025-07-24-six-months-of-enterprise-java-and"
+slug: "six-months-of-enterprise-java-and"
+link: "2025/07/six-months-of-enterprise-java-and.html"
 url: /2025/07/six-months-of-enterprise-java-and.html
 ---
 

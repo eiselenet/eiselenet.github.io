@@ -3,7 +3,8 @@ title: "DOAG 2010 - Day 3 - My second talk, tired people and the trip back"
 date: 2010-11-19 05:56:00 +0000
 layout: post
 tags: ["doag2010"]
-slug: "2010-11-19-doag-2010-day-3-my-second-talk-tired"
+slug: "doag-2010-day-3-my-second-talk-tired"
+link: "2010/11/doag-2010-day-3-my-second-talk-tired.html"
 url: /2010/11/doag-2010-day-3-my-second-talk-tired.html
 ---
 

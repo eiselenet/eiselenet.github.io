@@ -3,7 +3,8 @@ title: "Coding in a cloud-based enterprise - designing for distributed architect
 date: 2015-08-30 12:28:00 +0000
 layout: post
 tags: ["cloud", "xPaaS", "IoT"]
-slug: "2015-08-30-coding-in-cloud-based-enterprise"
+slug: "coding-in-cloud-based-enterprise"
+link: "2015/08/coding-in-cloud-based-enterprise.html"
 url: /2015/08/coding-in-cloud-based-enterprise.html
 ---
 

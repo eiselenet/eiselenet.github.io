@@ -3,7 +3,8 @@ title: "Gartner Identifies Ten Enterprise Architecture Pitfalls"
 date: 2009-09-03 04:38:00 +0000
 layout: post
 tags: ["pitfalls", "gartner", "enterprise", "architecture"]
-slug: "2009-09-03-gartner-identifies-ten-enterprise"
+slug: "gartner-identifies-ten-enterprise"
+link: "2009/09/gartner-identifies-ten-enterprise.html"
 url: /2009/09/gartner-identifies-ten-enterprise.html
 ---
 

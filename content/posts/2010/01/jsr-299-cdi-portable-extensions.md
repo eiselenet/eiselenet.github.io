@@ -3,7 +3,8 @@ title: "JSR-299 CDI portable extensions"
 date: 2010-01-19 07:59:00 +0000
 layout: post
 tags: ["JSR-299", "Java EE 6"]
-slug: "2010-01-19-jsr-299-cdi-portable-extensions"
+slug: "jsr-299-cdi-portable-extensions"
+link: "2010/01/jsr-299-cdi-portable-extensions.html"
 url: /2010/01/jsr-299-cdi-portable-extensions.html
 ---
 

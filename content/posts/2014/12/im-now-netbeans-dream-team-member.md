@@ -3,7 +3,8 @@ title: "I'm now a NetBeans Dream Team Member!"
 date: 2014-12-05 08:00:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "NetBenas", "DreamTeam"]
-slug: "2014-12-05-im-now-netbeans-dream-team-member"
+slug: "im-now-netbeans-dream-team-member"
+link: "2014/12/im-now-netbeans-dream-team-member.html"
 url: /2014/12/im-now-netbeans-dream-team-member.html
 ---
 

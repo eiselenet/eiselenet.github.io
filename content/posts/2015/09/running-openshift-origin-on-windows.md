@@ -3,7 +3,8 @@ title: "Running OpenShift Origin on Windows"
 date: 2015-09-22 07:56:00 +0000
 layout: post
 tags: ["Openshift", "Windows"]
-slug: "2015-09-22-running-openshift-origin-on-windows"
+slug: "running-openshift-origin-on-windows"
+link: "2015/09/running-openshift-origin-on-windows.html"
 url: /2015/09/running-openshift-origin-on-windows.html
 ---
 

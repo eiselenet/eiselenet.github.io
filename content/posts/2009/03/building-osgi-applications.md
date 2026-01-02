@@ -3,7 +3,8 @@ title: "building OSGi applications"
 date: 2009-03-20 05:02:00 +0000
 layout: post
 tags: ["OSGi", "software development"]
-slug: "2009-03-20-building-osgi-applications"
+slug: "building-osgi-applications"
+link: "2009/03/building-osgi-applications.html"
 url: /2009/03/building-osgi-applications.html
 ---
 

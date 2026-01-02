@@ -3,7 +3,8 @@ title: "Ubiquity Xing command"
 date: 2008-08-29 07:03:00 +0000
 layout: post
 tags: ["xing", "Ubiquity", "firefox"]
-slug: "2008-08-29-ubiquity-xing-command"
+slug: "ubiquity-xing-command"
+link: "2008/08/ubiquity-xing-command.html"
 url: /2008/08/ubiquity-xing-command.html
 ---
 

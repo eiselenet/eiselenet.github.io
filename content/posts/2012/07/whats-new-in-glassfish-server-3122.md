@@ -3,7 +3,8 @@ title: "What's New in the GlassFish Server 3.1.2.2 Release?"
 date: 2012-07-18 11:23:00 +0000
 layout: post
 tags: ["glassfish", "release"]
-slug: "2012-07-18-whats-new-in-glassfish-server-3122"
+slug: "whats-new-in-glassfish-server-3122"
+link: "2012/07/whats-new-in-glassfish-server-3122.html"
 url: /2012/07/whats-new-in-glassfish-server-3122.html
 ---
 

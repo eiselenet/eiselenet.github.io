@@ -3,7 +3,8 @@ title: "All About Red Hat At JavaOne 2015"
 date: 2015-10-18 11:05:00 +0000
 layout: post
 tags: ["RedHat", "JavaOne"]
-slug: "2015-10-18-all-about-red-hat-at-javaone-2015"
+slug: "all-about-red-hat-at-javaone-2015"
+link: "2015/10/all-about-red-hat-at-javaone-2015.html"
 url: /2015/10/all-about-red-hat-at-javaone-2015.html
 ---
 

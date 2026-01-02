@@ -3,7 +3,8 @@ title: "JSF, Facelets, Myfaces and Richfaces Performance Tuning"
 date: 2009-10-02 10:18:00 +0000
 layout: post
 tags: ["richfaces", "performance", "tuning", "jsf", "myfaces"]
-slug: "2009-10-02-jsf-facelets-myfaces-and-richfaces"
+slug: "jsf-facelets-myfaces-and-richfaces"
+link: "2009/10/jsf-facelets-myfaces-and-richfaces.html"
 url: /2009/10/jsf-facelets-myfaces-and-richfaces.html
 ---
 

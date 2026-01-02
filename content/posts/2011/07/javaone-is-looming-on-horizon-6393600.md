@@ -3,7 +3,8 @@ title: "JavaOne is looming on the horizon - 6,393,600 seconds to go!"
 date: 2011-07-20 06:01:00 +0000
 layout: post
 tags: ["BoF", "sessions", "JavaOne", "HoL", "best-of"]
-slug: "2011-07-20-javaone-is-looming-on-horizon-6393600"
+slug: "javaone-is-looming-on-horizon-6393600"
+link: "2011/07/javaone-is-looming-on-horizon-6393600.html"
 url: /2011/07/javaone-is-looming-on-horizon-6393600.html
 ---
 

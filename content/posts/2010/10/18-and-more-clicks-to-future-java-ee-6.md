@@ -3,7 +3,8 @@ title: "18 and more clicks to the future. Java EE 6 with IBM's WAS 8.0"
 date: 2010-10-20 09:18:00 +0000
 layout: post
 tags: ["websphere", "javaee6", "ibm"]
-slug: "2010-10-20-18-and-more-clicks-to-future-java-ee-6"
+slug: "18-and-more-clicks-to-future-java-ee-6"
+link: "2010/10/18-and-more-clicks-to-future-java-ee-6.html"
 url: /2010/10/18-and-more-clicks-to-future-java-ee-6.html
 ---
 

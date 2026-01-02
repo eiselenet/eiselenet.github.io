@@ -3,7 +3,8 @@ title: "Gosling's guerrilla posts - Make me feel sick! What about you?"
 date: 2010-06-26 10:00:00 +0000
 layout: post
 tags: ["Gosling", "java", "oracle"]
-slug: "2010-06-26-goslings-guerrilla-posts-make-me-feel"
+slug: "goslings-guerrilla-posts-make-me-feel"
+link: "2010/06/goslings-guerrilla-posts-make-me-feel.html"
 url: /2010/06/goslings-guerrilla-posts-make-me-feel.html
 ---
 

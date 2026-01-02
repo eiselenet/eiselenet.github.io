@@ -3,7 +3,8 @@ title: "Getting Started With WildFly 10 - Fast, Lightweight and Powerful Java EE
 date: 2015-11-02 13:42:00 +0000
 layout: post
 tags: ["javaee7", "wildfly", "Jboss"]
-slug: "2015-11-02-getting-started-with-jboss-wildfly-10"
+slug: "getting-started-with-jboss-wildfly-10"
+link: "2015/11/getting-started-with-jboss-wildfly-10.html"
 url: /2015/11/getting-started-with-jboss-wildfly-10.html
 ---
 

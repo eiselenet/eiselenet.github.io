@@ -3,7 +3,8 @@ title: "JavaLand 2014 - CfP Statistics And Answers To Common Questions"
 date: 2013-10-29 05:06:00 +0000
 layout: post
 tags: ["Answers", "JavaLand", "statistics"]
-slug: "2013-10-29-javaland-2014-cfp-statistics-and"
+slug: "javaland-2014-cfp-statistics-and"
+link: "2013/10/javaland-2014-cfp-statistics-and.html"
 url: /2013/10/javaland-2014-cfp-statistics-and.html
 ---
 

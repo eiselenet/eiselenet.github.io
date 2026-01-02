@@ -3,7 +3,8 @@ title: "Red Hat JBoss Engineers about Java EE, Container, Microservices and Test
 date: 2015-11-03 09:07:00 +0000
 layout: post
 tags: ["wildfly", "javaee", "microservices"]
-slug: "2015-11-03-jboss-engineers-about-java-ee-microservices-container-testing"
+slug: "jboss-engineers-about-java-ee-microservices-container-testing"
+link: "2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html"
 url: /2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html
 ---
 

@@ -3,7 +3,8 @@ title: "Time is changing"
 date: 2009-07-12 19:15:00 +0000
 layout: post
 tags: ["cobalt qube 2"]
-slug: "2009-07-12-time-is-changing"
+slug: "time-is-changing"
+link: "2009/07/time-is-changing.html"
 url: /2009/07/time-is-changing.html
 ---
 

@@ -3,7 +3,8 @@ title: "GlassFish 3.1 with Oracle Coherence for Java Version 3.7"
 date: 2011-04-19 05:56:00 +0000
 layout: post
 tags: ["glassfish", "Coherence"]
-slug: "2011-04-19-glassfish-31-with-oracle-coherence-for"
+slug: "glassfish-31-with-oracle-coherence-for"
+link: "2011/04/glassfish-31-with-oracle-coherence-for.html"
 url: /2011/04/glassfish-31-with-oracle-coherence-for.html
 ---
 

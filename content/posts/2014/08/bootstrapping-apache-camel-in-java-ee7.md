@@ -3,7 +3,8 @@ title: "Bootstrapping Apache Camel in Java EE7 with WildFly 8"
 date: 2014-08-30 11:30:00 +0000
 layout: post
 tags: ["wildfly", "javaee7", "Camel"]
-slug: "2014-08-30-bootstrapping-apache-camel-in-java-ee7"
+slug: "bootstrapping-apache-camel-in-java-ee7"
+link: "2014/08/bootstrapping-apache-camel-in-java-ee7.html"
 url: /2014/08/bootstrapping-apache-camel-in-java-ee7.html
 ---
 

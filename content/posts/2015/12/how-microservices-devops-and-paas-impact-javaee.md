@@ -3,7 +3,8 @@ title: "Microservices, DevOps and PaaS - The Impact on Modern Java EE Architectu
 date: 2015-12-01 10:00:00 +0000
 layout: post
 tags: ["InfoQ"]
-slug: "2015-12-01-how-microservices-devops-and-paas-impact-javaee"
+slug: "how-microservices-devops-and-paas-impact-javaee"
+link: "2015/12/how-microservices-devops-and-paas-impact-javaee.html"
 url: /2015/12/how-microservices-devops-and-paas-impact-javaee.html
 ---
 

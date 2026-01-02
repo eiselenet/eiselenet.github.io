@@ -3,7 +3,8 @@ title: "I'm speaking at Jayday 2012, 3 Dec in Munich, Germany"
 date: 2012-10-22 06:57:00 +0000
 layout: post
 tags: ["OracleCloud", "jelastic", "jayday", "munich"]
-slug: "2012-10-22-im-speaking-at-jayday-2012-3-dec-in"
+slug: "im-speaking-at-jayday-2012-3-dec-in"
+link: "2012/10/im-speaking-at-jayday-2012-3-dec-in.html"
 url: /2012/10/im-speaking-at-jayday-2012-3-dec-in.html
 ---
 

@@ -3,7 +3,8 @@ title: "Abandon Fish! Migrating from GlassFish to JBoss or TomEE"
 date: 2014-03-13 05:51:00 +0000
 layout: post
 tags: ["migration", "TomEE", "glassfish", "wildfly"]
-slug: "2014-03-13-abandon-fish-migrating-from-glassfish"
+slug: "abandon-fish-migrating-from-glassfish"
+link: "2014/03/abandon-fish-migrating-from-glassfish.html"
 url: /2014/03/abandon-fish-migrating-from-glassfish.html
 ---
 

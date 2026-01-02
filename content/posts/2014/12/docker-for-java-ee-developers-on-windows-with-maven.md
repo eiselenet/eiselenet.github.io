@@ -3,7 +3,8 @@ title: "Docker All The Things for Java EE Developers - On Windows with Maven"
 date: 2014-12-11 11:00:00 +0000
 layout: post
 tags: ["Windows", "Docker", "javaee", "maven"]
-slug: "2014-12-11-docker-for-java-ee-developers-on-windows-with-maven"
+slug: "docker-for-java-ee-developers-on-windows-with-maven"
+link: "2014/12/docker-for-java-ee-developers-on-windows-with-maven.html"
 url: /2014/12/docker-for-java-ee-developers-on-windows-with-maven.html
 ---
 

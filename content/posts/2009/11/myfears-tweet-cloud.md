@@ -3,7 +3,8 @@ title: "myfear's tweet cloud"
 date: 2009-11-30 02:52:00 +0000
 layout: post
 tags: ["cloud", "twitter", "personal"]
-slug: "2009-11-30-myfears-tweet-cloud"
+slug: "myfears-tweet-cloud"
+link: "2009/11/myfears-tweet-cloud.html"
 url: /2009/11/myfears-tweet-cloud.html
 ---
 

@@ -3,7 +3,8 @@ title: "My Summer 2025 Retrospective: A Guide to AI-Powered, Cloud-Native Java w
 date: 2025-10-03 16:15:00 +0000
 layout: post
 tags: ["java", "Quarkus"]
-slug: "2025-10-03-java-ai-cloud-native-quarkus-guide"
+slug: "java-ai-cloud-native-quarkus-guide"
+link: "2025/10/java-ai-cloud-native-quarkus-guide.html"
 url: /2025/10/java-ai-cloud-native-quarkus-guide.html
 ---
 

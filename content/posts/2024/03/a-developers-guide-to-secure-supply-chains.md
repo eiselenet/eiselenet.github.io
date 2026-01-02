@@ -3,11 +3,12 @@ title: "A developer’s guide to setting supply chain security in DevSecOps"
 date: 2024-03-05 10:49:00 +0000
 layout: post
 tags: ["DevOps", "ebook", "DevSecOps", "developers"]
-slug: "2024-03-05-a-developers-guide-to-secure-supply-chains"
+slug: "a-developers-guide-to-secure-supply-chains"
+link: "2024/03/a-developers-guide-to-secure-supply-chains.html"
 url: /2024/03/a-developers-guide-to-secure-supply-chains.html
 ---
 
-<a href="2023_SupplyChainSecurity_EBook_art (1).webp" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="667" data-original-width="451" height="320" src="2023_SupplyChainSecurity_EBook_art (1).webp" width="216"></a>I missed to update you folks on a couple of things. If you are following me on Twitter or LinkedIn this went by your timeline some days ago already. But it is also time to add it to this blog. I have co-authored a little ebook that talks about the importance of DevSecOps for Developers and how it comes together with secure software supply chains.
+<a href="2023_SupplyChainSecurity_EBook_art-1-.webp" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="667" data-original-width="451" height="320" src="2023_SupplyChainSecurity_EBook_art-1-.webp" width="216"></a>I missed to update you folks on a couple of things. If you are following me on Twitter or LinkedIn this went by your timeline some days ago already. But it is also time to add it to this blog. I have co-authored a little ebook that talks about the importance of DevSecOps for Developers and how it comes together with secure software supply chains.
 <p></p>
 <p>Developers play a crucial role in implementing DevSecOps practices because they are responsible for writing the code that makes up the software. However, many developers don't have strong security backgrounds and might not be aware of the best practices to code, build, and monitor the software supply chain for their software factory.</p>
 <p>This short guide provides a developer's introduction to software supply chain security, including the key principles, tools, and techniques you need to know to better audit and act on vulnerabilities in open source software components. Start integrating security guardrails across your software development life cycles to catch security issues early.</p>

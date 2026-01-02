@@ -3,7 +3,8 @@ title: "Flickr Uploader 3.0.3"
 date: 2008-01-18 10:41:00 +0000
 layout: post
 tags: ["flickr programmierung", "photographie"]
-slug: "2008-01-18-flickr-uploader-303"
+slug: "flickr-uploader-303"
+link: "2008/01/flickr-uploader-303.html"
 url: /2008/01/flickr-uploader-303.html
 ---
 

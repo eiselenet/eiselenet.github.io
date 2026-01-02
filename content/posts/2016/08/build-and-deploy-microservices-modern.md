@@ -3,7 +3,8 @@ title: "Build and deploy microservices the modern way"
 date: 2016-08-01 13:53:00 +0000
 layout: post
 tags: ["mesosphere", "DC/OS", "microservices"]
-slug: "2016-08-01-build-and-deploy-microservices-modern"
+slug: "build-and-deploy-microservices-modern"
+link: "2016/08/build-and-deploy-microservices-modern.html"
 url: /2016/08/build-and-deploy-microservices-modern.html
 ---
 

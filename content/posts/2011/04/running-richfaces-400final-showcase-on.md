@@ -3,7 +3,8 @@ title: "Running RichFaces 4.0.0.Final Showcase on WebLogic Server"
 date: 2011-04-07 04:42:00 +0000
 layout: post
 tags: ["weblogic", "richfaces"]
-slug: "2011-04-07-running-richfaces-400final-showcase-on"
+slug: "running-richfaces-400final-showcase-on"
+link: "2011/04/running-richfaces-400final-showcase-on.html"
 url: /2011/04/running-richfaces-400final-showcase-on.html
 ---
 

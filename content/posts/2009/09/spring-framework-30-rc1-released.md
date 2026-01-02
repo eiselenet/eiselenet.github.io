@@ -3,7 +3,8 @@ title: "Spring Framework 3.0 RC1 released"
 date: 2009-09-30 04:24:00 +0000
 layout: post
 tags: ["Spring", "3.0 RC1"]
-slug: "2009-09-30-spring-framework-30-rc1-released"
+slug: "spring-framework-30-rc1-released"
+link: "2009/09/spring-framework-30-rc1-released.html"
 url: /2009/09/spring-framework-30-rc1-released.html
 ---
 

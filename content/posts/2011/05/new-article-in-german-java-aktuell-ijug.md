@@ -3,7 +3,8 @@ title: "New Article in German Java Aktuell (iJUG) about GlassFish 3.1"
 date: 2011-05-18 10:57:00 +0000
 layout: post
 tags: ["glassfish", "ijug", "article"]
-slug: "2011-05-18-new-article-in-german-java-aktuell-ijug"
+slug: "new-article-in-german-java-aktuell-ijug"
+link: "2011/05/new-article-in-german-java-aktuell-ijug.html"
 url: /2011/05/new-article-in-german-java-aktuell-ijug.html
 ---
 

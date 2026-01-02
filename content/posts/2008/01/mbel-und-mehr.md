@@ -3,7 +3,8 @@ title: "Möbel und mehr ..."
 date: 2008-01-29 05:32:00 +0000
 layout: post
 tags: ["reklamation", "kinderzimmer", "privat"]
-slug: "2008-01-29-mbel-und-mehr"
+slug: "mbel-und-mehr"
+link: "2008/01/mbel-und-mehr.html"
 url: /2008/01/mbel-und-mehr.html
 ---
 

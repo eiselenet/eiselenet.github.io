@@ -3,7 +3,8 @@ title: "oracle kauft bea systems"
 date: 2008-01-21 04:49:00 +0000
 layout: post
 tags: ["bea oracle"]
-slug: "2008-01-21-oracle-kauft-bea-systems"
+slug: "oracle-kauft-bea-systems"
+link: "2008/01/oracle-kauft-bea-systems.html"
 url: /2008/01/oracle-kauft-bea-systems.html
 ---
 

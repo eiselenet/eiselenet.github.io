@@ -3,7 +3,8 @@ title: "Developer Interview (#DI13) Vlad Mihalcea (@vlad_mihalcea) about High Pe
 date: 2015-02-02 11:00:00 +0000
 layout: post
 tags: ["Hibernate", "DI", "Jboss"]
-slug: "2015-02-02-developer-interview-13-vlad-mihalcea-about-hibernate-locking"
+slug: "developer-interview-13-vlad-mihalcea-about-hibernate-locking"
+link: "2015/02/developer-interview-13-vlad-mihalcea-about-hibernate-locking.html"
 url: /2015/02/developer-interview-13-vlad-mihalcea-about-hibernate-locking.html
 ---
 

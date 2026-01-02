@@ -3,7 +3,8 @@ title: "Oracle JRockit Mission Control 4.1 released"
 date: 2011-12-09 18:27:00 +0000
 layout: post
 tags: ["Control", "Mission", "oracle", "JRockit"]
-slug: "2011-12-09-oracle-jrockit-mission-control-41"
+slug: "oracle-jrockit-mission-control-41"
+link: "2011/12/oracle-jrockit-mission-control-41.html"
 url: /2011/12/oracle-jrockit-mission-control-41.html
 ---
 

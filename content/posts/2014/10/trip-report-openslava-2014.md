@@ -3,7 +3,8 @@ title: "Trip Report: OpenSlava 2014"
 date: 2014-10-24 10:00:00 +0000
 layout: post
 tags: ["RedHat", "OpenSlava", "conference", "Jboss"]
-slug: "2014-10-24-trip-report-openslava-2014"
+slug: "trip-report-openslava-2014"
+link: "2014/10/trip-report-openslava-2014.html"
 url: /2014/10/trip-report-openslava-2014.html
 ---
 

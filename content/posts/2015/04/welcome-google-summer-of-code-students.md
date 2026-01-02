@@ -3,7 +3,8 @@ title: "Welcome Google Summer of Code Students 2015 to JBoss"
 date: 2015-04-28 11:30:00 +0000
 layout: post
 tags: ["GSoC", "2015", "Jboss"]
-slug: "2015-04-28-welcome-google-summer-of-code-students"
+slug: "welcome-google-summer-of-code-students"
+link: "2015/04/welcome-google-summer-of-code-students.html"
 url: /2015/04/welcome-google-summer-of-code-students.html
 ---
 

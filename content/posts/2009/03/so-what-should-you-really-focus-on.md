@@ -3,7 +3,8 @@ title: "So, what should you really focus on?"
 date: 2009-03-13 05:13:00 +0000
 layout: post
 tags: ["development", "future vision", "Webas"]
-slug: "2009-03-13-so-what-should-you-really-focus-on"
+slug: "so-what-should-you-really-focus-on"
+link: "2009/03/so-what-should-you-really-focus-on.html"
 url: /2009/03/so-what-should-you-really-focus-on.html
 ---
 

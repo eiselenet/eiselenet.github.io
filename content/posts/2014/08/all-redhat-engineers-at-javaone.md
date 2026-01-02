@@ -3,7 +3,8 @@ title: "All the RedHat Engineers at JavaOne"
 date: 2014-08-14 14:46:00 +0000
 layout: post
 tags: ["RedHat", "JavaOne"]
-slug: "2014-08-14-all-redhat-engineers-at-javaone"
+slug: "all-redhat-engineers-at-javaone"
+link: "2014/08/all-redhat-engineers-at-javaone.html"
 url: /2014/08/all-redhat-engineers-at-javaone.html
 ---
 

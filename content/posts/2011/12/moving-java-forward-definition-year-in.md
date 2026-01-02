@@ -3,7 +3,8 @@ title: "Moving Java Forward? A definition. A year in review."
 date: 2011-12-22 11:07:00 +0000
 layout: post
 tags: ["java", "oracle", "forward", "Moving", "jcp", "review"]
-slug: "2011-12-22-moving-java-forward-definition-year-in"
+slug: "moving-java-forward-definition-year-in"
+link: "2011/12/moving-java-forward-definition-year-in.html"
 url: /2011/12/moving-java-forward-definition-year-in.html
 ---
 

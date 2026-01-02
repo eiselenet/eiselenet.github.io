@@ -3,7 +3,8 @@ title: "JPA implementation patterns"
 date: 2009-07-16 04:13:00 +0000
 layout: post
 tags: ["Pattern", "jpa"]
-slug: "2009-07-16-jpa-implementation-patterns"
+slug: "jpa-implementation-patterns"
+link: "2009/07/jpa-implementation-patterns.html"
 url: /2009/07/jpa-implementation-patterns.html
 ---
 

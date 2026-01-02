@@ -3,7 +3,8 @@ title: "Mobile Apps - Native? Flash? HTML 5? - a decision helper."
 date: 2010-11-09 06:39:00 +0000
 layout: post
 tags: ["mobile", "html5", "flash"]
-slug: "2010-11-09-mobile-apps-native-flash-html-5"
+slug: "mobile-apps-native-flash-html-5"
+link: "2010/11/mobile-apps-native-flash-html-5.html"
 url: /2010/11/mobile-apps-native-flash-html-5.html
 ---
 

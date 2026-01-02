@@ -3,7 +3,8 @@ title: "Jfokus 2012 Trip Report"
 date: 2012-02-16 10:31:00 +0000
 layout: post
 tags: ["report", "trip", "Jfokus"]
-slug: "2012-02-16-jfokus-2012-trip-report"
+slug: "jfokus-2012-trip-report"
+link: "2012/02/jfokus-2012-trip-report.html"
 url: /2012/02/jfokus-2012-trip-report.html
 ---
 

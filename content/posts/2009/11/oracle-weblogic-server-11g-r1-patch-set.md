@@ -3,7 +3,8 @@ title: "Oracle WebLogic Server 11g R1 Patch Set 1 available (WLS 10.3.2.0), cont
 date: 2009-11-13 03:10:00 +0000
 layout: post
 tags: ["oracle", "11gR1", "patch set", "weblogic server"]
-slug: "2009-11-13-oracle-weblogic-server-11g-r1-patch-set"
+slug: "oracle-weblogic-server-11g-r1-patch-set"
+link: "2009/11/oracle-weblogic-server-11g-r1-patch-set.html"
 url: /2009/11/oracle-weblogic-server-11g-r1-patch-set.html
 ---
 

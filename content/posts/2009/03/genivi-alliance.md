@@ -3,7 +3,8 @@ title: "GENIVI ALLIANCE"
 date: 2009-03-11 12:17:00 +0000
 layout: post
 tags: ["genivi", "automotive", "IVI"]
-slug: "2009-03-11-genivi-alliance"
+slug: "genivi-alliance"
+link: "2009/03/genivi-alliance.html"
 url: /2009/03/genivi-alliance.html
 ---
 

@@ -3,7 +3,8 @@ title: "XMind 3 for Eclipse 3.4 - Open Source, Open Storm!"
 date: 2009-02-11 09:28:00 +0000
 layout: post
 tags: ["mind map", "xmind", "eclipse"]
-slug: "2009-02-11-xmind-3-for-eclipse-34-open-source-open"
+slug: "xmind-3-for-eclipse-34-open-source-open"
+link: "2009/02/xmind-3-for-eclipse-34-open-source-open.html"
 url: /2009/02/xmind-3-for-eclipse-34-open-source-open.html
 ---
 

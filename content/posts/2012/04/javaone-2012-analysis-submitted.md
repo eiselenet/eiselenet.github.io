@@ -3,7 +3,8 @@ title: "JavaOne 2012 Analysis - Submitted Proposals and Speaker Distribution."
 date: 2012-04-30 05:41:00 +0000
 layout: post
 tags: ["2012", "conference", "JavaOne", "analysis"]
-slug: "2012-04-30-javaone-2012-analysis-submitted"
+slug: "javaone-2012-analysis-submitted"
+link: "2012/04/javaone-2012-analysis-submitted.html"
 url: /2012/04/javaone-2012-analysis-submitted.html
 ---
 

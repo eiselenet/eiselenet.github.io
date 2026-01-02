@@ -3,7 +3,8 @@ title: "EJB 3: From legacy technology to secret weapon"
 date: 2008-11-04 05:34:00 +0000
 layout: post
 tags: ["adam bien", "ejb 3.1", "javaworld"]
-slug: "2008-11-04-ejb-3-from-legacy-technology-to-secret"
+slug: "ejb-3-from-legacy-technology-to-secret"
+link: "2008/11/ejb-3-from-legacy-technology-to-secret.html"
 url: /2008/11/ejb-3-from-legacy-technology-to-secret.html
 ---
 

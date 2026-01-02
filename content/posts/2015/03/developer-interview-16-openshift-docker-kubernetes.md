@@ -3,7 +3,8 @@ title: "Developer Interview (#DI16) with Veer Muchandi (@VeerMuchandi) Docker, O
 date: 2015-03-06 12:00:00 +0000
 layout: post
 tags: ["Openshift", "Docker", "Jboss", "Kubernetes"]
-slug: "2015-03-06-developer-interview-16-openshift-docker-kubernetes"
+slug: "developer-interview-16-openshift-docker-kubernetes"
+link: "2015/03/developer-interview-16-openshift-docker-kubernetes.html"
 url: /2015/03/developer-interview-16-openshift-docker-kubernetes.html
 ---
 

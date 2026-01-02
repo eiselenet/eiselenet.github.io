@@ -3,7 +3,8 @@ title: "Jfokus 2013 Trip Report - The hottest place in Sweden in February!"
 date: 2013-02-08 11:23:00 +0000
 layout: post
 tags: ["report", "trip", "Jfokus"]
-slug: "2013-02-08-jfokus-2013-trip-report-hottest-place"
+slug: "jfokus-2013-trip-report-hottest-place"
+link: "2013/02/jfokus-2013-trip-report-hottest-place.html"
 url: /2013/02/jfokus-2013-trip-report-hottest-place.html
 ---
 

@@ -3,7 +3,8 @@ title: "High performance JPA with GlassFish and Coherence - Part 1"
 date: 2011-02-11 06:05:00 +0000
 layout: post
 tags: ["glassfish", "jpa", "Coherence"]
-slug: "2011-02-11-high-performance-jpa-with-glassfish-and"
+slug: "high-performance-jpa-with-glassfish-and"
+link: "2011/02/high-performance-jpa-with-glassfish-and.html"
 url: /2011/02/high-performance-jpa-with-glassfish-and.html
 ---
 

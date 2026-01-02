@@ -3,7 +3,8 @@ title: "ICEFaces and Spring"
 date: 2008-02-08 08:06:00 +0000
 layout: post
 tags: ["softwareentwicklung", "ajax", "programmierung", "flickr programmierung"]
-slug: "2008-02-08-icefaces-and-spring"
+slug: "icefaces-and-spring"
+link: "2008/02/icefaces-and-spring.html"
 url: /2008/02/icefaces-and-spring.html
 ---
 

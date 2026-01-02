@@ -3,7 +3,8 @@ title: "The Heroes of Java: Greg Luck"
 date: 2012-02-21 09:35:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Greg Luck"]
-slug: "2012-02-21-heroes-of-java-greg-luck"
+slug: "heroes-of-java-greg-luck"
+link: "2012/02/heroes-of-java-greg-luck.html"
 url: /2012/02/heroes-of-java-greg-luck.html
 ---
 

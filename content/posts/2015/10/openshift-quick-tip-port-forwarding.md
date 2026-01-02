@@ -3,7 +3,8 @@ title: "OpenShift Quick Tip: Port Forwarding with v3 and the All-In-One-VM"
 date: 2015-10-20 11:31:00 +0000
 layout: post
 tags: ["QuickTip", "Openshift"]
-slug: "2015-10-20-openshift-quick-tip-port-forwarding"
+slug: "openshift-quick-tip-port-forwarding"
+link: "2015/10/openshift-quick-tip-port-forwarding.html"
 url: /2015/10/openshift-quick-tip-port-forwarding.html
 ---
 

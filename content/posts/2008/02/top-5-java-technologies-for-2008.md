@@ -3,7 +3,8 @@ title: "Top 5 Java Technologies for 2008"
 date: 2008-02-01 05:47:00 +0000
 layout: post
 tags: ["softwareentwicklung", "programmierung"]
-slug: "2008-02-01-top-5-java-technologies-for-2008"
+slug: "top-5-java-technologies-for-2008"
+link: "2008/02/top-5-java-technologies-for-2008.html"
 url: /2008/02/top-5-java-technologies-for-2008.html
 ---
 

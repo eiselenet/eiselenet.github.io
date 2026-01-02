@@ -3,7 +3,8 @@ title: "Thank you! I'm a JBoss Community Leader 2012!"
 date: 2012-04-27 04:56:00 +0000
 layout: post
 tags: ["jbcra", "winner", "Arquillian", "Jboss"]
-slug: "2012-04-27-thank-you-im-jboss-community-leader"
+slug: "thank-you-im-jboss-community-leader"
+link: "2012/04/thank-you-im-jboss-community-leader.html"
 url: /2012/04/thank-you-im-jboss-community-leader.html
 ---
 

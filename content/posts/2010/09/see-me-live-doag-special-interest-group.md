@@ -3,7 +3,8 @@ title: "See me, live! DOAG Special Interest Group Java, 09.09.10, Munich"
 date: 2010-09-02 09:36:00 +0000
 layout: post
 tags: ["doagev", "SIG Java"]
-slug: "2010-09-02-see-me-live-doag-special-interest-group"
+slug: "see-me-live-doag-special-interest-group"
+link: "2010/09/see-me-live-doag-special-interest-group.html"
 url: /2010/09/see-me-live-doag-special-interest-group.html
 ---
 

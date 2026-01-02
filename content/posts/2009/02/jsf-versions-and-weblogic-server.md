@@ -3,7 +3,8 @@ title: "JSF Versions and Weblogic Server"
 date: 2009-02-27 10:46:00 +0000
 layout: post
 tags: ["oracle", "jsf", "weblogic server"]
-slug: "2009-02-27-jsf-versions-and-weblogic-server"
+slug: "jsf-versions-and-weblogic-server"
+link: "2009/02/jsf-versions-and-weblogic-server.html"
 url: /2009/02/jsf-versions-and-weblogic-server.html
 ---
 

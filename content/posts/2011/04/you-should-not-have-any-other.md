@@ -3,7 +3,8 @@ title: "You should not have any other @ManagedBean beside @Named."
 date: 2011-04-30 12:01:00 +0000
 layout: post
 tags: ["named", "jsf", "managedBean"]
-slug: "2011-04-30-you-should-not-have-any-other"
+slug: "you-should-not-have-any-other"
+link: "2011/04/you-should-not-have-any-other.html"
 url: /2011/04/you-should-not-have-any-other.html
 ---
 

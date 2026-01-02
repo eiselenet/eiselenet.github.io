@@ -3,7 +3,8 @@ title: "Day 4: Meeting the Community - Java, GlassFish and ACEs"
 date: 2011-10-03 14:17:00 +0000
 layout: post
 tags: ["glassfish", "java", "JavaOne", "ACED"]
-slug: "2011-10-03-day-4-meeting-community-java-glassfish"
+slug: "day-4-meeting-community-java-glassfish"
+link: "2011/10/day-4-meeting-community-java-glassfish.html"
 url: /2011/10/day-4-meeting-community-java-glassfish.html
 ---
 

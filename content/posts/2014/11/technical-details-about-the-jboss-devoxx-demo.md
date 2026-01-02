@@ -3,7 +3,8 @@ title: "What is your \"x\"? The technical details about the Devoxx Keynote Demo"
 date: 2014-11-12 10:00:00 +0000
 layout: post
 tags: ["devoxx", "xPaaS", "Demo"]
-slug: "2014-11-12-technical-details-about-the-jboss-devoxx-demo"
+slug: "technical-details-about-the-jboss-devoxx-demo"
+link: "2014/11/technical-details-about-the-jboss-devoxx-demo.html"
 url: /2014/11/technical-details-about-the-jboss-devoxx-demo.html
 ---
 

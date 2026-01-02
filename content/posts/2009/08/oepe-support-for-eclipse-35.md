@@ -3,7 +3,8 @@ title: "OEPE Support for Eclipse 3.5"
 date: 2009-08-05 04:39:00 +0000
 layout: post
 tags: ["oracle", "OEPE", "eclipse"]
-slug: "2009-08-05-oepe-support-for-eclipse-35"
+slug: "oepe-support-for-eclipse-35"
+link: "2009/08/oepe-support-for-eclipse-35.html"
 url: /2009/08/oepe-support-for-eclipse-35.html
 ---
 

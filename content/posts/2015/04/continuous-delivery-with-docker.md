@@ -3,7 +3,8 @@ title: "Continuous Delivery with Docker Containers and Java EE"
 date: 2015-04-30 10:00:00 +0000
 layout: post
 tags: ["CD", "Docker", "javaee", "CI"]
-slug: "2015-04-30-continuous-delivery-with-docker"
+slug: "continuous-delivery-with-docker"
+link: "2015/04/continuous-delivery-with-docker.html"
 url: /2015/04/continuous-delivery-with-docker.html
 ---
 

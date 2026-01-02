@@ -3,7 +3,8 @@ title: "SSL with WildFly 8 and Undertow"
 date: 2015-01-26 11:02:00 +0000
 layout: post
 tags: ["TLS", "wildfly", "ssl", "Undertow"]
-slug: "2015-01-26-ssl-with-wildfly-8-and-undertow"
+slug: "ssl-with-wildfly-8-and-undertow"
+link: "2015/01/ssl-with-wildfly-8-and-undertow.html"
 url: /2015/01/ssl-with-wildfly-8-and-undertow.html
 ---
 

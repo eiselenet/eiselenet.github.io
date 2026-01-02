@@ -3,7 +3,8 @@ title: "DOAG 2010 - Day 2 - My Talk, People and Party"
 date: 2010-11-18 09:42:00 +0000
 layout: post
 tags: ["doag2010"]
-slug: "2010-11-18-doag-2010-day-2-my-talk-people-and"
+slug: "doag-2010-day-2-my-talk-people-and"
+link: "2010/11/doag-2010-day-2-my-talk-people-and.html"
 url: /2010/11/doag-2010-day-2-my-talk-people-and.html
 ---
 

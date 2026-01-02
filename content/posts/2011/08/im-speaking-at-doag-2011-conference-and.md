@@ -3,7 +3,8 @@ title: "I'm speaking at DOAG 2011 Conference and Exhibition, 15th-17th November 
 date: 2011-08-18 04:32:00 +0000
 layout: post
 tags: ["doag2011", "doag", "speaker"]
-slug: "2011-08-18-im-speaking-at-doag-2011-conference-and"
+slug: "im-speaking-at-doag-2011-conference-and"
+link: "2011/08/im-speaking-at-doag-2011-conference-and.html"
 url: /2011/08/im-speaking-at-doag-2011-conference-and.html
 ---
 

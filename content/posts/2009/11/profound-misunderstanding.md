@@ -3,7 +3,8 @@ title: "profound misunderstanding"
 date: 2009-11-10 04:37:00 +0000
 layout: post
 tags: ["acquisition", "oracle", "Sun", "merger", "european commission"]
-slug: "2009-11-10-profound-misunderstanding"
+slug: "profound-misunderstanding"
+link: "2009/11/profound-misunderstanding.html"
 url: /2009/11/profound-misunderstanding.html
 ---
 

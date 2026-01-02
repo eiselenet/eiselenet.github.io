@@ -3,7 +3,8 @@ title: "Red Hat JBoss Enterprise Application Platform 7.0 ALPHA released!"
 date: 2015-11-15 15:30:00 +0000
 layout: post
 tags: ["Alpha", "javaee7", "EAP7", "Jboss"]
-slug: "2015-11-15-red-hat-jboss-enterprise-application-platform-7.0-alpha"
+slug: "red-hat-jboss-enterprise-application-platform-7.0-alpha"
+link: "2015/11/red-hat-jboss-enterprise-application-platform-7.0-alpha.html"
 url: /2015/11/red-hat-jboss-enterprise-application-platform-7.0-alpha.html
 ---
 

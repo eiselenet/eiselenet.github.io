@@ -3,7 +3,8 @@ title: "An introduction to Adobe AIR"
 date: 2008-10-03 13:00:00 +0000
 layout: post
 tags: ["AIR", "new technology", "Adobe"]
-slug: "2008-10-03-introduction-to-adobe-air"
+slug: "introduction-to-adobe-air"
+link: "2008/10/introduction-to-adobe-air.html"
 url: /2008/10/introduction-to-adobe-air.html
 ---
 

@@ -3,7 +3,8 @@ title: "maven goal eclipse:rad und checkstyle"
 date: 2008-07-21 04:36:00 +0000
 layout: post
 tags: ["softwareentwicklung", "maven"]
-slug: "2008-07-21-maven-goal-eclipserad"
+slug: "maven-goal-eclipserad"
+link: "2008/07/maven-goal-eclipserad.html"
 url: /2008/07/maven-goal-eclipserad.html
 ---
 

@@ -3,7 +3,8 @@ title: "Make the impossible happen: Connect With Camel to 20+ Datasources"
 date: 2014-09-03 09:49:00 +0000
 layout: post
 tags: [""]
-slug: "2014-09-03-make-impossible-happen-connect-with"
+slug: "make-impossible-happen-connect-with"
+link: "2014/09/make-impossible-happen-connect-with.html"
 url: /2014/09/make-impossible-happen-connect-with.html
 ---
 

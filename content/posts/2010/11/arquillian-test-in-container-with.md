@@ -3,7 +3,8 @@ title: "Arquillian - Test in the Container with GlassFish 3.1-b04 Embedded"
 date: 2010-11-12 06:41:00 +0000
 layout: post
 tags: ["glassfish", "javaee6", "Arquillian"]
-slug: "2010-11-12-arquillian-test-in-container-with"
+slug: "arquillian-test-in-container-with"
+link: "2010/11/arquillian-test-in-container-with.html"
 url: /2010/11/arquillian-test-in-container-with.html
 ---
 

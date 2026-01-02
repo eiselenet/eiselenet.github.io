@@ -3,7 +3,8 @@ title: "JavaEE 7 with GlassFish on Eclipse Juno"
 date: 2013-04-11 11:23:00 +0000
 layout: post
 tags: ["glassfish", "javaee7", "OEPE", "eclipse"]
-slug: "2013-04-11-javaee-7-with-glassfish-on-eclipse-juno"
+slug: "javaee-7-with-glassfish-on-eclipse-juno"
+link: "2013/04/javaee-7-with-glassfish-on-eclipse-juno.html"
 url: /2013/04/javaee-7-with-glassfish-on-eclipse-juno.html
 ---
 

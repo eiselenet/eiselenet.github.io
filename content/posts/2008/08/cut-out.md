@@ -3,7 +3,8 @@ title: "cut out"
 date: 2008-08-15 05:43:00 +0000
 layout: post
 tags: ["photoshop", "photographie"]
-slug: "2008-08-15-cut-out"
+slug: "cut-out"
+link: "2008/08/cut-out.html"
 url: /2008/08/cut-out.html
 ---
 

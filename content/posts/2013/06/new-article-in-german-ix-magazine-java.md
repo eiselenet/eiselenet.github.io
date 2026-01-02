@@ -3,7 +3,8 @@ title: "New Article in German iX Magazine: Java EE 7"
 date: 2013-06-26 08:38:00 +0000
 layout: post
 tags: ["javaee7", "article", "heise"]
-slug: "2013-06-26-new-article-in-german-ix-magazine-java"
+slug: "new-article-in-german-ix-magazine-java"
+link: "2013/06/new-article-in-german-ix-magazine-java.html"
 url: /2013/06/new-article-in-german-ix-magazine-java.html
 ---
 

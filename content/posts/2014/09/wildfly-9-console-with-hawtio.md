@@ -3,7 +3,8 @@ title: "WildFly 9 - Don't cha wish your console was hawt like this!"
 date: 2014-09-17 12:00:00 +0000
 layout: post
 tags: ["WildFly9", "Hawtio"]
-slug: "2014-09-17-wildfly-9-console-with-hawtio"
+slug: "wildfly-9-console-with-hawtio"
+link: "2014/09/wildfly-9-console-with-hawtio.html"
 url: /2014/09/wildfly-9-console-with-hawtio.html
 ---
 

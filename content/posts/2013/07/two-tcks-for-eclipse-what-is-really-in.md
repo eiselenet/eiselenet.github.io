@@ -3,7 +3,8 @@ title: "Two TCKs for Eclipse - What is really in it for Open Source?"
 date: 2013-07-31 06:45:00 +0000
 layout: post
 tags: ["java", "TCK", "jcp", "eclipse"]
-slug: "2013-07-31-two-tcks-for-eclipse-what-is-really-in"
+slug: "two-tcks-for-eclipse-what-is-really-in"
+link: "2013/07/two-tcks-for-eclipse-what-is-really-in.html"
 url: /2013/07/two-tcks-for-eclipse-what-is-really-in.html
 ---
 

@@ -3,7 +3,8 @@ title: "I'm speaking at JavaZone 2012, 12-13 Sept in Oslo, Norway"
 date: 2012-07-20 07:22:00 +0000
 layout: post
 tags: ["Oslo", "conference", "JavaZone"]
-slug: "2012-07-20-im-speaking-at-javazone-2012-12-13-sept"
+slug: "im-speaking-at-javazone-2012-12-13-sept"
+link: "2012/07/im-speaking-at-javazone-2012-12-13-sept.html"
 url: /2012/07/im-speaking-at-javazone-2012-12-13-sept.html
 ---
 
