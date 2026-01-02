@@ -120,10 +120,10 @@ public class Migration implements Callable<Integer> {
             slug = filename.substring(0, lastDot);
         }
 
-        // Target Directory: content/posts/{YYYY}/{MM}/
+        // Target Directory: content/posts/{YYYY}/{MM}/{slug}/
         String year = dirDate.substring(0, 4);
         String month = dirDate.substring(5, 7);
-        Path targetPostDir = outputDir.resolve(year).resolve(month);
+        Path targetPostDir = outputDir.resolve(year).resolve(month).resolve(slug);
         Files.createDirectories(targetPostDir);
 
         // Process Content and Images
@@ -158,13 +158,15 @@ public class Migration implements Callable<Integer> {
             sb.append("tags: [").append(quotedTags).append("]\n");
         }
         sb.append("slug: \"").append(slug).append("\"\n");
-        sb.append("link: \"").append(year).append("/").append(month).append("/").append(slug).append(extension).append("\"\n");
+        sb.append("link: \":year/:month/:slug\"\n");
+        sb.append("aliases:\n");
+        sb.append(" - \":year/:month/:slug:").append(extension).append("!\"\n");
         sb.append("url: ").append(originalPath).append("\n");
         sb.append("---\n\n");
         sb.append(processedContent);
 
-        // Target File: {slug}.md
-        Path targetFile = targetPostDir.resolve(slug + ".md");
+        // Target File: {slug}/index.md
+        Path targetFile = targetPostDir.resolve("index.md");
         Files.writeString(targetFile, sb.toString());
 
         System.out.println("Created: " + targetFile);

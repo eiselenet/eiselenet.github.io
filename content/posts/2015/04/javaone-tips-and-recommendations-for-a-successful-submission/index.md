@@ -1,0 +1,44 @@
+---
+title: "JavaOne 2015 - Tips And Recommendations For Your Submission."
+date: 2015-04-22 11:00:00 +0000
+layout: post
+tags: ["CfP", "JavaOne"]
+slug: "javaone-tips-and-recommendations-for-a-successful-submission"
+link: ":year/:month/:slug"
+aliases:
+ - ":year/:month/:slug:.html!"
+url: /2015/04/javaone-tips-and-recommendations-for-a-successful-submission.html
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+ <a href="https://www.oracle.com/javaone/call-for-proposals.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" target="_blank"><img border="0" src="java_one_cfp.PNG" height="143" width="320"></a>
+</div> Everybody knows <a href="" target="_blank">JavaOne</a>. It feels like, it's been there forever. And even if we had our ups and downs and the location isn't exactly what we want it to be and San Francisco is expensive and and and. It is the number one premium conference about all kinds of Java. And being part of the program committee ("<a href="https://www.oracle.com/javaone/tracks.html#cloud" target="_blank">Java, DevOps, and the Cloud</a>" and "<a href="https://www.oracle.com/javaone/tracks.html#server" target="_blank">Java and Server-Side Development</a>") again this year makes me proud. And this is my personal call to action for you: If you haven't considered submitting something to JavaOne yet, time is running out. <a href="https://www.oracle.com/javaone/call-for-proposals.html" target="_blank">The CfP</a> will close on April 29th and the different review teams of the individual tracks are eagerly awaiting all your awesome submissions.
+<br>
+ We can brag as much as we want but JavaOne would be nothing without all the great speakers. That is why we need your help to make sure that the 2015 edition will be even more awesome than the past ones. Here are some ideas and recommendations for the undecided.
+<br>
+<br><b>What Do I Want To Hear From You About Cloud?</b>
+<br>
+ The evolution of service-related enterprise Java standards has been underway for more than a decade, and in many ways the emergence of cloud computing was almost inevitable. Whether you call your current service-oriented development “cloud” or not, Java offers developers unique value in cloud-related environments such as software as a service (SaaS) and platform as a service (PaaS). The Java Virtual Machine is an ideal deployment environment for new microservice and container application architectures that deploy to cloud infrastructures. And as Java development in the cloud becomes more pervasive, enabling application portability can lead to greater cloud productivity.
+<br>
+ As this track covers everything from service oriented development and architecture approaches to continuous delivery and DevOps, I expect a lot of different kinds of proposals to come in here. If you want my eyes to catch your proposal here are some ideas:
+<br>
+<ul>
+ <li><b>Microservices are cool.</b> I get that. But there's more to it than just buzzword bingo. What I am looking for are some real world ideas or at least something that you tried out. Don't just try to explain what they are (I dropped the famous Fowler slide from my presentations some time ago already). Try to explain what they solve for you and why you've just not gone down the typical Java EE road. And of course, there's stuff like OSGi and Vert.x which also might be a suitable way to do microservices in Java. Surprise me with your experiences.</li>
+ <li><b>Containers are cool.</b> And Docker is one of them. There's a lot more. And speaking about Containers isn't exactly Java related. For me it will not be enough if you just Docker-ize everything. Please make sure to link your container proposal to Java. This can be anything about introductory content, or how to make the most out of containers as a Java developer. Even in this particular area, I think it is most important to stress your real experiences. Show me your code; your story.</li>
+ <li><b>PaaS is cool. </b>Oh yes. And we're going down the cloud road further over the next couple of years. Please don't just pitch a product. Don't just tell me how to use OpenShift, Cloud Foundry, Spring Cloud. That is nothing I want to hear. There are readme's and documentation out there. Show me what you did with the PaaS of your choice. Tell me about your choice and let me know, what worked and what didn't. Found out about something that is extremely rough? Or very easy to do? Got some best practices to share! That's what I am looking for.</li>
+ <li><b>DevOps is cool.</b> Sort of. Not many of us do it. Enterprises have a hard time with it. What did make you look into this topic. What worked and why? Was technology a key to your success? Tell me more about how you made it work in which context.&nbsp;</li>
+</ul><b>What Makes A Good Server Side Track Submission?</b>
+<br>
+ Java Platform, Enterprise Edition (Java EE) is the standard in community-driven enterprise software. Developed using contributions from industry experts, commercial and open source organizations, Java user groups, and countless individuals, Java EE offers developers a rich enterprise software platform. And believe it or not, I've been working with Java EE on different containers for almost 15 years now. So, what can surprise me in terms of a good presentation?
+<br>
+<ul>
+ <li><b>Java EE 6 isn't cool anymore.</b> We've been there before. If you want to talk about this or even earlier versions, JavaOne might be to fancy for you. We are years into Java EE 7 already and I think, I heard everything about earlier versions that one can say.</li>
+ <li><b>Java EE 8 is for spec leads and innovators.</b> And this is pretty true. If you really want to talk about something that is hopefully going to be announced at JavaOne 2016, you better be an expert group member or part of an Adopt-A-JSR initiative or an active committer on an Open Source Project that strives to deliver an early implementation. I might consider other community activities which want to help shape EE 8. But beyond this point, it might be a bit trickier to get a talk about EE 8 into this year with my votes on it.</li>
+ <li><b>Java EE 7 is where the music plays.</b> This is what we are hopefully using today. And weather you want to talk about an individual specification or full-stack, or if you want to showcase your app/product based on it. Or if you have a migration story to share or some real production war-stories. This is right up my alley.&nbsp;</li>
+ <li><b>Deployment War Stories are yesterday. </b>We want success stories. Tell us what did work, what didn't and how you solved it. Surprise me with an entertaining talk about how you made an enterprise release more often than 2 times a year. How you package and deliver your application. How have you been able to implement a DevOps workflow? Crossing the Container bridge here, you might consider adding the Cloud and Container track as a second potion.</li>
+ <li><b>Security is your wildcard.</b> Because it's my favorite topic. If you solved some complex rights and roles requirement and did that done with a decent performance, or if you came up with a highly secure x-factor authentication solutions, I would love to hear about that.</li>
+ <li><b>Product pitches are for beginners.</b> We do know better, don't we? Wanna talk about JBoss EAP or WebSphere or WebLogic? I'm sure there's a conference for that. I want to hear people talking about Open Source and community driven projects. How they contributed, how they used them successfully.&nbsp;</li>
+</ul> In more general, there are some good write-ups about how your submission should look like. <a href="" target="_blank">Arun did a great summary</a> and I think some basic tips are also included on the JavaOne website. Please, keep in mind, that the program committee members might not know you. And we all invest double digit hours into reviewing all the amazing submissions. So, please make it as easy as possible for us and try to walk in our shoes a bit before submitting.
+<br>
+<br>
+ Good Luck! We're nothing without you! Keep trying and give us your best! I can't wait to see what you come up with. <a href="https://www.oracle.com/javaone/call-for-proposals.html" target="_blank">Submit your proposals today. Time is running out!</a>
