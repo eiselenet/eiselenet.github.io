@@ -4,9 +4,7 @@ date: 2010-03-23 10:34:00 +0000
 layout: post
 tags: ["GSW", "groovy", "grails", "\"Getting started with\"", "weblogic server"]
 slug: "getting-started-with-gsw-3-grails-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/getting-started-with-gsw-3-grails-on.html
 ---
 

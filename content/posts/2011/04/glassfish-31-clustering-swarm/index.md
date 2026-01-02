@@ -4,9 +4,7 @@ date: 2011-04-28 09:40:00 +0000
 layout: post
 tags: ["glassfish", "article"]
 slug: "glassfish-31-clustering-swarm"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/glassfish-31-clustering-swarm.html
 ---
 

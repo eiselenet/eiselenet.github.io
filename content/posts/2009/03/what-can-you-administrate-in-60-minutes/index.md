@@ -4,9 +4,7 @@ date: 2009-03-25 06:16:00 +0000
 layout: post
 tags: ["cluster", "high availability", "weblogic server"]
 slug: "what-can-you-administrate-in-60-minutes"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/what-can-you-administrate-in-60-minutes.html
 ---
 

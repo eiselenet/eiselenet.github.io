@@ -4,9 +4,7 @@ date: 2012-03-22 11:05:00 +0000
 layout: post
 tags: ["javaee7", "bonn", "doagev"]
 slug: "im-speaking-at-doag-development"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/im-speaking-at-doag-development.html
 ---
 

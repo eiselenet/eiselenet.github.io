@@ -4,9 +4,7 @@ date: 2014-09-02 11:53:00 +0000
 layout: post
 tags: ["iPaaS", "xPaaS", "Jboss", "DataVirtualization"]
 slug: "inside-jboss-data-virtualization-ipaas"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/inside-jboss-data-virtualization-ipaas.html
 ---
 

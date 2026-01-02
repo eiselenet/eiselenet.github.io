@@ -4,9 +4,7 @@ date: 2009-09-04 05:01:00 +0000
 layout: post
 tags: ["softwaredesign", "article", "review", "Kent Beck"]
 slug: "pragpub-responsive-design-coming-to"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/pragpub-responsive-design-coming-to.html
 ---
 

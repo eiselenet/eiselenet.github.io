@@ -4,9 +4,7 @@ date: 2010-10-07 07:16:00 +0000
 layout: post
 tags: ["packtpub", "glassfish", "Java EE 6"]
 slug: "review-java-ee-6-with-glassfish-3"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/10/review-java-ee-6-with-glassfish-3.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-01-26 11:02:00 +0000
 layout: post
 tags: ["TLS", "wildfly", "ssl", "Undertow"]
 slug: "ssl-with-wildfly-8-and-undertow"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/ssl-with-wildfly-8-and-undertow.html
 ---
 

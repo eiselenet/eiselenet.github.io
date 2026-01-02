@@ -4,9 +4,7 @@ date: 2015-07-17 11:30:00 +0000
 layout: post
 tags: ["wildfly-camel", "Demo", "javaee"]
 slug: "using-jpa-and-cdi-beans-with-camel-on-wildfly"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/07/using-jpa-and-cdi-beans-with-camel-on-wildfly.html
 ---
 

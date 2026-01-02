@@ -4,9 +4,7 @@ date: 2013-07-31 06:45:00 +0000
 layout: post
 tags: ["java", "TCK", "jcp", "eclipse"]
 slug: "two-tcks-for-eclipse-what-is-really-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/07/two-tcks-for-eclipse-what-is-really-in.html
 ---
 

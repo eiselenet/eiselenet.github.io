@@ -4,9 +4,7 @@ date: 2012-02-12 16:54:00 +0000
 layout: post
 tags: ["conference", "Jfokus", "Stockholm"]
 slug: "headline-of-week-jfokus-in-stockholm"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/02/headline-of-week-jfokus-in-stockholm.html
 ---
 

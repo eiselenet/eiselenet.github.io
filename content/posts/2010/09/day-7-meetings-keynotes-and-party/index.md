@@ -4,9 +4,7 @@ date: 2010-09-23 17:43:00 +0000
 layout: post
 tags: ["OOW", "javaone10"]
 slug: "day-7-meetings-keynotes-and-party"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-7-meetings-keynotes-and-party.html
 ---
 

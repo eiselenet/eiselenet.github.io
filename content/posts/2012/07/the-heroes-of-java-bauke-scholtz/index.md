@@ -4,9 +4,7 @@ date: 2012-07-31 16:00:00 +0000
 layout: post
 tags: ["BalusC", "java", "BaukeScholtz", "heroes"]
 slug: "the-heroes-of-java-bauke-scholtz"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/the-heroes-of-java-bauke-scholtz.html
 ---
 

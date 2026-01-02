@@ -4,9 +4,7 @@ date: 2012-10-23 16:00:00 +0000
 layout: post
 tags: ["HoJ", "AngelikaLanger", "java", "heroes"]
 slug: "the-heroes-of-java-angelika-langer"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/10/the-heroes-of-java-angelika-langer.html
 ---
 

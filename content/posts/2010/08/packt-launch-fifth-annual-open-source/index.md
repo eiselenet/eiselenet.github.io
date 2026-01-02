@@ -4,9 +4,7 @@ date: 2010-08-27 14:38:00 +0000
 layout: post
 tags: ["packtpub", "opensource", "award"]
 slug: "packt-launch-fifth-annual-open-source"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/08/packt-launch-fifth-annual-open-source.html
 ---
 

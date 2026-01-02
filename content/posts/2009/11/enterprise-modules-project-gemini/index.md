@@ -4,9 +4,7 @@ date: 2009-11-23 11:54:00 +0000
 layout: post
 tags: ["OSGi", "oracle", "Spring", "weblogic server"]
 slug: "enterprise-modules-project-gemini"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/enterprise-modules-project-gemini.html
 ---
 

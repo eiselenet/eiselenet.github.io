@@ -4,9 +4,7 @@ date: 2010-01-21 11:44:00 +0000
 layout: post
 tags: ["approved", "oracle", "Sun", "merger"]
 slug: "ec-approves-oracle-and-sun-merger"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/ec-approves-oracle-and-sun-merger.html
 ---
 

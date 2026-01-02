@@ -4,9 +4,7 @@ date: 2025-10-03 16:15:00 +0000
 layout: post
 tags: ["java", "Quarkus"]
 slug: "java-ai-cloud-native-quarkus-guide"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/10/java-ai-cloud-native-quarkus-guide.html
 ---
 

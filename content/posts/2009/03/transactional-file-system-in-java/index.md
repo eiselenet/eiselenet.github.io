@@ -4,9 +4,7 @@ date: 2009-03-25 07:54:00 +0000
 layout: post
 tags: ["commons-transactions", "file system", "java"]
 slug: "transactional-file-system-in-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/transactional-file-system-in-java.html
 ---
 

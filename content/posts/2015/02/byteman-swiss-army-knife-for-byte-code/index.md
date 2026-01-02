@@ -4,9 +4,7 @@ date: 2015-02-16 11:00:00 +0000
 layout: post
 tags: ["Byteman", "Jboss"]
 slug: "byteman-swiss-army-knife-for-byte-code"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/byteman-swiss-army-knife-for-byte-code.html
 ---
 

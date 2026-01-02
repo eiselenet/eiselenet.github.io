@@ -4,9 +4,7 @@ date: 2015-10-22 05:00:00 +0000
 layout: post
 tags: ["RedHat", "JavaOne"]
 slug: "learn-more-red-hat-mini-theater-at-javaone-2015"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/learn-more-red-hat-mini-theater-at-javaone-2015.html
 ---
 

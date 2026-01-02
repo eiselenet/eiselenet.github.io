@@ -4,9 +4,7 @@ date: 2015-10-18 11:05:00 +0000
 layout: post
 tags: ["RedHat", "JavaOne"]
 slug: "all-about-red-hat-at-javaone-2015"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/all-about-red-hat-at-javaone-2015.html
 ---
 

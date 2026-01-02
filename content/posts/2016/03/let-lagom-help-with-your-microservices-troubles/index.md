@@ -4,9 +4,7 @@ date: 2016-03-10 08:55:00 +0000
 layout: post
 tags: ["java", "Lagom", "microservices"]
 slug: "let-lagom-help-with-your-microservices-troubles"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/03/let-lagom-help-with-your-microservices-troubles.html
 ---
 

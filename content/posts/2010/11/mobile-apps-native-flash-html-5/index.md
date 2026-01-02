@@ -4,9 +4,7 @@ date: 2010-11-09 06:39:00 +0000
 layout: post
 tags: ["mobile", "html5", "flash"]
 slug: "mobile-apps-native-flash-html-5"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/mobile-apps-native-flash-html-5.html
 ---
 

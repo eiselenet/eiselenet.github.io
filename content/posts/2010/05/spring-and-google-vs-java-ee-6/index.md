@@ -4,9 +4,7 @@ date: 2010-05-20 05:49:00 +0000
 layout: post
 tags: ["appengine", "Spring", "google I/O", "PaaS", "Java EE 6"]
 slug: "spring-and-google-vs-java-ee-6"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/spring-and-google-vs-java-ee-6.html
 ---
 

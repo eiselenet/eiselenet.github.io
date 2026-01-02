@@ -4,9 +4,7 @@ date: 2009-01-12 08:35:00 +0000
 layout: post
 tags: ["sales engineers", "technology evangelists"]
 slug: "sales-engineers-and-technology"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/sales-engineers-and-technology.html
 ---
 

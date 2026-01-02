@@ -4,9 +4,7 @@ date: 2009-07-14 06:51:00 +0000
 layout: post
 tags: ["gmail", "google", "Gmail4J", "example"]
 slug: "gmail4j-accessing-gmail-services-from"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/gmail4j-accessing-gmail-services-from.html
 ---
 

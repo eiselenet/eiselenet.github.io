@@ -4,9 +4,7 @@ date: 2012-03-20 12:55:00 +0000
 layout: post
 tags: ["innovation", "java", "Java_Social", "EC", "jcp"]
 slug: "why-i-think-ec-is-wrong-about-jsr-357"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/why-i-think-ec-is-wrong-about-jsr-357.html
 ---
 

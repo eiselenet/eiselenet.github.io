@@ -4,9 +4,7 @@ date: 2013-12-12 07:00:00 +0000
 layout: post
 tags: ["JavaEE8", "Avatar", "JavaScript"]
 slug: "project-avatar-whats-in-it-for-java-ee-8"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/12/project-avatar-whats-in-it-for-java-ee-8.html
 ---
 

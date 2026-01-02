@@ -4,9 +4,7 @@ date: 2011-06-16 08:34:00 +0000
 layout: post
 tags: ["w-jax", "speaker", "statistics"]
 slug: "w-jax-some-data-analysis-about-speakers"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/06/w-jax-some-data-analysis-about-speakers.html
 ---
 

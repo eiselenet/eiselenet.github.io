@@ -4,9 +4,7 @@ date: 2010-03-25 19:31:00 +0000
 layout: post
 tags: ["glassfish", "roadmap", "oracle", "updates"]
 slug: "glassfish-product-roadmap-updates"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/glassfish-product-roadmap-updates.html
 ---
 

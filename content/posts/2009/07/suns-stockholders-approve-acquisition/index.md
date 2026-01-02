@@ -4,9 +4,7 @@ date: 2009-07-17 03:51:00 +0000
 layout: post
 tags: ["acquisition", "oracle", "Sun"]
 slug: "suns-stockholders-approve-acquisition"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/suns-stockholders-approve-acquisition.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-07-14 09:13:00 +0000
 layout: post
 tags: ["weblogic", "edocs", "documentation"]
 slug: "weblogic-server-documentation-search"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/weblogic-server-documentation-search.html
 ---
 

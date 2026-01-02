@@ -4,9 +4,7 @@ date: 2010-09-22 14:14:00 +0000
 layout: post
 tags: ["OOW", "javaone10", "ACED"]
 slug: "day-6-working-and-working"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-6-working-and-working.html
 ---
 

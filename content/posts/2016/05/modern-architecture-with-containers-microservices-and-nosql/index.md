@@ -4,9 +4,7 @@ date: 2016-05-15 12:19:00 +0000
 layout: post
 tags: ["container", "NoSQL", "microservices"]
 slug: "modern-architecture-with-containers-microservices-and-nosql"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/05/modern-architecture-with-containers-microservices-and-nosql.html
 ---
 

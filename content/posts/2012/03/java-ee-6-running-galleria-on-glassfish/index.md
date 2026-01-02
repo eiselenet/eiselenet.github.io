@@ -4,9 +4,7 @@ date: 2012-03-13 07:07:00 +0000
 layout: post
 tags: ["glassfish", "javaee6", "netbeans", "example"]
 slug: "java-ee-6-running-galleria-on-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/java-ee-6-running-galleria-on-glassfish.html
 ---
 

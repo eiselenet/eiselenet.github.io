@@ -4,9 +4,7 @@ date: 2015-10-09 09:38:00 +0000
 layout: post
 tags: ["Openshift", "javaee", "microservice"]
 slug: "deploying-java-ee-microservices-on-openshift"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/deploying-java-ee-microservices-on-openshift.html
 ---
 

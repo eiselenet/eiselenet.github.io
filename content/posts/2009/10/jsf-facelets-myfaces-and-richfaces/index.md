@@ -4,9 +4,7 @@ date: 2009-10-02 10:18:00 +0000
 layout: post
 tags: ["richfaces", "performance", "tuning", "jsf", "myfaces"]
 slug: "jsf-facelets-myfaces-and-richfaces"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/jsf-facelets-myfaces-and-richfaces.html
 ---
 

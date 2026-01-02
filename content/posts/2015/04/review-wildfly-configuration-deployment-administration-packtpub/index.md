@@ -4,9 +4,7 @@ date: 2015-04-01 11:04:00 +0000
 layout: post
 tags: ["packtpub", "Openshift", "wildfly", "review"]
 slug: "review-wildfly-configuration-deployment-administration-packtpub"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/review-wildfly-configuration-deployment-administration-packtpub.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-02-23 10:28:00 +0000
 layout: post
 tags: ["article", "ix"]
 slug: "article-in-german-ix-magazin-032010"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/article-in-german-ix-magazin-032010.html
 ---
 

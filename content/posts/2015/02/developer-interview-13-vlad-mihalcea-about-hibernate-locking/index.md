@@ -4,9 +4,7 @@ date: 2015-02-02 11:00:00 +0000
 layout: post
 tags: ["Hibernate", "DI", "Jboss"]
 slug: "developer-interview-13-vlad-mihalcea-about-hibernate-locking"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/developer-interview-13-vlad-mihalcea-about-hibernate-locking.html
 ---
 

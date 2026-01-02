@@ -4,9 +4,7 @@ date: 2011-04-26 04:41:00 +0000
 layout: post
 tags: ["JavaOne"]
 slug: "javaone-2011-not-back-to-moscone"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/javaone-2011-not-back-to-moscone.html
 ---
 

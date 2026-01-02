@@ -4,9 +4,7 @@ date: 2016-01-12 18:57:00 +0000
 layout: post
 tags: ["javaee7", "frontend", "EdBurns"]
 slug: "a-refresher-top-5-java-ee-7-frontend"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/01/a-refresher-top-5-java-ee-7-frontend.html
 ---
 

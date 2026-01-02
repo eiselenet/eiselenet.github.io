@@ -4,9 +4,7 @@ date: 2012-03-19 10:22:00 +0000
 layout: post
 tags: ["weblogic", "update", "distribution"]
 slug: "updated-oracle-weblogic-server-12110"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/updated-oracle-weblogic-server-12110.html
 ---
 

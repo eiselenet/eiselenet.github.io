@@ -4,9 +4,7 @@ date: 2015-11-03 09:07:00 +0000
 layout: post
 tags: ["wildfly", "javaee", "microservices"]
 slug: "jboss-engineers-about-java-ee-microservices-container-testing"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/jboss-engineers-about-java-ee-microservices-container-testing.html
 ---
 

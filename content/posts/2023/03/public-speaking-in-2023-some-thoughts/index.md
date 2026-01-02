@@ -4,9 +4,7 @@ date: 2023-03-28 13:04:00 +0000
 layout: post
 tags: ["conference", "public speaking"]
 slug: "public-speaking-in-2023-some-thoughts"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2023/03/public-speaking-in-2023-some-thoughts.html
 ---
 

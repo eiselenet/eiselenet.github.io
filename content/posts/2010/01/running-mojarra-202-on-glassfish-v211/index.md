@@ -4,9 +4,7 @@ date: 2010-01-11 06:44:00 +0000
 layout: post
 tags: ["v2.1.1", "glassfish", "jsf", "Mojarra", "2.0.2"]
 slug: "running-mojarra-202-on-glassfish-v211"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/running-mojarra-202-on-glassfish-v211.html
 ---
 

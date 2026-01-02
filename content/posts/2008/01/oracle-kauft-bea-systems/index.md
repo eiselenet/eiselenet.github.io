@@ -4,9 +4,7 @@ date: 2008-01-21 04:49:00 +0000
 layout: post
 tags: ["bea oracle"]
 slug: "oracle-kauft-bea-systems"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/oracle-kauft-bea-systems.html
 ---
 

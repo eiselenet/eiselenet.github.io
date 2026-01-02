@@ -4,9 +4,7 @@ date: 2008-02-11 07:08:00 +0000
 layout: post
 tags: ["it architecture", "softwaredesign", "softwareentwicklung"]
 slug: "arc42-die-endgltige-antwort-in-version"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/arc42-die-endgltige-antwort-in-version.html
 ---
 

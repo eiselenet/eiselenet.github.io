@@ -4,9 +4,7 @@ date: 2010-10-04 07:06:00 +0000
 layout: post
 tags: ["java", "oracle", "future", "jcp"]
 slug: "free-java-jcpnext-here-are-options"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/10/free-java-jcpnext-here-are-options.html
 ---
 

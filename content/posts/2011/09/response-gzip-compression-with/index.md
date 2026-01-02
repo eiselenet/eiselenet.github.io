@@ -4,9 +4,7 @@ date: 2011-09-13 08:57:00 +0000
 layout: post
 tags: ["glassfish", "gzip", "compression"]
 slug: "response-gzip-compression-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/response-gzip-compression-with.html
 ---
 

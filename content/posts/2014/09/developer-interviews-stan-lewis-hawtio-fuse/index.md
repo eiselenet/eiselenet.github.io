@@ -4,9 +4,7 @@ date: 2014-09-08 16:40:00 +0000
 layout: post
 tags: ["Fuse", "DI", "Jboss", "Hawtio"]
 slug: "developer-interviews-stan-lewis-hawtio-fuse"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/developer-interviews-stan-lewis-hawtio-fuse.html
 ---
 

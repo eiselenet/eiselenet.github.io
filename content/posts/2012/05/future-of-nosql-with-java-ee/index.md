@@ -4,9 +4,7 @@ date: 2012-05-07 08:28:00 +0000
 layout: post
 tags: ["NoSQL", "javaee", "EclipseLink", "HibernateOGM"]
 slug: "future-of-nosql-with-java-ee"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/05/future-of-nosql-with-java-ee.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-09-20 13:25:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne", "ACED"]
 slug: "day-4-glassfish-community-event-and-ace"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-4-glassfish-community-event-and-ace.html
 ---
 

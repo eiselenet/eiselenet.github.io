@@ -4,9 +4,7 @@ date: 2011-07-05 07:42:00 +0000
 layout: post
 tags: ["conference", "ways", "10"]
 slug: "10-ways-to-make-best-out-of-conference"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/10-ways-to-make-best-out-of-conference.html
 ---
 

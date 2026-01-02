@@ -4,9 +4,7 @@ date: 2008-11-03 05:48:00 +0000
 layout: post
 tags: ["article"]
 slug: "goal-oriented-business-process"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/goal-oriented-business-process.html
 ---
 

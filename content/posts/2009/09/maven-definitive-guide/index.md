@@ -4,9 +4,7 @@ date: 2009-09-08 10:05:00 +0000
 layout: post
 tags: ["books", "sonartype", "guide", "maven"]
 slug: "maven-definitive-guide"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/maven-definitive-guide.html
 ---
 

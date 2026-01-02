@@ -4,9 +4,7 @@ date: 2008-01-21 06:34:00 +0000
 layout: post
 tags: ["bücher", "privat", "review"]
 slug: "das-baby-inbetriebnahme-wartung-und"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/das-baby-inbetriebnahme-wartung-und.html
 ---
 

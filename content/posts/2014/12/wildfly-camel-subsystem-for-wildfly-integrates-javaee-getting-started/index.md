@@ -4,9 +4,7 @@ date: 2014-12-05 14:00:00 +0000
 layout: post
 tags: ["wildfly", "Camel", "apache", "Jboss", "Hawtio"]
 slug: "wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/wildfly-camel-subsystem-for-wildfly-integrates-javaee-getting-started.html
 ---
 

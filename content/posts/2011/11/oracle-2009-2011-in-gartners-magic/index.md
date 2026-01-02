@@ -4,9 +4,7 @@ date: 2011-11-04 07:26:00 +0000
 layout: post
 tags: ["weblogic", "glassfish", "gartner", "oracle", "Magic Quadrant"]
 slug: "oracle-2009-2011-in-gartners-magic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/oracle-2009-2011-in-gartners-magic.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-09-02 07:41:00 +0000
 layout: post
 tags: ["SSH", "Openshift", "Jboss", "KeyBox"]
 slug: "web-based-ssh-access-to-your-openshift-applications"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/web-based-ssh-access-to-your-openshift-applications.html
 ---
 

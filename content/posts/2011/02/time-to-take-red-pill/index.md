@@ -4,9 +4,7 @@ date: 2011-02-28 23:00:00 +0000
 layout: post
 tags: ["msg systems ag", "change"]
 slug: "time-to-take-red-pill"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/03/time-to-take-red-pill.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-05-29 11:20:00 +0000
 layout: post
 tags: ["wildfly", "Docker", "javaee"]
 slug: "java-ee-deployment-secenarios-for-docker"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/05/java-ee-deployment-secenarios-for-docker.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-03-17 14:02:00 +0000
 layout: post
 tags: ["cloud", "wordle", "personal"]
 slug: "clouds-word-clouds"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/clouds-word-clouds.html
 ---
 

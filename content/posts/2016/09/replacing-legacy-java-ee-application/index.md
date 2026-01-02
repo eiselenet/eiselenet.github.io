@@ -4,9 +4,7 @@ date: 2016-09-16 16:39:00 +0000
 layout: post
 tags: ["container", "Java EE", "microservices"]
 slug: "replacing-legacy-java-ee-application"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/09/replacing-legacy-java-ee-application.html
 ---
 

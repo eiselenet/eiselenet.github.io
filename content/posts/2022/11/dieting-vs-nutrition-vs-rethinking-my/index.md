@@ -4,9 +4,7 @@ date: 2022-11-11 13:23:00 +0000
 layout: post
 tags: ["Nutrition", "Dieting", "health"]
 slug: "dieting-vs-nutrition-vs-rethinking-my"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2022/11/dieting-vs-nutrition-vs-rethinking-my.html
 ---
 

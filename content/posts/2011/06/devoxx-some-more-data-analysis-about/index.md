@@ -4,9 +4,7 @@ date: 2011-06-20 07:10:00 +0000
 layout: post
 tags: ["devoxx", "speaker", "statistics"]
 slug: "devoxx-some-more-data-analysis-about"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/06/devoxx-some-more-data-analysis-about.html
 ---
 

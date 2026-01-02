@@ -4,9 +4,7 @@ date: 2010-04-20 13:47:00 +0000
 layout: post
 tags: ["jEnterprise2010", "SPEC", "article", "ix"]
 slug: "article-in-german-ix-magazin-052010"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/04/article-in-german-ix-magazin-052010.html
 ---
 

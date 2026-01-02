@@ -4,9 +4,7 @@ date: 2012-02-21 09:35:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Greg Luck"]
 slug: "heroes-of-java-greg-luck"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/02/heroes-of-java-greg-luck.html
 ---
 

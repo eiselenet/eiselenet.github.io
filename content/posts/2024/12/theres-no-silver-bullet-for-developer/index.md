@@ -4,9 +4,7 @@ date: 2024-12-13 11:24:00 +0000
 layout: post
 tags: ["DevOps", "Developer Productivity", "Platform Engineering"]
 slug: "theres-no-silver-bullet-for-developer"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2024/12/theres-no-silver-bullet-for-developer.html
 ---
 

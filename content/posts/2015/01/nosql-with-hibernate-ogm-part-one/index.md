@@ -4,9 +4,7 @@ date: 2015-01-20 11:00:00 +0000
 layout: post
 tags: ["Hibernate", "NoSQL", "Jboss"]
 slug: "nosql-with-hibernate-ogm-part-one"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/nosql-with-hibernate-ogm-part-one.html
 ---
 

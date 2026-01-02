@@ -4,9 +4,7 @@ date: 2010-11-21 20:09:00 +0000
 layout: post
 tags: ["packtpub", "oracle", "review", "JRockit"]
 slug: "review-oracle-jrockit-definitive-guide"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/review-oracle-jrockit-definitive-guide.html
 ---
 

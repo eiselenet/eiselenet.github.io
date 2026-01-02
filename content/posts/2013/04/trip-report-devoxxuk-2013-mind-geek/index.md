@@ -4,9 +4,7 @@ date: 2013-04-01 08:51:00 +0000
 layout: post
 tags: ["conference", "devoxxuk"]
 slug: "trip-report-devoxxuk-2013-mind-geek"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/04/trip-report-devoxxuk-2013-mind-geek.html
 ---
 

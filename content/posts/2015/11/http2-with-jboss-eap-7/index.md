@@ -4,9 +4,7 @@ date: 2015-11-19 11:42:00 +0000
 layout: post
 tags: ["EAP7", "Undertow", "HTTP/2"]
 slug: "http2-with-jboss-eap-7"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/http2-with-jboss-eap-7.html
 ---
 

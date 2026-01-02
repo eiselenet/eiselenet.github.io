@@ -4,9 +4,7 @@ date: 2013-02-19 07:31:00 +0000
 layout: post
 tags: ["packtpub", "javaee", "review"]
 slug: "review-java-ee-development-with-eclipse"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/02/review-java-ee-development-with-eclipse.html
 ---
 

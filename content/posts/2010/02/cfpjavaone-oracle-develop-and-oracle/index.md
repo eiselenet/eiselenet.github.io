@@ -4,9 +4,7 @@ date: 2010-02-11 07:20:00 +0000
 layout: post
 tags: ["OOW10", "2010", "JavaOne", "develop", "CfP"]
 slug: "cfpjavaone-oracle-develop-and-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/cfpjavaone-oracle-develop-and-oracle.html
 ---
 

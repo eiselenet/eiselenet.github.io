@@ -4,9 +4,7 @@ date: 2008-09-08 05:48:00 +0000
 layout: post
 tags: [""]
 slug: "remembering"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/remembering.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-12-18 07:09:00 +0000
 layout: post
 tags: ["webcast", "javaee", "O'Reilly", "microservices"]
 slug: "java-ee-microservices-architecture"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/java-ee-microservices-architecture.html
 ---
 

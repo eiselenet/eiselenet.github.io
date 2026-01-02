@@ -4,9 +4,7 @@ date: 2012-10-16 19:06:00 +0000
 layout: post
 tags: ["JavaOne", "openworld", "review"]
 slug: "trip-report-oracle-openworld-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/10/trip-report-oracle-openworld-and.html
 ---
 

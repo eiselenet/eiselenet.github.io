@@ -4,9 +4,7 @@ date: 2023-08-24 10:58:00 +0000
 layout: post
 tags: ["running", "Nutrition", "health", "strava", "cookies"]
 slug: "a-running-update-and-two-confessions-i"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2023/08/a-running-update-and-two-confessions-i.html
 ---
 

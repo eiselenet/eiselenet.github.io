@@ -4,9 +4,7 @@ date: 2011-07-29 17:55:00 +0000
 layout: post
 tags: ["bug", "java7"]
 slug: "dont-use-java-7-are-you-kidding-me"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/dont-use-java-7-are-you-kidding-me.html
 ---
 

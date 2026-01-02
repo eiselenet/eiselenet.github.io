@@ -4,9 +4,7 @@ date: 2010-08-13 05:14:00 +0000
 layout: post
 tags: ["google", "oracle"]
 slug: "oracle-vs-google-details-patents"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/08/oracle-vs-google-details-patents.html
 ---
 

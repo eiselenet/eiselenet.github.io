@@ -4,9 +4,7 @@ date: 2011-09-14 10:51:00 +0000
 layout: post
 tags: ["german", "java7", "article"]
 slug: "whats-new-in-java-7-part-three"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/whats-new-in-java-7-part-three.html
 ---
 

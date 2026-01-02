@@ -4,9 +4,7 @@ date: 2014-05-05 07:25:00 +0000
 layout: post
 tags: ["xrebel", "zeroturnaround"]
 slug: "xrebel-on-glassfish-4"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/05/xrebel-on-glassfish-4.html
 ---
 

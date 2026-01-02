@@ -4,9 +4,7 @@ date: 2012-08-17 10:00:00 +0000
 layout: post
 tags: ["HoJ", "java", "Sacha Labourey", "heroes"]
 slug: "the-heroes-of-java-sacha-labourey"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/the-heroes-of-java-sacha-labourey.html
 ---
 

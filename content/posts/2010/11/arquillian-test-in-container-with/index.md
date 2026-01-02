@@ -4,9 +4,7 @@ date: 2010-11-12 06:41:00 +0000
 layout: post
 tags: ["glassfish", "javaee6", "Arquillian"]
 slug: "arquillian-test-in-container-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/arquillian-test-in-container-with.html
 ---
 

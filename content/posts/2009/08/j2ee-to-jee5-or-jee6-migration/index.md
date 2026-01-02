@@ -4,9 +4,7 @@ date: 2009-08-18 07:20:00 +0000
 layout: post
 tags: ["migration", "j2ee", "Java EE 5", "Java EE 6"]
 slug: "j2ee-to-jee5-or-jee6-migration"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/j2ee-to-jee5-or-jee6-migration.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-12-23 15:48:00 +0000
 layout: post
 tags: ["javaee7", "EAP7", "Quickstart", "Jboss"]
 slug: "getting-started-with-jboss-eap-7"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/getting-started-with-jboss-eap-7.html
 ---
 

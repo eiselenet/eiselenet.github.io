@@ -4,9 +4,7 @@ date: 2009-07-13 07:45:00 +0000
 layout: post
 tags: ["Jboss tools"]
 slug: "jboss-tools-31-m2-released"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/jboss-tools-31-m2-released.html
 ---
 

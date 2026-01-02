@@ -4,9 +4,7 @@ date: 2014-12-14 23:00:00 +0000
 layout: post
 tags: ["jmc", "wildfly", "EAP", "JFR"]
 slug: "java-mission-control-and-flight-recordings-on-wildfly-and-eap"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/java-mission-control-and-flight-recordings-on-wildfly-and-eap.html
 ---
 

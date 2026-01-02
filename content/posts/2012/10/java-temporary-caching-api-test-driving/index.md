@@ -4,9 +4,7 @@ date: 2012-10-25 07:15:00 +0000
 layout: post
 tags: ["JCache", "JSR107"]
 slug: "java-temporary-caching-api-test-driving"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/10/java-temporary-caching-api-test-driving.html
 ---
 

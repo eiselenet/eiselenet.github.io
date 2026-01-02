@@ -4,9 +4,7 @@ date: 2012-08-24 04:49:00 +0000
 layout: post
 tags: ["ijug", "javaee7", "article", "javaaktuell"]
 slug: "javaee7-firstimpressions-german"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/javaee7-firstimpressions-german.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-09-28 09:39:00 +0000
 layout: post
 tags: ["OOW10", "oracledevelop", "javaone10"]
 slug: "reviewing-javaone-oracle-openworld-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/reviewing-javaone-oracle-openworld-and.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-01-15 11:36:00 +0000
 layout: post
 tags: ["apache", "dpunkt", "bücher", "geronimo"]
 slug: "german-book-about-apache-geronimo"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/german-book-about-apache-geronimo.html
 ---
 

@@ -4,9 +4,7 @@ date: 2011-07-13 09:45:00 +0000
 layout: post
 tags: ["glassfish 3.1", "desktop", "free", "wallpaper"]
 slug: "some-free-fun-stuff-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/some-free-fun-stuff-glassfish.html
 ---
 

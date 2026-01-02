@@ -4,9 +4,7 @@ date: 2008-01-15 07:24:00 +0000
 layout: post
 tags: ["ajax", "programmierung"]
 slug: "enterprise-ajax"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/enterprise-ajax.html
 ---
 

@@ -4,9 +4,7 @@ date: 2011-08-01 09:46:00 +0000
 layout: post
 tags: ["JavaOne", "openworld", "conference", "ACED"]
 slug: "java-champions-at-javaone-vs-aces-at"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/08/java-champions-at-javaone-vs-aces-at.html
 ---
 

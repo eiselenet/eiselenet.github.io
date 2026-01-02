@@ -4,9 +4,7 @@ date: 2015-05-05 12:56:00 +0000
 layout: post
 tags: ["member", "RedHat", "eclipse"]
 slug: "red-hat-is-now-strategic-eclipse-member"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/05/red-hat-is-now-strategic-eclipse-member.html
 ---
 

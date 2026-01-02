@@ -4,9 +4,7 @@ date: 2011-03-31 08:07:00 +0000
 layout: post
 tags: ["development", "netbeans", "enterprise"]
 slug: "why-netbeans-isnt-enterprise-solution"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/03/why-netbeans-isnt-enterprise-solution.html
 ---
 

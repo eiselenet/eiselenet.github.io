@@ -4,9 +4,7 @@ date: 2011-12-13 05:59:00 +0000
 layout: post
 tags: ["javaee7", "javausergroups"]
 slug: "next-gig-tonight-java-ee-7-update-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/next-gig-tonight-java-ee-7-update-for.html
 ---
 

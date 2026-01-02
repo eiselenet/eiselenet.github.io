@@ -4,9 +4,7 @@ date: 2009-01-14 14:17:00 +0000
 layout: post
 tags: [""]
 slug: "artists-can-color-sky-red"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/artists-can-color-sky-red.html
 ---
 

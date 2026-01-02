@@ -4,9 +4,7 @@ date: 2010-07-21 05:25:00 +0000
 layout: post
 tags: ["OOW10", "java one", "j1"]
 slug: "links-and-tips-for-openworld-javaone"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/links-and-tips-for-openworld-javaone.html
 ---
 

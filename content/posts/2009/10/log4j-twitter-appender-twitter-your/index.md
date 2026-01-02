@@ -4,9 +4,7 @@ date: 2009-10-30 08:22:00 +0000
 layout: post
 tags: ["twitter", "appender", "java", "log4j"]
 slug: "log4j-twitter-appender-twitter-your"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/log4j-twitter-appender-twitter-your.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-02-04 14:23:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "weblogic server"]
 slug: "glassfish-vs-weblogic-10-visions-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/glassfish-vs-weblogic-10-visions-for.html
 ---
 

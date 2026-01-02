@@ -4,9 +4,7 @@ date: 2009-04-01 03:17:00 +0000
 layout: post
 tags: ["Logging", "WAS", "tutorial", "slf4j", "log4j"]
 slug: "logging-in-websphere-application-server"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/04/logging-in-websphere-application-server.html
 ---
 

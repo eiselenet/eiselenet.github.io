@@ -4,9 +4,7 @@ date: 2009-03-13 05:13:00 +0000
 layout: post
 tags: ["development", "future vision", "Webas"]
 slug: "so-what-should-you-really-focus-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/so-what-should-you-really-focus-on.html
 ---
 

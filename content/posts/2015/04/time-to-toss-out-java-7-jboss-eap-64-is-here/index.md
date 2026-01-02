@@ -4,9 +4,7 @@ date: 2015-04-21 10:00:00 +0000
 layout: post
 tags: ["Jboss", "EAP 6.4"]
 slug: "time-to-toss-out-java-7-jboss-eap-64-is-here"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/time-to-toss-out-java-7-jboss-eap-64-is-here.html
 ---
 

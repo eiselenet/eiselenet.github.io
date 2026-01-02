@@ -4,9 +4,7 @@ date: 2011-05-18 12:23:00 +0000
 layout: post
 tags: ["jvm", "HotSpot", "JRockit"]
 slug: "jrockit-is-now-free-period"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/jrockit-is-now-free-period.html
 ---
 

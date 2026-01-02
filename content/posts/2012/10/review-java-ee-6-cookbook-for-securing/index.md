@@ -4,9 +4,7 @@ date: 2012-10-23 05:55:00 +0000
 layout: post
 tags: ["packtpub", "javaee", "review", "book"]
 slug: "review-java-ee-6-cookbook-for-securing"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/10/review-java-ee-6-cookbook-for-securing.html
 ---
 

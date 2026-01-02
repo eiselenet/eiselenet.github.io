@@ -4,9 +4,7 @@ date: 2008-11-25 13:37:00 +0000
 layout: post
 tags: ["firebug", "development", "firefox", "log4j"]
 slug: "logdigger-gives-wings-to-your-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/logdigger-gives-wings-to-your-java.html
 ---
 

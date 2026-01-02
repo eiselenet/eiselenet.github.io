@@ -4,9 +4,7 @@ date: 2008-12-01 11:03:00 +0000
 layout: post
 tags: ["personal"]
 slug: "istj-duty-fulfillers"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/12/istj-duty-fulfillers.html
 ---
 

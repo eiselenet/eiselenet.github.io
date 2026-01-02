@@ -4,9 +4,7 @@ date: 2008-02-15 11:16:00 +0000
 layout: post
 tags: ["msg systems ag", "Teams", "arbeitgeber", "job"]
 slug: "fit-fr-die-versicherungsbranche"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/fit-fr-die-versicherungsbranche.html
 ---
 

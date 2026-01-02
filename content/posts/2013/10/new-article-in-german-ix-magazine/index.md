@@ -4,9 +4,7 @@ date: 2013-10-23 11:03:00 +0000
 layout: post
 tags: ["CapeDwarf", "AS7", "article", "ix"]
 slug: "new-article-in-german-ix-magazine"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/10/new-article-in-german-ix-magazine.html
 ---
 

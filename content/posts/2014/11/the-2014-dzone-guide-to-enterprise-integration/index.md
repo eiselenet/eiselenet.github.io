@@ -4,9 +4,7 @@ date: 2014-11-14 14:00:00 +0000
 layout: post
 tags: ["Fuse", "DZone", "Camel", "Jboss"]
 slug: "the-2014-dzone-guide-to-enterprise-integration"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/11/the-2014-dzone-guide-to-enterprise-integration.html
 ---
 

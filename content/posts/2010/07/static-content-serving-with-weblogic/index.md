@@ -4,9 +4,7 @@ date: 2010-07-13 08:21:00 +0000
 layout: post
 tags: ["weblogic", "static content"]
 slug: "static-content-serving-with-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/static-content-serving-with-weblogic.html
 ---
 

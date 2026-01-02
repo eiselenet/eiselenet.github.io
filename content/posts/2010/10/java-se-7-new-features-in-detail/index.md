@@ -4,9 +4,7 @@ date: 2010-10-12 02:40:00 +0000
 layout: post
 tags: ["java SE 7", "features"]
 slug: "java-se-7-new-features-in-detail"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/10/java-se-7-new-features-in-detail.html
 ---
 

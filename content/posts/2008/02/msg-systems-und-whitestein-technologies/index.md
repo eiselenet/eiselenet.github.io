@@ -4,9 +4,7 @@ date: 2008-02-19 16:04:00 +0000
 layout: post
 tags: ["msg systems ag", "arbeitgeber", "it architecture", "whitestein", "softwareentwicklung"]
 slug: "msg-systems-und-whitestein-technologies"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/msg-systems-und-whitestein-technologies.html
 ---
 

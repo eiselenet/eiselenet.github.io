@@ -4,9 +4,7 @@ date: 2009-06-25 11:57:00 +0000
 layout: post
 tags: ["msg systems ag", "msg Applied Technology Research"]
 slug: "msg-applied-technology-research"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/06/msg-applied-technology-research.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-08-13 15:38:00 +0000
 layout: post
 tags: ["Jboss"]
 slug: "developer-interviews-di-1-ehsavoie"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/developer-interviews-di-1-ehsavoie.html
 ---
 

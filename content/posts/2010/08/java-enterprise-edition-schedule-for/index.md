@@ -4,9 +4,7 @@ date: 2010-08-03 05:50:00 +0000
 layout: post
 tags: ["OOW10", "oracledevelop", "JavaOne"]
 slug: "java-enterprise-edition-schedule-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/08/java-enterprise-edition-schedule-for.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-09-02 09:36:00 +0000
 layout: post
 tags: ["doagev", "SIG Java"]
 slug: "see-me-live-doag-special-interest-group"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/see-me-live-doag-special-interest-group.html
 ---
 

@@ -4,9 +4,7 @@ date: 2025-07-24 09:01:00 +0000
 layout: post
 tags: ["Substack", "The Main Thread", "java", "Quarkus"]
 slug: "six-months-of-enterprise-java-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/07/six-months-of-enterprise-java-and.html
 ---
 

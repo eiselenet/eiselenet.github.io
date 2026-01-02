@@ -4,9 +4,7 @@ date: 2011-12-12 14:47:00 +0000
 layout: post
 tags: ["java", "AgnesCrepet", "heroes"]
 slug: "heroes-of-java-agnes-crepet"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/heroes-of-java-agnes-crepet.html
 ---
 

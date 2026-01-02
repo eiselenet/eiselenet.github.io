@@ -4,9 +4,7 @@ date: 2013-09-06 10:04:00 +0000
 layout: post
 tags: ["JavaEE8", "CapeDwarf", "PaaS"]
 slug: "capedwarf-google-app-engine-on-java-ee"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/09/capedwarf-google-app-engine-on-java-ee.html
 ---
 

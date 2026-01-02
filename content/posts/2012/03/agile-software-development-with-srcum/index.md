@@ -4,9 +4,7 @@ date: 2012-03-05 10:00:00 +0000
 layout: post
 tags: ["msg systems ag", "scrum", "webcast", "german", "webinar"]
 slug: "agile-software-development-with-srcum"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/agile-software-development-with-srcum.html
 ---
 

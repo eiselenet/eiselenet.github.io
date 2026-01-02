@@ -4,9 +4,7 @@ date: 2008-08-15 06:06:00 +0000
 layout: post
 tags: ["Teams"]
 slug: "fhrung-in-teams"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/fhrung-in-teams.html
 ---
 

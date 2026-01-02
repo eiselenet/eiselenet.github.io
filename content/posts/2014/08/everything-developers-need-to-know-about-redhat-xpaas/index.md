@@ -4,9 +4,7 @@ date: 2014-08-29 09:53:00 +0000
 layout: post
 tags: ["RedHat", "Openshift", "xPaaS"]
 slug: "everything-developers-need-to-know-about-redhat-xpaas"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/everything-developers-need-to-know-about-redhat-xpaas.html
 ---
 

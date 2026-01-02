@@ -4,9 +4,7 @@ date: 2015-01-13 11:00:00 +0000
 layout: post
 tags: ["AeroGear", "xPaaS", "Jboss"]
 slug: "pushing-limits-howto-use-aerogear-with-javaee"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/pushing-limits-howto-use-aerogear-with-javaee.html
 ---
 

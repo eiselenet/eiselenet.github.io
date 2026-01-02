@@ -4,9 +4,7 @@ date: 2014-08-30 11:30:00 +0000
 layout: post
 tags: ["wildfly", "javaee7", "Camel"]
 slug: "bootstrapping-apache-camel-in-java-ee7"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/bootstrapping-apache-camel-in-java-ee7.html
 ---
 

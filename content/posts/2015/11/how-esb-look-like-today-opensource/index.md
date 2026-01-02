@@ -4,9 +4,7 @@ date: 2015-11-02 15:24:00 +0000
 layout: post
 tags: ["JavaOne", "ESB", "wildfly swarm", "microservices"]
 slug: "how-esb-look-like-today-opensource"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/how-esb-look-like-today-opensource.html
 ---
 

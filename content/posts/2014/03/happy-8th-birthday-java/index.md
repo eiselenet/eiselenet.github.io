@@ -4,9 +4,7 @@ date: 2014-03-19 06:59:00 +0000
 layout: post
 tags: ["Java8"]
 slug: "happy-8th-birthday-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/03/happy-8th-birthday-java.html
 ---
 

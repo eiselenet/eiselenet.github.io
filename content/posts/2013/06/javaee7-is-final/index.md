@@ -4,9 +4,7 @@ date: 2013-06-04 06:47:00 +0000
 layout: post
 tags: ["javaee7"]
 slug: "javaee7-is-final"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/javaee7-is-final.html
 ---
 

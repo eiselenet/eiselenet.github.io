@@ -4,9 +4,7 @@ date: 2013-04-10 09:00:00 +0000
 layout: post
 tags: ["jayday", "conference", "Arquillian"]
 slug: "im-speaking-at-jayday-1th-july-2013-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/04/im-speaking-at-jayday-1th-july-2013-in.html
 ---
 

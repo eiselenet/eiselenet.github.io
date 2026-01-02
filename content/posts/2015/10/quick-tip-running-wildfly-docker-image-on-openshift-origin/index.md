@@ -4,9 +4,7 @@ date: 2015-10-05 09:31:00 +0000
 layout: post
 tags: ["Openshift", "WildFly9", "Docker"]
 slug: "quick-tip-running-wildfly-docker-image-on-openshift-origin"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/quick-tip-running-wildfly-docker-image-on-openshift-origin.html
 ---
 

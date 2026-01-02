@@ -4,9 +4,7 @@ date: 2010-01-27 12:19:00 +0000
 layout: post
 tags: [""]
 slug: "switching-to-blogeiselenet"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/switching-to-blogeiselenet.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-08-19 13:04:00 +0000
 layout: post
 tags: ["photoshop", "photographie"]
 slug: "tears-of-night"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/tears-of-night.html
 ---
 

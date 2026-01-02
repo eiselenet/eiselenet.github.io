@@ -4,9 +4,7 @@ date: 2009-03-11 12:17:00 +0000
 layout: post
 tags: ["genivi", "automotive", "IVI"]
 slug: "genivi-alliance"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/genivi-alliance.html
 ---
 

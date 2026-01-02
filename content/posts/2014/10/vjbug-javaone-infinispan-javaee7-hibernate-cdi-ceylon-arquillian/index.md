@@ -4,9 +4,7 @@ date: 2014-10-12 22:00:00 +0000
 layout: post
 tags: ["vJBUG", "JavaOne", "Jboss"]
 slug: "vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/vjbug-javaone-infinispan-javaee7-hibernate-cdi-ceylon-arquillian.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-02-24 15:35:00 +0000
 layout: post
 tags: [""]
 slug: "two-way-ssl-with-wildfly-and-undertow"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/two-way-ssl-with-wildfly-and-undertow.html
 ---
 

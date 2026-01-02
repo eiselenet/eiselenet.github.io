@@ -4,9 +4,7 @@ date: 2009-11-06 11:11:00 +0000
 layout: post
 tags: ["soft skills", "cult", "manifesto", "done"]
 slug: "done-is-engine-of-more"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/done-is-engine-of-more.html
 ---
 

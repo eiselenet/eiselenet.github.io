@@ -4,9 +4,7 @@ date: 2009-10-02 04:52:00 +0000
 layout: post
 tags: ["opensource", "netweaver", "webdynpro", "sap"]
 slug: "web-dynpro-for-open-source"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/web-dynpro-for-open-source.html
 ---
 

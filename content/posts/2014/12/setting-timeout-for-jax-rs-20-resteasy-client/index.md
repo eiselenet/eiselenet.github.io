@@ -4,9 +4,7 @@ date: 2014-12-06 06:40:00 +0000
 layout: post
 tags: ["javaee7", "Resteasy", "microservices"]
 slug: "setting-timeout-for-jax-rs-20-resteasy-client"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/setting-timeout-for-jax-rs-20-resteasy-client.html
 ---
 

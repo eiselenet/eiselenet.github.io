@@ -4,9 +4,7 @@ date: 2014-07-09 05:38:00 +0000
 layout: post
 tags: ["packtpub", "wildfly", "contest"]
 slug: "win-free-ebook-copy-of-wildfly"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/07/win-free-ebook-copy-of-wildfly.html
 ---
 

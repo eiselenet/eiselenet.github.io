@@ -4,9 +4,7 @@ date: 2012-12-11 17:47:00 +0000
 layout: post
 tags: ["java", "garbage collection", "censum", "jClarity"]
 slug: "are-your-garbage-collection-logs"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/12/are-your-garbage-collection-logs.html
 ---
 

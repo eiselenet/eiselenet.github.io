@@ -4,9 +4,7 @@ date: 2010-11-19 05:56:00 +0000
 layout: post
 tags: ["doag2010"]
 slug: "doag-2010-day-3-my-second-talk-tired"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/doag-2010-day-3-my-second-talk-tired.html
 ---
 

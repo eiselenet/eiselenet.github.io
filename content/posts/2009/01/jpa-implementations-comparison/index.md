@@ -4,9 +4,7 @@ date: 2009-01-20 06:10:00 +0000
 layout: post
 tags: ["Hibernate", "java", "performance", "Toplink Essentials", "OpenJPA", "EclipseLink"]
 slug: "jpa-implementations-comparison"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/jpa-implementations-comparison.html
 ---
 

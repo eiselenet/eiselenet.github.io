@@ -4,9 +4,7 @@ date: 2009-01-12 09:10:00 +0000
 layout: post
 tags: ["TDA", "Thread Dump Analyzer 2.1"]
 slug: "new-version-of-tda-thread-dump-analyzer"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/new-version-of-tda-thread-dump-analyzer.html
 ---
 

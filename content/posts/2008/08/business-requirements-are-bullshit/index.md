@@ -4,9 +4,7 @@ date: 2008-08-15 06:27:00 +0000
 layout: post
 tags: ["anforderungsanalyse"]
 slug: "business-requirements-are-bullshit"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/business-requirements-are-bullshit.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-07-09 05:04:00 +0000
 layout: post
 tags: ["\"Java SE 6 release 21\"", "G1", "GC", "jvm 17"]
 slug: "java-se-6-release-21-java-hotspot-vm"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/java-se-6-release-21-java-hotspot-vm.html
 ---
 

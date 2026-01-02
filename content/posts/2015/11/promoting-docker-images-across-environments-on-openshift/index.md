@@ -4,9 +4,7 @@ date: 2015-11-04 15:00:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "Docker", "microservice"]
 slug: "promoting-docker-images-across-environments-on-openshift"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/promoting-docker-images-across-environments-on-openshift.html
 ---
 

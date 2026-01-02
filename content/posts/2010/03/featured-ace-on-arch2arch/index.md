@@ -4,9 +4,7 @@ date: 2010-03-22 06:10:00 +0000
 layout: post
 tags: ["arch2arch", "oracle", "ACED", "architecture"]
 slug: "featured-ace-on-arch2arch"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/featured-ace-on-arch2arch.html
 ---
 

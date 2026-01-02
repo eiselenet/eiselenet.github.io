@@ -4,9 +4,7 @@ date: 2011-08-18 13:00:00 +0000
 layout: post
 tags: ["money", "java"]
 slug: "working-with-money-in-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/08/working-with-money-in-java.html
 ---
 

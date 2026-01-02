@@ -4,9 +4,7 @@ date: 2012-05-03 06:19:00 +0000
 layout: post
 tags: ["weblogic", "article", "heise"]
 slug: "new-article-in-german-ix-magazin"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/05/new-article-in-german-ix-magazin.html
 ---
 

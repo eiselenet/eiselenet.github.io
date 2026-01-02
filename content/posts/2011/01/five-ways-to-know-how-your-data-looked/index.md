@@ -4,9 +4,7 @@ date: 2011-01-03 12:21:00 +0000
 layout: post
 tags: ["entity auditing", "jpa. java ee"]
 slug: "five-ways-to-know-how-your-data-looked"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/five-ways-to-know-how-your-data-looked.html
 ---
 

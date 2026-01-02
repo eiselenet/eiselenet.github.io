@@ -4,9 +4,7 @@ date: 2015-01-09 11:00:00 +0000
 layout: post
 tags: ["JDV", "Jboss", "DataVirtualization"]
 slug: "jboss-data-virtualization-61-beta-now-available"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/jboss-data-virtualization-61-beta-now-available.html
 ---
 

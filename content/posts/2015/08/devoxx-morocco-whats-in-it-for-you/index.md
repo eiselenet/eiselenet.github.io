@@ -4,9 +4,7 @@ date: 2015-08-18 19:21:00 +0000
 layout: post
 tags: ["DevoxxMA"]
 slug: "devoxx-morocco-whats-in-it-for-you"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/08/devoxx-morocco-whats-in-it-for-you.html
 ---
 

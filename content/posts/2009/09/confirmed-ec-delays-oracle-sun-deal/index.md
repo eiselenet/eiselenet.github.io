@@ -4,9 +4,7 @@ date: 2009-09-03 11:30:00 +0000
 layout: post
 tags: ["acquisition", "oracle", "Sun"]
 slug: "confirmed-ec-delays-oracle-sun-deal"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/confirmed-ec-delays-oracle-sun-deal.html
 ---
 

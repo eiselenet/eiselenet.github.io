@@ -4,9 +4,7 @@ date: 2009-07-31 07:10:00 +0000
 layout: post
 tags: ["google", "GAE", "jpa", "DataNucleus", "Spring"]
 slug: "spring-300m3-on-google-appengine-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/spring-300m3-on-google-appengine-with.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-02-23 09:56:00 +0000
 layout: post
 tags: ["software development", "softwaredesign", "deadly sins"]
 slug: "creating-app-in-one-month"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/creating-app-in-one-month.html
 ---
 

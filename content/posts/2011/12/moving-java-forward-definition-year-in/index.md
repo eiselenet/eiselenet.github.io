@@ -4,9 +4,7 @@ date: 2011-12-22 11:07:00 +0000
 layout: post
 tags: ["java", "oracle", "forward", "Moving", "jcp", "review"]
 slug: "moving-java-forward-definition-year-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/moving-java-forward-definition-year-in.html
 ---
 

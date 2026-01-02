@@ -4,9 +4,7 @@ date: 2015-01-21 11:00:00 +0000
 layout: post
 tags: ["Openshift", "ebook", "HoL"]
 slug: "getting-started-with-openshift-quick-hands-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/getting-started-with-openshift-quick-hands-on.html
 ---
 

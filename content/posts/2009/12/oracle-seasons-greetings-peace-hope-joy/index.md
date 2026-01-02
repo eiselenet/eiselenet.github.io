@@ -4,9 +4,7 @@ date: 2009-12-16 07:18:00 +0000
 layout: post
 tags: ["happy holidays", "oracle", "joy", "peace", "hope", "season's greetings"]
 slug: "oracle-seasons-greetings-peace-hope-joy"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/oracle-seasons-greetings-peace-hope-joy.html
 ---
 

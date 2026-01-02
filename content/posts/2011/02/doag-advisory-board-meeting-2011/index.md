@@ -4,9 +4,7 @@ date: 2011-02-03 11:00:00 +0000
 layout: post
 tags: ["doag", "advisory board"]
 slug: "doag-advisory-board-meeting-2011"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/doag-advisory-board-meeting-2011.html
 ---
 

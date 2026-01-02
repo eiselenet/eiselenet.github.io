@@ -4,9 +4,7 @@ date: 2011-08-22 03:59:00 +0000
 layout: post
 tags: ["refcard", "javaee6"]
 slug: "java-enterprise-edition-6-most-elegant"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/08/java-enterprise-edition-6-most-elegant.html
 ---
 

@@ -4,9 +4,7 @@ date: 2011-07-07 11:17:00 +0000
 layout: post
 tags: ["article", "java7"]
 slug: "whats-new-in-java-7-part-one"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/whats-new-in-java-7-part-one.html
 ---
 

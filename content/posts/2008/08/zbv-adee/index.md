@@ -4,9 +4,7 @@ date: 2008-08-14 06:48:00 +0000
 layout: post
 tags: ["sap"]
 slug: "zbv-adee"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/zbv-adee.html
 ---
 

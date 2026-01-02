@@ -4,9 +4,7 @@ date: 2011-04-05 10:22:00 +0000
 layout: post
 tags: ["ejb 3.1", "glassfish 3.1", "eclemma", "embedded"]
 slug: "test-coverage-for-your-enterprise-beans"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/test-coverage-for-your-enterprise-beans.html
 ---
 

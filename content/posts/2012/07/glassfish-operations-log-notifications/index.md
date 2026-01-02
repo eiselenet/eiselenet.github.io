@@ -4,9 +4,7 @@ date: 2012-07-17 12:28:00 +0000
 layout: post
 tags: ["glassfish", "operations", "notifications"]
 slug: "glassfish-operations-log-notifications"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/glassfish-operations-log-notifications.html
 ---
 

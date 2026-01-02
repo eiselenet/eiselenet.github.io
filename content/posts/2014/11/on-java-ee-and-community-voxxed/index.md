@@ -4,9 +4,7 @@ date: 2014-11-14 11:21:00 +0000
 layout: post
 tags: ["devoxx", "Voxxed", "interview"]
 slug: "on-java-ee-and-community-voxxed"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/11/on-java-ee-and-community-voxxed.html
 ---
 

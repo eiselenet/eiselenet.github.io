@@ -4,9 +4,7 @@ date: 2015-12-21 07:30:00 +0000
 layout: post
 tags: ["RedHat", "EAP7", "Jboss"]
 slug: "red-hat-eap7-public-beta-early-access"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/red-hat-eap7-public-beta-early-access.html
 ---
 

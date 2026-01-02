@@ -4,9 +4,7 @@ date: 2015-02-11 11:00:00 +0000
 layout: post
 tags: ["CDI", "wildfly", "Jboss", "Weld"]
 slug: "playing-with-weld-probe-see-all-of-your"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/playing-with-weld-probe-see-all-of-your.html
 ---
 

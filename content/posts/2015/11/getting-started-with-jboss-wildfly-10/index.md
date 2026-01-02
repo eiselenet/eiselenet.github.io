@@ -4,9 +4,7 @@ date: 2015-11-02 13:42:00 +0000
 layout: post
 tags: ["javaee7", "wildfly", "Jboss"]
 slug: "getting-started-with-jboss-wildfly-10"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/getting-started-with-jboss-wildfly-10.html
 ---
 

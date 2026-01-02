@@ -4,9 +4,7 @@ date: 2013-08-07 04:36:00 +0000
 layout: post
 tags: ["doag", "conference"]
 slug: "im-speaking-at-doag-conference-19-21"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/08/im-speaking-at-doag-conference-19-21.html
 ---
 

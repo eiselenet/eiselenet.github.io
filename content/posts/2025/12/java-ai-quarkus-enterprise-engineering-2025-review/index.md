@@ -4,9 +4,7 @@ date: 2025-12-22 09:45:00 +0000
 layout: post
 tags: ["The Main Thread", "java", "Quarkus"]
 slug: "java-ai-quarkus-enterprise-engineering-2025-review"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/12/java-ai-quarkus-enterprise-engineering-2025-review.html
 ---
 

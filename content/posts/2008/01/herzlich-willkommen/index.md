@@ -4,9 +4,7 @@ date: 2008-01-06 15:45:00 +0000
 layout: post
 tags: ["privat"]
 slug: "herzlich-willkommen"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/herzlich-willkommen.html
 ---
 

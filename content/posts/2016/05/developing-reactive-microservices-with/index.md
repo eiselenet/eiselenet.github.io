@@ -4,9 +4,7 @@ date: 2016-05-11 18:26:00 +0000
 layout: post
 tags: ["ebook", "O'Reilly", "microservices"]
 slug: "developing-reactive-microservices-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/05/developing-reactive-microservices-with.html
 ---
 

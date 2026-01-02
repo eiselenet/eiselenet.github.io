@@ -4,9 +4,7 @@ date: 2011-11-16 07:34:00 +0000
 layout: post
 tags: ["devoxx", "doag2011"]
 slug: "doag-2011-vs-devoxx-value-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/doag-2011-vs-devoxx-value-and.html
 ---
 

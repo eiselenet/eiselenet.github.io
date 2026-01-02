@@ -4,9 +4,7 @@ date: 2012-06-18 09:38:00 +0000
 layout: post
 tags: ["javaone12", "JavaOne", "recommendations"]
 slug: "javaone-2012-2400-hours-to-go-some"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/06/javaone-2012-2400-hours-to-go-some.html
 ---
 

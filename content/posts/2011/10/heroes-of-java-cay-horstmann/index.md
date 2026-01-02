@@ -4,9 +4,7 @@ date: 2011-10-24 10:10:00 +0000
 layout: post
 tags: ["java", "heroes", "Cay Horstmann"]
 slug: "heroes-of-java-cay-horstmann"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/heroes-of-java-cay-horstmann.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-04-25 10:32:00 +0000
 layout: post
 tags: ["Java EE", "jee", "softwareentwicklung", "programmierung"]
 slug: "ejb-is-dying"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/04/ejb-is-dying.html
 ---
 

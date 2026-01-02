@@ -4,9 +4,7 @@ date: 2009-07-10 06:43:00 +0000
 layout: post
 tags: ["Hibernate", "oracle", "weblogic server"]
 slug: "using-hibernate-3x-in-weblogic-server"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/using-hibernate-3x-in-weblogic-server.html
 ---
 

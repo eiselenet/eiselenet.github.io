@@ -4,9 +4,7 @@ date: 2010-12-10 12:24:00 +0000
 layout: post
 tags: ["Java EE 5", "Java EE 6"]
 slug: "who-is-afraid-of-java-ee-6-get-rid-of"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/12/who-is-afraid-of-java-ee-6-get-rid-of.html
 ---
 

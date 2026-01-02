@@ -4,9 +4,7 @@ date: 2011-10-18 14:04:00 +0000
 layout: post
 tags: ["javaone11", "myfear", "interview"]
 slug: "my-interview-with-tori-wieldt-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/my-interview-with-tori-wieldt-java.html
 ---
 

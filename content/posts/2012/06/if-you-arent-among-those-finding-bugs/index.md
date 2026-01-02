@@ -4,9 +4,7 @@ date: 2012-06-11 13:43:00 +0000
 layout: post
 tags: ["glassfish", "Arquillian", "javaee"]
 slug: "if-you-arent-among-those-finding-bugs"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/06/if-you-arent-among-those-finding-bugs.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-11-11 05:36:00 +0000
 layout: post
 tags: ["oracle", "open world 2009", "weblogic server"]
 slug: "oracle-techcasts-from-openworld-2009"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/oracle-techcasts-from-openworld-2009.html
 ---
 

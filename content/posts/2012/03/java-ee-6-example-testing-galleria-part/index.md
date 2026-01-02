@@ -4,9 +4,7 @@ date: 2012-03-20 09:34:00 +0000
 layout: post
 tags: ["javaee6", "selenium", "testing", "ejb 3.1", "Arquillian", "example"]
 slug: "java-ee-6-example-testing-galleria-part"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/java-ee-6-example-testing-galleria-part.html
 ---
 

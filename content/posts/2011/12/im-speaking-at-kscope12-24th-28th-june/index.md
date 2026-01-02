@@ -4,9 +4,7 @@ date: 2011-12-15 05:50:00 +0000
 layout: post
 tags: ["weblogic", "odtug", "conference", "Kscope12"]
 slug: "im-speaking-at-kscope12-24th-28th-june"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/im-speaking-at-kscope12-24th-28th-june.html
 ---
 

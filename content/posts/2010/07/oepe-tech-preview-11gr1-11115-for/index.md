@@ -4,9 +4,7 @@ date: 2010-07-12 09:31:00 +0000
 layout: post
 tags: ["glassfish 3.1", "helios", "OEPE"]
 slug: "oepe-tech-preview-11gr1-11115-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/oepe-tech-preview-11gr1-11115-for.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-01-15 11:00:00 +0000
 layout: post
 tags: ["API", "Management", "Jboss", "Apiman"]
 slug: "kickstart-on-api-management-with-jboss-apiman"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/kickstart-on-api-management-with-jboss-apiman.html
 ---
 

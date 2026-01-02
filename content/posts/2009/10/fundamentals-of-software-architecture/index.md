@@ -4,9 +4,7 @@ date: 2009-10-19 02:55:00 +0000
 layout: post
 tags: [""]
 slug: "fundamentals-of-software-architecture"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/fundamentals-of-software-architecture.html
 ---
 

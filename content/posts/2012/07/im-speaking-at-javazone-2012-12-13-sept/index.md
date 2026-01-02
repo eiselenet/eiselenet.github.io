@@ -4,9 +4,7 @@ date: 2012-07-20 07:22:00 +0000
 layout: post
 tags: ["Oslo", "conference", "JavaZone"]
 slug: "im-speaking-at-javazone-2012-12-13-sept"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/im-speaking-at-javazone-2012-12-13-sept.html
 ---
 

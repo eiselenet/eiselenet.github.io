@@ -4,9 +4,7 @@ date: 2015-11-17 15:34:00 +0000
 layout: post
 tags: ["EAP7", "Getting Started", "Jboss"]
 slug: "getting-started-with-eap-7-alpha-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/getting-started-with-eap-7-alpha-and.html
 ---
 

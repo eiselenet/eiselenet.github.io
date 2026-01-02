@@ -4,9 +4,7 @@ date: 2009-07-22 04:13:00 +0000
 layout: post
 tags: ["Java EE", "src folder", "jee", "maven", "example"]
 slug: "adding-additional-source-folders-to"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/adding-additional-source-folders-to.html
 ---
 

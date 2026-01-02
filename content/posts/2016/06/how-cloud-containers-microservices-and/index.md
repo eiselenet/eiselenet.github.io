@@ -4,9 +4,7 @@ date: 2016-06-07 12:01:00 +0000
 layout: post
 tags: ["cloud", "Containers", "survey", "microservices"]
 slug: "how-cloud-containers-microservices-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/06/how-cloud-containers-microservices-and.html
 ---
 

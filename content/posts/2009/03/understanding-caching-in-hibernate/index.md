@@ -4,9 +4,7 @@ date: 2009-03-26 06:29:00 +0000
 layout: post
 tags: ["Hibernate", "cache", "jpa"]
 slug: "understanding-caching-in-hibernate"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/understanding-caching-in-hibernate.html
 ---
 

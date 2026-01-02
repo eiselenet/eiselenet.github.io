@@ -4,9 +4,7 @@ date: 2011-04-30 12:01:00 +0000
 layout: post
 tags: ["named", "jsf", "managedBean"]
 slug: "you-should-not-have-any-other"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/you-should-not-have-any-other.html
 ---
 

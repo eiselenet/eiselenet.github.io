@@ -4,9 +4,7 @@ date: 2011-12-09 21:30:00 +0000
 layout: post
 tags: ["weblogic", "netbeans", "javaee6", "primefaces"]
 slug: "quickstart-weblogic-12c-with-netbeans"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/quickstart-weblogic-12c-with-netbeans.html
 ---
 

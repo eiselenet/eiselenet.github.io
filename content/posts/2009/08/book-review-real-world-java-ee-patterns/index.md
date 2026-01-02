@@ -4,9 +4,7 @@ date: 2009-08-25 05:30:00 +0000
 layout: post
 tags: ["Java EE", "adam bien", "bücher", "Java EE 6", "best practices"]
 slug: "book-review-real-world-java-ee-patterns"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/book-review-real-world-java-ee-patterns.html
 ---
 

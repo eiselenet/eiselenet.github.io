@@ -4,9 +4,7 @@ date: 2009-07-21 05:33:00 +0000
 layout: post
 tags: ["Java EE", "jee", "maven", "example"]
 slug: "quickstart-maven-jee5-project"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/quickstart-maven-jee5-project.html
 ---
 

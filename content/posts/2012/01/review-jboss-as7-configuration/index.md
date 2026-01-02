@@ -4,9 +4,7 @@ date: 2012-01-18 16:40:00 +0000
 layout: post
 tags: ["books", "AS7", "Jboss", "review"]
 slug: "review-jboss-as7-configuration"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/01/review-jboss-as7-configuration.html
 ---
 

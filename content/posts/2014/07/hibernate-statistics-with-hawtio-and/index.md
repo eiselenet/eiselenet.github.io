@@ -4,9 +4,7 @@ date: 2014-07-31 08:39:00 +0000
 layout: post
 tags: ["Hibernate", "jpa", "Jolokia", "Hawtio"]
 slug: "hibernate-statistics-with-hawtio-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/07/hibernate-statistics-with-hawtio-and.html
 ---
 

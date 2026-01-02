@@ -4,9 +4,7 @@ date: 2013-02-11 06:54:00 +0000
 layout: post
 tags: ["HoJ", "heroes", "Marcus Hirt"]
 slug: "the-heroes-of-java-marcus-hirt"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/02/the-heroes-of-java-marcus-hirt.html
 ---
 

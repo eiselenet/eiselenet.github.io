@@ -4,9 +4,7 @@ date: 2016-02-24 06:00:00 +0000
 layout: post
 tags: ["newjob", "Lightbend"]
 slug: "taking-off-red-fedora-hello-lightbend"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/02/taking-off-red-fedora-hello-lightbend.html
 ---
 

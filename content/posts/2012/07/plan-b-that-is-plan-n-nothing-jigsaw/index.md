@@ -4,9 +4,7 @@ date: 2012-07-18 07:56:00 +0000
 layout: post
 tags: ["2015", "Jigsaw", "Java9"]
 slug: "plan-b-that-is-plan-n-nothing-jigsaw"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/plan-b-that-is-plan-n-nothing-jigsaw.html
 ---
 

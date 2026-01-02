@@ -4,9 +4,7 @@ date: 2015-12-30 23:00:00 +0000
 layout: post
 tags: ["Happy New Year", "2016", "2015"]
 slug: "goodbye-2015-hello-2016-happy-new-year"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/goodbye-2015-hello-2016-happy-new-year.html
 ---
 

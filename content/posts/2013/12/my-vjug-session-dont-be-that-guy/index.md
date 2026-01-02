@@ -4,9 +4,7 @@ date: 2013-12-04 16:09:00 +0000
 layout: post
 tags: ["vJUG", "security"]
 slug: "my-vjug-session-dont-be-that-guy"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/12/my-vjug-session-dont-be-that-guy.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-09-09 06:16:00 +0000
 layout: post
 tags: ["xstream", "GAE", "jQuery", "Spring", "Jettison"]
 slug: "integrating-jquery-ajax-and-spring-mvc"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/integrating-jquery-ajax-and-spring-mvc.html
 ---
 

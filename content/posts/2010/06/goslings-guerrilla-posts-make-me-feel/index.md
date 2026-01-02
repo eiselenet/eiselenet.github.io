@@ -4,9 +4,7 @@ date: 2010-06-26 10:00:00 +0000
 layout: post
 tags: ["Gosling", "java", "oracle"]
 slug: "goslings-guerrilla-posts-make-me-feel"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/06/goslings-guerrilla-posts-make-me-feel.html
 ---
 

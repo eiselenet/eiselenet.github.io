@@ -4,9 +4,7 @@ date: 2009-11-17 10:56:00 +0000
 layout: post
 tags: ["richfaces", "adf", "jsf", "enterprise", "primefaces"]
 slug: "enterprise-grade-jsf-component"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/enterprise-grade-jsf-component.html
 ---
 

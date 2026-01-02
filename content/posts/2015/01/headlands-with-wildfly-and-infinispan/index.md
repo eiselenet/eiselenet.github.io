@@ -4,9 +4,7 @@ date: 2015-01-09 09:06:00 +0000
 layout: post
 tags: [""]
 slug: "headlands-with-wildfly-and-infinispan"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/headlands-with-wildfly-and-infinispan.html
 ---
 

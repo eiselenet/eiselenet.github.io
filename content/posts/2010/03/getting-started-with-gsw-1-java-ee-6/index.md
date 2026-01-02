@@ -4,9 +4,7 @@ date: 2010-03-08 12:16:00 +0000
 layout: post
 tags: ["GSW", "\"Getting started with\"", "Java EE 6"]
 slug: "getting-started-with-gsw-1-java-ee-6"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/getting-started-with-gsw-1-java-ee-6.html
 ---
 

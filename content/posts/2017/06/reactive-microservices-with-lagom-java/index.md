@@ -4,9 +4,7 @@ date: 2017-06-27 16:20:00 +0000
 layout: post
 tags: ["java", "reactive", "Lagom", "microservices"]
 slug: "reactive-microservices-with-lagom-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2017/06/reactive-microservices-with-lagom-java.html
 ---
 

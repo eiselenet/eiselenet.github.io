@@ -4,9 +4,7 @@ date: 2008-11-25 13:27:00 +0000
 layout: post
 tags: ["enterprise", "architecture"]
 slug: "soa-and-eda-jack-van-hoof-thoughts"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/soa-and-eda-jack-van-hoof-thoughts.html
 ---
 

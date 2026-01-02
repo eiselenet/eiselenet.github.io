@@ -4,9 +4,7 @@ date: 2014-08-12 13:44:00 +0000
 layout: post
 tags: ["javachampions", "JavaOne"]
 slug: "java-champions-at-javaone-2014"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/java-champions-at-javaone-2014.html
 ---
 

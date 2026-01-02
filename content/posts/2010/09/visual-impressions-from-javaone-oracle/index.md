@@ -4,9 +4,7 @@ date: 2010-09-30 08:20:00 +0000
 layout: post
 tags: ["oracledevelop", "picture", "OOW", "javaone10"]
 slug: "visual-impressions-from-javaone-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/visual-impressions-from-javaone-oracle.html
 ---
 

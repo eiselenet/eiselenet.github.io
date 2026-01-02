@@ -4,9 +4,7 @@ date: 2012-07-30 11:18:00 +0000
 layout: post
 tags: ["glassfish", "security", "mysql"]
 slug: "glassfish-jdbc-security-with-salted"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/glassfish-jdbc-security-with-salted.html
 ---
 

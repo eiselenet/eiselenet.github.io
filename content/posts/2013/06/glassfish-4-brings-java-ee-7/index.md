@@ -4,9 +4,7 @@ date: 2013-06-11 04:36:00 +0000
 layout: post
 tags: ["glassfish", "javaee7"]
 slug: "glassfish-4-brings-java-ee-7"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/glassfish-4-brings-java-ee-7.html
 ---
 

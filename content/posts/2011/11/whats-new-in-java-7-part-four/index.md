@@ -4,9 +4,7 @@ date: 2011-11-30 07:30:00 +0000
 layout: post
 tags: ["java7", "article", "heise"]
 slug: "whats-new-in-java-7-part-four"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/whats-new-in-java-7-part-four.html
 ---
 

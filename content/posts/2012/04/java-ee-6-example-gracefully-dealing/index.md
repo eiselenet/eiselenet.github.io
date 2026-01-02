@@ -4,9 +4,7 @@ date: 2012-04-02 05:17:00 +0000
 layout: post
 tags: ["javaee6", "galleria", "errors", "example"]
 slug: "java-ee-6-example-gracefully-dealing"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/04/java-ee-6-example-gracefully-dealing.html
 ---
 

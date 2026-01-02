@@ -4,9 +4,7 @@ date: 2009-08-20 05:20:00 +0000
 layout: post
 tags: ["performance", "tuning", "weblogic server"]
 slug: "tune-your-weblogic-server-application"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/tune-your-weblogic-server-application.html
 ---
 

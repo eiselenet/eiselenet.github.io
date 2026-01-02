@@ -4,9 +4,7 @@ date: 2008-11-26 10:08:00 +0000
 layout: post
 tags: ["soft skills", "architecture"]
 slug: "97-things-every-software-architect"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/97-things-every-software-architect.html
 ---
 

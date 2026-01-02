@@ -4,9 +4,7 @@ date: 2010-09-15 08:10:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne"]
 slug: "we-all-are-future-of-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/we-all-are-future-of-java.html
 ---
 

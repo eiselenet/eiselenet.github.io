@@ -4,9 +4,7 @@ date: 2010-11-25 06:18:00 +0000
 layout: post
 tags: ["doag2010", "picture"]
 slug: "doag-2010-its-wrap-in-pictures"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/doag-2010-its-wrap-in-pictures.html
 ---
 

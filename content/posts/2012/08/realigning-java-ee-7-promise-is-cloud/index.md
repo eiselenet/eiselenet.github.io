@@ -4,9 +4,7 @@ date: 2012-08-31 04:49:00 +0000
 layout: post
 tags: ["cloud", "javaee7", "realign"]
 slug: "realigning-java-ee-7-promise-is-cloud"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/realigning-java-ee-7-promise-is-cloud.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-02-19 06:24:00 +0000
 layout: post
 tags: ["softwareentwicklung", "programmierung", "bea"]
 slug: "best-practices-fr-ear-files"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/best-practices-fr-ear-files.html
 ---
 

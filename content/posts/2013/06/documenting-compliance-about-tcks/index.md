@@ -4,9 +4,7 @@ date: 2013-06-17 09:46:00 +0000
 layout: post
 tags: ["jboss-test-audit", "java", "TCK", "jcp"]
 slug: "documenting-compliance-about-tcks"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/documenting-compliance-about-tcks.html
 ---
 

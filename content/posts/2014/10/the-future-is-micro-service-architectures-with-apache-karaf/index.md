@@ -4,9 +4,7 @@ date: 2014-10-06 11:00:00 +0000
 layout: post
 tags: ["apache", "Karaf", "microservices"]
 slug: "the-future-is-micro-service-architectures-with-apache-karaf"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/the-future-is-micro-service-architectures-with-apache-karaf.html
 ---
 

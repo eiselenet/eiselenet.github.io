@@ -4,9 +4,7 @@ date: 2009-07-14 06:03:00 +0000
 layout: post
 tags: ["Spring DM", "OSGi", "java", "maven", "eclipse"]
 slug: "building-modern-java-app-with-eclipse"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/building-modern-java-app-with-eclipse.html
 ---
 

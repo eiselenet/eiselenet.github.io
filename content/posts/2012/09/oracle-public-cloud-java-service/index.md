@@ -4,9 +4,7 @@ date: 2012-09-07 07:10:00 +0000
 layout: post
 tags: ["OracleCloud", "CLI", "java", "maven", "ant"]
 slug: "oracle-public-cloud-java-service"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/oracle-public-cloud-java-service.html
 ---
 

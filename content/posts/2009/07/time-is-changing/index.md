@@ -4,9 +4,7 @@ date: 2009-07-12 19:15:00 +0000
 layout: post
 tags: ["cobalt qube 2"]
 slug: "time-is-changing"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/time-is-changing.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-05-15 15:28:00 +0000
 layout: post
 tags: ["javaone14", "conference", "analysis"]
 slug: "javaone-2014-some-first-analysis-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/05/javaone-2014-some-first-analysis-on.html
 ---
 

@@ -4,9 +4,7 @@ date: 2017-02-16 09:15:00 +0000
 layout: post
 tags: ["distributed", "java", "systems", "microservices"]
 slug: "from-microservices-to-distributed-systems-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2017/02/from-microservices-to-distributed-systems-java.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-01-08 09:44:00 +0000
 layout: post
 tags: ["Fuse", "came", "apache", "webinar"]
 slug: "integrating-microservices-with-apache-camel"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/integrating-microservices-with-apache-camel.html
 ---
 

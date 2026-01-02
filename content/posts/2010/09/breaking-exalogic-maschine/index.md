@@ -4,9 +4,7 @@ date: 2010-09-20 13:54:00 +0000
 layout: post
 tags: ["OOW10", "exalogic"]
 slug: "breaking-exalogic-maschine"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/breaking-exalogic-maschine.html
 ---
 

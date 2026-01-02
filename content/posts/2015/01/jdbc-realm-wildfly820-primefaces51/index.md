@@ -4,9 +4,7 @@ date: 2015-01-30 13:27:00 +0000
 layout: post
 tags: ["security", "wildfly", "mysql", "primefaces"]
 slug: "jdbc-realm-wildfly820-primefaces51"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/jdbc-realm-wildfly820-primefaces51.html
 ---
 

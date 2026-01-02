@@ -4,9 +4,7 @@ date: 2009-10-12 15:33:00 +0000
 layout: post
 tags: ["open world 2009", "OOW"]
 slug: "oow-in-numers"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/oow-in-numers.html
 ---
 

@@ -4,9 +4,7 @@ date: 2013-01-25 06:24:00 +0000
 layout: post
 tags: ["OUGN", "conference", "Vårseminar"]
 slug: "im-speaking-at-ougn-varseminar-17th"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/im-speaking-at-ougn-varseminar-17th.html
 ---
 

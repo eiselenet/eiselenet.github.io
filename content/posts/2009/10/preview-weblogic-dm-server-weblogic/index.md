@@ -4,9 +4,7 @@ date: 2009-10-15 15:56:00 +0000
 layout: post
 tags: ["Weblogicdm", "open world 2009", "OOW", "weblogic server"]
 slug: "preview-weblogic-dm-server-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/preview-weblogic-dm-server-weblogic.html
 ---
 

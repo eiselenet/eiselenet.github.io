@@ -4,9 +4,7 @@ date: 2009-12-10 14:00:00 +0000
 layout: post
 tags: ["glassfish", "if there was only one GlassFish v3/Java EE 6 thing I'd like to mention...", "glassfishv3", "Java EE 6"]
 slug: "celebrating-glassfish-v3-final"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/celebrating-glassfish-v3-final.html
 ---
 

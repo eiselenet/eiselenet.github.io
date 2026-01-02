@@ -4,9 +4,7 @@ date: 2011-01-03 06:50:00 +0000
 layout: post
 tags: ["2010", "review", "new year"]
 slug: "2010-year-in-review-some-statistics"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/2010-year-in-review-some-statistics.html
 ---
 

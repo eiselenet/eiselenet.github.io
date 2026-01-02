@@ -4,9 +4,7 @@ date: 2010-09-24 02:56:00 +0000
 layout: post
 tags: ["oracledevelop", "OOW", "javaone10"]
 slug: "day-8-bad-and-ugly-at-oow-javaone10-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-8-bad-and-ugly-at-oow-javaone10-and.html
 ---
 

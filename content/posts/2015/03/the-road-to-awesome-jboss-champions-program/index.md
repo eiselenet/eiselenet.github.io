@@ -4,9 +4,7 @@ date: 2015-03-04 08:16:00 +0000
 layout: post
 tags: ["Champions", "Jboss"]
 slug: "the-road-to-awesome-jboss-champions-program"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/03/the-road-to-awesome-jboss-champions-program.html
 ---
 

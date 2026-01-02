@@ -4,9 +4,7 @@ date: 2010-02-16 10:36:00 +0000
 layout: post
 tags: ["Java EE", "appserver", "monitoring", "unresponsive", "stuck"]
 slug: "application-server-unresponsive-or"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/application-server-unresponsive-or.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-09-24 06:08:00 +0000
 layout: post
 tags: ["java", "monitoring", "profiling"]
 slug: "all-in-one-java-troubleshooting-tool"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/all-in-one-java-troubleshooting-tool.html
 ---
 

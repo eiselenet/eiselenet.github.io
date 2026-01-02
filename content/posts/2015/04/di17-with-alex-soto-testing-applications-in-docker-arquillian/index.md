@@ -4,9 +4,7 @@ date: 2015-04-13 06:06:00 +0000
 layout: post
 tags: ["Docker", "Arquillian", "DI", "Jboss"]
 slug: "di17-with-alex-soto-testing-applications-in-docker-arquillian"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/di17-with-alex-soto-testing-applications-in-docker-arquillian.html
 ---
 

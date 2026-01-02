@@ -4,9 +4,7 @@ date: 2010-05-03 10:19:00 +0000
 layout: post
 tags: ["Java EE", "glassfishv3", "future", "Java EE 6"]
 slug: "about-java-ee-6-web-profile-und-java-ee"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/about-java-ee-6-web-profile-und-java-ee.html
 ---
 

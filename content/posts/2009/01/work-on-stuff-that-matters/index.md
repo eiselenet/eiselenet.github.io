@@ -4,9 +4,7 @@ date: 2009-01-12 12:04:00 +0000
 layout: post
 tags: ["oreilly radar", "\"stuff that matters\""]
 slug: "work-on-stuff-that-matters"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/work-on-stuff-that-matters.html
 ---
 

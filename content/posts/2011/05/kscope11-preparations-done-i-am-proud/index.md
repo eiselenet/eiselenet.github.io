@@ -4,9 +4,7 @@ date: 2011-05-09 10:13:00 +0000
 layout: post
 tags: ["odtug", "Kscope11", "ACED"]
 slug: "kscope11-preparations-done-i-am-proud"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/kscope11-preparations-done-i-am-proud.html
 ---
 

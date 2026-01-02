@@ -4,9 +4,7 @@ date: 2010-07-14 11:37:00 +0000
 layout: post
 tags: ["twitter", "widget", "embed", "flash"]
 slug: "beautifull-twitter-integration"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/beautifull-twitter-integration.html
 ---
 

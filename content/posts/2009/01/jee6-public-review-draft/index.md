@@ -4,9 +4,7 @@ date: 2009-01-26 11:43:00 +0000
 layout: post
 tags: ["Java EE", "enterprise", "Java EE 6", "ejb 3.1", "jee", "JSR-316", "jee6"]
 slug: "jee6-public-review-draft"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/jee6-public-review-draft.html
 ---
 

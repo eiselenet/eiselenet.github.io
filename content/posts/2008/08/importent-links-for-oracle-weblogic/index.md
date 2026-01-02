@@ -4,9 +4,7 @@ date: 2008-08-25 10:33:00 +0000
 layout: post
 tags: ["OTN", "forum", "bea oracle", "weblogic server"]
 slug: "importent-links-for-oracle-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/importent-links-for-oracle-weblogic.html
 ---
 

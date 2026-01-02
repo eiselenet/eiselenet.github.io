@@ -4,9 +4,7 @@ date: 2015-04-20 07:00:00 +0000
 layout: post
 tags: ["vJUG", "java", "podcast"]
 slug: "the-java-council-first-vjug-podcast"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/the-java-council-first-vjug-podcast.html
 ---
 

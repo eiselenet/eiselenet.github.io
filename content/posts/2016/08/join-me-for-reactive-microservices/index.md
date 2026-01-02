@@ -4,9 +4,7 @@ date: 2016-08-31 08:00:00 +0000
 layout: post
 tags: ["reactive", "roadshow", "microservices"]
 slug: "join-me-for-reactive-microservices"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/08/join-me-for-reactive-microservices.html
 ---
 

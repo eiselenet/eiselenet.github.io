@@ -4,9 +4,7 @@ date: 2012-04-11 07:12:00 +0000
 layout: post
 tags: ["weblogic", "glassfish", "Arquillian"]
 slug: "arquillian-100final-released-ready-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/04/arquillian-100final-released-ready-for.html
 ---
 

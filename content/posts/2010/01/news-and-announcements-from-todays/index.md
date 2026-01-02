@@ -4,9 +4,7 @@ date: 2010-01-27 16:29:00 +0000
 layout: post
 tags: ["webcast", "2010", "oracle", "Sun"]
 slug: "news-and-announcements-from-todays"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/news-and-announcements-from-todays.html
 ---
 

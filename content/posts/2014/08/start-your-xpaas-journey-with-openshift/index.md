@@ -4,9 +4,7 @@ date: 2014-08-31 12:00:00 +0000
 layout: post
 tags: ["Openshift", "xPaaS", "Jboss"]
 slug: "start-your-xpaas-journey-with-openshift"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/start-your-xpaas-journey-with-openshift.html
 ---
 

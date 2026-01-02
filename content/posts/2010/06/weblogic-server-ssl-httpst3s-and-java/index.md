@@ -4,9 +4,7 @@ date: 2010-06-15 10:02:00 +0000
 layout: post
 tags: ["weblogic", "https", "ssl", "t3s"]
 slug: "weblogic-server-ssl-httpst3s-and-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/06/weblogic-server-ssl-httpst3s-and-java.html
 ---
 

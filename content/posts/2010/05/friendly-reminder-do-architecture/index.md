@@ -4,9 +4,7 @@ date: 2010-05-18 06:40:00 +0000
 layout: post
 tags: ["documentation", "architecture"]
 slug: "friendly-reminder-do-architecture"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/friendly-reminder-do-architecture.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-04-25 08:06:00 +0000
 layout: post
 tags: ["report", "conference", "DevNation14"]
 slug: "trip-report-devnation-2014"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/04/trip-report-devnation-2014.html
 ---
 

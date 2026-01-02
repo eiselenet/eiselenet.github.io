@@ -4,9 +4,7 @@ date: 2016-08-31 05:20:00 +0000
 layout: post
 tags: ["Lightbend", "JavaOne"]
 slug: "lightbender-at-javaone-2016"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/08/lightbender-at-javaone-2016.html
 ---
 

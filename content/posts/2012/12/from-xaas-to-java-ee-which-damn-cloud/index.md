@@ -4,9 +4,7 @@ date: 2012-12-06 09:53:00 +0000
 layout: post
 tags: ["OracleCloud", "jelastic", "Cloudbees", "Openshift", "sapnwcloud", "Amazon"]
 slug: "from-xaas-to-java-ee-which-damn-cloud"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/12/from-xaas-to-java-ee-which-damn-cloud.html
 ---
 

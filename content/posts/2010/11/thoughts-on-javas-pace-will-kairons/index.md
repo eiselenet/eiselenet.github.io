@@ -4,9 +4,7 @@ date: 2010-11-26 07:32:00 +0000
 layout: post
 tags: ["future", "java"]
 slug: "thoughts-on-javas-pace-will-kairons"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/thoughts-on-javas-pace-will-kairons.html
 ---
 

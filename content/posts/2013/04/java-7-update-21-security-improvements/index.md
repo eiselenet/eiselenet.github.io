@@ -4,9 +4,7 @@ date: 2013-04-17 08:01:00 +0000
 layout: post
 tags: ["cpu", "security", "java"]
 slug: "java-7-update-21-security-improvements"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/04/java-7-update-21-security-improvements.html
 ---
 

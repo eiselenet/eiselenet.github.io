@@ -4,9 +4,7 @@ date: 2009-07-24 13:10:00 +0000
 layout: post
 tags: ["Tom DeMarco", "software development"]
 slug: "software-engineering-is-idea-whose-time"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/software-engineering-is-idea-whose-time.html
 ---
 

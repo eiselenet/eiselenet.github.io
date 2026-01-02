@@ -4,9 +4,7 @@ date: 2012-02-16 10:31:00 +0000
 layout: post
 tags: ["report", "trip", "Jfokus"]
 slug: "jfokus-2012-trip-report"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/02/jfokus-2012-trip-report.html
 ---
 

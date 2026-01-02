@@ -4,9 +4,7 @@ date: 2011-09-07 09:29:00 +0000
 layout: post
 tags: ["marcus lagergren", "java", "heroes"]
 slug: "heroes-of-java-marcus-lagergren"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/heroes-of-java-marcus-lagergren.html
 ---
 

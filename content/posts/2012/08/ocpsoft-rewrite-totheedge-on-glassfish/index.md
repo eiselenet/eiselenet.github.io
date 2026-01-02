@@ -4,9 +4,7 @@ date: 2012-08-22 11:51:00 +0000
 layout: post
 tags: ["glassfish", "javaee", "ocpsoft", "rewrite", "primefaces"]
 slug: "ocpsoft-rewrite-totheedge-on-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/ocpsoft-rewrite-totheedge-on-glassfish.html
 ---
 

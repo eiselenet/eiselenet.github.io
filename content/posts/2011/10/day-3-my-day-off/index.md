@@ -4,9 +4,7 @@ date: 2011-10-02 05:21:00 +0000
 layout: post
 tags: ["OOW", "JavaOne"]
 slug: "day-3-my-day-off"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/day-3-my-day-off.html
 ---
 

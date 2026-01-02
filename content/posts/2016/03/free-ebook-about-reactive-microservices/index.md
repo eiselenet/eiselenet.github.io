@@ -4,9 +4,7 @@ date: 2016-03-24 14:06:00 +0000
 layout: post
 tags: ["ebook", "O'Reilly", "microservices"]
 slug: "free-ebook-about-reactive-microservices"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/03/free-ebook-about-reactive-microservices.html
 ---
 

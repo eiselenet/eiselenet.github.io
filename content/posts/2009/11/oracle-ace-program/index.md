@@ -4,9 +4,7 @@ date: 2009-11-04 07:24:00 +0000
 layout: post
 tags: ["OTN", "oracle", "Community", "ACED"]
 slug: "oracle-ace-program"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/oracle-ace-program.html
 ---
 

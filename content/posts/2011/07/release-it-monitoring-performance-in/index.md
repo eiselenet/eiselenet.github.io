@@ -4,9 +4,7 @@ date: 2011-07-20 14:00:00 +0000
 layout: post
 tags: ["CDI", "javaee6", "Interceptor"]
 slug: "release-it-monitoring-performance-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/release-it-monitoring-performance-in.html
 ---
 

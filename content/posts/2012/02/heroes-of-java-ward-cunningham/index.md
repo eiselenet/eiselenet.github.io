@@ -4,9 +4,7 @@ date: 2012-02-13 22:50:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Ward Cunningham"]
 slug: "heroes-of-java-ward-cunningham"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/02/heroes-of-java-ward-cunningham.html
 ---
 

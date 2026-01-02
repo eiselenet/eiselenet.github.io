@@ -4,9 +4,7 @@ date: 2008-08-15 05:37:00 +0000
 layout: post
 tags: ["java", "performance", "softwareentwicklung"]
 slug: "anleitung-fr-performance-und-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/anleitung-fr-performance-und-java.html
 ---
 

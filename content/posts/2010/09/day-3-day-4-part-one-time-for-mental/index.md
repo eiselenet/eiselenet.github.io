@@ -4,9 +4,7 @@ date: 2010-09-19 20:46:00 +0000
 layout: post
 tags: ["JavaOne", "oracle", "ACED"]
 slug: "day-3-day-4-part-one-time-for-mental"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-3-day-4-part-one-time-for-mental.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-09-03 04:20:00 +0000
 layout: post
 tags: ["glassfish", "mysql", "acquisition", "oracle", "Sun"]
 slug: "rumor-ec-could-delay-oracle-sun-deal"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/rumor-ec-could-delay-oracle-sun-deal.html
 ---
 

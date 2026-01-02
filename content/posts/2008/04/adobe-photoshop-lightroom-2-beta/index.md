@@ -4,9 +4,7 @@ date: 2008-04-04 08:26:00 +0000
 layout: post
 tags: ["photoshop", "photographie", "Adobe", "lightroom"]
 slug: "adobe-photoshop-lightroom-2-beta"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/04/adobe-photoshop-lightroom-2-beta.html
 ---
 

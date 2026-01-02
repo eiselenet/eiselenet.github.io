@@ -4,9 +4,7 @@ date: 2010-11-15 06:24:00 +0000
 layout: post
 tags: ["doag2010", "conference"]
 slug: "doag-conference-2010-last-minute"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/doag-conference-2010-last-minute.html
 ---
 

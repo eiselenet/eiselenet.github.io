@@ -4,9 +4,7 @@ date: 2011-02-02 11:08:00 +0000
 layout: post
 tags: ["javadoc", "best practices"]
 slug: "javadoc-unloved-child-pragmatic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/javadoc-unloved-child-pragmatic.html
 ---
 

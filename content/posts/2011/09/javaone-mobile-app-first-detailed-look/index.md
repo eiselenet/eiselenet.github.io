@@ -4,9 +4,7 @@ date: 2011-09-02 05:23:00 +0000
 layout: post
 tags: ["mobile", "JavaOne"]
 slug: "javaone-mobile-app-first-detailed-look"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/javaone-mobile-app-first-detailed-look.html
 ---
 

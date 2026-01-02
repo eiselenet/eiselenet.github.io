@@ -4,9 +4,7 @@ date: 2010-11-17 07:58:00 +0000
 layout: post
 tags: ["doag", "conference"]
 slug: "doag-2010-day-1-people-sightseeing-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/11/doag-2010-day-1-people-sightseeing-java.html
 ---
 

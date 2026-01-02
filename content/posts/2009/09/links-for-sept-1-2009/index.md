@@ -4,9 +4,7 @@ date: 2009-09-01 09:33:00 +0000
 layout: post
 tags: ["2009", "links"]
 slug: "links-for-sept-1-2009"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/links-for-sept-1-2009.html
 ---
 

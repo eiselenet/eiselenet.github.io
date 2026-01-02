@@ -4,9 +4,7 @@ date: 2010-06-28 17:45:00 +0000
 layout: post
 tags: ["odtug", "kaleidoscope2010"]
 slug: "odtug-impressions_28"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/06/odtug-impressions_28.html
 ---
 

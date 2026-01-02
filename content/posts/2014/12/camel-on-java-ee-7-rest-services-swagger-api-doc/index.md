@@ -4,9 +4,7 @@ date: 2014-12-23 10:05:00 +0000
 layout: post
 tags: ["REST", "javaee7", "Camel", "Swagger"]
 slug: "camel-on-java-ee-7-rest-services-swagger-api-doc"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/camel-on-java-ee-7-rest-services-swagger-api-doc.html
 ---
 

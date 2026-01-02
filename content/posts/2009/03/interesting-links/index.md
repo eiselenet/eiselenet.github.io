@@ -4,9 +4,7 @@ date: 2009-03-16 05:50:00 +0000
 layout: post
 tags: ["links"]
 slug: "interesting-links"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/interesting-links.html
 ---
 

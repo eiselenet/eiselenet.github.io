@@ -4,9 +4,7 @@ date: 2012-09-07 16:00:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Stephen Colebourne"]
 slug: "the-heroes-of-java-stephen-colebourne"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/the-heroes-of-java-stephen-colebourne.html
 ---
 

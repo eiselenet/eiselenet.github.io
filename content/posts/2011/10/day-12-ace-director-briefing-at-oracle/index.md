@@ -4,9 +4,7 @@ date: 2011-10-01 12:36:00 +0000
 layout: post
 tags: ["oracle", "java", "ACED"]
 slug: "day-12-ace-director-briefing-at-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/day-12-ace-director-briefing-at-oracle.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-03-24 09:42:00 +0000
 layout: post
 tags: ["iPhone", "Apple"]
 slug: "iphone-webanwendungen-aber-richtig"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/03/iphone-webanwendungen-aber-richtig.html
 ---
 

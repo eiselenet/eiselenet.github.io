@@ -4,9 +4,7 @@ date: 2010-07-28 09:24:00 +0000
 layout: post
 tags: ["\"Java SE 6 release 21\"", "JDK 7", "eclipse"]
 slug: "jdk-16021-b06-eclipse-vs-16021-b07"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/jdk-16021-b06-eclipse-vs-16021-b07.html
 ---
 

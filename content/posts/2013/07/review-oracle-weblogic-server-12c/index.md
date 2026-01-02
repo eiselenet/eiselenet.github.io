@@ -4,9 +4,7 @@ date: 2013-07-08 05:42:00 +0000
 layout: post
 tags: ["weblogic", "review", "book"]
 slug: "review-oracle-weblogic-server-12c"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/07/review-oracle-weblogic-server-12c.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-12-09 07:28:00 +0000
 layout: post
 tags: ["basics", "metrics", "software development", "software quality"]
 slug: "software-quality-basics-ii-ccd-acd-ca"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/software-quality-basics-ii-ccd-acd-ca.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-07-19 06:06:00 +0000
 layout: post
 tags: ["softwareentwicklung", "maven"]
 slug: "maven-best-practices"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/07/maven-best-practices.html
 ---
 

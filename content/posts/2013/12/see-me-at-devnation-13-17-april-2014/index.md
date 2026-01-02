@@ -4,9 +4,7 @@ date: 2013-12-23 12:24:00 +0000
 layout: post
 tags: ["RedHat", "conference", "DevNation14"]
 slug: "see-me-at-devnation-13-17-april-2014"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/12/see-me-at-devnation-13-17-april-2014.html
 ---
 

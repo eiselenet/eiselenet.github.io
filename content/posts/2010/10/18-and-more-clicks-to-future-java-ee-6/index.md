@@ -4,9 +4,7 @@ date: 2010-10-20 09:18:00 +0000
 layout: post
 tags: ["websphere", "javaee6", "ibm"]
 slug: "18-and-more-clicks-to-future-java-ee-6"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/10/18-and-more-clicks-to-future-java-ee-6.html
 ---
 

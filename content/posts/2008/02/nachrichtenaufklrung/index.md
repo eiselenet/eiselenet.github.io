@@ -4,9 +4,7 @@ date: 2008-02-08 11:48:00 +0000
 layout: post
 tags: ["privat"]
 slug: "nachrichtenaufklrung"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/nachrichtenaufklrung.html
 ---
 

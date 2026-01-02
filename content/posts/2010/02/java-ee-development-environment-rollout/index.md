@@ -4,9 +4,7 @@ date: 2010-02-10 08:04:00 +0000
 layout: post
 tags: ["Java EE", "glassfish", "development", "rollout", "large team", "workplace"]
 slug: "java-ee-development-environment-rollout"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/java-ee-development-environment-rollout.html
 ---
 

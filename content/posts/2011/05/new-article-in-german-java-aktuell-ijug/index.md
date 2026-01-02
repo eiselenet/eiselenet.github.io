@@ -4,9 +4,7 @@ date: 2011-05-18 10:57:00 +0000
 layout: post
 tags: ["glassfish", "ijug", "article"]
 slug: "new-article-in-german-java-aktuell-ijug"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/new-article-in-german-java-aktuell-ijug.html
 ---
 

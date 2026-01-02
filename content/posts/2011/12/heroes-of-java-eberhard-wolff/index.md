@@ -4,9 +4,7 @@ date: 2011-12-01 07:36:00 +0000
 layout: post
 tags: ["java", "heroes", "EberhardWolff"]
 slug: "heroes-of-java-eberhard-wolff"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/heroes-of-java-eberhard-wolff.html
 ---
 

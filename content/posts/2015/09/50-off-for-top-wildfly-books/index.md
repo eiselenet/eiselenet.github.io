@@ -4,9 +4,7 @@ date: 2015-09-23 10:27:00 +0000
 layout: post
 tags: ["wildfly", "Packt"]
 slug: "50-off-for-top-wildfly-books"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/09/50-off-for-top-wildfly-books.html
 ---
 

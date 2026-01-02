@@ -4,9 +4,7 @@ date: 2016-12-20 09:19:00 +0000
 layout: post
 tags: ["Community", "java"]
 slug: "no-being-wary-doesnt-hurt-java-comment"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/12/no-being-wary-doesnt-hurt-java-comment.html
 ---
 

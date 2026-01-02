@@ -4,9 +4,7 @@ date: 2013-02-26 11:37:00 +0000
 layout: post
 tags: ["glassfish", "json", "javaee7"]
 slug: "test-driving-java-api-for-processing"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/02/test-driving-java-api-for-processing.html
 ---
 

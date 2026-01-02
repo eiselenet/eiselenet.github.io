@@ -4,9 +4,7 @@ date: 2012-08-20 10:20:00 +0000
 layout: post
 tags: ["java", "resourcebundle", "best practices"]
 slug: "resource-bundle-tricks-and-best"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/resource-bundle-tricks-and-best.html
 ---
 

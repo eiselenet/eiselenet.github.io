@@ -4,9 +4,7 @@ date: 2015-01-22 11:00:00 +0000
 layout: post
 tags: ["wildfly", "Camel", "javaee", "Jboss"]
 slug: "about-wildflies-camel-and-large"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/about-wildflies-camel-and-large.html
 ---
 

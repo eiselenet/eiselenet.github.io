@@ -4,9 +4,7 @@ date: 2009-02-23 05:10:00 +0000
 layout: post
 tags: ["wordle", "visualization"]
 slug: "visualizations"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/visualizations.html
 ---
 

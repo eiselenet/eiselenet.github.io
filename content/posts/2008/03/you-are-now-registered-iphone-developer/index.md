@@ -4,9 +4,7 @@ date: 2008-03-10 06:58:00 +0000
 layout: post
 tags: ["iPhone", "Apple", "softwareentwicklung"]
 slug: "you-are-now-registered-iphone-developer"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/03/you-are-now-registered-iphone-developer.html
 ---
 

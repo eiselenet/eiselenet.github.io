@@ -4,9 +4,7 @@ date: 2009-06-29 05:14:00 +0000
 layout: post
 tags: ["ejb 3.1", "jee6", "Sun", "Java EE 6"]
 slug: "sampling-of-ejb-31"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/06/sampling-of-ejb-31.html
 ---
 

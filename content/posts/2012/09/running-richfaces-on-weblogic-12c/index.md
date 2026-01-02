@@ -4,9 +4,7 @@ date: 2012-09-19 11:34:00 +0000
 layout: post
 tags: ["weblogic", "richfaces", "wls-cat"]
 slug: "running-richfaces-on-weblogic-12c"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/running-richfaces-on-weblogic-12c.html
 ---
 

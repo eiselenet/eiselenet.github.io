@@ -4,9 +4,7 @@ date: 2014-11-13 12:00:00 +0000
 layout: post
 tags: ["trip", "Jboss", "jokerconf"]
 slug: "trip-report-joker-conf-2014"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/11/trip-report-joker-conf-2014.html
 ---
 

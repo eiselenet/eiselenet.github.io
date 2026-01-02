@@ -4,9 +4,7 @@ date: 2012-04-05 08:09:00 +0000
 layout: post
 tags: ["contribute", "glassfish", "javaee"]
 slug: "5-areas-to-contribute-to-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/04/5-areas-to-contribute-to-glassfish.html
 ---
 

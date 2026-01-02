@@ -4,9 +4,7 @@ date: 2013-07-05 08:22:00 +0000
 layout: post
 tags: ["asciidoc", "Awestruct", "JRuby"]
 slug: "awestruct-w-aciidoctor-on-windows-w-jruby"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/07/awestruct-w-aciidoctor-on-windows-w-jruby.html
 ---
 

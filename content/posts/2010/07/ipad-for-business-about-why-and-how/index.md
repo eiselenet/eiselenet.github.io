@@ -4,9 +4,7 @@ date: 2010-07-26 11:09:00 +0000
 layout: post
 tags: ["iPad", "software development", "business"]
 slug: "ipad-for-business-about-why-and-how"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/ipad-for-business-about-why-and-how.html
 ---
 

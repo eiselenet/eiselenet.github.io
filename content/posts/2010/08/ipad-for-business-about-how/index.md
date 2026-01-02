@@ -4,9 +4,7 @@ date: 2010-08-04 08:02:00 +0000
 layout: post
 tags: ["iPad", "software development", "business"]
 slug: "ipad-for-business-about-how"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/08/ipad-for-business-about-how.html
 ---
 

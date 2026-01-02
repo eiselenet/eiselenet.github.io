@@ -4,9 +4,7 @@ date: 2015-03-06 12:00:00 +0000
 layout: post
 tags: ["Openshift", "Docker", "Jboss", "Kubernetes"]
 slug: "developer-interview-16-openshift-docker-kubernetes"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/03/developer-interview-16-openshift-docker-kubernetes.html
 ---
 

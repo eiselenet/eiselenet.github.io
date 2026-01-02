@@ -4,9 +4,7 @@ date: 2014-12-05 08:00:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "NetBenas", "DreamTeam"]
 slug: "im-now-netbeans-dream-team-member"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/im-now-netbeans-dream-team-member.html
 ---
 

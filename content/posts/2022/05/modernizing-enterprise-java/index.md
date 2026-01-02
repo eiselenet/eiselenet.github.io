@@ -4,9 +4,7 @@ date: 2022-05-03 11:01:00 +0000
 layout: post
 tags: ["java", "modernizing", "O'Reilly"]
 slug: "modernizing-enterprise-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2022/05/modernizing-enterprise-java.html
 ---
 

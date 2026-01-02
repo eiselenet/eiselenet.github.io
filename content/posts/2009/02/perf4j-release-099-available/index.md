@@ -4,9 +4,7 @@ date: 2009-02-02 09:34:00 +0000
 layout: post
 tags: ["performance", "Perf4J", "log4j"]
 slug: "perf4j-release-099-available"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/perf4j-release-099-available.html
 ---
 

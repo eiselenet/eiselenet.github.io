@@ -4,9 +4,7 @@ date: 2008-10-10 07:44:00 +0000
 layout: post
 tags: ["stal", "enterprise", "architecture"]
 slug: "trends-in-software-engineering"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/10/trends-in-software-engineering.html
 ---
 

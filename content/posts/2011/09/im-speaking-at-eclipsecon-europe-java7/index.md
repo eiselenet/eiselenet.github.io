@@ -4,9 +4,7 @@ date: 2011-09-12 07:37:00 +0000
 layout: post
 tags: ["EclipseCon", "java7", "eclipse"]
 slug: "im-speaking-at-eclipsecon-europe-java7"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/im-speaking-at-eclipsecon-europe-java7.html
 ---
 

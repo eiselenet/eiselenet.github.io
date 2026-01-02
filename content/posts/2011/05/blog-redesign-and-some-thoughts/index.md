@@ -4,9 +4,7 @@ date: 2011-05-16 07:37:00 +0000
 layout: post
 tags: ["personal", "redesign", "blog"]
 slug: "blog-redesign-and-some-thoughts"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/blog-redesign-and-some-thoughts.html
 ---
 

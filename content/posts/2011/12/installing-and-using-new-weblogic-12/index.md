@@ -4,9 +4,7 @@ date: 2011-12-11 23:00:00 +0000
 layout: post
 tags: ["weblogic", "maven", "deployment"]
 slug: "installing-and-using-new-weblogic-12"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/installing-and-using-new-weblogic-12.html
 ---
 

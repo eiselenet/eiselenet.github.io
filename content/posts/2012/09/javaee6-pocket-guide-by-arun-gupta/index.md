@@ -4,9 +4,7 @@ date: 2012-09-18 17:52:00 +0000
 layout: post
 tags: ["javaee6", "ArunGupta", "review"]
 slug: "javaee6-pocket-guide-by-arun-gupta"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/javaee6-pocket-guide-by-arun-gupta.html
 ---
 

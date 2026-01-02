@@ -4,9 +4,7 @@ date: 2012-07-09 06:26:00 +0000
 layout: post
 tags: ["glassfish", "Mojarra"]
 slug: "upgrading-mojarra-in-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/upgrading-mojarra-in-glassfish.html
 ---
 

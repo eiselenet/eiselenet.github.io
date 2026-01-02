@@ -4,9 +4,7 @@ date: 2009-11-30 02:52:00 +0000
 layout: post
 tags: ["cloud", "twitter", "personal"]
 slug: "myfears-tweet-cloud"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/myfears-tweet-cloud.html
 ---
 

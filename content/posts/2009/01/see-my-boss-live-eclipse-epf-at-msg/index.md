@@ -4,9 +4,7 @@ date: 2009-01-26 09:23:00 +0000
 layout: post
 tags: ["SE 2009", "EPF", "eclipse"]
 slug: "see-my-boss-live-eclipse-epf-at-msg"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/see-my-boss-live-eclipse-epf-at-msg.html
 ---
 

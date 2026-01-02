@@ -4,9 +4,7 @@ date: 2009-12-07 11:19:00 +0000
 layout: post
 tags: ["components", "software quality", "jsf"]
 slug: "software-quality-jsf-component"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/software-quality-jsf-component.html
 ---
 

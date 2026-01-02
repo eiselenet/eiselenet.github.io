@@ -4,9 +4,7 @@ date: 2010-04-30 06:21:00 +0000
 layout: post
 tags: ["oracle", "installation", "weblogic server"]
 slug: "oracle-weblogic-development-only"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/04/oracle-weblogic-development-only.html
 ---
 

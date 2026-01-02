@@ -4,9 +4,7 @@ date: 2009-09-25 05:16:00 +0000
 layout: post
 tags: ["privacy", "privat", "vote", "elections", "germany"]
 slug: "27-of-september-vote-in-germany"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/27-of-september-vote-in-germany.html
 ---
 

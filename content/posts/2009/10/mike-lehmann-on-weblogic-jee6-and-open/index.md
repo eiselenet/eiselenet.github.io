@@ -4,9 +4,7 @@ date: 2009-10-21 05:39:00 +0000
 layout: post
 tags: ["opensource", "oracle", "open world 2009", "Java EE 6", "weblogic server"]
 slug: "mike-lehmann-on-weblogic-jee6-and-open"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/mike-lehmann-on-weblogic-jee6-and-open.html
 ---
 

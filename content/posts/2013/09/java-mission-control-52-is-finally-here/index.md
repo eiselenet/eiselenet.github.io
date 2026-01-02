@@ -4,9 +4,7 @@ date: 2013-09-10 19:08:00 +0000
 layout: post
 tags: ["7u40", "jmc", "mission control"]
 slug: "java-mission-control-52-is-finally-here"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/09/java-mission-control-52-is-finally-here.html
 ---
 

@@ -4,9 +4,7 @@ date: 2011-03-16 16:34:00 +0000
 layout: post
 tags: ["Arquillian", "article"]
 slug: "new-article-for-latest-jaxmag-java-ee-6"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/03/new-article-for-latest-jaxmag-java-ee-6.html
 ---
 

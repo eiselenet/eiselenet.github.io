@@ -4,9 +4,7 @@ date: 2012-04-30 05:41:00 +0000
 layout: post
 tags: ["2012", "conference", "JavaOne", "analysis"]
 slug: "javaone-2012-analysis-submitted"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/04/javaone-2012-analysis-submitted.html
 ---
 

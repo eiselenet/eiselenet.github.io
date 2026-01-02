@@ -4,9 +4,7 @@ date: 2009-03-25 06:09:00 +0000
 layout: post
 tags: ["must-know", "software development", "architecture"]
 slug: "10-must-know-topics-for-software"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/10-must-know-topics-for-software.html
 ---
 
