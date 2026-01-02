@@ -4,9 +4,7 @@ date: 2011-09-02 08:56:00 +0000
 layout: post
 tags: ["bug", "java7"]
 slug: "use-java-7-i-am-not-kidding"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/use-java-7-i-am-not-kidding.html
 ---
 

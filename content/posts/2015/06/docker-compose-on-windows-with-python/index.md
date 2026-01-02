@@ -4,9 +4,7 @@ date: 2015-06-08 12:30:00 +0000
 layout: post
 tags: ["Windows", "Babon", "Docker-Compose", "Python"]
 slug: "docker-compose-on-windows-with-python"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/06/docker-compose-on-windows-with-python.html
 ---
 

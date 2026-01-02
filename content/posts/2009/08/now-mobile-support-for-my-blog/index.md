@@ -4,9 +4,7 @@ date: 2009-08-19 04:41:00 +0000
 layout: post
 tags: ["mobile", "java", "enterprise"]
 slug: "now-mobile-support-for-my-blog"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/now-mobile-support-for-my-blog.html
 ---
 

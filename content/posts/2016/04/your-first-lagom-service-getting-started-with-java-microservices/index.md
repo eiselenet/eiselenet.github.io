@@ -4,9 +4,7 @@ date: 2016-04-07 07:07:00 +0000
 layout: post
 tags: ["java", "microservices"]
 slug: "your-first-lagom-service-getting-started-with-java-microservices"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/04/your-first-lagom-service-getting-started-with-java-microservices.html
 ---
 

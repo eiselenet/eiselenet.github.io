@@ -4,9 +4,7 @@ date: 2015-05-20 18:17:00 +0000
 layout: post
 tags: ["devoxx4kids", "toddler", "lego", "computers"]
 slug: "my-toddler-knows-more-about-computers-than-I-do"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/05/my-toddler-knows-more-about-computers-than-I-do.html
 ---
 

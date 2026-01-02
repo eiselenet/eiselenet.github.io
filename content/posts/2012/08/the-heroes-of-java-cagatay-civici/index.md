@@ -4,9 +4,7 @@ date: 2012-08-06 16:00:00 +0000
 layout: post
 tags: ["Çağatay Çivici", "HoJ", "java", "heroes"]
 slug: "the-heroes-of-java-cagatay-civici"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/the-heroes-of-java-cagatay-civici.html
 ---
 

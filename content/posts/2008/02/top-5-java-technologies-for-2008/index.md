@@ -4,9 +4,7 @@ date: 2008-02-01 05:47:00 +0000
 layout: post
 tags: ["softwareentwicklung", "programmierung"]
 slug: "top-5-java-technologies-for-2008"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/top-5-java-technologies-for-2008.html
 ---
 

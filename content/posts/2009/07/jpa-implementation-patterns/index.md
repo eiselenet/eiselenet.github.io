@@ -4,9 +4,7 @@ date: 2009-07-16 04:13:00 +0000
 layout: post
 tags: ["Pattern", "jpa"]
 slug: "jpa-implementation-patterns"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/jpa-implementation-patterns.html
 ---
 

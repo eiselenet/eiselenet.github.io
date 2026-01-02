@@ -4,9 +4,7 @@ date: 2015-02-13 11:00:00 +0000
 layout: post
 tags: ["Corinne Krych", "DI", "Jboss", "AeroGear", "Swift", "Keycloak"]
 slug: "developer-interview-di14-corinne-krych"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/developer-interview-di14-corinne-krych.html
 ---
 

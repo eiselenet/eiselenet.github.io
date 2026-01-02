@@ -4,9 +4,7 @@ date: 2011-01-17 09:36:00 +0000
 layout: post
 tags: ["classloader", "weblogic", "analysis"]
 slug: "using-new-weblogic-classloader-analysis"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/using-new-weblogic-classloader-analysis.html
 ---
 

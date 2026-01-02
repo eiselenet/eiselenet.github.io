@@ -4,9 +4,7 @@ date: 2009-06-25 08:38:00 +0000
 layout: post
 tags: ["google", "Gosling", "java", "Kriens", "OSGi"]
 slug: "gosling-whats-good-for-google-may-not"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/06/gosling-whats-good-for-google-may-not.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-04-28 06:30:00 +0000
 layout: post
 tags: ["howto", "weblogic server", "jsf 2.0"]
 slug: "weblogic-server-10330-released-it-now"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/04/weblogic-server-10330-released-it-now.html
 ---
 

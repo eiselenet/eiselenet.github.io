@@ -4,9 +4,7 @@ date: 2011-02-11 06:05:00 +0000
 layout: post
 tags: ["glassfish", "jpa", "Coherence"]
 slug: "high-performance-jpa-with-glassfish-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/high-performance-jpa-with-glassfish-and.html
 ---
 

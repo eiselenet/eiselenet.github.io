@@ -4,9 +4,7 @@ date: 2010-02-26 08:51:00 +0000
 layout: post
 tags: ["Java EE", "slides", "performance"]
 slug: "low-hanging-fruits-in-optimizing-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/low-hanging-fruits-in-optimizing-java.html
 ---
 

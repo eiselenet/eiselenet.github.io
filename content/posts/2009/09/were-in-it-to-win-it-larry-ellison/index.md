@@ -4,9 +4,7 @@ date: 2009-09-10 09:35:00 +0000
 layout: post
 tags: ["oracle", "Sun", "win it"]
 slug: "were-in-it-to-win-it-larry-ellison"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/were-in-it-to-win-it-larry-ellison.html
 ---
 

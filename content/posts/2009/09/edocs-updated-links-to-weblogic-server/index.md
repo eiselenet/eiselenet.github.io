@@ -4,9 +4,7 @@ date: 2009-09-02 04:23:00 +0000
 layout: post
 tags: ["edocs", "weblogic server", "documentation"]
 slug: "edocs-updated-links-to-weblogic-server"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/edocs-updated-links-to-weblogic-server.html
 ---
 

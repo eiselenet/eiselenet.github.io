@@ -4,9 +4,7 @@ date: 2011-10-04 04:37:00 +0000
 layout: post
 tags: ["keynote", "javaone11", "java"]
 slug: "java-se-7-8-9-moving-java-forward"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/java-se-7-8-9-moving-java-forward.html
 ---
 

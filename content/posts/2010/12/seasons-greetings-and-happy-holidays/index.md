@@ -4,9 +4,7 @@ date: 2010-12-24 08:40:00 +0000
 layout: post
 tags: ["christmas", "season's greetings"]
 slug: "seasons-greetings-and-happy-holidays"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/12/seasons-greetings-and-happy-holidays.html
 ---
 

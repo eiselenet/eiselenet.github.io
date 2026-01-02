@@ -4,9 +4,7 @@ date: 2010-12-15 10:10:00 +0000
 layout: post
 tags: ["migration", "class-loading", "glassfish"]
 slug: "one-thing-you-did-not-know-about-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/12/one-thing-you-did-not-know-about-java.html
 ---
 

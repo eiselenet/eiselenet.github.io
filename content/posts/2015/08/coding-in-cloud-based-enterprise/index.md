@@ -4,9 +4,7 @@ date: 2015-08-30 12:28:00 +0000
 layout: post
 tags: ["cloud", "xPaaS", "IoT"]
 slug: "coding-in-cloud-based-enterprise"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/08/coding-in-cloud-based-enterprise.html
 ---
 

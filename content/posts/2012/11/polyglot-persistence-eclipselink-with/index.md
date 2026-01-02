@@ -4,9 +4,7 @@ date: 2012-11-06 12:43:00 +0000
 layout: post
 tags: ["persistence", "MongoDB", "jpa", "Derby", "EclipseLink"]
 slug: "polyglot-persistence-eclipselink-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/11/polyglot-persistence-eclipselink-with.html
 ---
 

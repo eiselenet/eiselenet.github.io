@@ -4,9 +4,7 @@ date: 2013-04-10 08:47:00 +0000
 layout: post
 tags: ["conferenc", "IMC Summit", "doag"]
 slug: "im-speaking-at-doag-imc-summit-6h-june"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/04/im-speaking-at-doag-imc-summit-6h-june.html
 ---
 

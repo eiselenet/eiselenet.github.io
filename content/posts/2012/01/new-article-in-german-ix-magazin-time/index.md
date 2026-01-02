@@ -4,9 +4,7 @@ date: 2012-01-26 11:14:00 +0000
 layout: post
 tags: ["time", "money", "article", "ix"]
 slug: "new-article-in-german-ix-magazin-time"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/01/new-article-in-german-ix-magazin-time.html
 ---
 

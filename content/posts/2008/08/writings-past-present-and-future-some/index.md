@@ -4,9 +4,7 @@ date: 2008-08-28 06:00:00 +0000
 layout: post
 tags: ["magazins", "article"]
 slug: "writings-past-present-and-future-some"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/writings-past-present-and-future-some.html
 ---
 

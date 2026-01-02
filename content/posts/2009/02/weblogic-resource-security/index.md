@@ -4,9 +4,7 @@ date: 2009-02-20 07:48:00 +0000
 layout: post
 tags: ["oracle", "Security Realm", "weblogic server"]
 slug: "weblogic-resource-security"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/weblogic-resource-security.html
 ---
 

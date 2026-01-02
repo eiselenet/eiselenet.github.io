@@ -4,9 +4,7 @@ date: 2015-04-02 11:24:00 +0000
 layout: post
 tags: ["JavaLand", "JavaLand4Kids"]
 slug: "javaland4kids-celebrates-successful"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/javaland4kids-celebrates-successful.html
 ---
 

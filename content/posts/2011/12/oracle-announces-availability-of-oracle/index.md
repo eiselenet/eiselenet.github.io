@@ -4,9 +4,7 @@ date: 2011-12-01 18:00:00 +0000
 layout: post
 tags: ["weblogic", "12c", "oracle"]
 slug: "oracle-announces-availability-of-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/oracle-announces-availability-of-oracle.html
 ---
 

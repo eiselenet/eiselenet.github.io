@@ -4,9 +4,7 @@ date: 2013-07-05 04:12:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Kevlin Henney"]
 slug: "the-heroes-of-java-kevlin-henney"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/07/the-heroes-of-java-kevlin-henney.html
 ---
 

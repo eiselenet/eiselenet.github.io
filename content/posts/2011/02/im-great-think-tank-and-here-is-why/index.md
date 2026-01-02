@@ -4,9 +4,7 @@ date: 2011-02-13 18:01:00 +0000
 layout: post
 tags: ["\"Think Tank\"", "methodology"]
 slug: "im-great-think-tank-and-here-is-why"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/im-great-think-tank-and-here-is-why.html
 ---
 

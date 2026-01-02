@@ -4,9 +4,7 @@ date: 2014-09-24 10:00:00 +0000
 layout: post
 tags: ["apache", "DI", "Jboss", "Karaf"]
 slug: "developer-interview-jeff-genender-apache-microservices"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/developer-interview-jeff-genender-apache-microservices.html
 ---
 

@@ -4,9 +4,7 @@ date: 2011-09-05 09:37:00 +0000
 layout: post
 tags: ["gource", "visualization"]
 slug: "software-version-control-visualization"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/software-version-control-visualization.html
 ---
 

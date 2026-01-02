@@ -4,9 +4,7 @@ date: 2012-04-05 05:00:00 +0000
 layout: post
 tags: ["jbcra", "Arquillian", "Jboss", "documentation"]
 slug: "i-am-nominated-for-2012-jboss-community"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/04/i-am-nominated-for-2012-jboss-community.html
 ---
 

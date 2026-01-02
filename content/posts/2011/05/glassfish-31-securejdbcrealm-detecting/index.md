@@ -4,9 +4,7 @@ date: 2011-05-11 11:50:00 +0000
 layout: post
 tags: ["glassfish", "security"]
 slug: "glassfish-31-securejdbcrealm-detecting"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/glassfish-31-securejdbcrealm-detecting.html
 ---
 

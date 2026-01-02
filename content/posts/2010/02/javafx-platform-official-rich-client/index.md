@@ -4,9 +4,7 @@ date: 2010-02-12 08:03:00 +0000
 layout: post
 tags: ["oracle", "javafx", "rich client", "VANOC"]
 slug: "javafx-platform-official-rich-client"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/javafx-platform-official-rich-client.html
 ---
 

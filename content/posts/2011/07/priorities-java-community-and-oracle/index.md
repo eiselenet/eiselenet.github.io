@@ -4,9 +4,7 @@ date: 2011-07-27 05:39:00 +0000
 layout: post
 tags: ["Priorities", "java", "oracle", "Community", "OSCON"]
 slug: "priorities-java-community-and-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/priorities-java-community-and-oracle.html
 ---
 

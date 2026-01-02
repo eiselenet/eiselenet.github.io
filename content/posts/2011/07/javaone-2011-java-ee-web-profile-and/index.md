@@ -4,9 +4,7 @@ date: 2011-07-08 07:12:00 +0000
 layout: post
 tags: ["JavaOne", "java", "conference"]
 slug: "javaone-2011-java-ee-web-profile-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/javaone-2011-java-ee-web-profile-and.html
 ---
 

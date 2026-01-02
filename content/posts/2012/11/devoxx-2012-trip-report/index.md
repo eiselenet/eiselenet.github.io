@@ -4,9 +4,7 @@ date: 2012-11-18 16:28:00 +0000
 layout: post
 tags: ["report", "devoxx", "trip"]
 slug: "devoxx-2012-trip-report"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/11/devoxx-2012-trip-report.html
 ---
 

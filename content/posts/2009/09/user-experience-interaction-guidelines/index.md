@@ -4,9 +4,7 @@ date: 2009-09-15 11:54:00 +0000
 layout: post
 tags: ["User Experience", "interaction", "guidelines"]
 slug: "user-experience-interaction-guidelines"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/user-experience-interaction-guidelines.html
 ---
 

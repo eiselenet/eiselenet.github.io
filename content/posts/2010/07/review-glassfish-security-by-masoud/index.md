@@ -4,9 +4,7 @@ date: 2010-07-18 09:54:00 +0000
 layout: post
 tags: ["glassfish", "security", "books", "review"]
 slug: "review-glassfish-security-by-masoud"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/review-glassfish-security-by-masoud.html
 ---
 

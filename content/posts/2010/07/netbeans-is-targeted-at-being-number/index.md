@@ -4,9 +4,7 @@ date: 2010-07-07 09:06:00 +0000
 layout: post
 tags: ["netbeans", "future", "eclipse"]
 slug: "netbeans-is-targeted-at-being-number"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/netbeans-is-targeted-at-being-number.html
 ---
 

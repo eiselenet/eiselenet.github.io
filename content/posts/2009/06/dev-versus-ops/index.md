@@ -4,9 +4,7 @@ date: 2009-06-25 08:31:00 +0000
 layout: post
 tags: ["development", "operations", "flickr programmierung"]
 slug: "dev-versus-ops"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/06/dev-versus-ops.html
 ---
 

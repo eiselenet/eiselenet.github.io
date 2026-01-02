@@ -4,9 +4,7 @@ date: 2011-07-28 18:11:00 +0000
 layout: post
 tags: ["glassfish", "java", "JavaMagazin"]
 slug: "java-glassfish-javamagazin-all-one"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/java-glassfish-javamagazin-all-one.html
 ---
 

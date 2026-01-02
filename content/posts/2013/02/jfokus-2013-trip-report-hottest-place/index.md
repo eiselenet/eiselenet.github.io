@@ -4,9 +4,7 @@ date: 2013-02-08 11:23:00 +0000
 layout: post
 tags: ["report", "trip", "Jfokus"]
 slug: "jfokus-2013-trip-report-hottest-place"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/02/jfokus-2013-trip-report-hottest-place.html
 ---
 

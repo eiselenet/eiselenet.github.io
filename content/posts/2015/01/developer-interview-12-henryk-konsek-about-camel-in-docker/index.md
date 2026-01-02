@@ -4,9 +4,7 @@ date: 2015-01-23 11:00:00 +0000
 layout: post
 tags: ["Camel", "Docker", "DI", "microservices"]
 slug: "developer-interview-12-henryk-konsek-about-camel-in-docker"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/developer-interview-12-henryk-konsek-about-camel-in-docker.html
 ---
 

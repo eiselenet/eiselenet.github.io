@@ -4,9 +4,7 @@ date: 2015-07-27 13:00:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "fabric8"]
 slug: "scaling-and-load-balancing-wildfly-with-fabric8-openshift"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/07/scaling-and-load-balancing-wildfly-with-fabric8-openshift.html
 ---
 

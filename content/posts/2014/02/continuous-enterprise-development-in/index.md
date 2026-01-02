@@ -4,9 +4,7 @@ date: 2014-02-20 18:00:00 +0000
 layout: post
 tags: ["Arquillian", "oreilly", "book"]
 slug: "continuous-enterprise-development-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/02/continuous-enterprise-development-in.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-01-14 08:20:00 +0000
 layout: post
 tags: ["photographie"]
 slug: "we-two"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/we-two.html
 ---
 

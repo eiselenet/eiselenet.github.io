@@ -4,9 +4,7 @@ date: 2010-01-27 14:12:00 +0000
 layout: post
 tags: ["software hardware complete", "oracle", "Sun"]
 slug: "software-hardware-complete-oracle-sun"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/software-hardware-complete-oracle-sun.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-10-14 10:56:00 +0000
 layout: post
 tags: [""]
 slug: "drops-in-focus"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/10/drops-in-focus.html
 ---
 

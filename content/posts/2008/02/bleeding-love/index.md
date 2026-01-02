@@ -4,9 +4,7 @@ date: 2008-02-18 12:37:00 +0000
 layout: post
 tags: ["privat", "photographie"]
 slug: "bleeding-love"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/bleeding-love.html
 ---
 

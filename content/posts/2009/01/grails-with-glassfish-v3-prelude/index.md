@@ -4,9 +4,7 @@ date: 2009-01-19 08:00:00 +0000
 layout: post
 tags: ["glassfish", "prelude", "grails", "v3", "howto"]
 slug: "grails-with-glassfish-v3-prelude"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/grails-with-glassfish-v3-prelude.html
 ---
 

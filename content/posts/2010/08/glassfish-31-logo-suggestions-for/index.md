@@ -4,9 +4,7 @@ date: 2010-08-10 05:36:00 +0000
 layout: post
 tags: ["logo", "sparky", "glassfish 3.1"]
 slug: "glassfish-31-logo-suggestions-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/08/glassfish-31-logo-suggestions-for.html
 ---
 

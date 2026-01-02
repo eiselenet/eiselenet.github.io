@@ -4,9 +4,7 @@ date: 2009-02-12 11:15:00 +0000
 layout: post
 tags: ["license", "development", "rich text editor"]
 slug: "best-free-rich-text-editors"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/best-free-rich-text-editors.html
 ---
 

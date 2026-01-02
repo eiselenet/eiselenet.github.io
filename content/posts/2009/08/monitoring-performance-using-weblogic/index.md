@@ -4,9 +4,7 @@ date: 2009-08-27 04:53:00 +0000
 layout: post
 tags: ["performance", "monitoring", "weblogic server", "11g"]
 slug: "monitoring-performance-using-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/monitoring-performance-using-weblogic.html
 ---
 

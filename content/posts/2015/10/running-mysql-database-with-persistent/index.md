@@ -4,9 +4,7 @@ date: 2015-10-20 11:13:00 +0000
 layout: post
 tags: [""]
 slug: "running-mysql-database-with-persistent"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/running-mysql-database-with-persistent.html
 ---
 

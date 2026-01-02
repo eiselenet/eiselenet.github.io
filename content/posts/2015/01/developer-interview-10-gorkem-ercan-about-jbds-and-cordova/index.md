@@ -4,9 +4,7 @@ date: 2015-01-14 11:00:00 +0000
 layout: post
 tags: ["JBDS", "DI", "Cordova", "Jboss"]
 slug: "developer-interview-10-gorkem-ercan-about-jbds-and-cordova"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/developer-interview-10-gorkem-ercan-about-jbds-and-cordova.html
 ---
 

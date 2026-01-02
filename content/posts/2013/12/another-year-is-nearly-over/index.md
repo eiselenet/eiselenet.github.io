@@ -4,9 +4,7 @@ date: 2013-12-24 08:26:00 +0000
 layout: post
 tags: ["thank you", "christmas", "2013"]
 slug: "another-year-is-nearly-over"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/12/another-year-is-nearly-over.html
 ---
 

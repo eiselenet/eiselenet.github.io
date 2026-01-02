@@ -4,9 +4,7 @@ date: 2009-08-19 06:06:00 +0000
 layout: post
 tags: ["Java EE", "java", "jee", "mail", "weblogic server"]
 slug: "using-javamail-with-weblogic-server"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/using-javamail-with-weblogic-server.html
 ---
 

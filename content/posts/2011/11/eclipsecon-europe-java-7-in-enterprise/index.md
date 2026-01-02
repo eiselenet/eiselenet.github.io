@@ -4,9 +4,7 @@ date: 2011-11-04 05:53:00 +0000
 layout: post
 tags: ["EclipseCon", "ece2011", "java7"]
 slug: "eclipsecon-europe-java-7-in-enterprise"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/eclipsecon-europe-java-7-in-enterprise.html
 ---
 

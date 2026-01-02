@@ -4,9 +4,7 @@ date: 2009-03-13 09:17:00 +0000
 layout: post
 tags: ["Java EE", "WAS", "wesphere", "jee", "ibm"]
 slug: "ibm-hashing-out-websphere-plans"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/ibm-hashing-out-websphere-plans.html
 ---
 

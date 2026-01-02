@@ -4,9 +4,7 @@ date: 2011-10-28 07:37:00 +0000
 layout: post
 tags: ["cloud", "java", "Nuviaq", "oracle"]
 slug: "oepe-11gr1-first-roll-out-of-oracles"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/oepe-11gr1-first-roll-out-of-oracles.html
 ---
 

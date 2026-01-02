@@ -4,9 +4,7 @@ date: 2010-05-17 06:40:00 +0000
 layout: post
 tags: ["migration", "gmail", "lotus notes", "domino"]
 slug: "gmail-notesdomino-and-migration"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/gmail-notesdomino-and-migration.html
 ---
 

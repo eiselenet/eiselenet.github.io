@@ -4,9 +4,7 @@ date: 2014-01-14 10:08:00 +0000
 layout: post
 tags: ["OUGN", "conference", "Vårseminar"]
 slug: "im-speaking-at-ougn-spring-conference"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/01/im-speaking-at-ougn-spring-conference.html
 ---
 

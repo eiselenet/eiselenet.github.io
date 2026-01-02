@@ -4,9 +4,7 @@ date: 2008-08-31 05:28:00 +0000
 layout: post
 tags: ["gwt", "google"]
 slug: "gwt-15-now-available"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/gwt-15-now-available.html
 ---
 

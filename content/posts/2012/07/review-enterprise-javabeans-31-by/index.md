@@ -4,9 +4,7 @@ date: 2012-07-11 10:53:00 +0000
 layout: post
 tags: ["ejb 3.1", "oreilly", "review"]
 slug: "review-enterprise-javabeans-31-by"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/review-enterprise-javabeans-31-by.html
 ---
 

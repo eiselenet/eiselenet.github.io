@@ -4,9 +4,7 @@ date: 2011-09-05 04:27:00 +0000
 layout: post
 tags: [""]
 slug: "thanks-dzone"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/thanks-dzone.html
 ---
 

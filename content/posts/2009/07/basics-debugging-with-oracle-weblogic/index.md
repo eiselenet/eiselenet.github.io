@@ -4,9 +4,7 @@ date: 2009-07-10 05:33:00 +0000
 layout: post
 tags: ["debugging", "basics", "oracle", "weblogic server"]
 slug: "basics-debugging-with-oracle-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/basics-debugging-with-oracle-weblogic.html
 ---
 

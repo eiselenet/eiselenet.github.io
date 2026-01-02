@@ -4,9 +4,7 @@ date: 2009-12-17 06:48:00 +0000
 layout: post
 tags: ["ejb 3.0", "ejb 2.x", "glassfishv3", "rmi-iiop", "weblogic server"]
 slug: "glassfish-v3-calling-weblogic-11g"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/glassfish-v3-calling-weblogic-11g.html
 ---
 

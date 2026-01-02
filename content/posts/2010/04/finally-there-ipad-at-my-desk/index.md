@@ -4,9 +4,7 @@ date: 2010-04-27 05:02:00 +0000
 layout: post
 tags: ["iPad", "Apple", "review"]
 slug: "finally-there-ipad-at-my-desk"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/04/finally-there-ipad-at-my-desk.html
 ---
 

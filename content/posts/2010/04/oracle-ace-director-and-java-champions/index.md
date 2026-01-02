@@ -4,9 +4,7 @@ date: 2010-04-06 07:38:00 +0000
 layout: post
 tags: ["java champions", "developer program", "oracle", "ACED"]
 slug: "oracle-ace-director-and-java-champions"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/04/oracle-ace-director-and-java-champions.html
 ---
 

@@ -4,9 +4,7 @@ date: 2016-01-04 16:38:00 +0000
 layout: post
 tags: ["german", "DevOps", "article", "microservices"]
 slug: "how-devops-and-microservices-accelerate"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/01/how-devops-and-microservices-accelerate.html
 ---
 

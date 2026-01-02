@@ -4,9 +4,7 @@ date: 2014-08-11 07:28:00 +0000
 layout: post
 tags: ["wildfly", "conference", "Jboss"]
 slug: "java-ee-wildfly-and-jboss-at-upcoming"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/java-ee-wildfly-and-jboss-at-upcoming.html
 ---
 

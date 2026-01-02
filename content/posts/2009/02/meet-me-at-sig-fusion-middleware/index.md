@@ -4,9 +4,7 @@ date: 2009-02-26 07:30:00 +0000
 layout: post
 tags: ["oracle", "SIG Fusion Middleware", "doag", "session", "weblogic server"]
 slug: "meet-me-at-sig-fusion-middleware"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/meet-me-at-sig-fusion-middleware.html
 ---
 

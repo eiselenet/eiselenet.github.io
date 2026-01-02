@@ -4,9 +4,7 @@ date: 2013-04-11 11:23:00 +0000
 layout: post
 tags: ["glassfish", "javaee7", "OEPE", "eclipse"]
 slug: "javaee-7-with-glassfish-on-eclipse-juno"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/04/javaee-7-with-glassfish-on-eclipse-juno.html
 ---
 

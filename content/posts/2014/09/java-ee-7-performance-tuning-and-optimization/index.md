@@ -4,9 +4,7 @@ date: 2014-09-29 10:00:00 +0000
 layout: post
 tags: ["packtpub", "javaee7", "performance", "review", "book"]
 slug: "java-ee-7-performance-tuning-and-optimization"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/java-ee-7-performance-tuning-and-optimization.html
 ---
 

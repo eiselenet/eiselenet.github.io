@@ -4,9 +4,7 @@ date: 2011-01-15 19:40:00 +0000
 layout: post
 tags: ["weblogic", "maven"]
 slug: "using-and-installing-weblogic-10340"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/using-and-installing-weblogic-10340.html
 ---
 

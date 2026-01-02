@@ -4,9 +4,7 @@ date: 2012-12-18 12:39:00 +0000
 layout: post
 tags: ["adopt-a-jsr", "java", "article", "jcp"]
 slug: "article-about-adopt-jsr-program"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/12/article-about-adopt-jsr-program.html
 ---
 

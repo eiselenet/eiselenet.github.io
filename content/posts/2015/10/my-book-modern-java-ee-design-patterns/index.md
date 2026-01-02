@@ -4,9 +4,7 @@ date: 2015-10-26 14:08:00 +0000
 layout: post
 tags: ["javaee", "O'Reilly", "design"]
 slug: "my-book-modern-java-ee-design-patterns"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/my-book-modern-java-ee-design-patterns.html
 ---
 

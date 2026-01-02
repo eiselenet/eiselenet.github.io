@@ -4,9 +4,7 @@ date: 2009-03-12 11:18:00 +0000
 layout: post
 tags: ["ajax"]
 slug: "70-new-useful-ajax-and-javascript"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/70-new-useful-ajax-and-javascript.html
 ---
 

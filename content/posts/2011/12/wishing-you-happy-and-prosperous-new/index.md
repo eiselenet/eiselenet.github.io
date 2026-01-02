@@ -4,9 +4,7 @@ date: 2011-12-31 13:55:00 +0000
 layout: post
 tags: ["2012 2011", "new year"]
 slug: "wishing-you-happy-and-prosperous-new"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/wishing-you-happy-and-prosperous-new.html
 ---
 

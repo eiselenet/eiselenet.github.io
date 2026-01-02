@@ -4,9 +4,7 @@ date: 2011-10-03 14:17:00 +0000
 layout: post
 tags: ["glassfish", "java", "JavaOne", "ACED"]
 slug: "day-4-meeting-community-java-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/day-4-meeting-community-java-glassfish.html
 ---
 

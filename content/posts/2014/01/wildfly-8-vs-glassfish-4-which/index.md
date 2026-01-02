@@ -4,9 +4,7 @@ date: 2014-01-28 09:53:00 +0000
 layout: post
 tags: ["glassfish", "wildfly", "javaee7"]
 slug: "wildfly-8-vs-glassfish-4-which"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/01/wildfly-8-vs-glassfish-4-which.html
 ---
 

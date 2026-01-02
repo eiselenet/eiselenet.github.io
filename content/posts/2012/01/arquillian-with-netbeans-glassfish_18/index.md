@@ -4,9 +4,7 @@ date: 2012-01-18 07:51:00 +0000
 layout: post
 tags: ["glassfish", "jpa", "mysql", "netbeans", "Arquillian"]
 slug: "arquillian-with-netbeans-glassfish_18"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/01/arquillian-with-netbeans-glassfish_18.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-09-12 06:28:00 +0000
 layout: post
 tags: ["maps", "google"]
 slug: "blurred-out-51-things-you-arent-allowed"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/blurred-out-51-things-you-arent-allowed.html
 ---
 

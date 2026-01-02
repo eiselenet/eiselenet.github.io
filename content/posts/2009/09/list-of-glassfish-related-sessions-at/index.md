@@ -4,9 +4,7 @@ date: 2009-09-29 07:46:00 +0000
 layout: post
 tags: ["oracle", "Sun", "session", "OOW"]
 slug: "list-of-glassfish-related-sessions-at"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/list-of-glassfish-related-sessions-at.html
 ---
 

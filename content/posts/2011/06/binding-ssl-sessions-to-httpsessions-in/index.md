@@ -4,9 +4,7 @@ date: 2011-06-06 08:40:00 +0000
 layout: post
 tags: ["glassfish", "security", "ssl", "session"]
 slug: "binding-ssl-sessions-to-httpsessions-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/06/binding-ssl-sessions-to-httpsessions-in.html
 ---
 

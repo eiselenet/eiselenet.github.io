@@ -4,9 +4,7 @@ date: 2013-01-14 09:42:00 +0000
 layout: post
 tags: ["devoxx", "conference", "devoxxuk"]
 slug: "im-speaking-at-devoxx-uk-2013-26th-27th"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/im-speaking-at-devoxx-uk-2013-26th-27th.html
 ---
 

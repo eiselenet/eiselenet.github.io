@@ -4,9 +4,7 @@ date: 2008-10-15 05:31:00 +0000
 layout: post
 tags: ["mozilla", "3.1 beta", "firefox"]
 slug: "firefox-31-beta-1-is-out"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/10/firefox-31-beta-1-is-out.html
 ---
 

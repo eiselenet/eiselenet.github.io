@@ -4,9 +4,7 @@ date: 2011-09-01 06:55:00 +0000
 layout: post
 tags: ["myfear", "personal"]
 slug: "me-myself-and-myfear-more-about-my"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/me-myself-and-myfear-more-about-my.html
 ---
 

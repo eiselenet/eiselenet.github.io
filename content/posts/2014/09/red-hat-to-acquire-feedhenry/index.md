@@ -4,9 +4,7 @@ date: 2014-09-18 12:33:00 +0000
 layout: post
 tags: ["Feedhenry", "acquisition", "xPaaS"]
 slug: "red-hat-to-acquire-feedhenry"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/red-hat-to-acquire-feedhenry.html
 ---
 

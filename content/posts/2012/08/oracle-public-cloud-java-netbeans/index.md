@@ -4,9 +4,7 @@ date: 2012-08-02 06:46:00 +0000
 layout: post
 tags: ["cloud", "java", "oracle", "OPC", "public", "netbeans"]
 slug: "oracle-public-cloud-java-netbeans"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/oracle-public-cloud-java-netbeans.html
 ---
 

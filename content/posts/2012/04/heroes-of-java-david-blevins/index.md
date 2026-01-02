@@ -4,9 +4,7 @@ date: 2012-04-02 04:15:00 +0000
 layout: post
 tags: ["HoJ", "David Blevins", "java", "heroes"]
 slug: "heroes-of-java-david-blevins"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/04/heroes-of-java-david-blevins.html
 ---
 

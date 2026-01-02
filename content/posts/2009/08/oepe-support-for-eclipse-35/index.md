@@ -4,9 +4,7 @@ date: 2009-08-05 04:39:00 +0000
 layout: post
 tags: ["oracle", "OEPE", "eclipse"]
 slug: "oepe-support-for-eclipse-35"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/oepe-support-for-eclipse-35.html
 ---
 

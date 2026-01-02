@@ -4,9 +4,7 @@ date: 2009-03-20 05:02:00 +0000
 layout: post
 tags: ["OSGi", "software development"]
 slug: "building-osgi-applications"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/building-osgi-applications.html
 ---
 

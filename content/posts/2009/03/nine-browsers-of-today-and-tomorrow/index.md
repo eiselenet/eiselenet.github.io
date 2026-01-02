@@ -4,9 +4,7 @@ date: 2009-03-06 04:57:00 +0000
 layout: post
 tags: ["opera", "chrome", "safari", "browser", "firefox", "internet exporer"]
 slug: "nine-browsers-of-today-and-tomorrow"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/nine-browsers-of-today-and-tomorrow.html
 ---
 

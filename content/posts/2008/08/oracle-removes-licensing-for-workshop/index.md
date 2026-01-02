@@ -4,9 +4,7 @@ date: 2008-08-13 10:06:00 +0000
 layout: post
 tags: ["bea oracle", "weblogic workshop"]
 slug: "oracle-removes-licensing-for-workshop"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/oracle-removes-licensing-for-workshop.html
 ---
 

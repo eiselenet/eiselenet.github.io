@@ -4,9 +4,7 @@ date: 2011-12-12 12:21:00 +0000
 layout: post
 tags: ["brazil", "JavaOne"]
 slug: "it-doesnt-feel-like-but-i-was-in-brazil"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/it-doesnt-feel-like-but-i-was-in-brazil.html
 ---
 

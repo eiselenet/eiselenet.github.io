@@ -4,9 +4,7 @@ date: 2010-09-29 06:18:00 +0000
 layout: post
 tags: ["Java EE", "JavaOne"]
 slug: "java-eenext-cloud-exalogic-some"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/java-eenext-cloud-exalogic-some.html
 ---
 

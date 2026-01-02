@@ -4,9 +4,7 @@ date: 2015-11-01 13:52:00 +0000
 layout: post
 tags: ["Manning", "Arquillian", "review"]
 slug: "book-review-arquillian-in-action"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/book-review-arquillian-in-action.html
 ---
 

@@ -4,9 +4,7 @@ date: 2013-10-23 09:18:00 +0000
 layout: post
 tags: ["packtpub", "testng", "review"]
 slug: "review-testng-beginners-guide-by-varun"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/10/review-testng-beginners-guide-by-varun.html
 ---
 

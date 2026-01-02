@@ -4,9 +4,7 @@ date: 2014-09-03 09:49:00 +0000
 layout: post
 tags: [""]
 slug: "make-impossible-happen-connect-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/make-impossible-happen-connect-with.html
 ---
 

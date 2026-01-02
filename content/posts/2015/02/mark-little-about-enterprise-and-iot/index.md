@@ -4,9 +4,7 @@ date: 2015-02-03 13:00:00 +0000
 layout: post
 tags: ["enterprise", "JavaLand", "IoT"]
 slug: "mark-little-about-enterprise-and-iot"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/mark-little-about-enterprise-and-iot.html
 ---
 

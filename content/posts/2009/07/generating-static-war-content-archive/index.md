@@ -4,9 +4,7 @@ date: 2009-07-21 06:48:00 +0000
 layout: post
 tags: ["Java EE", "static content", "Web", "maven", "jee", "example"]
 slug: "generating-static-war-content-archive"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/generating-static-war-content-archive.html
 ---
 

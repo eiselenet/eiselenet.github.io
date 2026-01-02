@@ -4,9 +4,7 @@ date: 2011-02-08 05:29:00 +0000
 layout: post
 tags: ["glassfish 3.1", "software quality"]
 slug: "glassfish-city-another-view-onto-your"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/glassfish-city-another-view-onto-your.html
 ---
 

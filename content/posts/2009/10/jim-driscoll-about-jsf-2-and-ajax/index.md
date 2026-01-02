@@ -4,9 +4,7 @@ date: 2009-10-06 06:45:00 +0000
 layout: post
 tags: ["slides", "ajax", "jsf 2.0"]
 slug: "jim-driscoll-about-jsf-2-and-ajax"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/jim-driscoll-about-jsf-2-and-ajax.html
 ---
 

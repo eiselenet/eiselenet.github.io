@@ -4,9 +4,7 @@ date: 2015-02-09 11:00:00 +0000
 layout: post
 tags: ["DevConf.CZ", "javaee", "Jboss"]
 slug: "devconfcz-slides-and-trip-report"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/devconfcz-slides-and-trip-report.html
 ---
 

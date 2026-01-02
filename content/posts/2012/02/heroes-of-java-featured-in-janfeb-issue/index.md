@@ -4,9 +4,7 @@ date: 2012-02-07 15:55:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "JavaMagazin"]
 slug: "heroes-of-java-featured-in-janfeb-issue"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/02/heroes-of-java-featured-in-janfeb-issue.html
 ---
 

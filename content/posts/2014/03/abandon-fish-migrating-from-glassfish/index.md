@@ -4,9 +4,7 @@ date: 2014-03-13 05:51:00 +0000
 layout: post
 tags: ["migration", "TomEE", "glassfish", "wildfly"]
 slug: "abandon-fish-migrating-from-glassfish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/03/abandon-fish-migrating-from-glassfish.html
 ---
 

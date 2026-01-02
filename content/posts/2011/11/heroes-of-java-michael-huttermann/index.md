@@ -4,9 +4,7 @@ date: 2011-11-11 10:11:00 +0000
 layout: post
 tags: ["Michael Hüttermann", "java", "heroes"]
 slug: "heroes-of-java-michael-huttermann"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/heroes-of-java-michael-huttermann.html
 ---
 

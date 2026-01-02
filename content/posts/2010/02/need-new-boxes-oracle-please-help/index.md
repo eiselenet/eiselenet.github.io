@@ -4,9 +4,7 @@ date: 2010-02-01 14:57:00 +0000
 layout: post
 tags: ["personal", "bea oracle", "weblogic server"]
 slug: "need-new-boxes-oracle-please-help"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/need-new-boxes-oracle-please-help.html
 ---
 

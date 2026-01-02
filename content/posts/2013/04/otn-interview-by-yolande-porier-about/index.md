@@ -4,9 +4,7 @@ date: 2013-04-17 13:08:00 +0000
 layout: post
 tags: ["OTN", "javaee7", "devoxxuk"]
 slug: "otn-interview-by-yolande-porier-about"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/04/otn-interview-by-yolande-porier-about.html
 ---
 

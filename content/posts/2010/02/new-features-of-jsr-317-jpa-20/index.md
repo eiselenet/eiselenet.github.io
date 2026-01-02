@@ -4,9 +4,7 @@ date: 2010-02-05 14:09:00 +0000
 layout: post
 tags: ["jsr-317", "slides", "jpa 2.0"]
 slug: "new-features-of-jsr-317-jpa-20"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/new-features-of-jsr-317-jpa-20.html
 ---
 

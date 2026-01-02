@@ -4,9 +4,7 @@ date: 2011-04-19 05:56:00 +0000
 layout: post
 tags: ["glassfish", "Coherence"]
 slug: "glassfish-31-with-oracle-coherence-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/glassfish-31-with-oracle-coherence-for.html
 ---
 

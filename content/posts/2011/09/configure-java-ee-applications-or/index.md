@@ -4,9 +4,7 @@ date: 2011-09-08 07:23:00 +0000
 layout: post
 tags: ["CDI", "adam", "javaee6", "configuration"]
 slug: "configure-java-ee-applications-or"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/configure-java-ee-applications-or.html
 ---
 

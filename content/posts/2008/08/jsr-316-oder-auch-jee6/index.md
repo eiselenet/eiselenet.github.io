@@ -4,9 +4,7 @@ date: 2008-08-10 06:09:00 +0000
 layout: post
 tags: ["Java EE", "jee", "jee6", "Java EE 6"]
 slug: "jsr-316-oder-auch-jee6"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/jsr-316-oder-auch-jee6.html
 ---
 

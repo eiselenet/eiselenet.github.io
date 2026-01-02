@@ -4,9 +4,7 @@ date: 2011-12-24 17:00:00 +0000
 layout: post
 tags: ["Rod Johnson", "java", "heroes"]
 slug: "heroes-of-java-rod-johnson"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/heroes-of-java-rod-johnson.html
 ---
 

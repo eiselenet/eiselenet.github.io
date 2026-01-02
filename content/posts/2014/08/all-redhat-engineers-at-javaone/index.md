@@ -4,9 +4,7 @@ date: 2014-08-14 14:46:00 +0000
 layout: post
 tags: ["RedHat", "JavaOne"]
 slug: "all-redhat-engineers-at-javaone"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/all-redhat-engineers-at-javaone.html
 ---
 

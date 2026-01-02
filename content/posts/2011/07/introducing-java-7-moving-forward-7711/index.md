@@ -4,9 +4,7 @@ date: 2011-07-07 14:00:00 +0000
 layout: post
 tags: ["forward", "java7", "introduction"]
 slug: "introducing-java-7-moving-forward-7711"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/introducing-java-7-moving-forward-7711.html
 ---
 

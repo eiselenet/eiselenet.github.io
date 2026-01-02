@@ -4,9 +4,7 @@ date: 2013-07-04 04:46:00 +0000
 layout: post
 tags: ["training", "javaee7", "netbeans", "jsf"]
 slug: "experts-training-on-jsf-22-with-edburns"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/07/experts-training-on-jsf-22-with-edburns.html
 ---
 

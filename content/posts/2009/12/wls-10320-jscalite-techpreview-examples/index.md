@@ -4,9 +4,7 @@ date: 2009-12-04 07:41:00 +0000
 layout: post
 tags: ["sca", "JScaLite", "Spring", "weblogic server"]
 slug: "wls-10320-jscalite-techpreview-examples"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/wls-10320-jscalite-techpreview-examples.html
 ---
 

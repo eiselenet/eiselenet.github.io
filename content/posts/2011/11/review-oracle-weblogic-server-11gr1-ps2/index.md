@@ -4,9 +4,7 @@ date: 2011-11-07 08:19:00 +0000
 layout: post
 tags: ["packtpub", "weblogic", "books", "oracle", "review"]
 slug: "review-oracle-weblogic-server-11gr1-ps2"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/review-oracle-weblogic-server-11gr1-ps2.html
 ---
 

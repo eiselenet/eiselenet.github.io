@@ -4,9 +4,7 @@ date: 2008-09-01 03:27:00 +0000
 layout: post
 tags: ["mozilla", "Ubiquity", "plugin", "firefox"]
 slug: "ubiquity-011-released"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/ubiquity-011-released.html
 ---
 

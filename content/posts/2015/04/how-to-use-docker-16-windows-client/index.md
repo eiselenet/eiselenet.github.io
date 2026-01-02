@@ -4,9 +4,7 @@ date: 2015-04-17 13:00:00 +0000
 layout: post
 tags: ["Windows", "Docker", "Boot2Docker"]
 slug: "how-to-use-docker-16-windows-client"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/how-to-use-docker-16-windows-client.html
 ---
 

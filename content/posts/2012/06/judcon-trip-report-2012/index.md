@@ -4,9 +4,7 @@ date: 2012-06-29 06:02:00 +0000
 layout: post
 tags: ["RedHat", "jbcra", "JUDCon", "Boston"]
 slug: "judcon-trip-report-2012"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/06/judcon-trip-report-2012.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-01-18 05:51:00 +0000
 layout: post
 tags: ["Interceptor", "JSR-299", "Java EE 6"]
 slug: "jsr-299-cdi-interceptors"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/jsr-299-cdi-interceptors.html
 ---
 

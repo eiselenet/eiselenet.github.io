@@ -4,9 +4,7 @@ date: 2008-12-04 04:47:00 +0000
 layout: post
 tags: ["bea oracle", "doag"]
 slug: "doag-review"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/12/doag-review.html
 ---
 

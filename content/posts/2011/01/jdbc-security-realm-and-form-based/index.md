@@ -4,9 +4,7 @@ date: 2011-01-25 07:32:00 +0000
 layout: post
 tags: ["glassfish", "primefaces", "Security Realm"]
 slug: "jdbc-security-realm-and-form-based"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/jdbc-security-realm-and-form-based.html
 ---
 

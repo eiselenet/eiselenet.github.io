@@ -4,9 +4,7 @@ date: 2009-02-04 06:07:00 +0000
 layout: post
 tags: ["DD", "soft skills", "Gunter Dueck", "brainstorming"]
 slug: "heartstorming-instead-of-brainstorming"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/heartstorming-instead-of-brainstorming.html
 ---
 

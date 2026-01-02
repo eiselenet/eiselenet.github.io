@@ -4,9 +4,7 @@ date: 2009-06-08 08:41:00 +0000
 layout: post
 tags: ["JavaOne", "java", "quote"]
 slug: "evolution-of-java-language-is"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/06/evolution-of-java-language-is.html
 ---
 

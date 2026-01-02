@@ -4,9 +4,7 @@ date: 2014-09-15 08:44:00 +0000
 layout: post
 tags: ["Fuse", "components", "Jboss"]
 slug: "jboss-fuse-component-details-and-versions"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/jboss-fuse-component-details-and-versions.html
 ---
 

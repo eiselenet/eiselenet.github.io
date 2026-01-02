@@ -4,9 +4,7 @@ date: 2009-02-10 06:06:00 +0000
 layout: post
 tags: ["filter", "weblogic server", "http", "gzip", "html", "compression"]
 slug: "using-html-and-http-compression-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/using-html-and-http-compression-with.html
 ---
 

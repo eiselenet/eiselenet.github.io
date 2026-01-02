@@ -4,9 +4,7 @@ date: 2012-07-18 11:23:00 +0000
 layout: post
 tags: ["glassfish", "release"]
 slug: "whats-new-in-glassfish-server-3122"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/whats-new-in-glassfish-server-3122.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-12-14 11:51:00 +0000
 layout: post
 tags: ["findbugs", "components", "software quality", "jsf"]
 slug: "software-quality-jsf-component_14"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/software-quality-jsf-component_14.html
 ---
 

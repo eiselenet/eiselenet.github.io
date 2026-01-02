@@ -4,9 +4,7 @@ date: 2012-09-27 21:33:00 +0000
 layout: post
 tags: ["oracle", "JavaOne", "openworld", "ACED"]
 slug: "day-0-oracle-openworld-and-javaone"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/day-0-oracle-openworld-and-javaone.html
 ---
 

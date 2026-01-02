@@ -4,9 +4,7 @@ date: 2009-01-14 09:36:00 +0000
 layout: post
 tags: ["errors", "programming", "top 25"]
 slug: "sans-institute-top-25-most-dangerous"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/sans-institute-top-25-most-dangerous.html
 ---
 

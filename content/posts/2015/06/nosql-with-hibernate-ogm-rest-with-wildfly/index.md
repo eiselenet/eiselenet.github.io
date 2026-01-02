@@ -4,9 +4,7 @@ date: 2015-06-03 11:00:00 +0000
 layout: post
 tags: ["wildfly", "tutorial", "Jboss", "HibernateOGM"]
 slug: "nosql-with-hibernate-ogm-rest-with-wildfly"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/06/nosql-with-hibernate-ogm-rest-with-wildfly.html
 ---
 

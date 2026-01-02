@@ -4,9 +4,7 @@ date: 2010-09-18 04:42:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne", "ACED"]
 slug: "day-2-aced-briefing-and-going-to-sfo"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-2-aced-briefing-and-going-to-sfo.html
 ---
 

@@ -4,9 +4,7 @@ date: 2013-07-10 10:35:00 +0000
 layout: post
 tags: ["wordle", "twitter", "archive"]
 slug: "1935-days-of-twitter"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/07/1935-days-of-twitter.html
 ---
 

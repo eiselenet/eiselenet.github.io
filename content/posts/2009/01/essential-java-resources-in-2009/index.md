@@ -4,9 +4,7 @@ date: 2009-01-28 08:05:00 +0000
 layout: post
 tags: ["Java EE", "books", "java", "blogs", "sites", "jee", "trends 2009", "events"]
 slug: "essential-java-resources-in-2009"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/essential-java-resources-in-2009.html
 ---
 

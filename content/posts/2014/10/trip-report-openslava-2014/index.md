@@ -4,9 +4,7 @@ date: 2014-10-24 10:00:00 +0000
 layout: post
 tags: ["RedHat", "OpenSlava", "conference", "Jboss"]
 slug: "trip-report-openslava-2014"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/trip-report-openslava-2014.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-09-16 13:14:00 +0000
 layout: post
 tags: ["OOW10", "JavaOne", "ACED"]
 slug: "day-0-openworld-oracle-develop-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-0-openworld-oracle-develop-and.html
 ---
 

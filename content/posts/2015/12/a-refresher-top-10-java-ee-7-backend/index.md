@@ -4,9 +4,7 @@ date: 2015-12-22 06:53:00 +0000
 layout: post
 tags: ["javaee7", "Top10"]
 slug: "a-refresher-top-10-java-ee-7-backend"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/a-refresher-top-10-java-ee-7-backend.html
 ---
 

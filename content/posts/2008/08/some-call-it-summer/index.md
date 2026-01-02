@@ -4,9 +4,7 @@ date: 2008-08-25 09:34:00 +0000
 layout: post
 tags: [""]
 slug: "some-call-it-summer"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/some-call-it-summer.html
 ---
 

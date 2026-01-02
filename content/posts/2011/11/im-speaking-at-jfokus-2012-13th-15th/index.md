@@ -4,9 +4,7 @@ date: 2011-11-28 09:16:00 +0000
 layout: post
 tags: ["java7", "enterprise", "Jfokus"]
 slug: "im-speaking-at-jfokus-2012-13th-15th"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/11/im-speaking-at-jfokus-2012-13th-15th.html
 ---
 

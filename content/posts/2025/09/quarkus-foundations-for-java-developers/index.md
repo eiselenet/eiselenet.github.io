@@ -4,9 +4,7 @@ date: 2025-09-15 09:47:00 +0000
 layout: post
 tags: ["java", "Quarkus", "Beginner", "Learning Path"]
 slug: "quarkus-foundations-for-java-developers"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/09/quarkus-foundations-for-java-developers.html
 ---
 

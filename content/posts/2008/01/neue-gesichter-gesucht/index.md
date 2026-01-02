@@ -4,9 +4,7 @@ date: 2008-01-21 06:08:00 +0000
 layout: post
 tags: ["msg systems ag", "arbeitgeber", "job", "softwareentwicklung"]
 slug: "neue-gesichter-gesucht"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/neue-gesichter-gesucht.html
 ---
 

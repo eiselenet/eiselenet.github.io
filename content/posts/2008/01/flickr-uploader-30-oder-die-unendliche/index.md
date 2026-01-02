@@ -4,9 +4,7 @@ date: 2008-01-15 07:33:00 +0000
 layout: post
 tags: ["flickr programmierung"]
 slug: "flickr-uploader-30-oder-die-unendliche"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/flickr-uploader-30-oder-die-unendliche.html
 ---
 

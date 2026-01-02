@@ -4,9 +4,7 @@ date: 2013-01-10 08:16:00 +0000
 layout: post
 tags: ["glassfish", "javaee7", "jsf"]
 slug: "testdriving-mojarra-220-m08-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/testdriving-mojarra-220-m08-on.html
 ---
 

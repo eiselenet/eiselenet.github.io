@@ -4,9 +4,7 @@ date: 2008-02-22 11:44:00 +0000
 layout: post
 tags: ["apache", "softwareentwicklung", "geronimo", "programmierung"]
 slug: "apache-geronimo-v21-released"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/apache-geronimo-v21-released.html
 ---
 

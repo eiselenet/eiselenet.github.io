@@ -4,9 +4,7 @@ date: 2015-12-01 10:00:00 +0000
 layout: post
 tags: ["InfoQ"]
 slug: "how-microservices-devops-and-paas-impact-javaee"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/how-microservices-devops-and-paas-impact-javaee.html
 ---
 

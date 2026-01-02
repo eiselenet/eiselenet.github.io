@@ -4,9 +4,7 @@ date: 2010-05-21 10:45:00 +0000
 layout: post
 tags: ["glassfish", "oracle", "doagev", "article"]
 slug: "doag-news-0210-glassfish-and-java-ee-6"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/doag-news-0210-glassfish-and-java-ee-6.html
 ---
 

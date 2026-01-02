@@ -4,9 +4,7 @@ date: 2009-08-21 09:02:00 +0000
 layout: post
 tags: ["acquisition", "bea oracle", "Sun"]
 slug: "sparks-and-white-noise-new-oraclesun"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/sparks-and-white-noise-new-oraclesun.html
 ---
 

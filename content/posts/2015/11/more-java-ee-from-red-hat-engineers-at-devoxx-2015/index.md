@@ -4,9 +4,7 @@ date: 2015-11-09 09:12:00 +0000
 layout: post
 tags: ["RedHat", "devoxx", "javaee"]
 slug: "more-java-ee-from-red-hat-engineers-at-devoxx-2015"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/more-java-ee-from-red-hat-engineers-at-devoxx-2015.html
 ---
 

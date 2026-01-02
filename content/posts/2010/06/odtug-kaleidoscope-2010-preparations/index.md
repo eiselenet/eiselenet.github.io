@@ -4,9 +4,7 @@ date: 2010-06-09 05:56:00 +0000
 layout: post
 tags: ["odtug", "oracle", "kaleidoscope2010"]
 slug: "odtug-kaleidoscope-2010-preparations"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/06/odtug-kaleidoscope-2010-preparations.html
 ---
 

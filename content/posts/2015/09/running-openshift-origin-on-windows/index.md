@@ -4,9 +4,7 @@ date: 2015-09-22 07:56:00 +0000
 layout: post
 tags: ["Openshift", "Windows"]
 slug: "running-openshift-origin-on-windows"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/09/running-openshift-origin-on-windows.html
 ---
 

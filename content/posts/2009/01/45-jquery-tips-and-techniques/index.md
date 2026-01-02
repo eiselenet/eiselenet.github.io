@@ -4,9 +4,7 @@ date: 2009-01-25 07:43:00 +0000
 layout: post
 tags: ["tricks", "development", "jQuery", "tips"]
 slug: "45-jquery-tips-and-techniques"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/45-jquery-tips-and-techniques.html
 ---
 

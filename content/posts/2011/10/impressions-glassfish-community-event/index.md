@@ -4,9 +4,7 @@ date: 2011-10-03 22:29:00 +0000
 layout: post
 tags: ["glassfish", "javaone11"]
 slug: "impressions-glassfish-community-event"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/impressions-glassfish-community-event.html
 ---
 

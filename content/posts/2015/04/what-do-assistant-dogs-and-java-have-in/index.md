@@ -4,9 +4,7 @@ date: 2015-04-10 09:11:00 +0000
 layout: post
 tags: ["survey", "DogsForTheDissabled", "Rebellabs"]
 slug: "what-do-assistant-dogs-and-java-have-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/what-do-assistant-dogs-and-java-have-in.html
 ---
 

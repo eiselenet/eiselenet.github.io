@@ -4,9 +4,7 @@ date: 2008-11-06 11:17:00 +0000
 layout: post
 tags: [""]
 slug: "in-hurry"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/in-hurry.html
 ---
 

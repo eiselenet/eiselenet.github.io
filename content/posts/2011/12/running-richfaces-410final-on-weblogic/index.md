@@ -4,9 +4,7 @@ date: 2011-12-15 10:21:00 +0000
 layout: post
 tags: ["weblogic", "richfaces"]
 slug: "running-richfaces-410final-on-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/12/running-richfaces-410final-on-weblogic.html
 ---
 

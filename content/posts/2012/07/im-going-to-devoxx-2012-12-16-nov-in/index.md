@@ -4,9 +4,7 @@ date: 2012-07-24 07:51:00 +0000
 layout: post
 tags: ["javaee", "devoxx"]
 slug: "im-going-to-devoxx-2012-12-16-nov-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/im-going-to-devoxx-2012-12-16-nov-in.html
 ---
 

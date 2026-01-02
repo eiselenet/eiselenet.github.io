@@ -4,9 +4,7 @@ date: 2009-10-29 11:33:00 +0000
 layout: post
 tags: ["v2.1.1", "proxy", "glassfish", "apache", "failover", "2.2", "loadbalancing"]
 slug: "loadbalancing-with-fail-over-through"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/loadbalancing-with-fail-over-through.html
 ---
 

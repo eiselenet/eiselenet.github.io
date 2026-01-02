@@ -4,9 +4,7 @@ date: 2010-09-30 04:57:00 +0000
 layout: post
 tags: ["java SE 7", "Java SE 8", "javaone10"]
 slug: "java-se-7-8-9-road-ahead"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/java-se-7-8-9-road-ahead.html
 ---
 

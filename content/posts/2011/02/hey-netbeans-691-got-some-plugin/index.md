@@ -4,9 +4,7 @@ date: 2011-02-02 07:37:00 +0000
 layout: post
 tags: ["netbeans"]
 slug: "hey-netbeans-691-got-some-plugin"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/hey-netbeans-691-got-some-plugin.html
 ---
 

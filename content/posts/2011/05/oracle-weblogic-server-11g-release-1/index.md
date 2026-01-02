@@ -4,9 +4,7 @@ date: 2011-05-06 13:58:00 +0000
 layout: post
 tags: ["weblogic", "OEPE"]
 slug: "oracle-weblogic-server-11g-release-1"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/oracle-weblogic-server-11g-release-1.html
 ---
 

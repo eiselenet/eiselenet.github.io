@@ -4,9 +4,7 @@ date: 2011-02-21 06:50:00 +0000
 layout: post
 tags: ["ejb 3.1", "cluster", "glassfish 3.1"]
 slug: "clustering-stateful-session-beans-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/clustering-stateful-session-beans-with.html
 ---
 

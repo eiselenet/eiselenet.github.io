@@ -4,9 +4,7 @@ date: 2014-09-26 10:00:00 +0000
 layout: post
 tags: ["wildfly", "Quickstarts", "SwitchYard"]
 slug: "exploring-switchyard-200alpha2"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/exploring-switchyard-200alpha2.html
 ---
 

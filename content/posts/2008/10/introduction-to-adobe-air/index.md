@@ -4,9 +4,7 @@ date: 2008-10-03 13:00:00 +0000
 layout: post
 tags: ["AIR", "new technology", "Adobe"]
 slug: "introduction-to-adobe-air"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/10/introduction-to-adobe-air.html
 ---
 

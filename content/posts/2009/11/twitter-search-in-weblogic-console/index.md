@@ -4,9 +4,7 @@ date: 2009-11-02 08:10:00 +0000
 layout: post
 tags: ["console", "twitter", "extenstion", "weblogic server"]
 slug: "twitter-search-in-weblogic-console"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/11/twitter-search-in-weblogic-console.html
 ---
 

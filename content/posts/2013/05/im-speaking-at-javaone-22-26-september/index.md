@@ -4,9 +4,7 @@ date: 2013-05-30 09:04:00 +0000
 layout: post
 tags: ["javaone13", "conference"]
 slug: "im-speaking-at-javaone-22-26-september"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/05/im-speaking-at-javaone-22-26-september.html
 ---
 

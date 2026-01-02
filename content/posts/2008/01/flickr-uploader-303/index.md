@@ -4,9 +4,7 @@ date: 2008-01-18 10:41:00 +0000
 layout: post
 tags: ["flickr programmierung", "photographie"]
 slug: "flickr-uploader-303"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/flickr-uploader-303.html
 ---
 

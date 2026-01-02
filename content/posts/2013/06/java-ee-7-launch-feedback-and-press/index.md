@@ -4,9 +4,7 @@ date: 2013-06-18 09:50:00 +0000
 layout: post
 tags: ["article", "javaee7"]
 slug: "java-ee-7-launch-feedback-and-press"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/java-ee-7-launch-feedback-and-press.html
 ---
 

@@ -4,9 +4,7 @@ date: 2016-08-05 07:16:00 +0000
 layout: post
 tags: ["JMS", "wildfly swarm", "remoting"]
 slug: "remote-jms-with-wildfly-swarm"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/08/remote-jms-with-wildfly-swarm.html
 ---
 

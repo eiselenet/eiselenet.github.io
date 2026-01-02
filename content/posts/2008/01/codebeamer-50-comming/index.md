@@ -4,9 +4,7 @@ date: 2008-01-15 06:32:00 +0000
 layout: post
 tags: ["softwareentwicklung"]
 slug: "codebeamer-50-comming"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/codebeamer-50-comming.html
 ---
 

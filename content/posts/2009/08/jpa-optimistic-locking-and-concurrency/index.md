@@ -4,9 +4,7 @@ date: 2009-08-05 04:55:00 +0000
 layout: post
 tags: ["Java EE", "jee", "transactions", "jpa 2.0", "concurrency"]
 slug: "jpa-optimistic-locking-and-concurrency"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/jpa-optimistic-locking-and-concurrency.html
 ---
 

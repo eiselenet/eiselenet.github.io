@@ -4,9 +4,7 @@ date: 2015-04-14 11:00:00 +0000
 layout: post
 tags: ["vJBUG", "WildFly9", "Jboss"]
 slug: "how-to-contribute-to-jboss-wildfly"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/how-to-contribute-to-jboss-wildfly.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-02-20 08:49:00 +0000
 layout: post
 tags: ["jpa", "mysql", "jta", "EclipseLink", "weblogic server"]
 slug: "eclipselink-120-jpa-spring-256-mysql-54"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/02/eclipselink-120-jpa-spring-256-mysql-54.html
 ---
 

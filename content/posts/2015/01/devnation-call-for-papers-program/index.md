@@ -4,9 +4,7 @@ date: 2015-01-19 11:00:00 +0000
 layout: post
 tags: ["conference", "Jboss", "DevNation"]
 slug: "devnation-call-for-papers-program"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/01/devnation-call-for-papers-program.html
 ---
 

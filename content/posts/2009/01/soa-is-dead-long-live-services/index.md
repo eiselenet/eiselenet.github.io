@@ -4,9 +4,7 @@ date: 2009-01-07 04:44:00 +0000
 layout: post
 tags: ["Services", "SOA Paper", "soa", "SaaS"]
 slug: "soa-is-dead-long-live-services"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/soa-is-dead-long-live-services.html
 ---
 

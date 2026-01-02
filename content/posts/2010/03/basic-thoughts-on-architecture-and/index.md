@@ -4,9 +4,7 @@ date: 2010-03-04 06:51:00 +0000
 layout: post
 tags: ["review", "architecture", "design"]
 slug: "basic-thoughts-on-architecture-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/basic-thoughts-on-architecture-and.html
 ---
 

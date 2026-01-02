@@ -4,9 +4,7 @@ date: 2011-07-04 03:07:00 +0000
 layout: post
 tags: ["screensaver", "java", "duke"]
 slug: "java-is-moving-forward-and-so-is-duke"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/java-is-moving-forward-and-so-is-duke.html
 ---
 

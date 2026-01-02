@@ -4,9 +4,7 @@ date: 2009-01-02 07:55:00 +0000
 layout: post
 tags: ["2009", "2008", "privat", "new year"]
 slug: "2008-review"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/2008-review.html
 ---
 

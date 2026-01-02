@@ -4,9 +4,7 @@ date: 2009-03-18 11:28:00 +0000
 layout: post
 tags: ["Sun", "ibm", "takeover"]
 slug: "ibm-in-talks-to-buy-sun"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/ibm-in-talks-to-buy-sun.html
 ---
 

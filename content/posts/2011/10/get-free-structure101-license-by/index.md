@@ -4,9 +4,7 @@ date: 2011-10-25 17:02:00 +0000
 layout: post
 tags: ["license", "free", "Structure101", "javausergroups"]
 slug: "get-free-structure101-license-by"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/get-free-structure101-license-by.html
 ---
 

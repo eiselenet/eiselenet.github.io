@@ -4,9 +4,7 @@ date: 2010-08-02 05:48:00 +0000
 layout: post
 tags: ["glassfish", "wtp", "oracle", "OEPE"]
 slug: "oracle-enterprise-pack-for-eclipse-oepe"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/08/oracle-enterprise-pack-for-eclipse-oepe.html
 ---
 

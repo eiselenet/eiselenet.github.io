@@ -4,9 +4,7 @@ date: 2015-02-27 12:00:00 +0000
 layout: post
 tags: ["wildfly", "nodejs", "performance", "DI"]
 slug: "developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/developer-interview-15-with-niko-about-jaxrs-performance-with-wildfly-and-nodejs.html
 ---
 

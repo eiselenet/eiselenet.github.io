@@ -4,9 +4,7 @@ date: 2015-10-20 11:31:00 +0000
 layout: post
 tags: ["QuickTip", "Openshift"]
 slug: "openshift-quick-tip-port-forwarding"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/openshift-quick-tip-port-forwarding.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-07-29 08:57:00 +0000
 layout: post
 tags: ["wildfly", "SwitchYard"]
 slug: "getting-started-with-switchyard"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/07/getting-started-with-switchyard.html
 ---
 

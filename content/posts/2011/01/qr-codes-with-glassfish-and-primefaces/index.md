@@ -4,9 +4,7 @@ date: 2011-01-14 13:47:00 +0000
 layout: post
 tags: ["glassfish", "qr-codes", "primefaces"]
 slug: "qr-codes-with-glassfish-and-primefaces"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/qr-codes-with-glassfish-and-primefaces.html
 ---
 

@@ -4,9 +4,7 @@ date: 2011-03-08 06:19:00 +0000
 layout: post
 tags: ["techcast", "weblogic", "glassfish"]
 slug: "both-weblogic-and-glassfish-are"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/03/both-weblogic-and-glassfish-are.html
 ---
 

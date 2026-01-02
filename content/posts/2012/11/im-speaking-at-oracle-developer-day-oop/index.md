@@ -4,9 +4,7 @@ date: 2012-11-27 08:37:00 +0000
 layout: post
 tags: ["java cloud", "developer day", "oracle", "oop2013"]
 slug: "im-speaking-at-oracle-developer-day-oop"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/11/im-speaking-at-oracle-developer-day-oop.html
 ---
 

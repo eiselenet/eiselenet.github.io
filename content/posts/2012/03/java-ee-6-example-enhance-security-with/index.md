@@ -4,9 +4,7 @@ date: 2012-03-28 06:38:00 +0000
 layout: post
 tags: ["security", "javaee6", "galleria", "example"]
 slug: "java-ee-6-example-enhance-security-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/java-ee-6-example-enhance-security-with.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-09-30 04:24:00 +0000
 layout: post
 tags: ["Spring", "3.0 RC1"]
 slug: "spring-framework-30-rc1-released"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/spring-framework-30-rc1-released.html
 ---
 

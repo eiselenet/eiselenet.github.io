@@ -4,9 +4,7 @@ date: 2009-07-10 05:57:00 +0000
 layout: post
 tags: ["application grid", "oracle", "weblogic server", "Coherence", "JRockit"]
 slug: "oracle-application-grid-podcasts"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/oracle-application-grid-podcasts.html
 ---
 

@@ -4,9 +4,7 @@ date: 2015-04-22 11:00:00 +0000
 layout: post
 tags: ["CfP", "JavaOne"]
 slug: "javaone-tips-and-recommendations-for-a-successful-submission"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/javaone-tips-and-recommendations-for-a-successful-submission.html
 ---
 

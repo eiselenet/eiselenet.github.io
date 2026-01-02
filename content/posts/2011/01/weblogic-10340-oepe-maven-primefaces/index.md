@@ -4,9 +4,7 @@ date: 2011-01-21 13:06:00 +0000
 layout: post
 tags: ["weblogic", "primefaces", "OEPE"]
 slug: "weblogic-10340-oepe-maven-primefaces"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/weblogic-10340-oepe-maven-primefaces.html
 ---
 

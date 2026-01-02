@@ -4,9 +4,7 @@ date: 2011-10-13 10:04:00 +0000
 layout: post
 tags: ["cloud", "weblogic", "oracle"]
 slug: "oracle-weblogic-java-cloud-service"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/oracle-weblogic-java-cloud-service.html
 ---
 

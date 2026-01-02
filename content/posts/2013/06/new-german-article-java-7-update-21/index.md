@@ -4,9 +4,7 @@ date: 2013-06-03 08:46:00 +0000
 layout: post
 tags: ["security", "java", "article", "heise"]
 slug: "new-german-article-java-7-update-21"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/new-german-article-java-7-update-21.html
 ---
 

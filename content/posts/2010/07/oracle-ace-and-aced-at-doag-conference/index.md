@@ -4,9 +4,7 @@ date: 2010-07-28 06:52:00 +0000
 layout: post
 tags: ["doagev", "doag2010", "ACED"]
 slug: "oracle-ace-and-aced-at-doag-conference"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/oracle-ace-and-aced-at-doag-conference.html
 ---
 

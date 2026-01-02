@@ -4,9 +4,7 @@ date: 2011-01-06 19:07:00 +0000
 layout: post
 tags: ["Beautiful Code", "oreilly", "review"]
 slug: "review-beautiful-code-leading"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/review-beautiful-code-leading.html
 ---
 

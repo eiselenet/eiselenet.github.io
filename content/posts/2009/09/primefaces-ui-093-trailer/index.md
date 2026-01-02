@@ -4,9 +4,7 @@ date: 2009-09-28 06:11:00 +0000
 layout: post
 tags: ["jsf", "primefaces"]
 slug: "primefaces-ui-093-trailer"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/primefaces-ui-093-trailer.html
 ---
 

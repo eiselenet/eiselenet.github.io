@@ -4,9 +4,7 @@ date: 2013-09-12 10:24:00 +0000
 layout: post
 tags: ["javaee7", "java aktuell", "article"]
 slug: "new-article-in-german-java-aktuell-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/09/new-article-in-german-java-aktuell-java.html
 ---
 

@@ -4,9 +4,7 @@ date: 2010-05-12 11:18:00 +0000
 layout: post
 tags: ["doagev", "doag2010"]
 slug: "doag-2010-conference-and-exhibition-cfp"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/doag-2010-conference-and-exhibition-cfp.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-12-01 10:53:00 +0000
 layout: post
 tags: ["JSR-316", "specifications"]
 slug: "java-ee-6-specification-summary-zoom"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/java-ee-6-specification-summary-zoom.html
 ---
 

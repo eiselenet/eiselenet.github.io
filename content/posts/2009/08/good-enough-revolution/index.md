@@ -4,9 +4,7 @@ date: 2009-08-31 06:37:00 +0000
 layout: post
 tags: ["\"Good Enough Revolution\"", "software development"]
 slug: "good-enough-revolution"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/good-enough-revolution.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-07-21 04:36:00 +0000
 layout: post
 tags: ["softwareentwicklung", "maven"]
 slug: "maven-goal-eclipserad"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/07/maven-goal-eclipserad.html
 ---
 

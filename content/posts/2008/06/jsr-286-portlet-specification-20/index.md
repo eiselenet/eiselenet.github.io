@@ -4,9 +4,7 @@ date: 2008-06-14 10:36:00 +0000
 layout: post
 tags: ["portlet", "JSR-286", "portal"]
 slug: "jsr-286-portlet-specification-20"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/06/jsr-286-portlet-specification-20.html
 ---
 

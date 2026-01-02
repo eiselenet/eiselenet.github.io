@@ -4,9 +4,7 @@ date: 2011-02-05 15:16:00 +0000
 layout: post
 tags: ["doagev", "advisory board"]
 slug: "doag-ev-advisory-board-meeting-review"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/doag-ev-advisory-board-meeting-review.html
 ---
 

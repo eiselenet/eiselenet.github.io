@@ -4,9 +4,7 @@ date: 2014-10-09 10:00:00 +0000
 layout: post
 tags: ["Fuse", "Camel", "Geert Schuring", "DI", "Jboss"]
 slug: "developer-interview-di-6-geert-schuring"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/developer-interview-di-6-geert-schuring.html
 ---
 

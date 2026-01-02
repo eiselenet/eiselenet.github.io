@@ -4,9 +4,7 @@ date: 2015-10-23 10:47:00 +0000
 layout: post
 tags: ["JavaOne", "Docker", "javaee"]
 slug: "docker-for-java-ee-developers-javvaone"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/docker-for-java-ee-developers-javvaone.html
 ---
 

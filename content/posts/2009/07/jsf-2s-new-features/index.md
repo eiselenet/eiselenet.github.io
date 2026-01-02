@@ -4,9 +4,7 @@ date: 2009-07-15 04:55:00 +0000
 layout: post
 tags: ["David Geary", "components", "templates", "jsf", "ajax", "jsf 2.0"]
 slug: "jsf-2s-new-features"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/jsf-2s-new-features.html
 ---
 

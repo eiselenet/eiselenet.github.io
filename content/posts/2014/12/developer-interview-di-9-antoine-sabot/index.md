@@ -4,9 +4,7 @@ date: 2014-12-04 11:00:00 +0000
 layout: post
 tags: ["CDI", "JavaEE8", "DI", "Jboss"]
 slug: "developer-interview-di-9-antoine-sabot"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/developer-interview-di-9-antoine-sabot.html
 ---
 

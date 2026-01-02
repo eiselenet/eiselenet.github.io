@@ -4,9 +4,7 @@ date: 2008-09-01 05:08:00 +0000
 layout: post
 tags: ["mysql", "oracle", "Security Realm", "weblogic server"]
 slug: "using-mysql-as-rdbms-security-store-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/using-mysql-as-rdbms-security-store-for.html
 ---
 

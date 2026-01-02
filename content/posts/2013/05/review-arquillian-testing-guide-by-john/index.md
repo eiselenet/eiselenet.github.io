@@ -4,9 +4,7 @@ date: 2013-05-30 08:30:00 +0000
 layout: post
 tags: ["packtpub", "Arquillian", "review"]
 slug: "review-arquillian-testing-guide-by-john"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/05/review-arquillian-testing-guide-by-john.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-11-26 11:00:00 +0000
 layout: post
 tags: ["Fuse", "devoxx", "DI", "AeroGear", "Feedhenry", "xPaaS"]
 slug: "developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/11/developer-interview-di-8-the-team-behind-the-red-hat-devoxx-keynote-demo.html
 ---
 

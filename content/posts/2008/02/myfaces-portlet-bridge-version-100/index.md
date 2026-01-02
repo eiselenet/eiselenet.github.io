@@ -4,9 +4,7 @@ date: 2008-02-22 11:21:00 +0000
 layout: post
 tags: ["softwareentwicklung", "programmierung", "JSR-301", "portlet", "jsf", "portal"]
 slug: "myfaces-portlet-bridge-version-100"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/myfaces-portlet-bridge-version-100.html
 ---
 

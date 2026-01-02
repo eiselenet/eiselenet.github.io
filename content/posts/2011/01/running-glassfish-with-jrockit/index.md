@@ -4,9 +4,7 @@ date: 2011-01-30 19:30:00 +0000
 layout: post
 tags: ["glassfish", "JRockit"]
 slug: "running-glassfish-with-jrockit"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/running-glassfish-with-jrockit.html
 ---
 

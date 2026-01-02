@@ -4,9 +4,7 @@ date: 2013-01-25 11:44:00 +0000
 layout: post
 tags: ["security", "netbeans", "JDBCRealm", "primefaces"]
 slug: "jdbc-realm-glassfish312-primefaces342"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/jdbc-realm-glassfish312-primefaces342.html
 ---
 

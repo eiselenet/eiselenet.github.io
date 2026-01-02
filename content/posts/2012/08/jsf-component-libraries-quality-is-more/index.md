@@ -4,9 +4,7 @@ date: 2012-08-26 19:21:00 +0000
 layout: post
 tags: ["richfaces", "icefaces", "jsf", "primefaces", "quality"]
 slug: "jsf-component-libraries-quality-is-more"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/jsf-component-libraries-quality-is-more.html
 ---
 

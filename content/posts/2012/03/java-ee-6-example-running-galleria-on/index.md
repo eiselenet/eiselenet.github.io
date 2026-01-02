@@ -4,9 +4,7 @@ date: 2012-03-14 11:52:00 +0000
 layout: post
 tags: ["weblogic", "javaee6", "netbeans", "example"]
 slug: "java-ee-6-example-running-galleria-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/java-ee-6-example-running-galleria-on.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-08-29 07:03:00 +0000
 layout: post
 tags: ["xing", "Ubiquity", "firefox"]
 slug: "ubiquity-xing-command"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/ubiquity-xing-command.html
 ---
 

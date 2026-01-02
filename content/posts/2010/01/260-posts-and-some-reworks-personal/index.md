@@ -4,9 +4,7 @@ date: 2010-01-30 11:04:00 +0000
 layout: post
 tags: ["personal"]
 slug: "260-posts-and-some-reworks-personal"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/01/260-posts-and-some-reworks-personal.html
 ---
 

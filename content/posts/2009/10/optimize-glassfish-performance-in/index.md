@@ -4,9 +4,7 @@ date: 2009-10-26 11:40:00 +0000
 layout: post
 tags: ["glassfish", "performance", "tuning"]
 slug: "optimize-glassfish-performance-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/optimize-glassfish-performance-in.html
 ---
 

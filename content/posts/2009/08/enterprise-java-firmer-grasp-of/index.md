@@ -4,9 +4,7 @@ date: 2009-08-14 05:12:00 +0000
 layout: post
 tags: ["Java EE", "basics", "java", "Java EE 6"]
 slug: "enterprise-java-firmer-grasp-of"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/enterprise-java-firmer-grasp-of.html
 ---
 

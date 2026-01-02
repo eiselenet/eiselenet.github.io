@@ -4,9 +4,7 @@ date: 2015-09-25 06:20:00 +0000
 layout: post
 tags: ["javaee7", "wildfly", "EAP7"]
 slug: "wildfly-10-cr-2-released-java-ee-7-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/09/wildfly-10-cr-2-released-java-ee-7-java.html
 ---
 

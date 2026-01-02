@@ -4,9 +4,7 @@ date: 2008-08-19 06:51:00 +0000
 layout: post
 tags: ["mozilla", "ui", "programming", "design"]
 slug: "these-things-i-believe"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/these-things-i-believe.html
 ---
 

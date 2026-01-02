@@ -4,9 +4,7 @@ date: 2015-05-06 10:00:00 +0000
 layout: post
 tags: ["Windows", "Docker", "Machine"]
 slug: "docker-maschine-on-windows-host-setup-howto"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/05/docker-maschine-on-windows-host-setup-howto.html
 ---
 

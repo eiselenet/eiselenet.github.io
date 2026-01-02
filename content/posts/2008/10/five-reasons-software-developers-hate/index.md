@@ -4,9 +4,7 @@ date: 2008-10-17 04:13:00 +0000
 layout: post
 tags: ["soft skills", "it architecture", "softwaredesign"]
 slug: "five-reasons-software-developers-hate"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/10/five-reasons-software-developers-hate.html
 ---
 

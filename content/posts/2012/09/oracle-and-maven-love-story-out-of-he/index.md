@@ -4,9 +4,7 @@ date: 2012-09-22 18:19:00 +0000
 layout: post
 tags: ["love", "oracle", "maven", "story"]
 slug: "oracle-and-maven-love-story-out-of-he"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/oracle-and-maven-love-story-out-of-he.html
 ---
 

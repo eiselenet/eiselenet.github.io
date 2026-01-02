@@ -4,9 +4,7 @@ date: 2011-09-02 06:14:00 +0000
 layout: post
 tags: ["ijug", "article", "java7"]
 slug: "new-article-in-german-java-aktuell-ijug"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/new-article-in-german-java-aktuell-ijug.html
 ---
 

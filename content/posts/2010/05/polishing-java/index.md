@@ -4,9 +4,7 @@ date: 2010-05-19 10:50:00 +0000
 layout: post
 tags: ["personal", "picture", "future"]
 slug: "polishing-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/05/polishing-java.html
 ---
 

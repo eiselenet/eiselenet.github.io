@@ -4,9 +4,7 @@ date: 2014-09-17 12:00:00 +0000
 layout: post
 tags: ["WildFly9", "Hawtio"]
 slug: "wildfly-9-console-with-hawtio"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/wildfly-9-console-with-hawtio.html
 ---
 

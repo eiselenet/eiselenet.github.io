@@ -4,9 +4,7 @@ date: 2008-01-21 07:01:00 +0000
 layout: post
 tags: ["photographie", "bücher", "privat"]
 slug: "licht-und-belichtung-in-der-fotografie"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/licht-und-belichtung-in-der-fotografie.html
 ---
 

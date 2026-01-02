@@ -4,9 +4,7 @@ date: 2008-08-11 10:40:00 +0000
 layout: post
 tags: ["photoshop", "photographie"]
 slug: "man-paints-with-his-brains-and-not-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/man-paints-with-his-brains-and-not-with.html
 ---
 

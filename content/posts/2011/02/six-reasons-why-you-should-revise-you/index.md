@@ -4,9 +4,7 @@ date: 2011-02-24 11:40:00 +0000
 layout: post
 tags: ["five reasons", "javachampion", "ACED"]
 slug: "six-reasons-why-you-should-revise-you"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/six-reasons-why-you-should-revise-you.html
 ---
 

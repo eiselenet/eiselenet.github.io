@@ -4,9 +4,7 @@ date: 2008-04-04 06:10:00 +0000
 layout: post
 tags: ["Java EE", "adam bien", "softwareentwicklung", "flickr programmierung"]
 slug: "ein-interview-mit-adam-bien"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/04/ein-interview-mit-adam-bien.html
 ---
 

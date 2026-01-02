@@ -4,9 +4,7 @@ date: 2010-12-02 07:21:00 +0000
 layout: post
 tags: ["development", "netbeans", "rollout"]
 slug: "netbeans-in-large-teams-rollout-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/12/netbeans-in-large-teams-rollout-and.html
 ---
 

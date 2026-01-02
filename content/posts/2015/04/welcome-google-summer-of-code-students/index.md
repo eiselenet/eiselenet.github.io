@@ -4,9 +4,7 @@ date: 2015-04-28 11:30:00 +0000
 layout: post
 tags: ["GSoC", "2015", "Jboss"]
 slug: "welcome-google-summer-of-code-students"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/welcome-google-summer-of-code-students.html
 ---
 

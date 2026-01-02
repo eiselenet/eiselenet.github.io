@@ -4,9 +4,7 @@ date: 2016-04-12 12:27:00 +0000
 layout: post
 tags: ["Java EE", "integration", "SACon", "Spring"]
 slug: "integration-architecture-with-java-ee-and-spring"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/04/integration-architecture-with-java-ee-and-spring.html
 ---
 

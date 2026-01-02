@@ -4,9 +4,7 @@ date: 2009-02-10 05:34:00 +0000
 layout: post
 tags: ["Java EE", "fast-swap", "development", "jee", "weblogic server"]
 slug: "weblogic-server-quicker-development"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/weblogic-server-quicker-development.html
 ---
 

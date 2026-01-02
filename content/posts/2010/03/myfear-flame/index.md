@@ -4,9 +4,7 @@ date: 2010-03-08 11:16:00 +0000
 layout: post
 tags: ["personal", "flame", "myfear"]
 slug: "myfear-flame"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/03/myfear-flame.html
 ---
 

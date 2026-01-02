@@ -4,9 +4,7 @@ date: 2025-01-21 11:49:00 +0000
 layout: post
 tags: ["pdf", "IDP", "coloring book", "book", "Platform Engineering"]
 slug: "flow-state-coloring-book-developer-adventure"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/01/flow-state-coloring-book-developer-adventure.html
 ---
 

@@ -4,9 +4,7 @@ date: 2012-10-22 06:57:00 +0000
 layout: post
 tags: ["OracleCloud", "jelastic", "jayday", "munich"]
 slug: "im-speaking-at-jayday-2012-3-dec-in"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/10/im-speaking-at-jayday-2012-3-dec-in.html
 ---
 

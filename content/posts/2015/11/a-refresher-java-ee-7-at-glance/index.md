@@ -4,9 +4,7 @@ date: 2015-11-30 09:34:00 +0000
 layout: post
 tags: ["javaee7", "Overview"]
 slug: "a-refresher-java-ee-7-at-glance"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/a-refresher-java-ee-7-at-glance.html
 ---
 

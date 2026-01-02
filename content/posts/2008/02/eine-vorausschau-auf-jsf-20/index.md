@@ -4,9 +4,7 @@ date: 2008-02-20 11:00:00 +0000
 layout: post
 tags: ["jsf", "programmierung"]
 slug: "eine-vorausschau-auf-jsf-20"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/eine-vorausschau-auf-jsf-20.html
 ---
 

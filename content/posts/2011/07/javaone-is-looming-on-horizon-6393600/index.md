@@ -4,9 +4,7 @@ date: 2011-07-20 06:01:00 +0000
 layout: post
 tags: ["BoF", "sessions", "JavaOne", "HoL", "best-of"]
 slug: "javaone-is-looming-on-horizon-6393600"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/javaone-is-looming-on-horizon-6393600.html
 ---
 

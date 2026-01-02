@@ -4,9 +4,7 @@ date: 2009-07-03 05:16:00 +0000
 layout: post
 tags: ["oracle", "bea oracle", "Fusion Middleware", "weblogic server"]
 slug: "oracle-fusion-middleware-11g-launch"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/oracle-fusion-middleware-11g-launch.html
 ---
 

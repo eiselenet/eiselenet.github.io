@@ -4,9 +4,7 @@ date: 2025-07-07 05:51:00 +0000
 layout: post
 tags: ["java", "EJQ", "Substack"]
 slug: "big-news-announcing-my-new-flagship"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/07/big-news-announcing-my-new-flagship.html
 ---
 

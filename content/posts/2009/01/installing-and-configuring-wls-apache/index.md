@@ -4,9 +4,7 @@ date: 2009-01-11 08:44:00 +0000
 layout: post
 tags: ["apache", "oracle", "plugin", "weblogic server"]
 slug: "installing-and-configuring-wls-apache"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/installing-and-configuring-wls-apache.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-09-05 05:59:00 +0000
 layout: post
 tags: ["chrome", "google"]
 slug: "cnet-news-reveals-some-of-chromes-inner"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/cnet-news-reveals-some-of-chromes-inner.html
 ---
 

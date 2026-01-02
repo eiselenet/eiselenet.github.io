@@ -4,9 +4,7 @@ date: 2013-01-24 13:05:00 +0000
 layout: post
 tags: ["glassfish", "gource"]
 slug: "the-glassfish-story"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/the-glassfish-story.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-03-29 06:54:00 +0000
 layout: post
 tags: ["softwaredesign", "photographie"]
 slug: "tiny"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/03/tiny.html
 ---
 

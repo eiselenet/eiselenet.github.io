@@ -4,9 +4,7 @@ date: 2015-10-17 11:41:00 +0000
 layout: post
 tags: ["Docker", "scala", "akka", "maven"]
 slug: "akka-http-in-the-cloud-maven-docker-for-java-developers"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/10/akka-http-in-the-cloud-maven-docker-for-java-developers.html
 ---
 

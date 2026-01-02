@@ -4,9 +4,7 @@ date: 2009-07-24 09:14:00 +0000
 layout: post
 tags: ["bea oracle", "edocs"]
 slug: "last-days-of-edocsbeacom"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/last-days-of-edocsbeacom.html
 ---
 

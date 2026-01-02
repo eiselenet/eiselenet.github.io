@@ -4,9 +4,7 @@ date: 2014-09-03 08:05:00 +0000
 layout: post
 tags: [""]
 slug: "ipaas-data-virtualization-in-practice"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/ipaas-data-virtualization-in-practice.html
 ---
 

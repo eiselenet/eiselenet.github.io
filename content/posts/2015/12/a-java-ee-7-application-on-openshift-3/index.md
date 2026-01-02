@@ -4,9 +4,7 @@ date: 2015-12-03 13:22:00 +0000
 layout: post
 tags: ["Tools", "Openshift", "javaee7", "Jboss"]
 slug: "a-java-ee-7-application-on-openshift-3"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/12/a-java-ee-7-application-on-openshift-3.html
 ---
 

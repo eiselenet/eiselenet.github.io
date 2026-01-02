@@ -4,9 +4,7 @@ date: 2009-03-10 05:20:00 +0000
 layout: post
 tags: ["lego", "experience", "methodology", "design"]
 slug: "legos-building-block-for-good"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/03/legos-building-block-for-good.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-11-06 12:00:00 +0000
 layout: post
 tags: ["google", "office open xml"]
 slug: "google-and-microsofts-openxml"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/google-and-microsofts-openxml.html
 ---
 

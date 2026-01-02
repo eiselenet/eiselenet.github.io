@@ -4,9 +4,7 @@ date: 2011-04-07 04:42:00 +0000
 layout: post
 tags: ["weblogic", "richfaces"]
 slug: "running-richfaces-400final-showcase-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/running-richfaces-400final-showcase-on.html
 ---
 

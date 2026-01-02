@@ -4,9 +4,7 @@ date: 2012-07-23 17:32:00 +0000
 layout: post
 tags: ["HoJ", "java", "heroes", "Werner Keil"]
 slug: "the-heroes-of-java-werner-keil"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/07/the-heroes-of-java-werner-keil.html
 ---
 

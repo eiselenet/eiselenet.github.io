@@ -4,9 +4,7 @@ date: 2014-09-11 11:00:00 +0000
 layout: post
 tags: ["wildfly", "API", "Overlord"]
 slug: "rest-api-management-in-wildfly-81-with-overlord"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/09/rest-api-management-in-wildfly-81-with-overlord.html
 ---
 

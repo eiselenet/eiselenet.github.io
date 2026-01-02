@@ -4,9 +4,7 @@ date: 2011-05-10 11:05:00 +0000
 layout: post
 tags: ["jsf", "primefaces"]
 slug: "enforcing-upload-limits-with-primefaces"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/enforcing-upload-limits-with-primefaces.html
 ---
 

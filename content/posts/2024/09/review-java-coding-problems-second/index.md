@@ -4,9 +4,7 @@ date: 2024-09-11 06:30:00 +0000
 layout: post
 tags: ["java", "review", "book", "packtpub", "Packt"]
 slug: "review-java-coding-problems-second"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2024/09/review-java-coding-problems-second.html
 ---
 

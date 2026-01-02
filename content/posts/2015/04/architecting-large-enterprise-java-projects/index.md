@@ -4,9 +4,7 @@ date: 2015-04-02 05:46:00 +0000
 layout: post
 tags: ["vJUG", "javaee", "enterprise", "microservices"]
 slug: "architecting-large-enterprise-java-projects"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/architecting-large-enterprise-java-projects.html
 ---
 

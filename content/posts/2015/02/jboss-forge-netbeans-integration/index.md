@@ -4,9 +4,7 @@ date: 2015-02-17 11:00:00 +0000
 layout: post
 tags: ["Forge", "netbeans", "Jboss"]
 slug: "jboss-forge-netbeans-integration"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/jboss-forge-netbeans-integration.html
 ---
 

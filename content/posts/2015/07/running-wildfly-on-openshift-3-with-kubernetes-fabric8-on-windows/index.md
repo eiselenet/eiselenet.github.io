@@ -4,9 +4,7 @@ date: 2015-07-25 17:32:00 +0000
 layout: post
 tags: ["Openshift", "wildfly", "Windows", "fabric8", "Kubernetes"]
 slug: "running-wildfly-on-openshift-3-with-kubernetes-fabric8-on-windows"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/07/running-wildfly-on-openshift-3-with-kubernetes-fabric8-on-windows.html
 ---
 

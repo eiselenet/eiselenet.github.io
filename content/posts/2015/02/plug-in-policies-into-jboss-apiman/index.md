@@ -4,9 +4,7 @@ date: 2015-02-20 13:00:00 +0000
 layout: post
 tags: ["Management", "Jboss", "Apiman"]
 slug: "plug-in-policies-into-jboss-apiman"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/02/plug-in-policies-into-jboss-apiman.html
 ---
 

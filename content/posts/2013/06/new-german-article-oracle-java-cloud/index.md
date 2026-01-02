@@ -4,9 +4,7 @@ date: 2013-06-03 08:36:00 +0000
 layout: post
 tags: ["OracleCloud", "java", "article", "heise"]
 slug: "new-german-article-oracle-java-cloud"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/new-german-article-oracle-java-cloud.html
 ---
 

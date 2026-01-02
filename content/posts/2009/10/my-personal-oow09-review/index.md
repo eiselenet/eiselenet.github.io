@@ -4,9 +4,7 @@ date: 2009-10-23 06:04:00 +0000
 layout: post
 tags: ["open world 2009", "review"]
 slug: "my-personal-oow09-review"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/my-personal-oow09-review.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-04-21 05:09:00 +0000
 layout: post
 tags: ["Sun", "oracle"]
 slug: "oracle-and-sun"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/04/oracle-and-sun.html
 ---
 

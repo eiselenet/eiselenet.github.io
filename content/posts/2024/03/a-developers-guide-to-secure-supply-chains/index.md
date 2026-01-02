@@ -4,9 +4,7 @@ date: 2024-03-05 10:49:00 +0000
 layout: post
 tags: ["DevOps", "ebook", "DevSecOps", "developers"]
 slug: "a-developers-guide-to-secure-supply-chains"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2024/03/a-developers-guide-to-secure-supply-chains.html
 ---
 

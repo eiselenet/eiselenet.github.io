@@ -4,9 +4,7 @@ date: 2015-07-29 08:31:00 +0000
 layout: post
 tags: ["weblogic", "Openshift", "Docker", "fabric8"]
 slug: "weblogic-server-1213-on-kubernetes"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/07/weblogic-server-1213-on-kubernetes.html
 ---
 

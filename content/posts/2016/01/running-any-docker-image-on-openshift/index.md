@@ -4,9 +4,7 @@ date: 2016-01-20 15:07:00 +0000
 layout: post
 tags: ["Openshift", "Docker", "wildfly swarm"]
 slug: "running-any-docker-image-on-openshift"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2016/01/running-any-docker-image-on-openshift.html
 ---
 

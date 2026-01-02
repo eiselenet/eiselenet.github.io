@@ -4,9 +4,7 @@ date: 2012-08-16 14:12:00 +0000
 layout: post
 tags: ["glassfish", "inFusion", "city"]
 slug: "glassfish-city-revisited"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/glassfish-city-revisited.html
 ---
 

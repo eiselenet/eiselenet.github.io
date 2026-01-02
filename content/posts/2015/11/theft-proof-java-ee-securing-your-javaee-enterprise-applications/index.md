@@ -4,9 +4,7 @@ date: 2015-11-09 06:27:00 +0000
 layout: post
 tags: ["javaee", "security"]
 slug: "theft-proof-java-ee-securing-your-javaee-enterprise-applications"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/11/theft-proof-java-ee-securing-your-javaee-enterprise-applications.html
 ---
 

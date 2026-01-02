@@ -4,9 +4,7 @@ date: 2008-07-22 10:09:00 +0000
 layout: post
 tags: ["softwareentwicklung"]
 slug: "fnf-missverstndnisse-bei-der"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/07/fnf-missverstndnisse-bei-der.html
 ---
 

@@ -4,9 +4,7 @@ date: 2012-03-26 11:14:00 +0000
 layout: post
 tags: ["Ola Bini", "HoJ", "java", "heroes"]
 slug: "heroes-of-java-ola-bini"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/heroes-of-java-ola-bini.html
 ---
 

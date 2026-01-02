@@ -4,9 +4,7 @@ date: 2014-11-12 10:00:00 +0000
 layout: post
 tags: ["devoxx", "xPaaS", "Demo"]
 slug: "technical-details-about-the-jboss-devoxx-demo"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/11/technical-details-about-the-jboss-devoxx-demo.html
 ---
 

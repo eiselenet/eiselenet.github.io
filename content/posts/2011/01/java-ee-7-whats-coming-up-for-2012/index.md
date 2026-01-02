@@ -4,9 +4,7 @@ date: 2011-01-12 06:12:00 +0000
 layout: post
 tags: ["Java EE", "timeline", "future"]
 slug: "java-ee-7-whats-coming-up-for-2012"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/java-ee-7-whats-coming-up-for-2012.html
 ---
 

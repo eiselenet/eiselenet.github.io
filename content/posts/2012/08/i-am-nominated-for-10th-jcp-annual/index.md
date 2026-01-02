@@ -4,9 +4,7 @@ date: 2012-08-31 04:01:00 +0000
 layout: post
 tags: ["nominated", "Awards", "jcp"]
 slug: "i-am-nominated-for-10th-jcp-annual"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/08/i-am-nominated-for-10th-jcp-annual.html
 ---
 

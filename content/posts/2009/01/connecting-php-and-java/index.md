@@ -4,9 +4,7 @@ date: 2009-01-22 05:02:00 +0000
 layout: post
 tags: ["Java EE", "java", "php", "backend", "jee", "connecting"]
 slug: "connecting-php-and-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/connecting-php-and-java.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-08-12 08:13:00 +0000
 layout: post
 tags: ["wildfly", "netbeans"]
 slug: "netbeans-nightly-now-includes-wildfly"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/netbeans-nightly-now-includes-wildfly.html
 ---
 

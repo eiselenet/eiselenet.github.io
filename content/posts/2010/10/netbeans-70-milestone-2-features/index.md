@@ -4,9 +4,7 @@ date: 2010-10-18 13:35:00 +0000
 layout: post
 tags: ["weblogic", "netbeans"]
 slug: "netbeans-70-milestone-2-features"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/10/netbeans-70-milestone-2-features.html
 ---
 

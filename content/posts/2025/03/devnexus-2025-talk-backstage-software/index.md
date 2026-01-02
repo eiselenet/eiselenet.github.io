@@ -4,9 +4,7 @@ date: 2025-03-06 18:00:00 +0000
 layout: post
 tags: ["Software Templates", "java", "DevNexus", "Backstage", "Platform Engineering"]
 slug: "devnexus-2025-talk-backstage-software"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2025/03/devnexus-2025-talk-backstage-software.html
 ---
 

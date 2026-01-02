@@ -4,9 +4,7 @@ date: 2015-07-10 13:00:00 +0000
 layout: post
 tags: ["wildfly-camel", "Camel", "javaee"]
 slug: "using-camel-routes-in-java-ee-components"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/07/using-camel-routes-in-java-ee-components.html
 ---
 

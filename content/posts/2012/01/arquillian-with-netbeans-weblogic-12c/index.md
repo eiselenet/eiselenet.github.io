@@ -4,9 +4,7 @@ date: 2012-01-22 23:00:00 +0000
 layout: post
 tags: ["weblogic", "mysql", "netbeans", "Arquillian"]
 slug: "arquillian-with-netbeans-weblogic-12c"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/01/arquillian-with-netbeans-weblogic-12c.html
 ---
 

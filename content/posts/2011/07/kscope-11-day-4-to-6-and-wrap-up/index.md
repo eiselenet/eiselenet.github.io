@@ -4,9 +4,7 @@ date: 2011-07-04 04:57:00 +0000
 layout: post
 tags: ["odtug", "Kscope"]
 slug: "kscope-11-day-4-to-6-and-wrap-up"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/07/kscope-11-day-4-to-6-and-wrap-up.html
 ---
 

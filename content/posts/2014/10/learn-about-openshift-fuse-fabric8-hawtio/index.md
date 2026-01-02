@@ -4,9 +4,7 @@ date: 2014-10-10 10:00:00 +0000
 layout: post
 tags: ["Fuse", "Openshift", "Jboss", "Hawtio", "fabric8"]
 slug: "learn-about-openshift-fuse-fabric8-hawtio"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/learn-about-openshift-fuse-fabric8-hawtio.html
 ---
 

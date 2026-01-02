@@ -4,9 +4,6 @@ date: 2025-12-19 14:41:00 +0000
 layout: post
 tags: ["O'Reilly", "Applied AI for Enterprise Java", "java", "book"]
 slug: "applied-ai-enterprise-java-book-oreilly"
-link: :year/:month/:slug
-aliases: 
- - :year/:month/:slug:ext!
 url: /2025/12/applied-ai-enterprise-java-book-oreilly.html
 ---
 

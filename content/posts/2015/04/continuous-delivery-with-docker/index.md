@@ -4,9 +4,7 @@ date: 2015-04-30 10:00:00 +0000
 layout: post
 tags: ["CD", "Docker", "javaee", "CI"]
 slug: "continuous-delivery-with-docker"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/04/continuous-delivery-with-docker.html
 ---
 

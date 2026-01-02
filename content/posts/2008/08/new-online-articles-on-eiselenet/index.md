@@ -4,9 +4,7 @@ date: 2008-08-29 05:28:00 +0000
 layout: post
 tags: ["office 2003", "article", "maven"]
 slug: "new-online-articles-on-eiselenet"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/new-online-articles-on-eiselenet.html
 ---
 

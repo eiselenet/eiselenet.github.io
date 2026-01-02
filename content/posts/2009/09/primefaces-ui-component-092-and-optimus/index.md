@@ -4,9 +4,7 @@ date: 2009-09-10 04:25:00 +0000
 layout: post
 tags: ["components", "jsf", "primefaces"]
 slug: "primefaces-ui-component-092-and-optimus"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/primefaces-ui-component-092-and-optimus.html
 ---
 

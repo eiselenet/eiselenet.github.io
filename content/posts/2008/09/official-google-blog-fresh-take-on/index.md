@@ -4,9 +4,7 @@ date: 2008-09-02 09:23:00 +0000
 layout: post
 tags: ["google", "chrome", "browser"]
 slug: "official-google-blog-fresh-take-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/official-google-blog-fresh-take-on.html
 ---
 

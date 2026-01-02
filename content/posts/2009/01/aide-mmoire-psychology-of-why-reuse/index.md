@@ -4,9 +4,7 @@ date: 2009-01-24 11:21:00 +0000
 layout: post
 tags: [""]
 slug: "aide-mmoire-psychology-of-why-reuse"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/aide-mmoire-psychology-of-why-reuse.html
 ---
 

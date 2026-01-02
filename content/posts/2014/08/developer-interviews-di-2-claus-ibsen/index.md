@@ -4,9 +4,7 @@ date: 2014-08-19 11:11:00 +0000
 layout: post
 tags: ["Camel", "apache", "Hawtio"]
 slug: "developer-interviews-di-2-claus-ibsen"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/developer-interviews-di-2-claus-ibsen.html
 ---
 

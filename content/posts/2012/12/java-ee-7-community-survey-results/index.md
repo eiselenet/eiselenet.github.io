@@ -4,9 +4,7 @@ date: 2012-12-14 09:02:00 +0000
 layout: post
 tags: ["survey", "javaee7", "results"]
 slug: "java-ee-7-community-survey-results"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/12/java-ee-7-community-survey-results.html
 ---
 

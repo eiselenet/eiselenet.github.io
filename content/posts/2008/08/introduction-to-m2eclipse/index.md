@@ -4,9 +4,7 @@ date: 2008-08-04 09:29:00 +0000
 layout: post
 tags: ["maven", "theserverside", "eclipse"]
 slug: "introduction-to-m2eclipse"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/introduction-to-m2eclipse.html
 ---
 

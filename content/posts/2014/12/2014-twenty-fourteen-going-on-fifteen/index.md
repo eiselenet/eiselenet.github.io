@@ -4,9 +4,7 @@ date: 2014-12-23 23:00:00 +0000
 layout: post
 tags: ["christmas", "2014", "season's greetings"]
 slug: "2014-twenty-fourteen-going-on-fifteen"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/2014-twenty-fourteen-going-on-fifteen.html
 ---
 

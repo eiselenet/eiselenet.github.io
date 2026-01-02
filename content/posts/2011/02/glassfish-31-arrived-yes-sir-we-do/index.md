@@ -4,9 +4,7 @@ date: 2011-02-28 13:00:00 +0000
 layout: post
 tags: ["cluster", "glassfish", "glassfish 3.1", "what's new"]
 slug: "glassfish-31-arrived-yes-sir-we-do"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/02/glassfish-31-arrived-yes-sir-we-do.html
 ---
 

@@ -4,9 +4,7 @@ date: 2014-10-15 10:00:00 +0000
 layout: post
 tags: ["AeroGear", "Openshift", "DI", "Matthias Wessendorf"]
 slug: "developer-interview-di-7-matthias-wessendorf"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/developer-interview-di-7-matthias-wessendorf.html
 ---
 

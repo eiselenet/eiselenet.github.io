@@ -4,9 +4,7 @@ date: 2009-08-24 11:41:00 +0000
 layout: post
 tags: ["plugin", "eclipse"]
 slug: "best-eclipse-plugins"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/best-eclipse-plugins.html
 ---
 

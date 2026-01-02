@@ -4,9 +4,7 @@ date: 2008-08-04 09:21:00 +0000
 layout: post
 tags: ["bea oracle", "konferenz", "bea"]
 slug: "meet-me-at-doag-konferenz-2008"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/meet-me-at-doag-konferenz-2008.html
 ---
 

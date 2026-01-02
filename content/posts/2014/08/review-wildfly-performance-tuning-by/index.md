@@ -4,9 +4,7 @@ date: 2014-08-05 08:49:00 +0000
 layout: post
 tags: ["packtpub", "wildfly", "performance", "review"]
 slug: "review-wildfly-performance-tuning-by"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/08/review-wildfly-performance-tuning-by.html
 ---
 

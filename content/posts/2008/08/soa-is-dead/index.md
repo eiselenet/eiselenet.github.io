@@ -4,9 +4,7 @@ date: 2008-08-09 08:58:00 +0000
 layout: post
 tags: ["soa", "softwaredesign"]
 slug: "soa-is-dead"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/08/soa-is-dead.html
 ---
 

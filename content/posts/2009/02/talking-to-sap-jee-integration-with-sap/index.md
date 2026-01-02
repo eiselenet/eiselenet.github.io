@@ -4,9 +4,7 @@ date: 2009-02-03 10:44:00 +0000
 layout: post
 tags: ["java", "sap", "bea oracle", "jco", "weblogic server", "ASJava", "Webas"]
 slug: "talking-to-sap-jee-integration-with-sap"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/talking-to-sap-jee-integration-with-sap.html
 ---
 

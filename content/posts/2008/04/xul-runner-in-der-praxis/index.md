@@ -4,9 +4,7 @@ date: 2008-04-22 04:30:00 +0000
 layout: post
 tags: ["XUL Runner", "flickr programmierung"]
 slug: "xul-runner-in-der-praxis"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/04/xul-runner-in-der-praxis.html
 ---
 

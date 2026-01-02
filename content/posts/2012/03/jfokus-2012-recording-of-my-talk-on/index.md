@@ -4,9 +4,7 @@ date: 2012-03-21 08:15:00 +0000
 layout: post
 tags: ["parleys", "java7", "Jfokus"]
 slug: "jfokus-2012-recording-of-my-talk-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/03/jfokus-2012-recording-of-my-talk-on.html
 ---
 

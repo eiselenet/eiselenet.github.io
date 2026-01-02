@@ -4,9 +4,7 @@ date: 2013-11-05 05:59:00 +0000
 layout: post
 tags: ["glassfish", "oracle"]
 slug: "rip-glassfish-thanks-for-all-fish"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/11/rip-glassfish-thanks-for-all-fish.html
 ---
 

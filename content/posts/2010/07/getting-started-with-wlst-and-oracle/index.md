@@ -4,9 +4,7 @@ date: 2010-07-31 06:37:00 +0000
 layout: post
 tags: ["weblogic", "wlst", "OEPE"]
 slug: "getting-started-with-wlst-and-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/getting-started-with-wlst-and-oracle.html
 ---
 

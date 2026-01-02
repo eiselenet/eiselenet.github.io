@@ -4,9 +4,7 @@ date: 2009-02-11 09:28:00 +0000
 layout: post
 tags: ["mind map", "xmind", "eclipse"]
 slug: "xmind-3-for-eclipse-34-open-source-open"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/02/xmind-3-for-eclipse-34-open-source-open.html
 ---
 

@@ -4,9 +4,7 @@ date: 2008-06-02 05:33:00 +0000
 layout: post
 tags: ["bea oracle", "bea"]
 slug: "dev2dev-wird-oracle-mix"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/06/dev2dev-wird-oracle-mix.html
 ---
 

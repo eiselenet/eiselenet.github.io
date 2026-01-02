@@ -4,9 +4,7 @@ date: 2009-09-16 10:14:00 +0000
 layout: post
 tags: ["oracle", "portal", "weblogic server"]
 slug: "customizing-look-and-feel-of-weblogic"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/customizing-look-and-feel-of-weblogic.html
 ---
 

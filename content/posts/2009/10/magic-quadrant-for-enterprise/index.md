@@ -4,9 +4,7 @@ date: 2009-10-20 04:47:00 +0000
 layout: post
 tags: ["bea oracle", "Magic Quadrant", "Application server", "MQ", "enterprise", "gartner", "Sun"]
 slug: "magic-quadrant-for-enterprise"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/magic-quadrant-for-enterprise.html
 ---
 

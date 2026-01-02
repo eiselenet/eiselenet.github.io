@@ -4,9 +4,7 @@ date: 2013-06-12 10:32:00 +0000
 layout: post
 tags: ["ijug", "java", "JavaMagazin"]
 slug: "german-ijug-ev-interviewed-in-latest"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/06/german-ijug-ev-interviewed-in-latest.html
 ---
 

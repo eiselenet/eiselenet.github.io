@@ -4,9 +4,7 @@ date: 2008-01-29 05:32:00 +0000
 layout: post
 tags: ["reklamation", "kinderzimmer", "privat"]
 slug: "mbel-und-mehr"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/mbel-und-mehr.html
 ---
 

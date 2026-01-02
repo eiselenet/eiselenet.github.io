@@ -4,9 +4,7 @@ date: 2014-12-22 11:00:00 +0000
 layout: post
 tags: ["JDK.IO", "conference"]
 slug: "redhat-jboss-at-jdkio-2015"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/12/redhat-jboss-at-jdkio-2015.html
 ---
 

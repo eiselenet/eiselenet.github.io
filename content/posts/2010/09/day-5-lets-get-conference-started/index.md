@@ -4,9 +4,7 @@ date: 2010-09-21 13:49:00 +0000
 layout: post
 tags: ["OOW10", "javaone10"]
 slug: "day-5-lets-get-conference-started"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/day-5-lets-get-conference-started.html
 ---
 

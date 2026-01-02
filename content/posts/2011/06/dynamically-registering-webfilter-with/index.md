@@ -4,9 +4,7 @@ date: 2011-06-15 05:52:00 +0000
 layout: post
 tags: ["webfilter", "Java EE 6", "servlet"]
 slug: "dynamically-registering-webfilter-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/06/dynamically-registering-webfilter-with.html
 ---
 

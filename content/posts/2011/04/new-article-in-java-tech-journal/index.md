@@ -4,9 +4,7 @@ date: 2011-04-20 09:39:00 +0000
 layout: post
 tags: ["glassfish", "article"]
 slug: "new-article-in-java-tech-journal"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/04/new-article-in-java-tech-journal.html
 ---
 

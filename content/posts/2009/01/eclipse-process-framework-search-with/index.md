@@ -4,9 +4,7 @@ date: 2009-01-27 08:54:00 +0000
 layout: post
 tags: ["oracle", "bea oracle", "weblogic server", "lucene", "EPF", "eclipse"]
 slug: "eclipse-process-framework-search-with"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/01/eclipse-process-framework-search-with.html
 ---
 

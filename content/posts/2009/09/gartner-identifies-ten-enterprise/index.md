@@ -4,9 +4,7 @@ date: 2009-09-03 04:38:00 +0000
 layout: post
 tags: ["pitfalls", "gartner", "enterprise", "architecture"]
 slug: "gartner-identifies-ten-enterprise"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/09/gartner-identifies-ten-enterprise.html
 ---
 

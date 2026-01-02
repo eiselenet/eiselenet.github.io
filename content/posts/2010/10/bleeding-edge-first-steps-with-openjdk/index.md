@@ -4,9 +4,7 @@ date: 2010-10-27 06:10:00 +0000
 layout: post
 tags: ["java SE 7", "OpenJDK 7"]
 slug: "bleeding-edge-first-steps-with-openjdk"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/10/bleeding-edge-first-steps-with-openjdk.html
 ---
 

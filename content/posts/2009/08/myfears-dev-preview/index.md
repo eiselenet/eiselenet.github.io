@@ -4,9 +4,7 @@ date: 2009-08-03 08:27:00 +0000
 layout: post
 tags: ["preview", "GAE", "myfear"]
 slug: "myfears-dev-preview"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/myfears-dev-preview.html
 ---
 

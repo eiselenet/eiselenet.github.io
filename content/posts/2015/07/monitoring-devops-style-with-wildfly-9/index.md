@@ -4,9 +4,7 @@ date: 2015-07-20 12:30:00 +0000
 layout: post
 tags: ["DevOps", "wildfly", "metrics", "Jolokia"]
 slug: "monitoring-devops-style-with-wildfly-9"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2015/07/monitoring-devops-style-with-wildfly-9.html
 ---
 

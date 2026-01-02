@@ -4,9 +4,7 @@ date: 2011-10-15 18:10:00 +0000
 layout: post
 tags: ["java", "heroes", "Fabianne Nardon"]
 slug: "heroes-of-java-fabiane-bizinella-nardon"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/10/heroes-of-java-fabiane-bizinella-nardon.html
 ---
 

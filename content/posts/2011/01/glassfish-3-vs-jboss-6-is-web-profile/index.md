@@ -4,9 +4,7 @@ date: 2011-01-07 09:47:00 +0000
 layout: post
 tags: ["glassfish", "javaee6", "Jboss"]
 slug: "glassfish-3-vs-jboss-6-is-web-profile"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/glassfish-3-vs-jboss-6-is-web-profile.html
 ---
 

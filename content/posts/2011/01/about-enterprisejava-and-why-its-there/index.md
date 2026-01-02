@@ -4,9 +4,7 @@ date: 2011-01-26 06:34:00 +0000
 layout: post
 tags: ["twitterfeed", "yahoo pipes", "java"]
 slug: "about-enterprisejava-and-why-its-there"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/01/about-enterprisejava-and-why-its-there.html
 ---
 

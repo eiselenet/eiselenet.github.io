@@ -4,9 +4,7 @@ date: 2011-05-30 11:23:00 +0000
 layout: post
 tags: ["program", "doagev", "review"]
 slug: "doag-2011-conference-and-exhibition"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/05/doag-2011-conference-and-exhibition.html
 ---
 

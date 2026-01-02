@@ -4,9 +4,7 @@ date: 2011-09-29 16:20:00 +0000
 layout: post
 tags: ["JCG", "java"]
 slug: "i-joined-java-code-geek-jcg-program"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2011/09/i-joined-java-code-geek-jcg-program.html
 ---
 

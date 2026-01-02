@@ -4,9 +4,7 @@ date: 2013-10-02 07:26:00 +0000
 layout: post
 tags: ["report", "trip", "JavaOne"]
 slug: "travel-report-javaone-2013-back-to-glory"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/10/travel-report-javaone-2013-back-to-glory.html
 ---
 

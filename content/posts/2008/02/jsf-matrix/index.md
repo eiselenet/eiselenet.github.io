@@ -4,9 +4,7 @@ date: 2008-02-11 06:56:00 +0000
 layout: post
 tags: ["ajax", "programmierung"]
 slug: "jsf-matrix"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/02/jsf-matrix.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-12-08 09:21:00 +0000
 layout: post
 tags: ["basics", "metrics", "software development", "software quality"]
 slug: "software-quality-basics-i-preface-for"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/12/software-quality-basics-i-preface-for.html
 ---
 

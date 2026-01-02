@@ -4,9 +4,7 @@ date: 2010-07-06 06:55:00 +0000
 layout: post
 tags: ["wldf", "weblogic", "JRockit", "jrmc"]
 slug: "jrockit-mission-control-suite-and"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/07/jrockit-mission-control-suite-and.html
 ---
 

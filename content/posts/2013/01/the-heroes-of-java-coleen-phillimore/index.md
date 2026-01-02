@@ -4,9 +4,7 @@ date: 2013-01-21 11:16:00 +0000
 layout: post
 tags: ["Coleen Phillimore", "HoJ", "java"]
 slug: "the-heroes-of-java-coleen-phillimore"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/the-heroes-of-java-coleen-phillimore.html
 ---
 

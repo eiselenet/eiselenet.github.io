@@ -4,9 +4,7 @@ date: 2009-07-07 09:03:00 +0000
 layout: post
 tags: ["10gR3", "oracle", "weblogic server", "jsf 2.0"]
 slug: "jsf-20-beta-1-on-oracle-weblogic-10gr3"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/07/jsf-20-beta-1-on-oracle-weblogic-10gr3.html
 ---
 

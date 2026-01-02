@@ -4,9 +4,7 @@ date: 2013-01-25 05:53:00 +0000
 layout: post
 tags: ["oracle", "conference", "oop2013"]
 slug: "report-oop-special-day-oracle"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/01/report-oop-special-day-oracle.html
 ---
 

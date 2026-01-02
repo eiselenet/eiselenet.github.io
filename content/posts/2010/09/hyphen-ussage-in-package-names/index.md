@@ -4,9 +4,7 @@ date: 2010-09-06 09:06:00 +0000
 layout: post
 tags: ["jls", "names", "package", "dash", "hyphen"]
 slug: "hyphen-ussage-in-package-names"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/hyphen-ussage-in-package-names.html
 ---
 

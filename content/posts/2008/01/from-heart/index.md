@@ -4,9 +4,7 @@ date: 2008-01-23 05:54:00 +0000
 layout: post
 tags: ["privat"]
 slug: "from-heart"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/01/from-heart.html
 ---
 

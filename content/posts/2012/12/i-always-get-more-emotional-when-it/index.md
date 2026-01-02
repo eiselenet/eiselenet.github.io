@@ -4,9 +4,7 @@ date: 2012-12-31 04:26:00 +0000
 layout: post
 tags: ["2012", "its a wrap", "welcome 2013"]
 slug: "i-always-get-more-emotional-when-it"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/12/i-always-get-more-emotional-when-it.html
 ---
 

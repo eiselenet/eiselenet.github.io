@@ -4,9 +4,7 @@ date: 2010-09-03 10:35:00 +0000
 layout: post
 tags: ["ijug", "doagev", "java aktuell"]
 slug: "new-german-java-magazin-java-aktuell"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2010/09/new-german-java-magazin-java-aktuell.html
 ---
 

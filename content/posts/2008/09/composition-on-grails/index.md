@@ -4,9 +4,7 @@ date: 2008-09-17 09:10:00 +0000
 layout: post
 tags: ["new technology", "sap", "grails"]
 slug: "composition-on-grails"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/09/composition-on-grails.html
 ---
 

@@ -4,9 +4,7 @@ date: 2012-09-19 10:12:00 +0000
 layout: post
 tags: ["java", "article", "heise", "ix"]
 slug: "new-article-in-german-ix-magazin-java"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2012/09/new-article-in-german-ix-magazin-java.html
 ---
 

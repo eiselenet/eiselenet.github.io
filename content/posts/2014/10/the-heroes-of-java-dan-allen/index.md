@@ -4,9 +4,7 @@ date: 2014-10-08 10:00:00 +0000
 layout: post
 tags: ["Dan Allen", "HoJ"]
 slug: "the-heroes-of-java-dan-allen"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2014/10/the-heroes-of-java-dan-allen.html
 ---
 

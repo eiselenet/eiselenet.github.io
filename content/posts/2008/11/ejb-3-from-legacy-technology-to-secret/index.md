@@ -4,9 +4,7 @@ date: 2008-11-04 05:34:00 +0000
 layout: post
 tags: ["adam bien", "ejb 3.1", "javaworld"]
 slug: "ejb-3-from-legacy-technology-to-secret"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2008/11/ejb-3-from-legacy-technology-to-secret.html
 ---
 

@@ -4,9 +4,7 @@ date: 2009-08-10 05:04:00 +0000
 layout: post
 tags: ["martin fowler", "photography", "canon"]
 slug: "things-i-have-in-common-with-martin"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/08/things-i-have-in-common-with-martin.html
 ---
 

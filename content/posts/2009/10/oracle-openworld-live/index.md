@@ -4,9 +4,7 @@ date: 2009-10-11 22:21:00 +0000
 layout: post
 tags: ["2009", "open world 2009", "OOW"]
 slug: "oracle-openworld-live"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2009/10/oracle-openworld-live.html
 ---
 

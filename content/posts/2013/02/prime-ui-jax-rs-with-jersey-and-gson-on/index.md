@@ -4,9 +4,7 @@ date: 2013-02-25 07:44:00 +0000
 layout: post
 tags: ["OracleCloud", "gson", "primefaces", "jersey"]
 slug: "prime-ui-jax-rs-with-jersey-and-gson-on"
-link: ":year/:month/:slug"
-aliases:
- - ":year/:month/:slug:.html!"
+
 url: /2013/02/prime-ui-jax-rs-with-jersey-and-gson-on.html
 ---
 
